@@ -348,3 +348,4 @@ Welcome to my AI-powered astrology blog!
 - [how to know your soulmate astrology]({{ site.baseurl }}{/2025-06-18-how-to-know-your-soulmate-astrology.html})
 - [my birth chart free online]({{ site.baseurl }}{/2025-06-18-my-birth-chart-free-online.html})
 - [astrotalk free kundli]({{ site.baseurl }}{/2025-06-18-astrotalk-free-kundli.html})
+- [african astrology]({{ site.baseurl }}{/2025-06-18-african-astrology.html})
