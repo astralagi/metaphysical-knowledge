@@ -203,3 +203,4 @@ Welcome to my AI-powered astrology blog!
 - [shelvi]({{ site.baseurl }}{/2025-06-18-shelvi.html})
 - [astro cafe]({{ site.baseurl }}{/2025-06-18-astro-cafe.html})
 - [chart reading astrology]({{ site.baseurl }}{/2025-06-18-chart-reading-astrology.html})
+- [cancer prediction 2025]({{ site.baseurl }}{/2025-06-18-cancer-prediction-2025.html})
