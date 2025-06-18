@@ -409,3 +409,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer tarot hoy]({{ site.baseurl }}{/2025-06-18-cancer-tarot-hoy.html})
 - [virgo march 2025]({{ site.baseurl }}{/2025-06-18-virgo-march-2025.html})
 - [aquarius rising 2025]({{ site.baseurl }}{/2025-06-18-aquarius-rising-2025.html})
+- [generate numerology report]({{ site.baseurl }}{/2025-06-18-generate-numerology-report.html})
