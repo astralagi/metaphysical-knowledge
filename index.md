@@ -25,3 +25,4 @@ Welcome to my AI-powered astrology blog!
 - [free in depth astrology reading]({{ site.baseurl }}{/2025-06-18-free-in-depth-astrology-reading.html})
 - [cancer horoscope today love]({{ site.baseurl }}{/2025-06-18-cancer-horoscope-today-love.html})
 - [free birth chart interpretation]({{ site.baseurl }}{/2025-06-18-free-birth-chart-interpretation.html})
+- [i m a capricorn]({{ site.baseurl }}{/2025-06-18-i-m-a-capricorn.html})
