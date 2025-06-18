@@ -496,3 +496,4 @@ Welcome to my AI-powered astrology blog!
 - [what zodiac signs are not compatible with cancer]({{ site.baseurl }}{/2025-06-18-what-zodiac-signs-are-not-compatible-with-cancer.html})
 - [astrocartography cancer]({{ site.baseurl }}{/2025-06-18-astrocartography-cancer.html})
 - [exact astrology chart]({{ site.baseurl }}{/2025-06-18-exact-astrology-chart.html})
+- [tarot accurate readings]({{ site.baseurl }}{/2025-06-18-tarot-accurate-readings.html})
