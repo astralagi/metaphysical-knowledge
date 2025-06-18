@@ -336,3 +336,4 @@ Welcome to my AI-powered astrology blog!
 - [free reading psychic]({{ site.baseurl }}{/2025-06-18-free-reading-psychic.html})
 - [free moon and rising sign calculator]({{ site.baseurl }}{/2025-06-18-free-moon-and-rising-sign-calculator.html})
 - [astromatrix]({{ site.baseurl }}{/2025-06-18-astromatrix.html})
+- [horoscope astro seek]({{ site.baseurl }}{/2025-06-18-horoscope-astro-seek.html})
