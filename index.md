@@ -217,3 +217,4 @@ Welcome to my AI-powered astrology blog!
 - [genuine horoscope]({{ site.baseurl }}{/2025-06-18-genuine-horoscope.html})
 - [cancer love tarot today]({{ site.baseurl }}{/2025-06-18-cancer-love-tarot-today.html})
 - [free life path numerology reading]({{ site.baseurl }}{/2025-06-18-free-life-path-numerology-reading.html})
+- [astro data]({{ site.baseurl }}{/2025-06-18-astro-data.html})
