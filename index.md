@@ -359,3 +359,4 @@ Welcome to my AI-powered astrology blog!
 - [detailed birth chart]({{ site.baseurl }}{/2025-06-18-detailed-birth-chart.html})
 - [how to find out your sun sign]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-sun-sign.html})
 - [big 6 zodiac]({{ site.baseurl }}{/2025-06-18-big-6-zodiac.html})
+- [synastry chart]({{ site.baseurl }}{/2025-06-18-synastry-chart.html})
