@@ -315,3 +315,4 @@ Welcome to my AI-powered astrology blog!
 - [retrograde planets in natal chart]({{ site.baseurl }}{/2025-06-18-retrograde-planets-in-natal-chart.html})
 - [cancer marriage compatibility]({{ site.baseurl }}{/2025-06-18-cancer-marriage-compatibility.html})
 - [zodiac attraction virgo today]({{ site.baseurl }}{/2025-06-18-zodiac-attraction-virgo-today.html})
+- [how do i know what my rising and moon sign is]({{ site.baseurl }}{/2025-06-18-how-do-i-know-what-my-rising-and-moon-sign-is.html})
