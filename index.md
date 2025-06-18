@@ -262,3 +262,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces dealing with leo]({{ site.baseurl }}{/2025-06-18-pisces-dealing-with-leo.html})
 - [detailed astrology report]({{ site.baseurl }}{/2025-06-18-detailed-astrology-report.html})
 - [how to know my north node]({{ site.baseurl }}{/2025-06-18-how-to-know-my-north-node.html})
+- [astrosage com]({{ site.baseurl }}{/2025-06-18-astrosage-com.html})
