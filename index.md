@@ -401,3 +401,4 @@ Welcome to my AI-powered astrology blog!
 - [sagittarius love reading]({{ site.baseurl }}{/2025-06-18-sagittarius-love-reading.html})
 - [geminis de hoy]({{ site.baseurl }}{/2025-06-18-geminis-de-hoy.html})
 - [love lanyadoo]({{ site.baseurl }}{/2025-06-18-love-lanyadoo.html})
+- [astrology cards]({{ site.baseurl }}{/2025-06-18-astrology-cards.html})
