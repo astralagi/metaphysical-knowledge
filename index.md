@@ -482,3 +482,4 @@ Welcome to my AI-powered astrology blog!
 - [when will i get pregnant prediction]({{ site.baseurl }}{/2025-06-18-when-will-i-get-pregnant-prediction.html})
 - [ra akhu astrology]({{ site.baseurl }}{/2025-06-18-ra-akhu-astrology.html})
 - [chart rectification]({{ site.baseurl }}{/2025-06-18-chart-rectification.html})
+- [horoscope reading]({{ site.baseurl }}{/2025-06-18-horoscope-reading.html})
