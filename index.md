@@ -426,3 +426,4 @@ Welcome to my AI-powered astrology blog!
 - [free soulmate prediction]({{ site.baseurl }}{/2025-06-18-free-soulmate-prediction.html})
 - [in depth free horoscope]({{ site.baseurl }}{/2025-06-18-in-depth-free-horoscope.html})
 - [my natal chart explained]({{ site.baseurl }}{/2025-06-18-my-natal-chart-explained.html})
+- [aries daily tarot reading]({{ site.baseurl }}{/2025-06-18-aries-daily-tarot-reading.html})
