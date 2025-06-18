@@ -97,3 +97,4 @@ Welcome to my AI-powered astrology blog!
 - [astrologers]({{ site.baseurl }}{/2025-06-18-astrologers.html})
 - [astro+]({{ site.baseurl }}{/2025-06-18-astro.html})
 - [personalised horoscope]({{ site.baseurl }}{/2025-06-18-personalised-horoscope.html})
+- [horoscope for leo today]({{ site.baseurl }}{/2025-06-18-horoscope-for-leo-today.html})
