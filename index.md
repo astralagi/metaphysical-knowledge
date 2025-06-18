@@ -330,3 +330,4 @@ Welcome to my AI-powered astrology blog!
 - [how to know if a tarot reading is accurate]({{ site.baseurl }}{/2025-06-18-how-to-know-if-a-tarot-reading-is-accurate.html})
 - [numerology marriage compatibility calculator]({{ site.baseurl }}{/2025-06-18-numerology-marriage-compatibility-calculator.html})
 - [facts about astrology]({{ site.baseurl }}{/2025-06-18-facts-about-astrology.html})
+- [what's my zodiac sign]({{ site.baseurl }}{/2025-06-18-whats-my-zodiac-sign.html})
