@@ -219,3 +219,4 @@ Welcome to my AI-powered astrology blog!
 - [free life path numerology reading]({{ site.baseurl }}{/2025-06-18-free-life-path-numerology-reading.html})
 - [astro data]({{ site.baseurl }}{/2025-06-18-astro-data.html})
 - [free birth chart readings]({{ site.baseurl }}{/2025-06-18-free-birth-chart-readings.html})
+- [pisces love tarot]({{ site.baseurl }}{/2025-06-18-pisces-love-tarot.html})
