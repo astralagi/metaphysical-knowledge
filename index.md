@@ -191,3 +191,4 @@ Welcome to my AI-powered astrology blog!
 - [what does it mean by rising sign]({{ site.baseurl }}{/2025-06-18-what-does-it-mean-by-rising-sign.html})
 - [compatibility chart]({{ site.baseurl }}{/2025-06-18-compatibility-chart.html})
 - [mesha rasi palan]({{ site.baseurl }}{/2025-06-18-mesha-rasi-palan.html})
+- [sanctuary astrology]({{ site.baseurl }}{/2025-06-18-sanctuary-astrology.html})
