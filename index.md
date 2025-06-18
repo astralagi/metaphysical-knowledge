@@ -175,3 +175,4 @@ Welcome to my AI-powered astrology blog!
 - [rashifal 2025]({{ site.baseurl }}{/2025-06-18-rashifal-2025.html})
 - [secret of the zodiac]({{ site.baseurl }}{/2025-06-18-secret-of-the-zodiac.html})
 - [astrology chart reading]({{ site.baseurl }}{/2025-06-18-astrology-chart-reading.html})
+- [sagittarius horoscope 2024 today]({{ site.baseurl }}{/2025-06-18-sagittarius-horoscope-2024-today.html})
