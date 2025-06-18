@@ -200,3 +200,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope for gemini 2025]({{ site.baseurl }}{/2025-06-18-horoscope-for-gemini-2025.html})
 - [capricorn horoscope for today]({{ site.baseurl }}{/2025-06-18-capricorn-horoscope-for-today.html})
 - [prashna]({{ site.baseurl }}{/2025-06-18-prashna.html})
+- [shelvi]({{ site.baseurl }}{/2025-06-18-shelvi.html})
