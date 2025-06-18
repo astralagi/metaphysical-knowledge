@@ -247,3 +247,4 @@ Welcome to my AI-powered astrology blog!
 - [astrosage ai]({{ site.baseurl }}{/2025-06-18-astrosage-ai.html})
 - [what's my horoscope for today]({{ site.baseurl }}{/2025-06-18-whats-my-horoscope-for-today.html})
 - [free daily horoscopes]({{ site.baseurl }}{/2025-06-18-free-daily-horoscopes.html})
+- [moonphases org soulmate]({{ site.baseurl }}{/2025-06-18-moonphases-org-soulmate.html})
