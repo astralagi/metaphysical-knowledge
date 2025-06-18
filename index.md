@@ -233,3 +233,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology birth chart personality]({{ site.baseurl }}{/2025-06-18-astrology-birth-chart-personality.html})
 - [entire birth chart]({{ site.baseurl }}{/2025-06-18-entire-birth-chart.html})
 - [ancestral guidance zodiac signs]({{ site.baseurl }}{/2025-06-18-ancestral-guidance-zodiac-signs.html})
+- [scorpio intuitions]({{ site.baseurl }}{/2025-06-18-scorpio-intuitions.html})
