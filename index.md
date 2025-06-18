@@ -450,3 +450,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo karir]({{ site.baseurl }}{/2025-06-18-virgo-karir.html})
 - [astrology predictions]({{ site.baseurl }}{/2025-06-18-astrology-predictions.html})
 - [kundali]({{ site.baseurl }}{/2025-06-18-kundali.html})
+- [free daily horoscopes for cancer]({{ site.baseurl }}{/2025-06-18-free-daily-horoscopes-for-cancer.html})
