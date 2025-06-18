@@ -469,3 +469,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find your zodiac sign]({{ site.baseurl }}{/2025-06-18-how-to-find-your-zodiac-sign.html})
 - [starseed test free astrology]({{ site.baseurl }}{/2025-06-18-starseed-test-free-astrology.html})
 - [astro seek com]({{ site.baseurl }}{/2025-06-18-astro-seek-com.html})
+- [single cancer tarot reading]({{ site.baseurl }}{/2025-06-18-single-cancer-tarot-reading.html})
