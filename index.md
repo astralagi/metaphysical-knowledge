@@ -432,3 +432,4 @@ Welcome to my AI-powered astrology blog!
 - [best horoscope]({{ site.baseurl }}{/2025-06-18-best-horoscope.html})
 - [gemini horoscope for today]({{ site.baseurl }}{/2025-06-18-gemini-horoscope-for-today.html})
 - [birth chart reading future]({{ site.baseurl }}{/2025-06-18-birth-chart-reading-future.html})
+- [kesenya moore]({{ site.baseurl }}{/2025-06-18-kesenya-moore.html})
