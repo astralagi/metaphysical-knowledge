@@ -268,3 +268,4 @@ Welcome to my AI-powered astrology blog!
 - [joni patry astrology]({{ site.baseurl }}{/2025-06-18-joni-patry-astrology.html})
 - [freewillastrology]({{ site.baseurl }}{/2025-06-18-freewillastrology.html})
 - [what the month of your birth says about you flushy gt]({{ site.baseurl }}{/2025-06-18-what-the-month-of-your-birth-says-about-you-flushy-gt.html})
+- [free compatibility test for couples by date of birth]({{ site.baseurl }}{/2025-06-18-free-compatibility-test-for-couples-by-date-of-birth.html})
