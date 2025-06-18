@@ -338,3 +338,4 @@ Welcome to my AI-powered astrology blog!
 - [astromatrix]({{ site.baseurl }}{/2025-06-18-astromatrix.html})
 - [horoscope astro seek]({{ site.baseurl }}{/2025-06-18-horoscope-astro-seek.html})
 - [astrologer free chat]({{ site.baseurl }}{/2025-06-18-astrologer-free-chat.html})
+- [natal chart ai]({{ site.baseurl }}{/2025-06-18-natal-chart-ai.html})
