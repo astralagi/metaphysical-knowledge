@@ -320,3 +320,4 @@ Welcome to my AI-powered astrology blog!
 - [love pisces 2]({{ site.baseurl }}{/2025-06-18-love-pisces-2.html})
 - [gary numerology]({{ site.baseurl }}{/2025-06-18-gary-numerology.html})
 - [tarot reader]({{ site.baseurl }}{/2025-06-18-tarot-reader.html})
+- [jyotish vedang by rahul kaushik]({{ site.baseurl }}{/2025-06-18-jyotish-vedang-by-rahul-kaushik.html})
