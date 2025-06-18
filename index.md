@@ -396,3 +396,4 @@ Welcome to my AI-powered astrology blog!
 - [jathagam]({{ site.baseurl }}{/2025-06-18-jathagam.html})
 - [what zodiac sign is for september]({{ site.baseurl }}{/2025-06-18-what-zodiac-sign-is-for-september.html})
 - [aries horoscopes for today]({{ site.baseurl }}{/2025-06-18-aries-horoscopes-for-today.html})
+- [tanya gabrielle]({{ site.baseurl }}{/2025-06-18-tanya-gabrielle.html})
