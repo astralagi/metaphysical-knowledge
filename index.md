@@ -187,3 +187,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology log]({{ site.baseurl }}{/2025-06-18-astrology-log.html})
 - [tarot pisces]({{ site.baseurl }}{/2025-06-18-tarot-pisces.html})
 - [free birth chart report]({{ site.baseurl }}{/2025-06-18-free-birth-chart-report.html})
+- [birth chart free calculator]({{ site.baseurl }}{/2025-06-18-birth-chart-free-calculator.html})
