@@ -312,3 +312,4 @@ Welcome to my AI-powered astrology blog!
 - [chart reader]({{ site.baseurl }}{/2025-06-18-chart-reader.html})
 - [aries april]({{ site.baseurl }}{/2025-06-18-aries-april.html})
 - [how to find your true zodiac sign]({{ site.baseurl }}{/2025-06-18-how-to-find-your-true-zodiac-sign.html})
+- [retrograde planets in natal chart]({{ site.baseurl }}{/2025-06-18-retrograde-planets-in-natal-chart.html})
