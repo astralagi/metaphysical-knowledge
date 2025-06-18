@@ -464,3 +464,4 @@ Welcome to my AI-powered astrology blog!
 - [what is the zodiac for march 1]({{ site.baseurl }}{/2025-06-18-what-is-the-zodiac-for-march-1.html})
 - [read birth chart]({{ site.baseurl }}{/2025-06-18-read-birth-chart.html})
 - [antphrodite]({{ site.baseurl }}{/2025-06-18-antphrodite.html})
+- [rasa lila healing]({{ site.baseurl }}{/2025-06-18-rasa-lila-healing.html})
