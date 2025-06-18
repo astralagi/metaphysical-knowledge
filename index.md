@@ -205,3 +205,4 @@ Welcome to my AI-powered astrology blog!
 - [chart reading astrology]({{ site.baseurl }}{/2025-06-18-chart-reading-astrology.html})
 - [cancer prediction 2025]({{ site.baseurl }}{/2025-06-18-cancer-prediction-2025.html})
 - [pisces tarot]({{ site.baseurl }}{/2025-06-18-pisces-tarot.html})
+- [capricorn compatibility]({{ site.baseurl }}{/2025-06-18-capricorn-compatibility.html})
