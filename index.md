@@ -296,3 +296,4 @@ Welcome to my AI-powered astrology blog!
 - [free parent child synastry chart]({{ site.baseurl }}{/2025-06-18-free-parent-child-synastry-chart.html})
 - [saber es poder virgo hoy]({{ site.baseurl }}{/2025-06-18-saber-es-poder-virgo-hoy.html})
 - [aquarius today]({{ site.baseurl }}{/2025-06-18-aquarius-today.html})
+- [singh rashi 2025 april mahina]({{ site.baseurl }}{/2025-06-18-singh-rashi-2025-april-mahina.html})
