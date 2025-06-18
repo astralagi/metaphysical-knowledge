@@ -441,3 +441,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope today]({{ site.baseurl }}{/2025-06-18-horoscope-today.html})
 - [lennox dreams]({{ site.baseurl }}{/2025-06-18-lennox-dreams.html})
 - [birth chart forecast]({{ site.baseurl }}{/2025-06-18-birth-chart-forecast.html})
+- [whole sign birth chart]({{ site.baseurl }}{/2025-06-18-whole-sign-birth-chart.html})
