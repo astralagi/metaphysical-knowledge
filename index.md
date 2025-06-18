@@ -15,3 +15,4 @@ Welcome to my AI-powered astrology blog!
 - [professional birth chart reading]({{ site.baseurl }}{/2025-06-18-professional-birth-chart-reading.html})
 - [robert ohotto channel]({{ site.baseurl }}{/2025-06-18-robert-ohotto-channel.html})
 - [suresh shrimali]({{ site.baseurl }}{/2025-06-18-suresh-shrimali.html})
+- [most accurate free birth chart]({{ site.baseurl }}{/2025-06-18-most-accurate-free-birth-chart.html})
