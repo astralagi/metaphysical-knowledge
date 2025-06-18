@@ -465,3 +465,4 @@ Welcome to my AI-powered astrology blog!
 - [read birth chart]({{ site.baseurl }}{/2025-06-18-read-birth-chart.html})
 - [antphrodite]({{ site.baseurl }}{/2025-06-18-antphrodite.html})
 - [rasa lila healing]({{ site.baseurl }}{/2025-06-18-rasa-lila-healing.html})
+- [free tarot yes or no]({{ site.baseurl }}{/2025-06-18-free-tarot-yes-or-no.html})
