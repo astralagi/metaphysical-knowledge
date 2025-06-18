@@ -144,3 +144,4 @@ Welcome to my AI-powered astrology blog!
 - [kuja dosha]({{ site.baseurl }}{/2025-06-18-kuja-dosha.html})
 - [how to see kundli]({{ site.baseurl }}{/2025-06-18-how-to-see-kundli.html})
 - [free natal chart with interpretation]({{ site.baseurl }}{/2025-06-18-free-natal-chart-with-interpretation.html})
+- [time of birth astrology calculator]({{ site.baseurl }}{/2025-06-18-time-of-birth-astrology-calculator.html})
