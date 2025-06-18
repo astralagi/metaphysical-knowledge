@@ -246,3 +246,4 @@ Welcome to my AI-powered astrology blog!
 - [aries love]({{ site.baseurl }}{/2025-06-18-aries-love.html})
 - [astrosage ai]({{ site.baseurl }}{/2025-06-18-astrosage-ai.html})
 - [what's my horoscope for today]({{ site.baseurl }}{/2025-06-18-whats-my-horoscope-for-today.html})
+- [free daily horoscopes]({{ site.baseurl }}{/2025-06-18-free-daily-horoscopes.html})
