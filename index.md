@@ -131,3 +131,4 @@ Welcome to my AI-powered astrology blog!
 - [tell me about astrology]({{ site.baseurl }}{/2025-06-18-tell-me-about-astrology.html})
 - [south node astrology]({{ site.baseurl }}{/2025-06-18-south-node-astrology.html})
 - [learn kundli]({{ site.baseurl }}{/2025-06-18-learn-kundli.html})
+- [scorpio tarot 2025]({{ site.baseurl }}{/2025-06-18-scorpio-tarot-2025.html})
