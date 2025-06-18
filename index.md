@@ -425,3 +425,4 @@ Welcome to my AI-powered astrology blog!
 - [free online astrology course with certificate]({{ site.baseurl }}{/2025-06-18-free-online-astrology-course-with-certificate.html})
 - [free soulmate prediction]({{ site.baseurl }}{/2025-06-18-free-soulmate-prediction.html})
 - [in depth free horoscope]({{ site.baseurl }}{/2025-06-18-in-depth-free-horoscope.html})
+- [my natal chart explained]({{ site.baseurl }}{/2025-06-18-my-natal-chart-explained.html})
