@@ -275,3 +275,4 @@ Welcome to my AI-powered astrology blog!
 - [aries nicholas ashbaugh]({{ site.baseurl }}{/2025-06-18-aries-nicholas-ashbaugh.html})
 - [bad kundali]({{ site.baseurl }}{/2025-06-18-bad-kundali.html})
 - [horoscopos geminis]({{ site.baseurl }}{/2025-06-18-horoscopos-geminis.html})
+- [today's horoscope for leo]({{ site.baseurl }}{/2025-06-18-todays-horoscope-for-leo.html})
