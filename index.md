@@ -66,3 +66,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find out where saturn is in your chart]({{ site.baseurl }}{/2025-06-18-how-to-find-out-where-saturn-is-in-your-chart.html})
 - [what kind of scorpio am i]({{ site.baseurl }}{/2025-06-18-what-kind-of-scorpio-am-i.html})
 - [time nomad]({{ site.baseurl }}{/2025-06-18-time-nomad.html})
+- [sagittarius tarot today]({{ site.baseurl }}{/2025-06-18-sagittarius-tarot-today.html})
