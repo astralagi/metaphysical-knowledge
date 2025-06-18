@@ -78,3 +78,4 @@ Welcome to my AI-powered astrology blog!
 - [gd vashist free prediction]({{ site.baseurl }}{/2025-06-18-gd-vashist-free-prediction.html})
 - [vinny astro]({{ site.baseurl }}{/2025-06-18-vinny-astro.html})
 - [astrology canada]({{ site.baseurl }}{/2025-06-18-astrology-canada.html})
+- [aries april horoscope 2025]({{ site.baseurl }}{/2025-06-18-aries-april-horoscope-2025.html})
