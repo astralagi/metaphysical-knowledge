@@ -227,3 +227,4 @@ Welcome to my AI-powered astrology blog!
 - [edwin learnard]({{ site.baseurl }}{/2025-06-18-edwin-learnard.html})
 - [leo woman pisces man]({{ site.baseurl }}{/2025-06-18-leo-woman-pisces-man.html})
 - [lmnosteve]({{ site.baseurl }}{/2025-06-18-lmnosteve.html})
+- [the most accurate horoscope]({{ site.baseurl }}{/2025-06-18-the-most-accurate-horoscope.html})
