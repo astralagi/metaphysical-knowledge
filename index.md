@@ -194,3 +194,4 @@ Welcome to my AI-powered astrology blog!
 - [sanctuary astrology]({{ site.baseurl }}{/2025-06-18-sanctuary-astrology.html})
 - [astro bharath]({{ site.baseurl }}{/2025-06-18-astro-bharath.html})
 - [sagittarius money and career]({{ site.baseurl }}{/2025-06-18-sagittarius-money-and-career.html})
+- [birth chart real]({{ site.baseurl }}{/2025-06-18-birth-chart-real.html})
