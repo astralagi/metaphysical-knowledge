@@ -393,3 +393,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali analysis]({{ site.baseurl }}{/2025-06-18-kundali-analysis.html})
 - [free astrology chart]({{ site.baseurl }}{/2025-06-18-free-astrology-chart.html})
 - [free birth chart compatibility]({{ site.baseurl }}{/2025-06-18-free-birth-chart-compatibility.html})
+- [jathagam]({{ site.baseurl }}{/2025-06-18-jathagam.html})
