@@ -329,3 +329,4 @@ Welcome to my AI-powered astrology blog!
 - [free birth chart analysis with houses]({{ site.baseurl }}{/2025-06-18-free-birth-chart-analysis-with-houses.html})
 - [how to know if a tarot reading is accurate]({{ site.baseurl }}{/2025-06-18-how-to-know-if-a-tarot-reading-is-accurate.html})
 - [numerology marriage compatibility calculator]({{ site.baseurl }}{/2025-06-18-numerology-marriage-compatibility-calculator.html})
+- [facts about astrology]({{ site.baseurl }}{/2025-06-18-facts-about-astrology.html})
