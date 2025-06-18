@@ -197,3 +197,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart real]({{ site.baseurl }}{/2025-06-18-birth-chart-real.html})
 - [real tarot reading free]({{ site.baseurl }}{/2025-06-18-real-tarot-reading-free.html})
 - [today's astrological insights for various zodiac signs]({{ site.baseurl }}{/2025-06-18-todays-astrological-insights-for-various-zodiac-signs.html})
+- [horoscope for gemini 2025]({{ site.baseurl }}{/2025-06-18-horoscope-for-gemini-2025.html})
