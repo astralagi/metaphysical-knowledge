@@ -271,3 +271,4 @@ Welcome to my AI-powered astrology blog!
 - [free compatibility test for couples by date of birth]({{ site.baseurl }}{/2025-06-18-free-compatibility-test-for-couples-by-date-of-birth.html})
 - [meccadreams pisces]({{ site.baseurl }}{/2025-06-18-meccadreams-pisces.html})
 - [numerology love prediction by date of birth]({{ site.baseurl }}{/2025-06-18-numerology-love-prediction-by-date-of-birth.html})
+- [big six astrology]({{ site.baseurl }}{/2025-06-18-big-six-astrology.html})
