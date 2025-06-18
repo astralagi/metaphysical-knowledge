@@ -224,3 +224,4 @@ Welcome to my AI-powered astrology blog!
 - [jyothishavartha]({{ site.baseurl }}{/2025-06-18-jyothishavartha.html})
 - [astro intelligence]({{ site.baseurl }}{/2025-06-18-astro-intelligence.html})
 - [astrology com compatibility]({{ site.baseurl }}{/2025-06-18-astrology-com-compatibility.html})
+- [edwin learnard]({{ site.baseurl }}{/2025-06-18-edwin-learnard.html})
