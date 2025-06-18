@@ -26,3 +26,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer horoscope today love]({{ site.baseurl }}{/2025-06-18-cancer-horoscope-today-love.html})
 - [free birth chart interpretation]({{ site.baseurl }}{/2025-06-18-free-birth-chart-interpretation.html})
 - [i m a capricorn]({{ site.baseurl }}{/2025-06-18-i-m-a-capricorn.html})
+- [taurus love compatibility]({{ site.baseurl }}{/2025-06-18-taurus-love-compatibility.html})
