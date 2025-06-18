@@ -499,3 +499,4 @@ Welcome to my AI-powered astrology blog!
 - [tarot accurate readings]({{ site.baseurl }}{/2025-06-18-tarot-accurate-readings.html})
 - [free vedic astrology analysis]({{ site.baseurl }}{/2025-06-18-free-vedic-astrology-analysis.html})
 - [pisces tarot reading]({{ site.baseurl }}{/2025-06-18-pisces-tarot-reading.html})
+- [13 sign astrology chart calculator free]({{ site.baseurl }}{/2025-06-18-13-sign-astrology-chart-calculator-free.html})
