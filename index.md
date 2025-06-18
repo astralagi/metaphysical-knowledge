@@ -500,3 +500,4 @@ Welcome to my AI-powered astrology blog!
 - [free vedic astrology analysis]({{ site.baseurl }}{/2025-06-18-free-vedic-astrology-analysis.html})
 - [pisces tarot reading]({{ site.baseurl }}{/2025-06-18-pisces-tarot-reading.html})
 - [13 sign astrology chart calculator free]({{ site.baseurl }}{/2025-06-18-13-sign-astrology-chart-calculator-free.html})
+- [find out my kundali]({{ site.baseurl }}{/2025-06-18-find-out-my-kundali.html})
