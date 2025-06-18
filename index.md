@@ -403,3 +403,4 @@ Welcome to my AI-powered astrology blog!
 - [love lanyadoo]({{ site.baseurl }}{/2025-06-18-love-lanyadoo.html})
 - [astrology cards]({{ site.baseurl }}{/2025-06-18-astrology-cards.html})
 - [birth chart houses]({{ site.baseurl }}{/2025-06-18-birth-chart-houses.html})
+- [planet to soul astrology]({{ site.baseurl }}{/2025-06-18-planet-to-soul-astrology.html})
