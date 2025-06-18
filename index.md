@@ -223,3 +223,4 @@ Welcome to my AI-powered astrology blog!
 - [free moon reading]({{ site.baseurl }}{/2025-06-18-free-moon-reading.html})
 - [jyothishavartha]({{ site.baseurl }}{/2025-06-18-jyothishavartha.html})
 - [astro intelligence]({{ site.baseurl }}{/2025-06-18-astro-intelligence.html})
+- [astrology com compatibility]({{ site.baseurl }}{/2025-06-18-astrology-com-compatibility.html})
