@@ -494,3 +494,4 @@ Welcome to my AI-powered astrology blog!
 - [beyond astrology with heather]({{ site.baseurl }}{/2025-06-18-beyond-astrology-with-heather.html})
 - [gemini female and capricorn male compatibility]({{ site.baseurl }}{/2025-06-18-gemini-female-and-capricorn-male-compatibility.html})
 - [what zodiac signs are not compatible with cancer]({{ site.baseurl }}{/2025-06-18-what-zodiac-signs-are-not-compatible-with-cancer.html})
+- [astrocartography cancer]({{ site.baseurl }}{/2025-06-18-astrocartography-cancer.html})
