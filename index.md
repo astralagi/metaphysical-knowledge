@@ -308,3 +308,4 @@ Welcome to my AI-powered astrology blog!
 - [astro ankit sharma]({{ site.baseurl }}{/2025-06-18-astro-ankit-sharma.html})
 - [birth chart reader]({{ site.baseurl }}{/2025-06-18-birth-chart-reader.html})
 - [how do i know my zodiac sign]({{ site.baseurl }}{/2025-06-18-how-do-i-know-my-zodiac-sign.html})
+- [most compatible with]({{ site.baseurl }}{/2025-06-18-most-compatible-with.html})
