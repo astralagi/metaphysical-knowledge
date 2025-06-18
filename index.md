@@ -45,3 +45,4 @@ Welcome to my AI-powered astrology blog!
 - [chiemtinhlaso]({{ site.baseurl }}{/2025-06-18-chiemtinhlaso.html})
 - [birth chart reading free]({{ site.baseurl }}{/2025-06-18-birth-chart-reading-free.html})
 - [capricorn next 48]({{ site.baseurl }}{/2025-06-18-capricorn-next-48.html})
+- [usa astrology]({{ site.baseurl }}{/2025-06-18-usa-astrology.html})
