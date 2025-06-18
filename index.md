@@ -114,3 +114,4 @@ Welcome to my AI-powered astrology blog!
 - [scorpio horoscope]({{ site.baseurl }}{/2025-06-18-scorpio-horoscope.html})
 - [horoscope aquarius astrology]({{ site.baseurl }}{/2025-06-18-horoscope-aquarius-astrology.html})
 - [scorpio astrology april 2025]({{ site.baseurl }}{/2025-06-18-scorpio-astrology-april-2025.html})
+- [read my palm for free]({{ site.baseurl }}{/2025-06-18-read-my-palm-for-free.html})
