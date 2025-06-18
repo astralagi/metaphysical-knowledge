@@ -164,3 +164,4 @@ Welcome to my AI-powered astrology blog!
 - [como leer una carta astral]({{ site.baseurl }}{/2025-06-18-como-leer-una-carta-astral.html})
 - [wolfman tarot pisces]({{ site.baseurl }}{/2025-06-18-wolfman-tarot-pisces.html})
 - [free past life karmic astrology chart]({{ site.baseurl }}{/2025-06-18-free-past-life-karmic-astrology-chart.html})
+- [astrograph]({{ site.baseurl }}{/2025-06-18-astrograph.html})
