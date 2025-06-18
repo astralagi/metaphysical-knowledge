@@ -282,3 +282,4 @@ Welcome to my AI-powered astrology blog!
 - [my 3 rising signs]({{ site.baseurl }}{/2025-06-18-my-3-rising-signs.html})
 - [astro talk]({{ site.baseurl }}{/2025-06-18-astro-talk.html})
 - [best natal chart interpretation]({{ site.baseurl }}{/2025-06-18-best-natal-chart-interpretation.html})
+- [best online horoscope]({{ site.baseurl }}{/2025-06-18-best-online-horoscope.html})
