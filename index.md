@@ -307,3 +307,4 @@ Welcome to my AI-powered astrology blog!
 - [how do i find out my rising sign free]({{ site.baseurl }}{/2025-06-18-how-do-i-find-out-my-rising-sign-free.html})
 - [astro ankit sharma]({{ site.baseurl }}{/2025-06-18-astro-ankit-sharma.html})
 - [birth chart reader]({{ site.baseurl }}{/2025-06-18-birth-chart-reader.html})
+- [how do i know my zodiac sign]({{ site.baseurl }}{/2025-06-18-how-do-i-know-my-zodiac-sign.html})
