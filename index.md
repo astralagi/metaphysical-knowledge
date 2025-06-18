@@ -213,3 +213,4 @@ Welcome to my AI-powered astrology blog!
 - [janam kundali]({{ site.baseurl }}{/2025-06-18-janam-kundali.html})
 - [tarot virgo]({{ site.baseurl }}{/2025-06-18-tarot-virgo.html})
 - [full birth chart analysis free]({{ site.baseurl }}{/2025-06-18-full-birth-chart-analysis-free.html})
+- [carta astral aries]({{ site.baseurl }}{/2025-06-18-carta-astral-aries.html})
