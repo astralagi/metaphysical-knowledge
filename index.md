@@ -42,3 +42,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology lilith]({{ site.baseurl }}{/2025-06-18-astrology-lilith.html})
 - [horoscope for cancer today]({{ site.baseurl }}{/2025-06-18-horoscope-for-cancer-today.html})
 - [astrology birth chart free]({{ site.baseurl }}{/2025-06-18-astrology-birth-chart-free.html})
+- [chiemtinhlaso]({{ site.baseurl }}{/2025-06-18-chiemtinhlaso.html})
