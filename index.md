@@ -188,3 +188,4 @@ Welcome to my AI-powered astrology blog!
 - [tarot pisces]({{ site.baseurl }}{/2025-06-18-tarot-pisces.html})
 - [free birth chart report]({{ site.baseurl }}{/2025-06-18-free-birth-chart-report.html})
 - [birth chart free calculator]({{ site.baseurl }}{/2025-06-18-birth-chart-free-calculator.html})
+- [what does it mean by rising sign]({{ site.baseurl }}{/2025-06-18-what-does-it-mean-by-rising-sign.html})
