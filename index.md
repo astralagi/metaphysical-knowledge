@@ -17,3 +17,4 @@ Welcome to my AI-powered astrology blog!
 - [suresh shrimali]({{ site.baseurl }}{/2025-06-18-suresh-shrimali.html})
 - [most accurate free birth chart]({{ site.baseurl }}{/2025-06-18-most-accurate-free-birth-chart.html})
 - [zodiac signs love compatibility]({{ site.baseurl }}{/2025-06-18-zodiac-signs-love-compatibility.html})
+- [my horoscope for 2025]({{ site.baseurl }}{/2025-06-18-my-horoscope-for-2025.html})
