@@ -319,3 +319,4 @@ Welcome to my AI-powered astrology blog!
 - [sahivi tarot virgo hoy]({{ site.baseurl }}{/2025-06-18-sahivi-tarot-virgo-hoy.html})
 - [love pisces 2]({{ site.baseurl }}{/2025-06-18-love-pisces-2.html})
 - [gary numerology]({{ site.baseurl }}{/2025-06-18-gary-numerology.html})
+- [tarot reader]({{ site.baseurl }}{/2025-06-18-tarot-reader.html})
