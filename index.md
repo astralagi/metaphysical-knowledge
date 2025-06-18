@@ -128,3 +128,4 @@ Welcome to my AI-powered astrology blog!
 - [rich lopp aquarius]({{ site.baseurl }}{/2025-06-18-rich-lopp-aquarius.html})
 - [online numerology]({{ site.baseurl }}{/2025-06-18-online-numerology.html})
 - [aries and virgo compatibility love]({{ site.baseurl }}{/2025-06-18-aries-and-virgo-compatibility-love.html})
+- [tell me about astrology]({{ site.baseurl }}{/2025-06-18-tell-me-about-astrology.html})
