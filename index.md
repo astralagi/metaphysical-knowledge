@@ -119,3 +119,4 @@ Welcome to my AI-powered astrology blog!
 - [how to figure out your zodiac placements]({{ site.baseurl }}{/2025-06-18-how-to-figure-out-your-zodiac-placements.html})
 - [aries lucky numbers for today]({{ site.baseurl }}{/2025-06-18-aries-lucky-numbers-for-today.html})
 - [life chart astrology]({{ site.baseurl }}{/2025-06-18-life-chart-astrology.html})
+- [yodha app]({{ site.baseurl }}{/2025-06-18-yodha-app.html})
