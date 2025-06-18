@@ -466,3 +466,4 @@ Welcome to my AI-powered astrology blog!
 - [antphrodite]({{ site.baseurl }}{/2025-06-18-antphrodite.html})
 - [rasa lila healing]({{ site.baseurl }}{/2025-06-18-rasa-lila-healing.html})
 - [free tarot yes or no]({{ site.baseurl }}{/2025-06-18-free-tarot-yes-or-no.html})
+- [how to find your zodiac sign]({{ site.baseurl }}{/2025-06-18-how-to-find-your-zodiac-sign.html})
