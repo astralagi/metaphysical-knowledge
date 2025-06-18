@@ -153,3 +153,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find out your astrology chart]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-astrology-chart.html})
 - [cancer man virgo woman]({{ site.baseurl }}{/2025-06-18-cancer-man-virgo-woman.html})
 - [free psychic chat no credit card]({{ site.baseurl }}{/2025-06-18-free-psychic-chat-no-credit-card.html})
+- [birth time rectification]({{ site.baseurl }}{/2025-06-18-birth-time-rectification.html})
