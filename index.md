@@ -344,3 +344,4 @@ Welcome to my AI-powered astrology blog!
 - [rising sun and moon sign]({{ site.baseurl }}{/2025-06-18-rising-sun-and-moon-sign.html})
 - [lunar astro consultation]({{ site.baseurl }}{/2025-06-18-lunar-astro-consultation.html})
 - [robert cosmar]({{ site.baseurl }}{/2025-06-18-robert-cosmar.html})
+- [destiny matrix chart]({{ site.baseurl }}{/2025-06-18-destiny-matrix-chart.html})
