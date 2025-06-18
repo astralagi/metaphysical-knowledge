@@ -405,3 +405,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart houses]({{ site.baseurl }}{/2025-06-18-birth-chart-houses.html})
 - [planet to soul astrology]({{ site.baseurl }}{/2025-06-18-planet-to-soul-astrology.html})
 - [cailin astrology]({{ site.baseurl }}{/2025-06-18-cailin-astrology.html})
+- [capricorn's horoscope for today]({{ site.baseurl }}{/2025-06-18-capricorns-horoscope-for-today.html})
