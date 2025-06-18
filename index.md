@@ -418,3 +418,4 @@ Welcome to my AI-powered astrology blog!
 - [astrominds]({{ site.baseurl }}{/2025-06-18-astrominds.html})
 - [louis turi]({{ site.baseurl }}{/2025-06-18-louis-turi.html})
 - [michael reed astrology]({{ site.baseurl }}{/2025-06-18-michael-reed-astrology.html})
+- [birth date horoscope today]({{ site.baseurl }}{/2025-06-18-birth-date-horoscope-today.html})
