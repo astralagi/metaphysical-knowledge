@@ -226,3 +226,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology com compatibility]({{ site.baseurl }}{/2025-06-18-astrology-com-compatibility.html})
 - [edwin learnard]({{ site.baseurl }}{/2025-06-18-edwin-learnard.html})
 - [leo woman pisces man]({{ site.baseurl }}{/2025-06-18-leo-woman-pisces-man.html})
+- [lmnosteve]({{ site.baseurl }}{/2025-06-18-lmnosteve.html})
