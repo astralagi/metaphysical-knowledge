@@ -437,3 +437,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius 2025]({{ site.baseurl }}{/2025-06-18-aquarius-2025.html})
 - [computer astrology online free]({{ site.baseurl }}{/2025-06-18-computer-astrology-online-free.html})
 - [how to get my birth chart]({{ site.baseurl }}{/2025-06-18-how-to-get-my-birth-chart.html})
+- [taurus moon sign 2025]({{ site.baseurl }}{/2025-06-18-taurus-moon-sign-2025.html})
