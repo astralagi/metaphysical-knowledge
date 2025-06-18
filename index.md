@@ -439,3 +439,4 @@ Welcome to my AI-powered astrology blog!
 - [how to get my birth chart]({{ site.baseurl }}{/2025-06-18-how-to-get-my-birth-chart.html})
 - [taurus moon sign 2025]({{ site.baseurl }}{/2025-06-18-taurus-moon-sign-2025.html})
 - [horoscope today]({{ site.baseurl }}{/2025-06-18-horoscope-today.html})
+- [lennox dreams]({{ site.baseurl }}{/2025-06-18-lennox-dreams.html})
