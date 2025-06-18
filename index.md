@@ -398,3 +398,4 @@ Welcome to my AI-powered astrology blog!
 - [aries horoscopes for today]({{ site.baseurl }}{/2025-06-18-aries-horoscopes-for-today.html})
 - [tanya gabrielle]({{ site.baseurl }}{/2025-06-18-tanya-gabrielle.html})
 - [if a zodiac does this run]({{ site.baseurl }}{/2025-06-18-if-a-zodiac-does-this-run.html})
+- [sagittarius love reading]({{ site.baseurl }}{/2025-06-18-sagittarius-love-reading.html})
