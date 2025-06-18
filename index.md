@@ -350,3 +350,4 @@ Welcome to my AI-powered astrology blog!
 - [astrotalk free kundli]({{ site.baseurl }}{/2025-06-18-astrotalk-free-kundli.html})
 - [african astrology]({{ site.baseurl }}{/2025-06-18-african-astrology.html})
 - [cafe astrology birth chart]({{ site.baseurl }}{/2025-06-18-cafe-astrology-birth-chart.html})
+- [indian astrology chart calculator]({{ site.baseurl }}{/2025-06-18-indian-astrology-chart-calculator.html})
