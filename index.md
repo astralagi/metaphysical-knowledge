@@ -461,3 +461,4 @@ Welcome to my AI-powered astrology blog!
 - [ra akhu]({{ site.baseurl }}{/2025-06-18-ra-akhu.html})
 - [free tarot reading real]({{ site.baseurl }}{/2025-06-18-free-tarot-reading-real.html})
 - [natural chart]({{ site.baseurl }}{/2025-06-18-natural-chart.html})
+- [what is the zodiac for march 1]({{ site.baseurl }}{/2025-06-18-what-is-the-zodiac-for-march-1.html})
