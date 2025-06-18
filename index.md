@@ -310,3 +310,4 @@ Welcome to my AI-powered astrology blog!
 - [how do i know my zodiac sign]({{ site.baseurl }}{/2025-06-18-how-do-i-know-my-zodiac-sign.html})
 - [most compatible with]({{ site.baseurl }}{/2025-06-18-most-compatible-with.html})
 - [chart reader]({{ site.baseurl }}{/2025-06-18-chart-reader.html})
+- [aries april]({{ site.baseurl }}{/2025-06-18-aries-april.html})
