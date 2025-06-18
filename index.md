@@ -364,3 +364,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo reading]({{ site.baseurl }}{/2025-06-18-virgo-reading.html})
 - [scorpio april 2025]({{ site.baseurl }}{/2025-06-18-scorpio-april-2025.html})
 - [best astrologer in india free online]({{ site.baseurl }}{/2025-06-18-best-astrologer-in-india-free-online.html})
+- [astrofinesse]({{ site.baseurl }}{/2025-06-18-astrofinesse.html})
