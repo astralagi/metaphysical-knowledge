@@ -64,3 +64,4 @@ Welcome to my AI-powered astrology blog!
 - [pretty and prospering libra]({{ site.baseurl }}{/2025-06-18-pretty-and-prospering-libra.html})
 - [km sinha astrologer]({{ site.baseurl }}{/2025-06-18-km-sinha-astrologer.html})
 - [how to find out where saturn is in your chart]({{ site.baseurl }}{/2025-06-18-how-to-find-out-where-saturn-is-in-your-chart.html})
+- [what kind of scorpio am i]({{ site.baseurl }}{/2025-06-18-what-kind-of-scorpio-am-i.html})
