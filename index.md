@@ -228,3 +228,4 @@ Welcome to my AI-powered astrology blog!
 - [leo woman pisces man]({{ site.baseurl }}{/2025-06-18-leo-woman-pisces-man.html})
 - [lmnosteve]({{ site.baseurl }}{/2025-06-18-lmnosteve.html})
 - [the most accurate horoscope]({{ site.baseurl }}{/2025-06-18-the-most-accurate-horoscope.html})
+- [if a zodiac sign does this run]({{ site.baseurl }}{/2025-06-18-if-a-zodiac-sign-does-this-run.html})
