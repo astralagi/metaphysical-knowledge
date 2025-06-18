@@ -181,3 +181,4 @@ Welcome to my AI-powered astrology blog!
 - [birthchart com]({{ site.baseurl }}{/2025-06-18-birthchart-com.html})
 - [milind chitambar consultation]({{ site.baseurl }}{/2025-06-18-milind-chitambar-consultation.html})
 - [free horary astrology]({{ site.baseurl }}{/2025-06-18-free-horary-astrology.html})
+- [dr honey astrology]({{ site.baseurl }}{/2025-06-18-dr-honey-astrology.html})
