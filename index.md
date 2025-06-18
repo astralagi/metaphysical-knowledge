@@ -489,3 +489,4 @@ Welcome to my AI-powered astrology blog!
 - [i want to know my future life partner name]({{ site.baseurl }}{/2025-06-18-i-want-to-know-my-future-life-partner-name.html})
 - [marriage astro]({{ site.baseurl }}{/2025-06-18-marriage-astro.html})
 - [starseed signs in birth chart]({{ site.baseurl }}{/2025-06-18-starseed-signs-in-birth-chart.html})
+- [astrology com]({{ site.baseurl }}{/2025-06-18-astrology-com.html})
