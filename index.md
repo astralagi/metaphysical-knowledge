@@ -49,3 +49,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali without time]({{ site.baseurl }}{/2025-06-18-kundali-without-time.html})
 - [virgo horoscopo de hoy]({{ site.baseurl }}{/2025-06-18-virgo-horoscopo-de-hoy.html})
 - [astrology ai website]({{ site.baseurl }}{/2025-06-18-astrology-ai-website.html})
+- [pisces career]({{ site.baseurl }}{/2025-06-18-pisces-career.html})
