@@ -276,3 +276,4 @@ Welcome to my AI-powered astrology blog!
 - [bad kundali]({{ site.baseurl }}{/2025-06-18-bad-kundali.html})
 - [horoscopos geminis]({{ site.baseurl }}{/2025-06-18-horoscopos-geminis.html})
 - [today's horoscope for leo]({{ site.baseurl }}{/2025-06-18-todays-horoscope-for-leo.html})
+- [sagittarius new love tarot today]({{ site.baseurl }}{/2025-06-18-sagittarius-new-love-tarot-today.html})
