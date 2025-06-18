@@ -85,3 +85,4 @@ Welcome to my AI-powered astrology blog!
 - [your zodiac sign your house]({{ site.baseurl }}{/2025-06-18-your-zodiac-sign-your-house.html})
 - [what is my sun and moon sign]({{ site.baseurl }}{/2025-06-18-what-is-my-sun-and-moon-sign.html})
 - [free soul contract reading]({{ site.baseurl }}{/2025-06-18-free-soul-contract-reading.html})
+- [aries horoscope for today]({{ site.baseurl }}{/2025-06-18-aries-horoscope-for-today.html})
