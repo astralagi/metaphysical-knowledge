@@ -272,3 +272,4 @@ Welcome to my AI-powered astrology blog!
 - [meccadreams pisces]({{ site.baseurl }}{/2025-06-18-meccadreams-pisces.html})
 - [numerology love prediction by date of birth]({{ site.baseurl }}{/2025-06-18-numerology-love-prediction-by-date-of-birth.html})
 - [big six astrology]({{ site.baseurl }}{/2025-06-18-big-six-astrology.html})
+- [aries nicholas ashbaugh]({{ site.baseurl }}{/2025-06-18-aries-nicholas-ashbaugh.html})
