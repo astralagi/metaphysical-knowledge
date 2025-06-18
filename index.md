@@ -249,3 +249,4 @@ Welcome to my AI-powered astrology blog!
 - [free daily horoscopes]({{ site.baseurl }}{/2025-06-18-free-daily-horoscopes.html})
 - [moonphases org soulmate]({{ site.baseurl }}{/2025-06-18-moonphases-org-soulmate.html})
 - [proactive astrology andre]({{ site.baseurl }}{/2025-06-18-proactive-astrology-andre.html})
+- [scorpio aquarius tarot]({{ site.baseurl }}{/2025-06-18-scorpio-aquarius-tarot.html})
