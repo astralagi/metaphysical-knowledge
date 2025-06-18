@@ -392,3 +392,4 @@ Welcome to my AI-powered astrology blog!
 - [best palm reader online free]({{ site.baseurl }}{/2025-06-18-best-palm-reader-online-free.html})
 - [kundali analysis]({{ site.baseurl }}{/2025-06-18-kundali-analysis.html})
 - [free astrology chart]({{ site.baseurl }}{/2025-06-18-free-astrology-chart.html})
+- [free birth chart compatibility]({{ site.baseurl }}{/2025-06-18-free-birth-chart-compatibility.html})
