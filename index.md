@@ -410,3 +410,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo march 2025]({{ site.baseurl }}{/2025-06-18-virgo-march-2025.html})
 - [aquarius rising 2025]({{ site.baseurl }}{/2025-06-18-aquarius-rising-2025.html})
 - [generate numerology report]({{ site.baseurl }}{/2025-06-18-generate-numerology-report.html})
+- [kundali by name and date of birth]({{ site.baseurl }}{/2025-06-18-kundali-by-name-and-date-of-birth.html})
