@@ -24,3 +24,4 @@ Welcome to my AI-powered astrology blog!
 - [destiny matrix chart soulmate]({{ site.baseurl }}{/2025-06-18-destiny-matrix-chart-soulmate.html})
 - [free in depth astrology reading]({{ site.baseurl }}{/2025-06-18-free-in-depth-astrology-reading.html})
 - [cancer horoscope today love]({{ site.baseurl }}{/2025-06-18-cancer-horoscope-today-love.html})
+- [free birth chart interpretation]({{ site.baseurl }}{/2025-06-18-free-birth-chart-interpretation.html})
