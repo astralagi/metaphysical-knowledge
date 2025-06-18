@@ -430,3 +430,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find my rashi with my date of birth]({{ site.baseurl }}{/2025-06-18-how-to-find-my-rashi-with-my-date-of-birth.html})
 - [generate birth chart free]({{ site.baseurl }}{/2025-06-18-generate-birth-chart-free.html})
 - [best horoscope]({{ site.baseurl }}{/2025-06-18-best-horoscope.html})
+- [gemini horoscope for today]({{ site.baseurl }}{/2025-06-18-gemini-horoscope-for-today.html})
