@@ -497,3 +497,4 @@ Welcome to my AI-powered astrology blog!
 - [astrocartography cancer]({{ site.baseurl }}{/2025-06-18-astrocartography-cancer.html})
 - [exact astrology chart]({{ site.baseurl }}{/2025-06-18-exact-astrology-chart.html})
 - [tarot accurate readings]({{ site.baseurl }}{/2025-06-18-tarot-accurate-readings.html})
+- [free vedic astrology analysis]({{ site.baseurl }}{/2025-06-18-free-vedic-astrology-analysis.html})
