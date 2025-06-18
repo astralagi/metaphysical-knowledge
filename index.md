@@ -107,3 +107,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini love]({{ site.baseurl }}{/2025-06-18-gemini-love.html})
 - [birth chart accurate]({{ site.baseurl }}{/2025-06-18-birth-chart-accurate.html})
 - [free detailed numerology report]({{ site.baseurl }}{/2025-06-18-free-detailed-numerology-report.html})
+- [free birth chart astrology]({{ site.baseurl }}{/2025-06-18-free-birth-chart-astrology.html})
