@@ -377,3 +377,4 @@ Welcome to my AI-powered astrology blog!
 - [codex esoterica]({{ site.baseurl }}{/2025-06-18-codex-esoterica.html})
 - [astro trevino]({{ site.baseurl }}{/2025-06-18-astro-trevino.html})
 - [horoscope apps free]({{ site.baseurl }}{/2025-06-18-horoscope-apps-free.html})
+- [capricorn april 2025 horoscope]({{ site.baseurl }}{/2025-06-18-capricorn-april-2025-horoscope.html})
