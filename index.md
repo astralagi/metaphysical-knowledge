@@ -257,3 +257,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope by date of birth]({{ site.baseurl }}{/2025-06-18-horoscope-by-date-of-birth.html})
 - [lilith in 8th house]({{ site.baseurl }}{/2025-06-18-lilith-in-8th-house.html})
 - [joni patry astrologer]({{ site.baseurl }}{/2025-06-18-joni-patry-astrologer.html})
+- [gemini tarot today]({{ site.baseurl }}{/2025-06-18-gemini-tarot-today.html})
