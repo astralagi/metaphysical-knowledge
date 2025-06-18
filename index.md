@@ -388,3 +388,4 @@ Welcome to my AI-powered astrology blog!
 - [know my zodiac sign]({{ site.baseurl }}{/2025-06-18-know-my-zodiac-sign.html})
 - [leo april 2025 tarot]({{ site.baseurl }}{/2025-06-18-leo-april-2025-tarot.html})
 - [what will happen in the future]({{ site.baseurl }}{/2025-06-18-what-will-happen-in-the-future.html})
+- [yahoo horoscope aquarius]({{ site.baseurl }}{/2025-06-18-yahoo-horoscope-aquarius.html})
