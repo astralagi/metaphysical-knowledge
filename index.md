@@ -323,3 +323,4 @@ Welcome to my AI-powered astrology blog!
 - [jyotish vedang by rahul kaushik]({{ site.baseurl }}{/2025-06-18-jyotish-vedang-by-rahul-kaushik.html})
 - [libra horoscope february 15 2025]({{ site.baseurl }}{/2025-06-18-libra-horoscope-february-15-2025.html})
 - [astrology birthday book a guide to your personality and destiny]({{ site.baseurl }}{/2025-06-18-astrology-birthday-book-a-guide-to-your-personality-and-destiny.html})
+- [d9 chart vedic astrology]({{ site.baseurl }}{/2025-06-18-d9-chart-vedic-astrology.html})
