@@ -22,3 +22,4 @@ Welcome to my AI-powered astrology blog!
 - [free love compatibility test]({{ site.baseurl }}{/2025-06-18-free-love-compatibility-test.html})
 - [stella wilde astrology]({{ site.baseurl }}{/2025-06-18-stella-wilde-astrology.html})
 - [destiny matrix chart soulmate]({{ site.baseurl }}{/2025-06-18-destiny-matrix-chart-soulmate.html})
+- [free in depth astrology reading]({{ site.baseurl }}{/2025-06-18-free-in-depth-astrology-reading.html})
