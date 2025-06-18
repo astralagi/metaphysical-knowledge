@@ -456,3 +456,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscopes are real]({{ site.baseurl }}{/2025-06-18-horoscopes-are-real.html})
 - [cancer love horoscope]({{ site.baseurl }}{/2025-06-18-cancer-love-horoscope.html})
 - [how to find out your big three]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-big-three.html})
+- [astrology software free]({{ site.baseurl }}{/2025-06-18-astrology-software-free.html})
