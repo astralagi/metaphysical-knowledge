@@ -238,3 +238,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn tarot april 2025]({{ site.baseurl }}{/2025-06-18-capricorn-tarot-april-2025.html})
 - [find out your full astrology]({{ site.baseurl }}{/2025-06-18-find-out-your-full-astrology.html})
 - [tarot interpretation online]({{ site.baseurl }}{/2025-06-18-tarot-interpretation-online.html})
+- [what your zodiac sign says about you]({{ site.baseurl }}{/2025-06-18-what-your-zodiac-sign-says-about-you.html})
