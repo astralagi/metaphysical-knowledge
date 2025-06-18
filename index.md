@@ -177,3 +177,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology chart reading]({{ site.baseurl }}{/2025-06-18-astrology-chart-reading.html})
 - [sagittarius horoscope 2024 today]({{ site.baseurl }}{/2025-06-18-sagittarius-horoscope-2024-today.html})
 - [synastry report]({{ site.baseurl }}{/2025-06-18-synastry-report.html})
+- [horoscope for pisces for today]({{ site.baseurl }}{/2025-06-18-horoscope-for-pisces-for-today.html})
