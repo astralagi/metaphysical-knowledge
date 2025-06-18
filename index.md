@@ -168,3 +168,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo june 2025 astrology]({{ site.baseurl }}{/2025-06-18-virgo-june-2025-astrology.html})
 - [capricorn money and career]({{ site.baseurl }}{/2025-06-18-capricorn-money-and-career.html})
 - [horoscope chart online free]({{ site.baseurl }}{/2025-06-18-horoscope-chart-online-free.html})
+- [compatibility test zodiac]({{ site.baseurl }}{/2025-06-18-compatibility-test-zodiac.html})
