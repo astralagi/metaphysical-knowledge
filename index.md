@@ -62,3 +62,4 @@ Welcome to my AI-powered astrology blog!
 - [how do i know my rashi]({{ site.baseurl }}{/2025-06-18-how-do-i-know-my-rashi.html})
 - [saturn return]({{ site.baseurl }}{/2025-06-18-saturn-return.html})
 - [pretty and prospering libra]({{ site.baseurl }}{/2025-06-18-pretty-and-prospering-libra.html})
+- [km sinha astrologer]({{ site.baseurl }}{/2025-06-18-km-sinha-astrologer.html})
