@@ -345,3 +345,4 @@ Welcome to my AI-powered astrology blog!
 - [lunar astro consultation]({{ site.baseurl }}{/2025-06-18-lunar-astro-consultation.html})
 - [robert cosmar]({{ site.baseurl }}{/2025-06-18-robert-cosmar.html})
 - [destiny matrix chart]({{ site.baseurl }}{/2025-06-18-destiny-matrix-chart.html})
+- [how to know your soulmate astrology]({{ site.baseurl }}{/2025-06-18-how-to-know-your-soulmate-astrology.html})
