@@ -209,3 +209,4 @@ Welcome to my AI-powered astrology blog!
 - [free psychic reading app]({{ site.baseurl }}{/2025-06-18-free-psychic-reading-app.html})
 - [capricorn love april 2025]({{ site.baseurl }}{/2025-06-18-capricorn-love-april-2025.html})
 - [how to check kundali for future]({{ site.baseurl }}{/2025-06-18-how-to-check-kundali-for-future.html})
+- [astrology chart]({{ site.baseurl }}{/2025-06-18-astrology-chart.html})
