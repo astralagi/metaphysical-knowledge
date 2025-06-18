@@ -460,3 +460,4 @@ Welcome to my AI-powered astrology blog!
 - [leo prediction 2025]({{ site.baseurl }}{/2025-06-18-leo-prediction-2025.html})
 - [ra akhu]({{ site.baseurl }}{/2025-06-18-ra-akhu.html})
 - [free tarot reading real]({{ site.baseurl }}{/2025-06-18-free-tarot-reading-real.html})
+- [natural chart]({{ site.baseurl }}{/2025-06-18-natural-chart.html})
