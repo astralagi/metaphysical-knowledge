@@ -361,3 +361,4 @@ Welcome to my AI-powered astrology blog!
 - [big 6 zodiac]({{ site.baseurl }}{/2025-06-18-big-6-zodiac.html})
 - [synastry chart]({{ site.baseurl }}{/2025-06-18-synastry-chart.html})
 - [astro butterfly]({{ site.baseurl }}{/2025-06-18-astro-butterfly.html})
+- [virgo reading]({{ site.baseurl }}{/2025-06-18-virgo-reading.html})
