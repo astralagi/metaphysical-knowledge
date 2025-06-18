@@ -284,3 +284,4 @@ Welcome to my AI-powered astrology blog!
 - [best natal chart interpretation]({{ site.baseurl }}{/2025-06-18-best-natal-chart-interpretation.html})
 - [best online horoscope]({{ site.baseurl }}{/2025-06-18-best-online-horoscope.html})
 - [free astrocartography chart]({{ site.baseurl }}{/2025-06-18-free-astrocartography-chart.html})
+- [horary astrology free]({{ site.baseurl }}{/2025-06-18-horary-astrology-free.html})
