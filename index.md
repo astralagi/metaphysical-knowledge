@@ -367,3 +367,4 @@ Welcome to my AI-powered astrology blog!
 - [astrofinesse]({{ site.baseurl }}{/2025-06-18-astrofinesse.html})
 - [zodiac sign]({{ site.baseurl }}{/2025-06-18-zodiac-sign.html})
 - [horoskop bik 2025]({{ site.baseurl }}{/2025-06-18-horoskop-bik-2025.html})
+- [como sacar mi carta astral gratis]({{ site.baseurl }}{/2025-06-18-como-sacar-mi-carta-astral-gratis.html})
