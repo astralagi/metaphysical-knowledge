@@ -171,3 +171,4 @@ Welcome to my AI-powered astrology blog!
 - [compatibility test zodiac]({{ site.baseurl }}{/2025-06-18-compatibility-test-zodiac.html})
 - [virgo love reading]({{ site.baseurl }}{/2025-06-18-virgo-love-reading.html})
 - [cancer astrology horoscope]({{ site.baseurl }}{/2025-06-18-cancer-astrology-horoscope.html})
+- [how to read your astrology chart]({{ site.baseurl }}{/2025-06-18-how-to-read-your-astrology-chart.html})
