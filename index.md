@@ -326,3 +326,4 @@ Welcome to my AI-powered astrology blog!
 - [d9 chart vedic astrology]({{ site.baseurl }}{/2025-06-18-d9-chart-vedic-astrology.html})
 - [how to understand your birth chart]({{ site.baseurl }}{/2025-06-18-how-to-understand-your-birth-chart.html})
 - [aliya nazar horoscope]({{ site.baseurl }}{/2025-06-18-aliya-nazar-horoscope.html})
+- [free birth chart analysis with houses]({{ site.baseurl }}{/2025-06-18-free-birth-chart-analysis-with-houses.html})
