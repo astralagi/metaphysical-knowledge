@@ -148,3 +148,4 @@ Welcome to my AI-powered astrology blog!
 - [sun moon rising sign calculator]({{ site.baseurl }}{/2025-06-18-sun-moon-rising-sign-calculator.html})
 - [capricorn readings]({{ site.baseurl }}{/2025-06-18-capricorn-readings.html})
 - [april 2025 cancer horoscope]({{ site.baseurl }}{/2025-06-18-april-2025-cancer-horoscope.html})
+- [how to find out your moon sign]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-moon-sign.html})
