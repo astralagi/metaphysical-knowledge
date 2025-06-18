@@ -254,3 +254,4 @@ Welcome to my AI-powered astrology blog!
 - [astroseekers]({{ site.baseurl }}{/2025-06-18-astroseekers.html})
 - [astrology by date of birth free]({{ site.baseurl }}{/2025-06-18-astrology-by-date-of-birth-free.html})
 - [venus chart ruler]({{ site.baseurl }}{/2025-06-18-venus-chart-ruler.html})
+- [horoscope by date of birth]({{ site.baseurl }}{/2025-06-18-horoscope-by-date-of-birth.html})
