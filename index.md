@@ -185,3 +185,4 @@ Welcome to my AI-powered astrology blog!
 - [esoteric birth chart]({{ site.baseurl }}{/2025-06-18-esoteric-birth-chart.html})
 - [february 2nd birthday horoscope]({{ site.baseurl }}{/2025-06-18-february-2nd-birthday-horoscope.html})
 - [astrology log]({{ site.baseurl }}{/2025-06-18-astrology-log.html})
+- [tarot pisces]({{ site.baseurl }}{/2025-06-18-tarot-pisces.html})
