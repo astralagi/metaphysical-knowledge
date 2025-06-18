@@ -429,3 +429,4 @@ Welcome to my AI-powered astrology blog!
 - [aries daily tarot reading]({{ site.baseurl }}{/2025-06-18-aries-daily-tarot-reading.html})
 - [how to find my rashi with my date of birth]({{ site.baseurl }}{/2025-06-18-how-to-find-my-rashi-with-my-date-of-birth.html})
 - [generate birth chart free]({{ site.baseurl }}{/2025-06-18-generate-birth-chart-free.html})
+- [best horoscope]({{ site.baseurl }}{/2025-06-18-best-horoscope.html})
