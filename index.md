@@ -375,3 +375,4 @@ Welcome to my AI-powered astrology blog!
 - [aries horoscope]({{ site.baseurl }}{/2025-06-18-aries-horoscope.html})
 - [free kundli in hindi]({{ site.baseurl }}{/2025-06-18-free-kundli-in-hindi.html})
 - [codex esoterica]({{ site.baseurl }}{/2025-06-18-codex-esoterica.html})
+- [astro trevino]({{ site.baseurl }}{/2025-06-18-astro-trevino.html})
