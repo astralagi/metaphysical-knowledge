@@ -10,3 +10,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology chat app]({{ site.baseurl }}{/2025-06-18-free-astrology-chat-app.html})
 - [astrolog]({{ site.baseurl }}{/2025-06-18-astrolog.html})
 - [astrology]({{ site.baseurl }}{/2025-06-18-astrology.html})
+- [vedic astrology chart with interpretation free]({{ site.baseurl }}{/2025-06-18-vedic-astrology-chart-with-interpretation-free.html})
