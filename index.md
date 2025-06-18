@@ -490,3 +490,4 @@ Welcome to my AI-powered astrology blog!
 - [marriage astro]({{ site.baseurl }}{/2025-06-18-marriage-astro.html})
 - [starseed signs in birth chart]({{ site.baseurl }}{/2025-06-18-starseed-signs-in-birth-chart.html})
 - [astrology com]({{ site.baseurl }}{/2025-06-18-astrology-com.html})
+- [my personalised horoscope]({{ site.baseurl }}{/2025-06-18-my-personalised-horoscope.html})
