@@ -424,3 +424,4 @@ Welcome to my AI-powered astrology blog!
 - [appnebula login]({{ site.baseurl }}{/2025-06-18-appnebula-login.html})
 - [free online astrology course with certificate]({{ site.baseurl }}{/2025-06-18-free-online-astrology-course-with-certificate.html})
 - [free soulmate prediction]({{ site.baseurl }}{/2025-06-18-free-soulmate-prediction.html})
+- [in depth free horoscope]({{ site.baseurl }}{/2025-06-18-in-depth-free-horoscope.html})
