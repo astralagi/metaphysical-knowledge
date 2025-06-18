@@ -204,3 +204,4 @@ Welcome to my AI-powered astrology blog!
 - [astro cafe]({{ site.baseurl }}{/2025-06-18-astro-cafe.html})
 - [chart reading astrology]({{ site.baseurl }}{/2025-06-18-chart-reading-astrology.html})
 - [cancer prediction 2025]({{ site.baseurl }}{/2025-06-18-cancer-prediction-2025.html})
+- [pisces tarot]({{ site.baseurl }}{/2025-06-18-pisces-tarot.html})
