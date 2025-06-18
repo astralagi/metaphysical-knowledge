@@ -67,3 +67,4 @@ Welcome to my AI-powered astrology blog!
 - [what kind of scorpio am i]({{ site.baseurl }}{/2025-06-18-what-kind-of-scorpio-am-i.html})
 - [time nomad]({{ site.baseurl }}{/2025-06-18-time-nomad.html})
 - [sagittarius tarot today]({{ site.baseurl }}{/2025-06-18-sagittarius-tarot-today.html})
+- [best birth chart]({{ site.baseurl }}{/2025-06-18-best-birth-chart.html})
