@@ -334,3 +334,4 @@ Welcome to my AI-powered astrology blog!
 - [que signo soy segun mi fecha de nacimiento]({{ site.baseurl }}{/2025-06-18-que-signo-soy-segun-mi-fecha-de-nacimiento.html})
 - [free ai tarot reading]({{ site.baseurl }}{/2025-06-18-free-ai-tarot-reading.html})
 - [free reading psychic]({{ site.baseurl }}{/2025-06-18-free-reading-psychic.html})
+- [free moon and rising sign calculator]({{ site.baseurl }}{/2025-06-18-free-moon-and-rising-sign-calculator.html})
