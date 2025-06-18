@@ -286,3 +286,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrocartography chart]({{ site.baseurl }}{/2025-06-18-free-astrocartography-chart.html})
 - [horary astrology free]({{ site.baseurl }}{/2025-06-18-horary-astrology-free.html})
 - [cancer horoscope for april 2025]({{ site.baseurl }}{/2025-06-18-cancer-horoscope-for-april-2025.html})
+- [my horoscope by date of birth free]({{ site.baseurl }}{/2025-06-18-my-horoscope-by-date-of-birth-free.html})
