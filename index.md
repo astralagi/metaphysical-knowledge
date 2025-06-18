@@ -29,3 +29,4 @@ Welcome to my AI-powered astrology blog!
 - [taurus love compatibility]({{ site.baseurl }}{/2025-06-18-taurus-love-compatibility.html})
 - [rashifal by name]({{ site.baseurl }}{/2025-06-18-rashifal-by-name.html})
 - [ai astrology app]({{ site.baseurl }}{/2025-06-18-ai-astrology-app.html})
+- [sagittarius love tarot]({{ site.baseurl }}{/2025-06-18-sagittarius-love-tarot.html})
