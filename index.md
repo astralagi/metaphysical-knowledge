@@ -331,3 +331,4 @@ Welcome to my AI-powered astrology blog!
 - [numerology marriage compatibility calculator]({{ site.baseurl }}{/2025-06-18-numerology-marriage-compatibility-calculator.html})
 - [facts about astrology]({{ site.baseurl }}{/2025-06-18-facts-about-astrology.html})
 - [what's my zodiac sign]({{ site.baseurl }}{/2025-06-18-whats-my-zodiac-sign.html})
+- [que signo soy segun mi fecha de nacimiento]({{ site.baseurl }}{/2025-06-18-que-signo-soy-segun-mi-fecha-de-nacimiento.html})
