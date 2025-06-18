@@ -184,3 +184,4 @@ Welcome to my AI-powered astrology blog!
 - [dr honey astrology]({{ site.baseurl }}{/2025-06-18-dr-honey-astrology.html})
 - [esoteric birth chart]({{ site.baseurl }}{/2025-06-18-esoteric-birth-chart.html})
 - [february 2nd birthday horoscope]({{ site.baseurl }}{/2025-06-18-february-2nd-birthday-horoscope.html})
+- [astrology log]({{ site.baseurl }}{/2025-06-18-astrology-log.html})
