@@ -279,3 +279,4 @@ Welcome to my AI-powered astrology blog!
 - [sagittarius new love tarot today]({{ site.baseurl }}{/2025-06-18-sagittarius-new-love-tarot-today.html})
 - [upload picture palm reading free online]({{ site.baseurl }}{/2025-06-18-upload-picture-palm-reading-free-online.html})
 - [astroline web]({{ site.baseurl }}{/2025-06-18-astroline-web.html})
+- [my 3 rising signs]({{ site.baseurl }}{/2025-06-18-my-3-rising-signs.html})
