@@ -13,3 +13,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic astrology chart with interpretation free]({{ site.baseurl }}{/2025-06-18-vedic-astrology-chart-with-interpretation-free.html})
 - [sagittarius and aquarius love compatibility]({{ site.baseurl }}{/2025-06-18-sagittarius-and-aquarius-love-compatibility.html})
 - [professional birth chart reading]({{ site.baseurl }}{/2025-06-18-professional-birth-chart-reading.html})
+- [robert ohotto channel]({{ site.baseurl }}{/2025-06-18-robert-ohotto-channel.html})
