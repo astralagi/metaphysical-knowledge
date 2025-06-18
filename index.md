@@ -126,3 +126,4 @@ Welcome to my AI-powered astrology blog!
 - [janam kundli]({{ site.baseurl }}{/2025-06-18-janam-kundli.html})
 - [what is my element by birthday]({{ site.baseurl }}{/2025-06-18-what-is-my-element-by-birthday.html})
 - [rich lopp aquarius]({{ site.baseurl }}{/2025-06-18-rich-lopp-aquarius.html})
+- [online numerology]({{ site.baseurl }}{/2025-06-18-online-numerology.html})
