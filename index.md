@@ -370,3 +370,4 @@ Welcome to my AI-powered astrology blog!
 - [como sacar mi carta astral gratis]({{ site.baseurl }}{/2025-06-18-como-sacar-mi-carta-astral-gratis.html})
 - [dating zodiac signs]({{ site.baseurl }}{/2025-06-18-dating-zodiac-signs.html})
 - [in depth astrology chart reading]({{ site.baseurl }}{/2025-06-18-in-depth-astrology-chart-reading.html})
+- [best astrology book]({{ site.baseurl }}{/2025-06-18-best-astrology-book.html})
