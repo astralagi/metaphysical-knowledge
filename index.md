@@ -487,3 +487,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope by date and time of birth]({{ site.baseurl }}{/2025-06-18-horoscope-by-date-and-time-of-birth.html})
 - [birth horoscope]({{ site.baseurl }}{/2025-06-18-birth-horoscope.html})
 - [i want to know my future life partner name]({{ site.baseurl }}{/2025-06-18-i-want-to-know-my-future-life-partner-name.html})
+- [marriage astro]({{ site.baseurl }}{/2025-06-18-marriage-astro.html})
