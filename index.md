@@ -231,3 +231,4 @@ Welcome to my AI-powered astrology blog!
 - [if a zodiac sign does this run]({{ site.baseurl }}{/2025-06-18-if-a-zodiac-sign-does-this-run.html})
 - [astrologia app]({{ site.baseurl }}{/2025-06-18-astrologia-app.html})
 - [astrology birth chart personality]({{ site.baseurl }}{/2025-06-18-astrology-birth-chart-personality.html})
+- [entire birth chart]({{ site.baseurl }}{/2025-06-18-entire-birth-chart.html})
