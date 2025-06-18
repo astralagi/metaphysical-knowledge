@@ -199,3 +199,4 @@ Welcome to my AI-powered astrology blog!
 - [today's astrological insights for various zodiac signs]({{ site.baseurl }}{/2025-06-18-todays-astrological-insights-for-various-zodiac-signs.html})
 - [horoscope for gemini 2025]({{ site.baseurl }}{/2025-06-18-horoscope-for-gemini-2025.html})
 - [capricorn horoscope for today]({{ site.baseurl }}{/2025-06-18-capricorn-horoscope-for-today.html})
+- [prashna]({{ site.baseurl }}{/2025-06-18-prashna.html})
