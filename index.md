@@ -58,3 +58,4 @@ Welcome to my AI-powered astrology blog!
 - [explain my birth chart]({{ site.baseurl }}{/2025-06-18-explain-my-birth-chart.html})
 - [astro jankari]({{ site.baseurl }}{/2025-06-18-astro-jankari.html})
 - [astroscience free kundli]({{ site.baseurl }}{/2025-06-18-astroscience-free-kundli.html})
+- [rahu calculator]({{ site.baseurl }}{/2025-06-18-rahu-calculator.html})
