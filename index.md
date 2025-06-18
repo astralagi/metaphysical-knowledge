@@ -475,3 +475,4 @@ Welcome to my AI-powered astrology blog!
 - [astrotheme الخريطة الفلكية بالعربي]({{ site.baseurl }}{/2025-06-18-astrotheme-الخريطة-الفلكية-بالعربي.html})
 - [when will i get married]({{ site.baseurl }}{/2025-06-18-when-will-i-get-married.html})
 - [free birth chart reading and analysis]({{ site.baseurl }}{/2025-06-18-free-birth-chart-reading-and-analysis.html})
+- [what are my houses in astrology]({{ site.baseurl }}{/2025-06-18-what-are-my-houses-in-astrology.html})
