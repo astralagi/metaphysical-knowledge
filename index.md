@@ -391,3 +391,4 @@ Welcome to my AI-powered astrology blog!
 - [yahoo horoscope aquarius]({{ site.baseurl }}{/2025-06-18-yahoo-horoscope-aquarius.html})
 - [best palm reader online free]({{ site.baseurl }}{/2025-06-18-best-palm-reader-online-free.html})
 - [kundali analysis]({{ site.baseurl }}{/2025-06-18-kundali-analysis.html})
+- [free astrology chart]({{ site.baseurl }}{/2025-06-18-free-astrology-chart.html})
