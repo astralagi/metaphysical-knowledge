@@ -74,3 +74,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope compatibility]({{ site.baseurl }}{/2025-06-18-horoscope-compatibility.html})
 - [free chat with astrologer online in india]({{ site.baseurl }}{/2025-06-18-free-chat-with-astrologer-online-in-india.html})
 - [astrology houses calculator free]({{ site.baseurl }}{/2025-06-18-astrology-houses-calculator-free.html})
+- [the planets astrology]({{ site.baseurl }}{/2025-06-18-the-planets-astrology.html})
