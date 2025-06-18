@@ -259,3 +259,4 @@ Welcome to my AI-powered astrology blog!
 - [joni patry astrologer]({{ site.baseurl }}{/2025-06-18-joni-patry-astrologer.html})
 - [gemini tarot today]({{ site.baseurl }}{/2025-06-18-gemini-tarot-today.html})
 - [friendship tarot reading free]({{ site.baseurl }}{/2025-06-18-friendship-tarot-reading-free.html})
+- [pisces dealing with leo]({{ site.baseurl }}{/2025-06-18-pisces-dealing-with-leo.html})
