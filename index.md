@@ -14,3 +14,4 @@ Welcome to my AI-powered astrology blog!
 - [sagittarius and aquarius love compatibility]({{ site.baseurl }}{/2025-06-18-sagittarius-and-aquarius-love-compatibility.html})
 - [professional birth chart reading]({{ site.baseurl }}{/2025-06-18-professional-birth-chart-reading.html})
 - [robert ohotto channel]({{ site.baseurl }}{/2025-06-18-robert-ohotto-channel.html})
+- [suresh shrimali]({{ site.baseurl }}{/2025-06-18-suresh-shrimali.html})
