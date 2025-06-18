@@ -92,3 +92,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find lucky day]({{ site.baseurl }}{/2025-06-18-how-to-find-lucky-day.html})
 - [astrological]({{ site.baseurl }}{/2025-06-18-astrological.html})
 - [aquarius today tarot]({{ site.baseurl }}{/2025-06-18-aquarius-today-tarot.html})
+- [astro legend]({{ site.baseurl }}{/2025-06-18-astro-legend.html})
