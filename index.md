@@ -41,3 +41,4 @@ Welcome to my AI-powered astrology blog!
 - [aries horoscope march 2025]({{ site.baseurl }}{/2025-06-18-aries-horoscope-march-2025.html})
 - [astrology lilith]({{ site.baseurl }}{/2025-06-18-astrology-lilith.html})
 - [horoscope for cancer today]({{ site.baseurl }}{/2025-06-18-horoscope-for-cancer-today.html})
+- [astrology birth chart free]({{ site.baseurl }}{/2025-06-18-astrology-birth-chart-free.html})
