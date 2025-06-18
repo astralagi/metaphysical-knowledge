@@ -488,3 +488,4 @@ Welcome to my AI-powered astrology blog!
 - [birth horoscope]({{ site.baseurl }}{/2025-06-18-birth-horoscope.html})
 - [i want to know my future life partner name]({{ site.baseurl }}{/2025-06-18-i-want-to-know-my-future-life-partner-name.html})
 - [marriage astro]({{ site.baseurl }}{/2025-06-18-marriage-astro.html})
+- [starseed signs in birth chart]({{ site.baseurl }}{/2025-06-18-starseed-signs-in-birth-chart.html})
