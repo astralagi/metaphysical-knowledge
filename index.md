@@ -244,3 +244,4 @@ Welcome to my AI-powered astrology blog!
 - [kundli ai]({{ site.baseurl }}{/2025-06-18-kundli-ai.html})
 - [starcrossed astrology]({{ site.baseurl }}{/2025-06-18-starcrossed-astrology.html})
 - [aries love]({{ site.baseurl }}{/2025-06-18-aries-love.html})
+- [astrosage ai]({{ site.baseurl }}{/2025-06-18-astrosage-ai.html})
