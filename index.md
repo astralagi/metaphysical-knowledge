@@ -243,3 +243,4 @@ Welcome to my AI-powered astrology blog!
 - [best rated horoscope app]({{ site.baseurl }}{/2025-06-18-best-rated-horoscope-app.html})
 - [kundli ai]({{ site.baseurl }}{/2025-06-18-kundli-ai.html})
 - [starcrossed astrology]({{ site.baseurl }}{/2025-06-18-starcrossed-astrology.html})
+- [aries love]({{ site.baseurl }}{/2025-06-18-aries-love.html})
