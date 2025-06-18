@@ -245,3 +245,4 @@ Welcome to my AI-powered astrology blog!
 - [starcrossed astrology]({{ site.baseurl }}{/2025-06-18-starcrossed-astrology.html})
 - [aries love]({{ site.baseurl }}{/2025-06-18-aries-love.html})
 - [astrosage ai]({{ site.baseurl }}{/2025-06-18-astrosage-ai.html})
+- [what's my horoscope for today]({{ site.baseurl }}{/2025-06-18-whats-my-horoscope-for-today.html})
