@@ -159,3 +159,4 @@ Welcome to my AI-powered astrology blog!
 - [harihar adhikari appointment fees]({{ site.baseurl }}{/2025-06-18-harihar-adhikari-appointment-fees.html})
 - [free online tarot reading]({{ site.baseurl }}{/2025-06-18-free-online-tarot-reading.html})
 - [how to know rashi by date of birth]({{ site.baseurl }}{/2025-06-18-how-to-know-rashi-by-date-of-birth.html})
+- [my numerology report]({{ site.baseurl }}{/2025-06-18-my-numerology-report.html})
