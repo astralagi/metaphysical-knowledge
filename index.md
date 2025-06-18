@@ -473,3 +473,4 @@ Welcome to my AI-powered astrology blog!
 - [cosmic owl astrology]({{ site.baseurl }}{/2025-06-18-cosmic-owl-astrology.html})
 - [sanctuary horoscope]({{ site.baseurl }}{/2025-06-18-sanctuary-horoscope.html})
 - [astrotheme الخريطة الفلكية بالعربي]({{ site.baseurl }}{/2025-06-18-astrotheme-الخريطة-الفلكية-بالعربي.html})
+- [when will i get married]({{ site.baseurl }}{/2025-06-18-when-will-i-get-married.html})
