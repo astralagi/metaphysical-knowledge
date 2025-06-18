@@ -165,3 +165,4 @@ Welcome to my AI-powered astrology blog!
 - [wolfman tarot pisces]({{ site.baseurl }}{/2025-06-18-wolfman-tarot-pisces.html})
 - [free past life karmic astrology chart]({{ site.baseurl }}{/2025-06-18-free-past-life-karmic-astrology-chart.html})
 - [astrograph]({{ site.baseurl }}{/2025-06-18-astrograph.html})
+- [virgo june 2025 astrology]({{ site.baseurl }}{/2025-06-18-virgo-june-2025-astrology.html})
