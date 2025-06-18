@@ -139,3 +139,4 @@ Welcome to my AI-powered astrology blog!
 - [quackity birth chart]({{ site.baseurl }}{/2025-06-18-quackity-birth-chart.html})
 - [pisces love reading]({{ site.baseurl }}{/2025-06-18-pisces-love-reading.html})
 - [cancer love]({{ site.baseurl }}{/2025-06-18-cancer-love.html})
+- [the leo king]({{ site.baseurl }}{/2025-06-18-the-leo-king.html})
