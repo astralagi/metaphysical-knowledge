@@ -356,3 +356,4 @@ Welcome to my AI-powered astrology blog!
 - [leo love]({{ site.baseurl }}{/2025-06-18-leo-love.html})
 - [punarvasu nakshatra]({{ site.baseurl }}{/2025-06-18-punarvasu-nakshatra.html})
 - [kumar joshi astrology]({{ site.baseurl }}{/2025-06-18-kumar-joshi-astrology.html})
+- [detailed birth chart]({{ site.baseurl }}{/2025-06-18-detailed-birth-chart.html})
