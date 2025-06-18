@@ -386,3 +386,4 @@ Welcome to my AI-powered astrology blog!
 - [samiah khan astrologer]({{ site.baseurl }}{/2025-06-18-samiah-khan-astrologer.html})
 - [kabbalistic astrology]({{ site.baseurl }}{/2025-06-18-kabbalistic-astrology.html})
 - [know my zodiac sign]({{ site.baseurl }}{/2025-06-18-know-my-zodiac-sign.html})
+- [leo april 2025 tarot]({{ site.baseurl }}{/2025-06-18-leo-april-2025-tarot.html})
