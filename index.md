@@ -250,3 +250,4 @@ Welcome to my AI-powered astrology blog!
 - [moonphases org soulmate]({{ site.baseurl }}{/2025-06-18-moonphases-org-soulmate.html})
 - [proactive astrology andre]({{ site.baseurl }}{/2025-06-18-proactive-astrology-andre.html})
 - [scorpio aquarius tarot]({{ site.baseurl }}{/2025-06-18-scorpio-aquarius-tarot.html})
+- [libra man and gemini woman relationship]({{ site.baseurl }}{/2025-06-18-libra-man-and-gemini-woman-relationship.html})
