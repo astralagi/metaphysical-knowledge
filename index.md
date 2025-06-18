@@ -82,3 +82,4 @@ Welcome to my AI-powered astrology blog!
 - [starheal astrology]({{ site.baseurl }}{/2025-06-18-starheal-astrology.html})
 - [aries daily horoscope 2025]({{ site.baseurl }}{/2025-06-18-aries-daily-horoscope-2025.html})
 - [sagittarius money luck today]({{ site.baseurl }}{/2025-06-18-sagittarius-money-luck-today.html})
+- [your zodiac sign your house]({{ site.baseurl }}{/2025-06-18-your-zodiac-sign-your-house.html})
