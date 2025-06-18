@@ -332,3 +332,4 @@ Welcome to my AI-powered astrology blog!
 - [facts about astrology]({{ site.baseurl }}{/2025-06-18-facts-about-astrology.html})
 - [what's my zodiac sign]({{ site.baseurl }}{/2025-06-18-whats-my-zodiac-sign.html})
 - [que signo soy segun mi fecha de nacimiento]({{ site.baseurl }}{/2025-06-18-que-signo-soy-segun-mi-fecha-de-nacimiento.html})
+- [free ai tarot reading]({{ site.baseurl }}{/2025-06-18-free-ai-tarot-reading.html})
