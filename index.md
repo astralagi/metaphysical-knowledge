@@ -289,3 +289,4 @@ Welcome to my AI-powered astrology blog!
 - [my horoscope by date of birth free]({{ site.baseurl }}{/2025-06-18-my-horoscope-by-date-of-birth-free.html})
 - [horóscopo de cancer]({{ site.baseurl }}{/2025-06-18-horóscopo-de-cancer.html})
 - [gemini woman leo man]({{ site.baseurl }}{/2025-06-18-gemini-woman-leo-man.html})
+- [free natal chart compatibility]({{ site.baseurl }}{/2025-06-18-free-natal-chart-compatibility.html})
