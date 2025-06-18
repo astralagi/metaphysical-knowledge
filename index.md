@@ -151,3 +151,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find out your moon sign]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-moon-sign.html})
 - [free composite chart interpretation]({{ site.baseurl }}{/2025-06-18-free-composite-chart-interpretation.html})
 - [how to find out your astrology chart]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-astrology-chart.html})
+- [cancer man virgo woman]({{ site.baseurl }}{/2025-06-18-cancer-man-virgo-woman.html})
