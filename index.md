@@ -468,3 +468,4 @@ Welcome to my AI-powered astrology blog!
 - [free tarot yes or no]({{ site.baseurl }}{/2025-06-18-free-tarot-yes-or-no.html})
 - [how to find your zodiac sign]({{ site.baseurl }}{/2025-06-18-how-to-find-your-zodiac-sign.html})
 - [starseed test free astrology]({{ site.baseurl }}{/2025-06-18-starseed-test-free-astrology.html})
+- [astro seek com]({{ site.baseurl }}{/2025-06-18-astro-seek-com.html})
