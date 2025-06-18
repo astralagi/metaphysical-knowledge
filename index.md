@@ -106,3 +106,4 @@ Welcome to my AI-powered astrology blog!
 - [how do you find out your birth sign]({{ site.baseurl }}{/2025-06-18-how-do-you-find-out-your-birth-sign.html})
 - [gemini love]({{ site.baseurl }}{/2025-06-18-gemini-love.html})
 - [birth chart accurate]({{ site.baseurl }}{/2025-06-18-birth-chart-accurate.html})
+- [free detailed numerology report]({{ site.baseurl }}{/2025-06-18-free-detailed-numerology-report.html})
