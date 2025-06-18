@@ -421,3 +421,4 @@ Welcome to my AI-powered astrology blog!
 - [birth date horoscope today]({{ site.baseurl }}{/2025-06-18-birth-date-horoscope-today.html})
 - [dina bhavishya kannada]({{ site.baseurl }}{/2025-06-18-dina-bhavishya-kannada.html})
 - [astrotheme]({{ site.baseurl }}{/2025-06-18-astrotheme.html})
+- [appnebula login]({{ site.baseurl }}{/2025-06-18-appnebula-login.html})
