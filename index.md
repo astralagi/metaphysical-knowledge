@@ -394,3 +394,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology chart]({{ site.baseurl }}{/2025-06-18-free-astrology-chart.html})
 - [free birth chart compatibility]({{ site.baseurl }}{/2025-06-18-free-birth-chart-compatibility.html})
 - [jathagam]({{ site.baseurl }}{/2025-06-18-jathagam.html})
+- [what zodiac sign is for september]({{ site.baseurl }}{/2025-06-18-what-zodiac-sign-is-for-september.html})
