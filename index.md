@@ -373,3 +373,4 @@ Welcome to my AI-powered astrology blog!
 - [best astrology book]({{ site.baseurl }}{/2025-06-18-best-astrology-book.html})
 - [astrocafe birth chart]({{ site.baseurl }}{/2025-06-18-astrocafe-birth-chart.html})
 - [aries horoscope]({{ site.baseurl }}{/2025-06-18-aries-horoscope.html})
+- [free kundli in hindi]({{ site.baseurl }}{/2025-06-18-free-kundli-in-hindi.html})
