@@ -354,3 +354,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo destiny]({{ site.baseurl }}{/2025-06-18-virgo-destiny.html})
 - [free analysis of birth chart]({{ site.baseurl }}{/2025-06-18-free-analysis-of-birth-chart.html})
 - [leo love]({{ site.baseurl }}{/2025-06-18-leo-love.html})
+- [punarvasu nakshatra]({{ site.baseurl }}{/2025-06-18-punarvasu-nakshatra.html})
