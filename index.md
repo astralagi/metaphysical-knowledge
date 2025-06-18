@@ -162,3 +162,4 @@ Welcome to my AI-powered astrology blog!
 - [my numerology report]({{ site.baseurl }}{/2025-06-18-my-numerology-report.html})
 - [aquarius career and money]({{ site.baseurl }}{/2025-06-18-aquarius-career-and-money.html})
 - [como leer una carta astral]({{ site.baseurl }}{/2025-06-18-como-leer-una-carta-astral.html})
+- [wolfman tarot pisces]({{ site.baseurl }}{/2025-06-18-wolfman-tarot-pisces.html})
