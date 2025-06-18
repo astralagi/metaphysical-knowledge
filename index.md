@@ -38,3 +38,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn moon tarot]({{ site.baseurl }}{/2025-06-18-capricorn-moon-tarot.html})
 - [best birth chart compatibility]({{ site.baseurl }}{/2025-06-18-best-birth-chart-compatibility.html})
 - [free natal birth chart interpretation]({{ site.baseurl }}{/2025-06-18-free-natal-birth-chart-interpretation.html})
+- [aries horoscope march 2025]({{ site.baseurl }}{/2025-06-18-aries-horoscope-march-2025.html})
