@@ -376,3 +376,4 @@ Welcome to my AI-powered astrology blog!
 - [free kundli in hindi]({{ site.baseurl }}{/2025-06-18-free-kundli-in-hindi.html})
 - [codex esoterica]({{ site.baseurl }}{/2025-06-18-codex-esoterica.html})
 - [astro trevino]({{ site.baseurl }}{/2025-06-18-astro-trevino.html})
+- [horoscope apps free]({{ site.baseurl }}{/2025-06-18-horoscope-apps-free.html})
