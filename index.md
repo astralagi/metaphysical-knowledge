@@ -48,3 +48,4 @@ Welcome to my AI-powered astrology blog!
 - [usa astrology]({{ site.baseurl }}{/2025-06-18-usa-astrology.html})
 - [kundali without time]({{ site.baseurl }}{/2025-06-18-kundali-without-time.html})
 - [virgo horoscopo de hoy]({{ site.baseurl }}{/2025-06-18-virgo-horoscopo-de-hoy.html})
+- [astrology ai website]({{ site.baseurl }}{/2025-06-18-astrology-ai-website.html})
