@@ -120,3 +120,4 @@ Welcome to my AI-powered astrology blog!
 - [aries lucky numbers for today]({{ site.baseurl }}{/2025-06-18-aries-lucky-numbers-for-today.html})
 - [life chart astrology]({{ site.baseurl }}{/2025-06-18-life-chart-astrology.html})
 - [yodha app]({{ site.baseurl }}{/2025-06-18-yodha-app.html})
+- [virgo compatibility with zodiac signs]({{ site.baseurl }}{/2025-06-18-virgo-compatibility-with-zodiac-signs.html})
