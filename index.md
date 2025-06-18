@@ -56,3 +56,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic astrology aquarius]({{ site.baseurl }}{/2025-06-18-vedic-astrology-aquarius.html})
 - [astrologers near me]({{ site.baseurl }}{/2025-06-18-astrologers-near-me.html})
 - [explain my birth chart]({{ site.baseurl }}{/2025-06-18-explain-my-birth-chart.html})
+- [astro jankari]({{ site.baseurl }}{/2025-06-18-astro-jankari.html})
