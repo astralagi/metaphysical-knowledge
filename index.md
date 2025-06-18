@@ -452,3 +452,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali]({{ site.baseurl }}{/2025-06-18-kundali.html})
 - [free daily horoscopes for cancer]({{ site.baseurl }}{/2025-06-18-free-daily-horoscopes-for-cancer.html})
 - [astrology reading free]({{ site.baseurl }}{/2025-06-18-astrology-reading-free.html})
+- [planet mercury astrology]({{ site.baseurl }}{/2025-06-18-planet-mercury-astrology.html})
