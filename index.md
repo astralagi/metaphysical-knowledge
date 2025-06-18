@@ -143,3 +143,4 @@ Welcome to my AI-powered astrology blog!
 - [find my rising sun and moon sign]({{ site.baseurl }}{/2025-06-18-find-my-rising-sun-and-moon-sign.html})
 - [kuja dosha]({{ site.baseurl }}{/2025-06-18-kuja-dosha.html})
 - [how to see kundli]({{ site.baseurl }}{/2025-06-18-how-to-see-kundli.html})
+- [free natal chart with interpretation]({{ site.baseurl }}{/2025-06-18-free-natal-chart-with-interpretation.html})
