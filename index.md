@@ -266,3 +266,4 @@ Welcome to my AI-powered astrology blog!
 - [love prediction]({{ site.baseurl }}{/2025-06-18-love-prediction.html})
 - [horoscopes for today]({{ site.baseurl }}{/2025-06-18-horoscopes-for-today.html})
 - [joni patry astrology]({{ site.baseurl }}{/2025-06-18-joni-patry-astrology.html})
+- [freewillastrology]({{ site.baseurl }}{/2025-06-18-freewillastrology.html})
