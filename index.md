@@ -440,3 +440,4 @@ Welcome to my AI-powered astrology blog!
 - [taurus moon sign 2025]({{ site.baseurl }}{/2025-06-18-taurus-moon-sign-2025.html})
 - [horoscope today]({{ site.baseurl }}{/2025-06-18-horoscope-today.html})
 - [lennox dreams]({{ site.baseurl }}{/2025-06-18-lennox-dreams.html})
+- [birth chart forecast]({{ site.baseurl }}{/2025-06-18-birth-chart-forecast.html})
