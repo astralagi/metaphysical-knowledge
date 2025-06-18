@@ -379,3 +379,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope apps free]({{ site.baseurl }}{/2025-06-18-horoscope-apps-free.html})
 - [capricorn april 2025 horoscope]({{ site.baseurl }}{/2025-06-18-capricorn-april-2025-horoscope.html})
 - [reputable horoscope sites]({{ site.baseurl }}{/2025-06-18-reputable-horoscope-sites.html})
+- [astronitt]({{ site.baseurl }}{/2025-06-18-astronitt.html})
