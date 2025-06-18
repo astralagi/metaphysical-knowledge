@@ -72,3 +72,4 @@ Welcome to my AI-powered astrology blog!
 - [decode astro]({{ site.baseurl }}{/2025-06-18-decode-astro.html})
 - [galactic astrology reading]({{ site.baseurl }}{/2025-06-18-galactic-astrology-reading.html})
 - [horoscope compatibility]({{ site.baseurl }}{/2025-06-18-horoscope-compatibility.html})
+- [free chat with astrologer online in india]({{ site.baseurl }}{/2025-06-18-free-chat-with-astrologer-online-in-india.html})
