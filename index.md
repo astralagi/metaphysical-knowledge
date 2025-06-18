@@ -135,3 +135,4 @@ Welcome to my AI-powered astrology blog!
 - [pisceslove]({{ site.baseurl }}{/2025-06-18-pisceslove.html})
 - [birthday compatibility]({{ site.baseurl }}{/2025-06-18-birthday-compatibility.html})
 - [free birth chart astrology online]({{ site.baseurl }}{/2025-06-18-free-birth-chart-astrology-online.html})
+- [how to find your astrology birth chart]({{ site.baseurl }}{/2025-06-18-how-to-find-your-astrology-birth-chart.html})
