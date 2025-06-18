@@ -109,3 +109,4 @@ Welcome to my AI-powered astrology blog!
 - [free detailed numerology report]({{ site.baseurl }}{/2025-06-18-free-detailed-numerology-report.html})
 - [free birth chart astrology]({{ site.baseurl }}{/2025-06-18-free-birth-chart-astrology.html})
 - [zodiac attraction]({{ site.baseurl }}{/2025-06-18-zodiac-attraction.html})
+- [astrology compatibility report]({{ site.baseurl }}{/2025-06-18-astrology-compatibility-report.html})
