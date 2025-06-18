@@ -20,3 +20,4 @@ Welcome to my AI-powered astrology blog!
 - [my horoscope for 2025]({{ site.baseurl }}{/2025-06-18-my-horoscope-for-2025.html})
 - [how are horoscopes determined]({{ site.baseurl }}{/2025-06-18-how-are-horoscopes-determined.html})
 - [free love compatibility test]({{ site.baseurl }}{/2025-06-18-free-love-compatibility-test.html})
+- [stella wilde astrology]({{ site.baseurl }}{/2025-06-18-stella-wilde-astrology.html})
