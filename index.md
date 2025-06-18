@@ -448,3 +448,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology chat online ai]({{ site.baseurl }}{/2025-06-18-free-astrology-chat-online-ai.html})
 - [best astrology software for pc]({{ site.baseurl }}{/2025-06-18-best-astrology-software-for-pc.html})
 - [virgo karir]({{ site.baseurl }}{/2025-06-18-virgo-karir.html})
+- [astrology predictions]({{ site.baseurl }}{/2025-06-18-astrology-predictions.html})
