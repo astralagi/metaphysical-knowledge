@@ -93,3 +93,4 @@ Welcome to my AI-powered astrology blog!
 - [astrological]({{ site.baseurl }}{/2025-06-18-astrological.html})
 - [aquarius today tarot]({{ site.baseurl }}{/2025-06-18-aquarius-today-tarot.html})
 - [astro legend]({{ site.baseurl }}{/2025-06-18-astro-legend.html})
+- [leo reading today]({{ site.baseurl }}{/2025-06-18-leo-reading-today.html})
