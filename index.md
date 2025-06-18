@@ -121,3 +121,4 @@ Welcome to my AI-powered astrology blog!
 - [life chart astrology]({{ site.baseurl }}{/2025-06-18-life-chart-astrology.html})
 - [yodha app]({{ site.baseurl }}{/2025-06-18-yodha-app.html})
 - [virgo compatibility with zodiac signs]({{ site.baseurl }}{/2025-06-18-virgo-compatibility-with-zodiac-signs.html})
+- [mixeil cagareli]({{ site.baseurl }}{/2025-06-18-mixeil-cagareli.html})
