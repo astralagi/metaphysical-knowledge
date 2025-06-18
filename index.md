@@ -258,3 +258,4 @@ Welcome to my AI-powered astrology blog!
 - [lilith in 8th house]({{ site.baseurl }}{/2025-06-18-lilith-in-8th-house.html})
 - [joni patry astrologer]({{ site.baseurl }}{/2025-06-18-joni-patry-astrologer.html})
 - [gemini tarot today]({{ site.baseurl }}{/2025-06-18-gemini-tarot-today.html})
+- [friendship tarot reading free]({{ site.baseurl }}{/2025-06-18-friendship-tarot-reading-free.html})
