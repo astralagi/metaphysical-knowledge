@@ -43,3 +43,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope for cancer today]({{ site.baseurl }}{/2025-06-18-horoscope-for-cancer-today.html})
 - [astrology birth chart free]({{ site.baseurl }}{/2025-06-18-astrology-birth-chart-free.html})
 - [chiemtinhlaso]({{ site.baseurl }}{/2025-06-18-chiemtinhlaso.html})
+- [birth chart reading free]({{ site.baseurl }}{/2025-06-18-birth-chart-reading-free.html})
