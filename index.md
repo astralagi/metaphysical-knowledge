@@ -305,3 +305,4 @@ Welcome to my AI-powered astrology blog!
 - [north node calculator]({{ site.baseurl }}{/2025-06-18-north-node-calculator.html})
 - [virgo tarot today 2025]({{ site.baseurl }}{/2025-06-18-virgo-tarot-today-2025.html})
 - [how do i find out my rising sign free]({{ site.baseurl }}{/2025-06-18-how-do-i-find-out-my-rising-sign-free.html})
+- [astro ankit sharma]({{ site.baseurl }}{/2025-06-18-astro-ankit-sharma.html})
