@@ -179,3 +179,4 @@ Welcome to my AI-powered astrology blog!
 - [synastry report]({{ site.baseurl }}{/2025-06-18-synastry-report.html})
 - [horoscope for pisces for today]({{ site.baseurl }}{/2025-06-18-horoscope-for-pisces-for-today.html})
 - [birthchart com]({{ site.baseurl }}{/2025-06-18-birthchart-com.html})
+- [milind chitambar consultation]({{ site.baseurl }}{/2025-06-18-milind-chitambar-consultation.html})
