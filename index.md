@@ -457,3 +457,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer love horoscope]({{ site.baseurl }}{/2025-06-18-cancer-love-horoscope.html})
 - [how to find out your big three]({{ site.baseurl }}{/2025-06-18-how-to-find-out-your-big-three.html})
 - [astrology software free]({{ site.baseurl }}{/2025-06-18-astrology-software-free.html})
+- [leo prediction 2025]({{ site.baseurl }}{/2025-06-18-leo-prediction-2025.html})
