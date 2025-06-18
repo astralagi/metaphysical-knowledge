@@ -274,3 +274,4 @@ Welcome to my AI-powered astrology blog!
 - [big six astrology]({{ site.baseurl }}{/2025-06-18-big-six-astrology.html})
 - [aries nicholas ashbaugh]({{ site.baseurl }}{/2025-06-18-aries-nicholas-ashbaugh.html})
 - [bad kundali]({{ site.baseurl }}{/2025-06-18-bad-kundali.html})
+- [horoscopos geminis]({{ site.baseurl }}{/2025-06-18-horoscopos-geminis.html})
