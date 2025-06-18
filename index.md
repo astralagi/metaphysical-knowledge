@@ -201,3 +201,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn horoscope for today]({{ site.baseurl }}{/2025-06-18-capricorn-horoscope-for-today.html})
 - [prashna]({{ site.baseurl }}{/2025-06-18-prashna.html})
 - [shelvi]({{ site.baseurl }}{/2025-06-18-shelvi.html})
+- [astro cafe]({{ site.baseurl }}{/2025-06-18-astro-cafe.html})
