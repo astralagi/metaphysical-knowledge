@@ -501,3 +501,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces tarot reading]({{ site.baseurl }}{/2025-06-18-pisces-tarot-reading.html})
 - [13 sign astrology chart calculator free]({{ site.baseurl }}{/2025-06-18-13-sign-astrology-chart-calculator-free.html})
 - [find out my kundali]({{ site.baseurl }}{/2025-06-18-find-out-my-kundali.html})
+- [astrology today]({{ site.baseurl }}{/2025-06-18-astrology-today.html})
