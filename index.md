@@ -33,3 +33,4 @@ Welcome to my AI-powered astrology blog!
 - [free accurate tarot reading for love and marriage]({{ site.baseurl }}{/2025-06-18-free-accurate-tarot-reading-for-love-and-marriage.html})
 - [maren altman]({{ site.baseurl }}{/2025-06-18-maren-altman.html})
 - [mercury virgo]({{ site.baseurl }}{/2025-06-18-mercury-virgo.html})
+- [make birth chart free]({{ site.baseurl }}{/2025-06-18-make-birth-chart-free.html})
