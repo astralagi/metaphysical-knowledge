@@ -343,3 +343,4 @@ Welcome to my AI-powered astrology blog!
 - [astrotalk free chat online]({{ site.baseurl }}{/2025-06-18-astrotalk-free-chat-online.html})
 - [rising sun and moon sign]({{ site.baseurl }}{/2025-06-18-rising-sun-and-moon-sign.html})
 - [lunar astro consultation]({{ site.baseurl }}{/2025-06-18-lunar-astro-consultation.html})
+- [robert cosmar]({{ site.baseurl }}{/2025-06-18-robert-cosmar.html})
