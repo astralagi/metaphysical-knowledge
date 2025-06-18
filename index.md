@@ -155,3 +155,4 @@ Welcome to my AI-powered astrology blog!
 - [free psychic chat no credit card]({{ site.baseurl }}{/2025-06-18-free-psychic-chat-no-credit-card.html})
 - [birth time rectification]({{ site.baseurl }}{/2025-06-18-birth-time-rectification.html})
 - [mukesh vats astrologer latest]({{ site.baseurl }}{/2025-06-18-mukesh-vats-astrologer-latest.html})
+- [how to find out what my moon and rising sign is]({{ site.baseurl }}{/2025-06-18-how-to-find-out-what-my-moon-and-rising-sign-is.html})
