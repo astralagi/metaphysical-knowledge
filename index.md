@@ -235,3 +235,4 @@ Welcome to my AI-powered astrology blog!
 - [ancestral guidance zodiac signs]({{ site.baseurl }}{/2025-06-18-ancestral-guidance-zodiac-signs.html})
 - [scorpio intuitions]({{ site.baseurl }}{/2025-06-18-scorpio-intuitions.html})
 - [the best zodiac sign to date]({{ site.baseurl }}{/2025-06-18-the-best-zodiac-sign-to-date.html})
+- [capricorn tarot april 2025]({{ site.baseurl }}{/2025-06-18-capricorn-tarot-april-2025.html})
