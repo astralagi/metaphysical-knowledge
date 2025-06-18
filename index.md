@@ -321,3 +321,4 @@ Welcome to my AI-powered astrology blog!
 - [gary numerology]({{ site.baseurl }}{/2025-06-18-gary-numerology.html})
 - [tarot reader]({{ site.baseurl }}{/2025-06-18-tarot-reader.html})
 - [jyotish vedang by rahul kaushik]({{ site.baseurl }}{/2025-06-18-jyotish-vedang-by-rahul-kaushik.html})
+- [libra horoscope february 15 2025]({{ site.baseurl }}{/2025-06-18-libra-horoscope-february-15-2025.html})
