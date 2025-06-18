@@ -83,3 +83,4 @@ Welcome to my AI-powered astrology blog!
 - [aries daily horoscope 2025]({{ site.baseurl }}{/2025-06-18-aries-daily-horoscope-2025.html})
 - [sagittarius money luck today]({{ site.baseurl }}{/2025-06-18-sagittarius-money-luck-today.html})
 - [your zodiac sign your house]({{ site.baseurl }}{/2025-06-18-your-zodiac-sign-your-house.html})
+- [what is my sun and moon sign]({{ site.baseurl }}{/2025-06-18-what-is-my-sun-and-moon-sign.html})
