@@ -241,3 +241,4 @@ Welcome to my AI-powered astrology blog!
 - [what your zodiac sign says about you]({{ site.baseurl }}{/2025-06-18-what-your-zodiac-sign-says-about-you.html})
 - [leoking]({{ site.baseurl }}{/2025-06-18-leoking.html})
 - [best rated horoscope app]({{ site.baseurl }}{/2025-06-18-best-rated-horoscope-app.html})
+- [kundli ai]({{ site.baseurl }}{/2025-06-18-kundli-ai.html})
