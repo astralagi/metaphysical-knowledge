@@ -117,3 +117,4 @@ Welcome to my AI-powered astrology blog!
 - [read my palm for free]({{ site.baseurl }}{/2025-06-18-read-my-palm-for-free.html})
 - [my natal chart]({{ site.baseurl }}{/2025-06-18-my-natal-chart.html})
 - [how to figure out your zodiac placements]({{ site.baseurl }}{/2025-06-18-how-to-figure-out-your-zodiac-placements.html})
+- [aries lucky numbers for today]({{ site.baseurl }}{/2025-06-18-aries-lucky-numbers-for-today.html})
