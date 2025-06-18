@@ -211,3 +211,4 @@ Welcome to my AI-powered astrology blog!
 - [how to check kundali for future]({{ site.baseurl }}{/2025-06-18-how-to-check-kundali-for-future.html})
 - [astrology chart]({{ site.baseurl }}{/2025-06-18-astrology-chart.html})
 - [janam kundali]({{ site.baseurl }}{/2025-06-18-janam-kundali.html})
+- [tarot virgo]({{ site.baseurl }}{/2025-06-18-tarot-virgo.html})
