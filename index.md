@@ -349,3 +349,4 @@ Welcome to my AI-powered astrology blog!
 - [my birth chart free online]({{ site.baseurl }}{/2025-06-18-my-birth-chart-free-online.html})
 - [astrotalk free kundli]({{ site.baseurl }}{/2025-06-18-astrotalk-free-kundli.html})
 - [african astrology]({{ site.baseurl }}{/2025-06-18-african-astrology.html})
+- [cafe astrology birth chart]({{ site.baseurl }}{/2025-06-18-cafe-astrology-birth-chart.html})
