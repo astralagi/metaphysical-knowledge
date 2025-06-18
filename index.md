@@ -222,3 +222,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces love tarot]({{ site.baseurl }}{/2025-06-18-pisces-love-tarot.html})
 - [free moon reading]({{ site.baseurl }}{/2025-06-18-free-moon-reading.html})
 - [jyothishavartha]({{ site.baseurl }}{/2025-06-18-jyothishavartha.html})
+- [astro intelligence]({{ site.baseurl }}{/2025-06-18-astro-intelligence.html})
