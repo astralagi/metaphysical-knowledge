@@ -220,3 +220,4 @@ Welcome to my AI-powered astrology blog!
 - [astro data]({{ site.baseurl }}{/2025-06-18-astro-data.html})
 - [free birth chart readings]({{ site.baseurl }}{/2025-06-18-free-birth-chart-readings.html})
 - [pisces love tarot]({{ site.baseurl }}{/2025-06-18-pisces-love-tarot.html})
+- [free moon reading]({{ site.baseurl }}{/2025-06-18-free-moon-reading.html})
