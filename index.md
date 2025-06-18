@@ -372,3 +372,4 @@ Welcome to my AI-powered astrology blog!
 - [in depth astrology chart reading]({{ site.baseurl }}{/2025-06-18-in-depth-astrology-chart-reading.html})
 - [best astrology book]({{ site.baseurl }}{/2025-06-18-best-astrology-book.html})
 - [astrocafe birth chart]({{ site.baseurl }}{/2025-06-18-astrocafe-birth-chart.html})
+- [aries horoscope]({{ site.baseurl }}{/2025-06-18-aries-horoscope.html})
