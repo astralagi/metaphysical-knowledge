@@ -299,3 +299,4 @@ Welcome to my AI-powered astrology blog!
 - [singh rashi 2025 april mahina]({{ site.baseurl }}{/2025-06-18-singh-rashi-2025-april-mahina.html})
 - [leo tarot]({{ site.baseurl }}{/2025-06-18-leo-tarot.html})
 - [cancer man and sagittarius woman]({{ site.baseurl }}{/2025-06-18-cancer-man-and-sagittarius-woman.html})
+- [signe astrologique gémeaux]({{ site.baseurl }}{/2025-06-18-signe-astrologique-gémeaux.html})
