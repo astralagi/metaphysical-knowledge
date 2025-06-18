@@ -207,3 +207,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces tarot]({{ site.baseurl }}{/2025-06-18-pisces-tarot.html})
 - [capricorn compatibility]({{ site.baseurl }}{/2025-06-18-capricorn-compatibility.html})
 - [free psychic reading app]({{ site.baseurl }}{/2025-06-18-free-psychic-reading-app.html})
+- [capricorn love april 2025]({{ site.baseurl }}{/2025-06-18-capricorn-love-april-2025.html})
