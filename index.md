@@ -88,3 +88,4 @@ Welcome to my AI-powered astrology blog!
 - [aries horoscope for today]({{ site.baseurl }}{/2025-06-18-aries-horoscope-for-today.html})
 - [bapu's scientific astrology]({{ site.baseurl }}{/2025-06-18-bapus-scientific-astrology.html})
 - [nuit astrology]({{ site.baseurl }}{/2025-06-18-nuit-astrology.html})
+- [cancer readings]({{ site.baseurl }}{/2025-06-18-cancer-readings.html})
