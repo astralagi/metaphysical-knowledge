@@ -127,3 +127,4 @@ Welcome to my AI-powered astrology blog!
 - [what is my element by birthday]({{ site.baseurl }}{/2025-06-18-what-is-my-element-by-birthday.html})
 - [rich lopp aquarius]({{ site.baseurl }}{/2025-06-18-rich-lopp-aquarius.html})
 - [online numerology]({{ site.baseurl }}{/2025-06-18-online-numerology.html})
+- [aries and virgo compatibility love]({{ site.baseurl }}{/2025-06-18-aries-and-virgo-compatibility-love.html})
