@@ -37,3 +37,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology all]({{ site.baseurl }}{/2025-06-18-astrology-all.html})
 - [capricorn moon tarot]({{ site.baseurl }}{/2025-06-18-capricorn-moon-tarot.html})
 - [best birth chart compatibility]({{ site.baseurl }}{/2025-06-18-best-birth-chart-compatibility.html})
+- [free natal birth chart interpretation]({{ site.baseurl }}{/2025-06-18-free-natal-birth-chart-interpretation.html})
