@@ -202,3 +202,4 @@ Welcome to my AI-powered astrology blog!
 - [prashna]({{ site.baseurl }}{/2025-06-18-prashna.html})
 - [shelvi]({{ site.baseurl }}{/2025-06-18-shelvi.html})
 - [astro cafe]({{ site.baseurl }}{/2025-06-18-astro-cafe.html})
+- [chart reading astrology]({{ site.baseurl }}{/2025-06-18-chart-reading-astrology.html})
