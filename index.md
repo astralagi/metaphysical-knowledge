@@ -297,3 +297,4 @@ Welcome to my AI-powered astrology blog!
 - [saber es poder virgo hoy]({{ site.baseurl }}{/2025-06-18-saber-es-poder-virgo-hoy.html})
 - [aquarius today]({{ site.baseurl }}{/2025-06-18-aquarius-today.html})
 - [singh rashi 2025 april mahina]({{ site.baseurl }}{/2025-06-18-singh-rashi-2025-april-mahina.html})
+- [leo tarot]({{ site.baseurl }}{/2025-06-18-leo-tarot.html})
