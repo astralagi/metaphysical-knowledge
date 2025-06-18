@@ -123,3 +123,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo compatibility with zodiac signs]({{ site.baseurl }}{/2025-06-18-virgo-compatibility-with-zodiac-signs.html})
 - [mixeil cagareli]({{ site.baseurl }}{/2025-06-18-mixeil-cagareli.html})
 - [capricorn tarot today 2025]({{ site.baseurl }}{/2025-06-18-capricorn-tarot-today-2025.html})
+- [janam kundli]({{ site.baseurl }}{/2025-06-18-janam-kundli.html})
