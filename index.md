@@ -417,3 +417,4 @@ Welcome to my AI-powered astrology blog!
 - [2025 predictions indian astrology]({{ site.baseurl }}{/2025-06-18-2025-predictions-indian-astrology.html})
 - [astrominds]({{ site.baseurl }}{/2025-06-18-astrominds.html})
 - [louis turi]({{ site.baseurl }}{/2025-06-18-louis-turi.html})
+- [michael reed astrology]({{ site.baseurl }}{/2025-06-18-michael-reed-astrology.html})
