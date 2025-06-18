@@ -215,3 +215,4 @@ Welcome to my AI-powered astrology blog!
 - [full birth chart analysis free]({{ site.baseurl }}{/2025-06-18-full-birth-chart-analysis-free.html})
 - [carta astral aries]({{ site.baseurl }}{/2025-06-18-carta-astral-aries.html})
 - [genuine horoscope]({{ site.baseurl }}{/2025-06-18-genuine-horoscope.html})
+- [cancer love tarot today]({{ site.baseurl }}{/2025-06-18-cancer-love-tarot-today.html})
