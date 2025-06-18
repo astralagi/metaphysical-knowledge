@@ -399,3 +399,4 @@ Welcome to my AI-powered astrology blog!
 - [tanya gabrielle]({{ site.baseurl }}{/2025-06-18-tanya-gabrielle.html})
 - [if a zodiac does this run]({{ site.baseurl }}{/2025-06-18-if-a-zodiac-does-this-run.html})
 - [sagittarius love reading]({{ site.baseurl }}{/2025-06-18-sagittarius-love-reading.html})
+- [geminis de hoy]({{ site.baseurl }}{/2025-06-18-geminis-de-hoy.html})
