@@ -70,3 +70,4 @@ Welcome to my AI-powered astrology blog!
 - [best birth chart]({{ site.baseurl }}{/2025-06-18-best-birth-chart.html})
 - [my nadi astrology]({{ site.baseurl }}{/2025-06-18-my-nadi-astrology.html})
 - [decode astro]({{ site.baseurl }}{/2025-06-18-decode-astro.html})
+- [galactic astrology reading]({{ site.baseurl }}{/2025-06-18-galactic-astrology-reading.html})
