@@ -443,3 +443,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart forecast]({{ site.baseurl }}{/2025-06-18-birth-chart-forecast.html})
 - [whole sign birth chart]({{ site.baseurl }}{/2025-06-18-whole-sign-birth-chart.html})
 - [capricorn woman cancer man]({{ site.baseurl }}{/2025-06-18-capricorn-woman-cancer-man.html})
+- [co co star]({{ site.baseurl }}{/2025-06-18-co-co-star.html})
