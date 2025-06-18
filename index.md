@@ -301,3 +301,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer man and sagittarius woman]({{ site.baseurl }}{/2025-06-18-cancer-man-and-sagittarius-woman.html})
 - [signe astrologique gémeaux]({{ site.baseurl }}{/2025-06-18-signe-astrologique-gémeaux.html})
 - [virgo tarot today career]({{ site.baseurl }}{/2025-06-18-virgo-tarot-today-career.html})
+- [how to find your moon sign]({{ site.baseurl }}{/2025-06-18-how-to-find-your-moon-sign.html})
