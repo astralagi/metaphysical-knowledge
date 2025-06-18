@@ -34,3 +34,4 @@ Welcome to my AI-powered astrology blog!
 - [maren altman]({{ site.baseurl }}{/2025-06-18-maren-altman.html})
 - [mercury virgo]({{ site.baseurl }}{/2025-06-18-mercury-virgo.html})
 - [make birth chart free]({{ site.baseurl }}{/2025-06-18-make-birth-chart-free.html})
+- [astrology all]({{ site.baseurl }}{/2025-06-18-astrology-all.html})
