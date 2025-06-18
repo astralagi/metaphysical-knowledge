@@ -293,3 +293,4 @@ Welcome to my AI-powered astrology blog!
 - [how to get a free birth chart]({{ site.baseurl }}{/2025-06-18-how-to-get-a-free-birth-chart.html})
 - [capricorn horoscope]({{ site.baseurl }}{/2025-06-18-capricorn-horoscope.html})
 - [virgo daily horoscope]({{ site.baseurl }}{/2025-06-18-virgo-daily-horoscope.html})
+- [free parent child synastry chart]({{ site.baseurl }}{/2025-06-18-free-parent-child-synastry-chart.html})
