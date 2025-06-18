@@ -91,3 +91,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer readings]({{ site.baseurl }}{/2025-06-18-cancer-readings.html})
 - [how to find lucky day]({{ site.baseurl }}{/2025-06-18-how-to-find-lucky-day.html})
 - [astrological]({{ site.baseurl }}{/2025-06-18-astrological.html})
+- [aquarius today tarot]({{ site.baseurl }}{/2025-06-18-aquarius-today-tarot.html})
