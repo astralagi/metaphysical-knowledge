@@ -341,3 +341,4 @@ Welcome to my AI-powered astrology blog!
 - [natal chart ai]({{ site.baseurl }}{/2025-06-18-natal-chart-ai.html})
 - [moon rising sign]({{ site.baseurl }}{/2025-06-18-moon-rising-sign.html})
 - [astrotalk free chat online]({{ site.baseurl }}{/2025-06-18-astrotalk-free-chat-online.html})
+- [rising sun and moon sign]({{ site.baseurl }}{/2025-06-18-rising-sun-and-moon-sign.html})
