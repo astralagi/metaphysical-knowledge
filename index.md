@@ -11,3 +11,4 @@ Welcome to my AI-powered astrology blog!
 - [astrolog]({{ site.baseurl }}{/2025-06-18-astrolog.html})
 - [astrology]({{ site.baseurl }}{/2025-06-18-astrology.html})
 - [vedic astrology chart with interpretation free]({{ site.baseurl }}{/2025-06-18-vedic-astrology-chart-with-interpretation-free.html})
+- [sagittarius and aquarius love compatibility]({{ site.baseurl }}{/2025-06-18-sagittarius-and-aquarius-love-compatibility.html})
