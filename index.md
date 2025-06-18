@@ -471,3 +471,4 @@ Welcome to my AI-powered astrology blog!
 - [astro seek com]({{ site.baseurl }}{/2025-06-18-astro-seek-com.html})
 - [single cancer tarot reading]({{ site.baseurl }}{/2025-06-18-single-cancer-tarot-reading.html})
 - [cosmic owl astrology]({{ site.baseurl }}{/2025-06-18-cosmic-owl-astrology.html})
+- [sanctuary horoscope]({{ site.baseurl }}{/2025-06-18-sanctuary-horoscope.html})
