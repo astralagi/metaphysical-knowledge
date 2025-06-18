@@ -125,3 +125,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn tarot today 2025]({{ site.baseurl }}{/2025-06-18-capricorn-tarot-today-2025.html})
 - [janam kundli]({{ site.baseurl }}{/2025-06-18-janam-kundli.html})
 - [what is my element by birthday]({{ site.baseurl }}{/2025-06-18-what-is-my-element-by-birthday.html})
+- [rich lopp aquarius]({{ site.baseurl }}{/2025-06-18-rich-lopp-aquarius.html})
