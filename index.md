@@ -54,3 +54,4 @@ Welcome to my AI-powered astrology blog!
 - [compatible to sagittarius]({{ site.baseurl }}{/2025-06-18-compatible-to-sagittarius.html})
 - [leo tarot today 2025]({{ site.baseurl }}{/2025-06-18-leo-tarot-today-2025.html})
 - [vedic astrology aquarius]({{ site.baseurl }}{/2025-06-18-vedic-astrology-aquarius.html})
+- [astrologers near me]({{ site.baseurl }}{/2025-06-18-astrologers-near-me.html})
