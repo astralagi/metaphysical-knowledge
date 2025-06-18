@@ -298,3 +298,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius today]({{ site.baseurl }}{/2025-06-18-aquarius-today.html})
 - [singh rashi 2025 april mahina]({{ site.baseurl }}{/2025-06-18-singh-rashi-2025-april-mahina.html})
 - [leo tarot]({{ site.baseurl }}{/2025-06-18-leo-tarot.html})
+- [cancer man and sagittarius woman]({{ site.baseurl }}{/2025-06-18-cancer-man-and-sagittarius-woman.html})
