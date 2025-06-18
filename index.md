@@ -470,3 +470,4 @@ Welcome to my AI-powered astrology blog!
 - [starseed test free astrology]({{ site.baseurl }}{/2025-06-18-starseed-test-free-astrology.html})
 - [astro seek com]({{ site.baseurl }}{/2025-06-18-astro-seek-com.html})
 - [single cancer tarot reading]({{ site.baseurl }}{/2025-06-18-single-cancer-tarot-reading.html})
+- [cosmic owl astrology]({{ site.baseurl }}{/2025-06-18-cosmic-owl-astrology.html})
