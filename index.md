@@ -130,3 +130,4 @@ Welcome to my AI-powered astrology blog!
 - [aries and virgo compatibility love]({{ site.baseurl }}{/2025-06-18-aries-and-virgo-compatibility-love.html})
 - [tell me about astrology]({{ site.baseurl }}{/2025-06-18-tell-me-about-astrology.html})
 - [south node astrology]({{ site.baseurl }}{/2025-06-18-south-node-astrology.html})
+- [learn kundli]({{ site.baseurl }}{/2025-06-18-learn-kundli.html})
