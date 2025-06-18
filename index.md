@@ -264,3 +264,4 @@ Welcome to my AI-powered astrology blog!
 - [how to know my north node]({{ site.baseurl }}{/2025-06-18-how-to-know-my-north-node.html})
 - [astrosage com]({{ site.baseurl }}{/2025-06-18-astrosage-com.html})
 - [love prediction]({{ site.baseurl }}{/2025-06-18-love-prediction.html})
+- [horoscopes for today]({{ site.baseurl }}{/2025-06-18-horoscopes-for-today.html})
