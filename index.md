@@ -436,3 +436,4 @@ Welcome to my AI-powered astrology blog!
 - [how to figure out rising moon and sun]({{ site.baseurl }}{/2025-06-18-how-to-figure-out-rising-moon-and-sun.html})
 - [aquarius 2025]({{ site.baseurl }}{/2025-06-18-aquarius-2025.html})
 - [computer astrology online free]({{ site.baseurl }}{/2025-06-18-computer-astrology-online-free.html})
+- [how to get my birth chart]({{ site.baseurl }}{/2025-06-18-how-to-get-my-birth-chart.html})
