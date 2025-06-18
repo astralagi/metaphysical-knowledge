@@ -431,3 +431,4 @@ Welcome to my AI-powered astrology blog!
 - [generate birth chart free]({{ site.baseurl }}{/2025-06-18-generate-birth-chart-free.html})
 - [best horoscope]({{ site.baseurl }}{/2025-06-18-best-horoscope.html})
 - [gemini horoscope for today]({{ site.baseurl }}{/2025-06-18-gemini-horoscope-for-today.html})
+- [birth chart reading future]({{ site.baseurl }}{/2025-06-18-birth-chart-reading-future.html})
