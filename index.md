@@ -55,3 +55,4 @@ Welcome to my AI-powered astrology blog!
 - [leo tarot today 2025]({{ site.baseurl }}{/2025-06-18-leo-tarot-today-2025.html})
 - [vedic astrology aquarius]({{ site.baseurl }}{/2025-06-18-vedic-astrology-aquarius.html})
 - [astrologers near me]({{ site.baseurl }}{/2025-06-18-astrologers-near-me.html})
+- [explain my birth chart]({{ site.baseurl }}{/2025-06-18-explain-my-birth-chart.html})
