@@ -173,3 +173,4 @@ Welcome to my AI-powered astrology blog!
 - [cancer astrology horoscope]({{ site.baseurl }}{/2025-06-18-cancer-astrology-horoscope.html})
 - [how to read your astrology chart]({{ site.baseurl }}{/2025-06-18-how-to-read-your-astrology-chart.html})
 - [rashifal 2025]({{ site.baseurl }}{/2025-06-18-rashifal-2025.html})
+- [secret of the zodiac]({{ site.baseurl }}{/2025-06-18-secret-of-the-zodiac.html})
