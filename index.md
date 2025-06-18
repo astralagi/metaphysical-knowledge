@@ -492,3 +492,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology com]({{ site.baseurl }}{/2025-06-18-astrology-com.html})
 - [my personalised horoscope]({{ site.baseurl }}{/2025-06-18-my-personalised-horoscope.html})
 - [beyond astrology with heather]({{ site.baseurl }}{/2025-06-18-beyond-astrology-with-heather.html})
+- [gemini female and capricorn male compatibility]({{ site.baseurl }}{/2025-06-18-gemini-female-and-capricorn-male-compatibility.html})
