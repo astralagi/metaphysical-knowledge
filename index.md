@@ -133,3 +133,4 @@ Welcome to my AI-powered astrology blog!
 - [learn kundli]({{ site.baseurl }}{/2025-06-18-learn-kundli.html})
 - [scorpio tarot 2025]({{ site.baseurl }}{/2025-06-18-scorpio-tarot-2025.html})
 - [pisceslove]({{ site.baseurl }}{/2025-06-18-pisceslove.html})
+- [birthday compatibility]({{ site.baseurl }}{/2025-06-18-birthday-compatibility.html})
