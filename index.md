@@ -251,3 +251,4 @@ Welcome to my AI-powered astrology blog!
 - [proactive astrology andre]({{ site.baseurl }}{/2025-06-18-proactive-astrology-andre.html})
 - [scorpio aquarius tarot]({{ site.baseurl }}{/2025-06-18-scorpio-aquarius-tarot.html})
 - [libra man and gemini woman relationship]({{ site.baseurl }}{/2025-06-18-libra-man-and-gemini-woman-relationship.html})
+- [astroseekers]({{ site.baseurl }}{/2025-06-18-astroseekers.html})
