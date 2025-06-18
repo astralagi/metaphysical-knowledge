@@ -192,3 +192,4 @@ Welcome to my AI-powered astrology blog!
 - [compatibility chart]({{ site.baseurl }}{/2025-06-18-compatibility-chart.html})
 - [mesha rasi palan]({{ site.baseurl }}{/2025-06-18-mesha-rasi-palan.html})
 - [sanctuary astrology]({{ site.baseurl }}{/2025-06-18-sanctuary-astrology.html})
+- [astro bharath]({{ site.baseurl }}{/2025-06-18-astro-bharath.html})
