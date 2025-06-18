@@ -454,3 +454,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology reading free]({{ site.baseurl }}{/2025-06-18-astrology-reading-free.html})
 - [planet mercury astrology]({{ site.baseurl }}{/2025-06-18-planet-mercury-astrology.html})
 - [horoscopes are real]({{ site.baseurl }}{/2025-06-18-horoscopes-are-real.html})
+- [cancer love horoscope]({{ site.baseurl }}{/2025-06-18-cancer-love-horoscope.html})
