@@ -294,3 +294,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn horoscope]({{ site.baseurl }}{/2025-06-18-capricorn-horoscope.html})
 - [virgo daily horoscope]({{ site.baseurl }}{/2025-06-18-virgo-daily-horoscope.html})
 - [free parent child synastry chart]({{ site.baseurl }}{/2025-06-18-free-parent-child-synastry-chart.html})
+- [saber es poder virgo hoy]({{ site.baseurl }}{/2025-06-18-saber-es-poder-virgo-hoy.html})
