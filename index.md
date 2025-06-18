@@ -384,3 +384,4 @@ Welcome to my AI-powered astrology blog!
 - [june 1 2025 astrology]({{ site.baseurl }}{/2025-06-18-june-1-2025-astrology.html})
 - [horoscopes]({{ site.baseurl }}{/2025-06-18-horoscopes.html})
 - [samiah khan astrologer]({{ site.baseurl }}{/2025-06-18-samiah-khan-astrologer.html})
+- [kabbalistic astrology]({{ site.baseurl }}{/2025-06-18-kabbalistic-astrology.html})
