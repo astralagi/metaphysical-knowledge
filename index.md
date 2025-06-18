@@ -113,3 +113,4 @@ Welcome to my AI-powered astrology blog!
 - [may 30th 2025 horoscope]({{ site.baseurl }}{/2025-06-18-may-30th-2025-horoscope.html})
 - [scorpio horoscope]({{ site.baseurl }}{/2025-06-18-scorpio-horoscope.html})
 - [horoscope aquarius astrology]({{ site.baseurl }}{/2025-06-18-horoscope-aquarius-astrology.html})
+- [scorpio astrology april 2025]({{ site.baseurl }}{/2025-06-18-scorpio-astrology-april-2025.html})
