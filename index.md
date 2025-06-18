@@ -300,3 +300,4 @@ Welcome to my AI-powered astrology blog!
 - [leo tarot]({{ site.baseurl }}{/2025-06-18-leo-tarot.html})
 - [cancer man and sagittarius woman]({{ site.baseurl }}{/2025-06-18-cancer-man-and-sagittarius-woman.html})
 - [signe astrologique gémeaux]({{ site.baseurl }}{/2025-06-18-signe-astrologique-gémeaux.html})
+- [virgo tarot today career]({{ site.baseurl }}{/2025-06-18-virgo-tarot-today-career.html})
