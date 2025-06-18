@@ -415,3 +415,4 @@ Welcome to my AI-powered astrology blog!
 - [free electional astrology]({{ site.baseurl }}{/2025-06-18-free-electional-astrology.html})
 - [natal chart]({{ site.baseurl }}{/2025-06-18-natal-chart.html})
 - [2025 predictions indian astrology]({{ site.baseurl }}{/2025-06-18-2025-predictions-indian-astrology.html})
+- [astrominds]({{ site.baseurl }}{/2025-06-18-astrominds.html})
