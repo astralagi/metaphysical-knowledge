@@ -481,3 +481,4 @@ Welcome to my AI-powered astrology blog!
 - [astro mysore]({{ site.baseurl }}{/2025-06-18-astro-mysore.html})
 - [when will i get pregnant prediction]({{ site.baseurl }}{/2025-06-18-when-will-i-get-pregnant-prediction.html})
 - [ra akhu astrology]({{ site.baseurl }}{/2025-06-18-ra-akhu-astrology.html})
+- [chart rectification]({{ site.baseurl }}{/2025-06-18-chart-rectification.html})
