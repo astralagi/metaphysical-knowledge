@@ -346,3 +346,4 @@ Welcome to my AI-powered astrology blog!
 - [robert cosmar]({{ site.baseurl }}{/2025-06-18-robert-cosmar.html})
 - [destiny matrix chart]({{ site.baseurl }}{/2025-06-18-destiny-matrix-chart.html})
 - [how to know your soulmate astrology]({{ site.baseurl }}{/2025-06-18-how-to-know-your-soulmate-astrology.html})
+- [my birth chart free online]({{ site.baseurl }}{/2025-06-18-my-birth-chart-free-online.html})
