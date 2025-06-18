@@ -138,3 +138,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find your astrology birth chart]({{ site.baseurl }}{/2025-06-18-how-to-find-your-astrology-birth-chart.html})
 - [quackity birth chart]({{ site.baseurl }}{/2025-06-18-quackity-birth-chart.html})
 - [pisces love reading]({{ site.baseurl }}{/2025-06-18-pisces-love-reading.html})
+- [cancer love]({{ site.baseurl }}{/2025-06-18-cancer-love.html})
