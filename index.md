@@ -486,3 +486,4 @@ Welcome to my AI-powered astrology blog!
 - [capricornio abril 2025]({{ site.baseurl }}{/2025-06-18-capricornio-abril-2025.html})
 - [horoscope by date and time of birth]({{ site.baseurl }}{/2025-06-18-horoscope-by-date-and-time-of-birth.html})
 - [birth horoscope]({{ site.baseurl }}{/2025-06-18-birth-horoscope.html})
+- [i want to know my future life partner name]({{ site.baseurl }}{/2025-06-18-i-want-to-know-my-future-life-partner-name.html})
