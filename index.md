@@ -59,3 +59,4 @@ Welcome to my AI-powered astrology blog!
 - [astro jankari]({{ site.baseurl }}{/2025-06-18-astro-jankari.html})
 - [astroscience free kundli]({{ site.baseurl }}{/2025-06-18-astroscience-free-kundli.html})
 - [rahu calculator]({{ site.baseurl }}{/2025-06-18-rahu-calculator.html})
+- [how do i know my rashi]({{ site.baseurl }}{/2025-06-18-how-do-i-know-my-rashi.html})
