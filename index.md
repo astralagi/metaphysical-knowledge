@@ -77,3 +77,4 @@ Welcome to my AI-powered astrology blog!
 - [the planets astrology]({{ site.baseurl }}{/2025-06-18-the-planets-astrology.html})
 - [gd vashist free prediction]({{ site.baseurl }}{/2025-06-18-gd-vashist-free-prediction.html})
 - [vinny astro]({{ site.baseurl }}{/2025-06-18-vinny-astro.html})
+- [astrology canada]({{ site.baseurl }}{/2025-06-18-astrology-canada.html})
