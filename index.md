@@ -52,3 +52,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces career]({{ site.baseurl }}{/2025-06-18-pisces-career.html})
 - [virgo horoscope business expansion opportunities]({{ site.baseurl }}{/2025-06-18-virgo-horoscope-business-expansion-opportunities.html})
 - [compatible to sagittarius]({{ site.baseurl }}{/2025-06-18-compatible-to-sagittarius.html})
+- [leo tarot today 2025]({{ site.baseurl }}{/2025-06-18-leo-tarot-today-2025.html})
