@@ -484,3 +484,4 @@ Welcome to my AI-powered astrology blog!
 - [chart rectification]({{ site.baseurl }}{/2025-06-18-chart-rectification.html})
 - [horoscope reading]({{ site.baseurl }}{/2025-06-18-horoscope-reading.html})
 - [capricornio abril 2025]({{ site.baseurl }}{/2025-06-18-capricornio-abril-2025.html})
+- [horoscope by date and time of birth]({{ site.baseurl }}{/2025-06-18-horoscope-by-date-and-time-of-birth.html})
