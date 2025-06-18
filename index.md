@@ -140,3 +140,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces love reading]({{ site.baseurl }}{/2025-06-18-pisces-love-reading.html})
 - [cancer love]({{ site.baseurl }}{/2025-06-18-cancer-love.html})
 - [the leo king]({{ site.baseurl }}{/2025-06-18-the-leo-king.html})
+- [find my rising sun and moon sign]({{ site.baseurl }}{/2025-06-18-find-my-rising-sun-and-moon-sign.html})
