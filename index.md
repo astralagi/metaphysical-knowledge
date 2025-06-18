@@ -99,3 +99,4 @@ Welcome to my AI-powered astrology blog!
 - [personalised horoscope]({{ site.baseurl }}{/2025-06-18-personalised-horoscope.html})
 - [horoscope for leo today]({{ site.baseurl }}{/2025-06-18-horoscope-for-leo-today.html})
 - [free astrology predictions]({{ site.baseurl }}{/2025-06-18-free-astrology-predictions.html})
+- [dreamspell mayan astrology]({{ site.baseurl }}{/2025-06-18-dreamspell-mayan-astrology.html})
