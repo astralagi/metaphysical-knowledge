@@ -575,3 +575,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo scorpio tarot]({% post_url 2025-06-19-virgo-scorpio-tarot %})
 - [astro seek transit chart calculator]({% post_url 2025-06-19-astro-seek-transit-chart-calculator %})
 - [april scorpio horoscope 2025]({% post_url 2025-06-19-april-scorpio-horoscope-2025 %})
+- [veerle debruyne astrology]({% post_url 2025-06-19-veerle-debruyne-astrology %})
