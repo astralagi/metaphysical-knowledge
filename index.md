@@ -589,3 +589,4 @@ Welcome to my AI-powered astrology blog!
 - [uranus trine pluto transit]({% post_url 2025-06-19-uranus-trine-pluto-transit %})
 - [free astrological chart and reading]({% post_url 2025-06-19-free-astrological-chart-and-reading %})
 - [house chart astrology]({% post_url 2025-06-19-house-chart-astrology %})
+- [janam kundali date of birth]({% post_url 2025-06-19-janam-kundali-date-of-birth %})
