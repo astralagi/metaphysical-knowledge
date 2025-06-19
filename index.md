@@ -520,3 +520,4 @@ Welcome to my AI-powered astrology blog!
 - [natal chart reading]({% post_url 2025-06-19-natal-chart-reading %})
 - [libra horoscope]({% post_url 2025-06-19-libra-horoscope %})
 - [north node in gemini]({% post_url 2025-06-19-north-node-in-gemini %})
+- [loka astrology]({% post_url 2025-06-19-loka-astrology %})
