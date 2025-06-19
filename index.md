@@ -595,3 +595,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali ai]({% post_url 2025-06-19-kundali-ai %})
 - [nakshatra astrology]({% post_url 2025-06-19-nakshatra-astrology %})
 - [horoscope for today]({% post_url 2025-06-19-horoscope-for-today %})
+- [prediction by birth chart]({% post_url 2025-06-19-prediction-by-birth-chart %})
