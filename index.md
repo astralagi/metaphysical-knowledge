@@ -620,3 +620,4 @@ Welcome to my AI-powered astrology blog!
 - [astrochat ai]({% post_url 2025-06-19-astrochat-ai %})
 - [astro arun pandit leo 2025]({% post_url 2025-06-19-astro-arun-pandit-leo-2025 %})
 - [learning astrology]({% post_url 2025-06-19-learning-astrology %})
+- [rux astrology]({% post_url 2025-06-19-rux-astrology %})
