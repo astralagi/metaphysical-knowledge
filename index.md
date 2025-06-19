@@ -768,3 +768,4 @@ Welcome to my AI-powered astrology blog!
 - [daily horoscope sagittarius today]({% post_url 2025-06-19-daily-horoscope-sagittarius-today %})
 - [free astro chart compatibility]({% post_url 2025-06-19-free-astro-chart-compatibility %})
 - [indian astrologer in dallas]({% post_url 2025-06-19-indian-astrologer-in-dallas %})
+- [queen amun ra tarot capricorn]({% post_url 2025-06-19-queen-amun-ra-tarot-capricorn %})
