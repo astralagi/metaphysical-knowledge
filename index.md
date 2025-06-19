@@ -693,3 +693,4 @@ Welcome to my AI-powered astrology blog!
 - [daily horoscope scorpio]({% post_url 2025-06-19-daily-horoscope-scorpio %})
 - [astrology calculators]({% post_url 2025-06-19-astrology-calculators %})
 - [astro reading]({% post_url 2025-06-19-astro-reading %})
+- [astrology horoscope compatibility]({% post_url 2025-06-19-astrology-horoscope-compatibility %})
