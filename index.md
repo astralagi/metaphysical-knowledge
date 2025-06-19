@@ -713,3 +713,4 @@ Welcome to my AI-powered astrology blog!
 - [porondama]({% post_url 2025-06-19-porondama %})
 - [most accurate birth chart]({% post_url 2025-06-19-most-accurate-birth-chart %})
 - [most accurate natal chart reading]({% post_url 2025-06-19-most-accurate-natal-chart-reading %})
+- [world predictions]({% post_url 2025-06-19-world-predictions %})
