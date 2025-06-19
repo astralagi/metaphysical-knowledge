@@ -691,3 +691,4 @@ Welcome to my AI-powered astrology blog!
 - [astro astro]({% post_url 2025-06-19-astro-astro %})
 - [full horoscope by date of birth]({% post_url 2025-06-19-full-horoscope-by-date-of-birth %})
 - [daily horoscope scorpio]({% post_url 2025-06-19-daily-horoscope-scorpio %})
+- [astrology calculators]({% post_url 2025-06-19-astrology-calculators %})
