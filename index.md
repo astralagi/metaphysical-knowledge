@@ -616,3 +616,4 @@ Welcome to my AI-powered astrology blog!
 - [accurate daily scorpio horoscope]({% post_url 2025-06-19-accurate-daily-scorpio-horoscope %})
 - [gemini weekly tarot]({% post_url 2025-06-19-gemini-weekly-tarot %})
 - [leo king]({% post_url 2025-06-19-leo-king %})
+- [free natal birth chart]({% post_url 2025-06-19-free-natal-birth-chart %})
