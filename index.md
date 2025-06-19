@@ -804,3 +804,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius reading 2025]({% post_url 2025-06-19-aquarius-reading-2025 %})
 - [aquarius and capricorn relationship]({% post_url 2025-06-19-aquarius-and-capricorn-relationship %})
 - [astro charts]({% post_url 2025-06-19-astro-charts %})
+- [nebula natal chart]({% post_url 2025-06-19-nebula-natal-chart %})
