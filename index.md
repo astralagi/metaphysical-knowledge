@@ -696,3 +696,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology horoscope compatibility]({% post_url 2025-06-19-astrology-horoscope-compatibility %})
 - [como sacar la carta astral de una persona]({% post_url 2025-06-19-como-sacar-la-carta-astral-de-una-persona %})
 - [pisces horoscope 2025]({% post_url 2025-06-19-pisces-horoscope-2025 %})
+- [free human design reading]({% post_url 2025-06-19-free-human-design-reading %})
