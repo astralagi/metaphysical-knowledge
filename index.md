@@ -690,3 +690,4 @@ Welcome to my AI-powered astrology blog!
 - [sagittarius april 2025 horoscope]({% post_url 2025-06-19-sagittarius-april-2025-horoscope %})
 - [astro astro]({% post_url 2025-06-19-astro-astro %})
 - [full horoscope by date of birth]({% post_url 2025-06-19-full-horoscope-by-date-of-birth %})
+- [daily horoscope scorpio]({% post_url 2025-06-19-daily-horoscope-scorpio %})
