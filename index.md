@@ -630,3 +630,4 @@ Welcome to my AI-powered astrology blog!
 - [june 8 2025 horoscope]({% post_url 2025-06-19-june-8-2025-horoscope %})
 - [capricorn reading]({% post_url 2025-06-19-capricorn-reading %})
 - [personal chart reading]({% post_url 2025-06-19-personal-chart-reading %})
+- [what are my astrology signs big 3]({% post_url 2025-06-19-what-are-my-astrology-signs-big-3 %})
