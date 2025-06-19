@@ -781,3 +781,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope gemini today]({% post_url 2025-06-19-horoscope-gemini-today %})
 - [natal chart personality report]({% post_url 2025-06-19-natal-chart-personality-report %})
 - [am i a robot or a doll astro]({% post_url 2025-06-19-am-i-a-robot-or-a-doll-astro %})
+- [astrologer dr y rakhi]({% post_url 2025-06-19-astrologer-dr-y-rakhi %})
