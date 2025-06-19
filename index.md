@@ -571,3 +571,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn today tarot]({% post_url 2025-06-19-capricorn-today-tarot %})
 - [dr pankaj nagar astrologer]({% post_url 2025-06-19-dr-pankaj-nagar-astrologer %})
 - [how can i find my rising sign]({% post_url 2025-06-19-how-can-i-find-my-rising-sign %})
+- [www monastro org]({% post_url 2025-06-19-www-monastro-org %})
