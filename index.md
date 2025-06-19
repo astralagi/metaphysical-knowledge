@@ -708,3 +708,4 @@ Welcome to my AI-powered astrology blog!
 - [free accurate tarot reading]({% post_url 2025-06-19-free-accurate-tarot-reading %})
 - [astrology house calculator]({% post_url 2025-06-19-astrology-house-calculator %})
 - [how can i know my zodiac sign]({% post_url 2025-06-19-how-can-i-know-my-zodiac-sign %})
+- [my natal chart breakdown]({% post_url 2025-06-19-my-natal-chart-breakdown %})
