@@ -700,3 +700,4 @@ Welcome to my AI-powered astrology blog!
 - [online free palm reading]({% post_url 2025-06-19-online-free-palm-reading %})
 - [leo virgo cusp horoscope today]({% post_url 2025-06-19-leo-virgo-cusp-horoscope-today %})
 - [compatibility report]({% post_url 2025-06-19-compatibility-report %})
+- [compatibility test by date of birth]({% post_url 2025-06-19-compatibility-test-by-date-of-birth %})
