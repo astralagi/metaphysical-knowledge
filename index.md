@@ -566,3 +566,4 @@ Welcome to my AI-powered astrology blog!
 - [clickastro]({% post_url 2025-06-19-clickastro %})
 - [horoscopo geminis]({% post_url 2025-06-19-horoscopo-geminis %})
 - [kundali making]({% post_url 2025-06-19-kundali-making %})
+- [taurus zodiac sign soulmate]({% post_url 2025-06-19-taurus-zodiac-sign-soulmate %})
