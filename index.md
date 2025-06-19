@@ -604,3 +604,4 @@ Welcome to my AI-powered astrology blog!
 - [woman pisces horoscope]({% post_url 2025-06-19-woman-pisces-horoscope %})
 - [midheaven astrology]({% post_url 2025-06-19-midheaven-astrology %})
 - [life path 7]({% post_url 2025-06-19-life-path-7 %})
+- [astrology based dating app]({% post_url 2025-06-19-astrology-based-dating-app %})
