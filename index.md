@@ -679,3 +679,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces horoscope today]({% post_url 2025-06-19-pisces-horoscope-today %})
 - [syed haider jafri]({% post_url 2025-06-19-syed-haider-jafri %})
 - [know your love life by date of birth]({% post_url 2025-06-19-know-your-love-life-by-date-of-birth %})
+- [couples astrology chart]({% post_url 2025-06-19-couples-astrology-chart %})
