@@ -533,3 +533,4 @@ Welcome to my AI-powered astrology blog!
 - [free 5 minutes astrology]({% post_url 2025-06-19-free-5-minutes-astrology %})
 - [zodiac compatibility]({% post_url 2025-06-19-zodiac-compatibility %})
 - [natal chart free]({% post_url 2025-06-19-natal-chart-free %})
+- [aquarius and taurus compatibility]({% post_url 2025-06-19-aquarius-and-taurus-compatibility %})
