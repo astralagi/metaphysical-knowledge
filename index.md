@@ -765,3 +765,4 @@ Welcome to my AI-powered astrology blog!
 - [what the signa]({% post_url 2025-06-19-what-the-signa %})
 - [astrology with ninad]({% post_url 2025-06-19-astrology-with-ninad %})
 - [fire and air signs compatibility]({% post_url 2025-06-19-fire-and-air-signs-compatibility %})
+- [daily horoscope sagittarius today]({% post_url 2025-06-19-daily-horoscope-sagittarius-today %})
