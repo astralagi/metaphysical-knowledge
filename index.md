@@ -580,3 +580,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope times of india]({% post_url 2025-06-19-horoscope-times-of-india %})
 - [today horoscope sagittarius]({% post_url 2025-06-19-today-horoscope-sagittarius %})
 - [in depth natal chart reading free]({% post_url 2025-06-19-in-depth-natal-chart-reading-free %})
+- [love test]({% post_url 2025-06-19-love-test %})
