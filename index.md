@@ -783,3 +783,4 @@ Welcome to my AI-powered astrology blog!
 - [am i a robot or a doll astro]({% post_url 2025-06-19-am-i-a-robot-or-a-doll-astro %})
 - [astrologer dr y rakhi]({% post_url 2025-06-19-astrologer-dr-y-rakhi %})
 - [astro charts com birth chart]({% post_url 2025-06-19-astro-charts-com-birth-chart %})
+- [capricorn today horoscope]({% post_url 2025-06-19-capricorn-today-horoscope %})
