@@ -509,3 +509,4 @@ Welcome to my AI-powered astrology blog!
 - [molly mccord astrology]({% post_url 2025-06-19-molly-mccord-astrology %})
 - [gemini reading today]({% post_url 2025-06-19-gemini-reading-today %})
 - [astrology america]({% post_url 2025-06-19-astrology-america %})
+- [horoscopo de cancer hoy]({% post_url 2025-06-19-horoscopo-de-cancer-hoy %})
