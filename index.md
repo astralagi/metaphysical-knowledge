@@ -743,3 +743,4 @@ Welcome to my AI-powered astrology blog!
 - [medical astrologer prashant kapoor]({% post_url 2025-06-19-medical-astrologer-prashant-kapoor %})
 - [astrology birth dates compatibility]({% post_url 2025-06-19-astrology-birth-dates-compatibility %})
 - [vedic birth chart calculator]({% post_url 2025-06-19-vedic-birth-chart-calculator %})
+- [king astro]({% post_url 2025-06-19-king-astro %})
