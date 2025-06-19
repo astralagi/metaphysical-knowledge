@@ -686,3 +686,4 @@ Welcome to my AI-powered astrology blog!
 - [nadi astrology]({% post_url 2025-06-19-nadi-astrology %})
 - [reading astrology chart]({% post_url 2025-06-19-reading-astrology-chart %})
 - [empowerment unlimited]({% post_url 2025-06-19-empowerment-unlimited %})
+- [kathy biehl astrology]({% post_url 2025-06-19-kathy-biehl-astrology %})
