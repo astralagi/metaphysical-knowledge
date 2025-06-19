@@ -647,3 +647,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic report]({% post_url 2025-06-19-vedic-report %})
 - [how to get my horoscope online]({% post_url 2025-06-19-how-to-get-my-horoscope-online %})
 - [my astrology chart free]({% post_url 2025-06-19-my-astrology-chart-free %})
+- [astro jyotish]({% post_url 2025-06-19-astro-jyotish %})
