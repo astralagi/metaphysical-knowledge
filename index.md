@@ -565,3 +565,4 @@ Welcome to my AI-powered astrology blog!
 - [brandon walsh astrology]({% post_url 2025-06-19-brandon-walsh-astrology %})
 - [clickastro]({% post_url 2025-06-19-clickastro %})
 - [horoscopo geminis]({% post_url 2025-06-19-horoscopo-geminis %})
+- [kundali making]({% post_url 2025-06-19-kundali-making %})
