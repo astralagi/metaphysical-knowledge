@@ -545,3 +545,4 @@ Welcome to my AI-powered astrology blog!
 - [nuworld tarot]({% post_url 2025-06-19-nuworld-tarot %})
 - [aries for april]({% post_url 2025-06-19-aries-for-april %})
 - [astrology chart software for mac]({% post_url 2025-06-19-astrology-chart-software-for-mac %})
+- [kim allen astrology]({% post_url 2025-06-19-kim-allen-astrology %})
