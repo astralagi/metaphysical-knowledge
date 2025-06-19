@@ -618,3 +618,4 @@ Welcome to my AI-powered astrology blog!
 - [leo king]({% post_url 2025-06-19-leo-king %})
 - [free natal birth chart]({% post_url 2025-06-19-free-natal-birth-chart %})
 - [astrochat ai]({% post_url 2025-06-19-astrochat-ai %})
+- [astro arun pandit leo 2025]({% post_url 2025-06-19-astro-arun-pandit-leo-2025 %})
