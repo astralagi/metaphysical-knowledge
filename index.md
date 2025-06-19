@@ -653,3 +653,4 @@ Welcome to my AI-powered astrology blog!
 - [tula rashi]({% post_url 2025-06-19-tula-rashi %})
 - [kundli free]({% post_url 2025-06-19-kundli-free %})
 - [romantic compatibility by birth date free]({% post_url 2025-06-19-romantic-compatibility-by-birth-date-free %})
+- [what's happening in the cosmos today astrology]({% post_url 2025-06-19-whats-happening-in-the-cosmos-today-astrology %})
