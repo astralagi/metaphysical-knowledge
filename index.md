@@ -737,3 +737,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius reading today]({% post_url 2025-06-19-aquarius-reading-today %})
 - [astrology about career]({% post_url 2025-06-19-astrology-about-career %})
 - [astrology birth chart]({% post_url 2025-06-19-astrology-birth-chart %})
+- [appnebula]({% post_url 2025-06-19-appnebula %})
