@@ -715,3 +715,4 @@ Welcome to my AI-powered astrology blog!
 - [most accurate natal chart reading]({% post_url 2025-06-19-most-accurate-natal-chart-reading %})
 - [world predictions]({% post_url 2025-06-19-world-predictions %})
 - [first free chat with astrologer]({% post_url 2025-06-19-first-free-chat-with-astrologer %})
+- [how to read birth chart astrology]({% post_url 2025-06-19-how-to-read-birth-chart-astrology %})
