@@ -659,3 +659,4 @@ Welcome to my AI-powered astrology blog!
 - [how to read kundli chart]({% post_url 2025-06-19-how-to-read-kundli-chart %})
 - [taurus north node]({% post_url 2025-06-19-taurus-north-node %})
 - [sitara kesy pta chly ga]({% post_url 2025-06-19-sitara-kesy-pta-chly-ga %})
+- [zodiac compatibility calculator]({% post_url 2025-06-19-zodiac-compatibility-calculator %})
