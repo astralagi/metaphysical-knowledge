@@ -801,3 +801,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn the year that you were born song]({% post_url 2025-06-19-capricorn-the-year-that-you-were-born-song %})
 - [natal chart synastry report]({% post_url 2025-06-19-natal-chart-synastry-report %})
 - [calculate my midheaven]({% post_url 2025-06-19-calculate-my-midheaven %})
+- [aquarius reading 2025]({% post_url 2025-06-19-aquarius-reading-2025 %})
