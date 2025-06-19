@@ -532,3 +532,4 @@ Welcome to my AI-powered astrology blog!
 - [what house is my black moon lilith in]({% post_url 2025-06-19-what-house-is-my-black-moon-lilith-in %})
 - [free 5 minutes astrology]({% post_url 2025-06-19-free-5-minutes-astrology %})
 - [zodiac compatibility]({% post_url 2025-06-19-zodiac-compatibility %})
+- [natal chart free]({% post_url 2025-06-19-natal-chart-free %})
