@@ -502,3 +502,4 @@ Welcome to my AI-powered astrology blog!
 - [African Astrology]({% post_url 2025-06-18-african-astrology %})
 - [2025 Predictions Indian Astrology]({% post_url 2025-06-18-2025-predictions-indian-astrology %})
 - [13 Sign Astrology Chart Calculator Free]({% post_url 2025-06-18-13-sign-astrology-chart-calculator-free %})
+- [Mars in Aries]({% post_url 2025-06-19-mars-in-aries %})
