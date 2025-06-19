@@ -528,3 +528,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn tarot today]({% post_url 2025-06-19-capricorn-tarot-today %})
 - [wedding astrology chart]({% post_url 2025-06-19-wedding-astrology-chart %})
 - [astro nikhil]({% post_url 2025-06-19-astro-nikhil %})
+- [gemini 2025]({% post_url 2025-06-19-gemini-2025 %})
