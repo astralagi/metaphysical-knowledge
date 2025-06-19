@@ -755,3 +755,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology birth charts]({% post_url 2025-06-19-astrology-birth-charts %})
 - [astrology career prediction]({% post_url 2025-06-19-astrology-career-prediction %})
 - [carta astral]({% post_url 2025-06-19-carta-astral %})
+- [astrological charts free online]({% post_url 2025-06-19-astrological-charts-free-online %})
