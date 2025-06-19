@@ -547,3 +547,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology chart software for mac]({% post_url 2025-06-19-astrology-chart-software-for-mac %})
 - [kim allen astrology]({% post_url 2025-06-19-kim-allen-astrology %})
 - [astroclick]({% post_url 2025-06-19-astroclick %})
+- [zodiac compatibility test]({% post_url 2025-06-19-zodiac-compatibility-test %})
