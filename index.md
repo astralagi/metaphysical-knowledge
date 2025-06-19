@@ -518,3 +518,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali milan by date of birth]({% post_url 2025-06-19-kundali-milan-by-date-of-birth %})
 - [astrosage]({% post_url 2025-06-19-astrosage %})
 - [natal chart reading]({% post_url 2025-06-19-natal-chart-reading %})
+- [libra horoscope]({% post_url 2025-06-19-libra-horoscope %})
