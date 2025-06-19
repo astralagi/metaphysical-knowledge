@@ -597,3 +597,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope for today]({% post_url 2025-06-19-horoscope-for-today %})
 - [prediction by birth chart]({% post_url 2025-06-19-prediction-by-birth-chart %})
 - [bazi]({% post_url 2025-06-19-bazi %})
+- [sagittarius libra compatibility]({% post_url 2025-06-19-sagittarius-libra-compatibility %})
