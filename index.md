@@ -710,3 +710,4 @@ Welcome to my AI-powered astrology blog!
 - [how can i know my zodiac sign]({% post_url 2025-06-19-how-can-i-know-my-zodiac-sign %})
 - [my natal chart breakdown]({% post_url 2025-06-19-my-natal-chart-breakdown %})
 - [past lives birth chart]({% post_url 2025-06-19-past-lives-birth-chart %})
+- [porondama]({% post_url 2025-06-19-porondama %})
