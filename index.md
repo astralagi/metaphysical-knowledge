@@ -524,3 +524,4 @@ Welcome to my AI-powered astrology blog!
 - [pushya nakshatra 2025 prediction]({% post_url 2025-06-19-pushya-nakshatra-2025-prediction %})
 - [past life reading astrology]({% post_url 2025-06-19-past-life-reading-astrology %})
 - [fortune teller free ask question]({% post_url 2025-06-19-fortune-teller-free-ask-question %})
+- [true astrology]({% post_url 2025-06-19-true-astrology %})
