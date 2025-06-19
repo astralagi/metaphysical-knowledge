@@ -775,3 +775,4 @@ Welcome to my AI-powered astrology blog!
 - [arvind sood numerologist]({% post_url 2025-06-19-arvind-sood-numerologist %})
 - [astrolin]({% post_url 2025-06-19-astrolin %})
 - [scorpio rising]({% post_url 2025-06-19-scorpio-rising %})
+- [cancer love compatibility]({% post_url 2025-06-19-cancer-love-compatibility %})
