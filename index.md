@@ -681,3 +681,4 @@ Welcome to my AI-powered astrology blog!
 - [know your love life by date of birth]({% post_url 2025-06-19-know-your-love-life-by-date-of-birth %})
 - [couples astrology chart]({% post_url 2025-06-19-couples-astrology-chart %})
 - [hint app]({% post_url 2025-06-19-hint-app %})
+- [aries weekly horoscope]({% post_url 2025-06-19-aries-weekly-horoscope %})
