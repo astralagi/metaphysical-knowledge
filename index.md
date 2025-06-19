@@ -694,3 +694,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology calculators]({% post_url 2025-06-19-astrology-calculators %})
 - [astro reading]({% post_url 2025-06-19-astro-reading %})
 - [astrology horoscope compatibility]({% post_url 2025-06-19-astrology-horoscope-compatibility %})
+- [como sacar la carta astral de una persona]({% post_url 2025-06-19-como-sacar-la-carta-astral-de-una-persona %})
