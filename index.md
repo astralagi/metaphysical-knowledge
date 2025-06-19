@@ -750,3 +750,4 @@ Welcome to my AI-powered astrology blog!
 - [completely free psychic readings]({% post_url 2025-06-19-completely-free-psychic-readings %})
 - [libra career horoscope 2025]({% post_url 2025-06-19-libra-career-horoscope-2025 %})
 - [aries reading for today]({% post_url 2025-06-19-aries-reading-for-today %})
+- [how to check gana in astrology]({% post_url 2025-06-19-how-to-check-gana-in-astrology %})
