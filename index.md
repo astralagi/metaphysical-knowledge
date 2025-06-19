@@ -753,3 +753,4 @@ Welcome to my AI-powered astrology blog!
 - [how to check gana in astrology]({% post_url 2025-06-19-how-to-check-gana-in-astrology %})
 - [spiritually boujee astrology]({% post_url 2025-06-19-spiritually-boujee-astrology %})
 - [astrology birth charts]({% post_url 2025-06-19-astrology-birth-charts %})
+- [astrology career prediction]({% post_url 2025-06-19-astrology-career-prediction %})
