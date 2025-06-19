@@ -796,3 +796,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac compatibilities]({% post_url 2025-06-19-zodiac-compatibilities %})
 - [free love tarot reading by date of birth]({% post_url 2025-06-19-free-love-tarot-reading-by-date-of-birth %})
 - [rising sign and moon sign calculator]({% post_url 2025-06-19-rising-sign-and-moon-sign-calculator %})
+- [pam gregory]({% post_url 2025-06-19-pam-gregory %})
