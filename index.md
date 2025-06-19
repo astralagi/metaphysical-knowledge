@@ -608,3 +608,4 @@ Welcome to my AI-powered astrology blog!
 - [astrocartography love]({% post_url 2025-06-19-astrocartography-love %})
 - [astrology report]({% post_url 2025-06-19-astrology-report %})
 - [get astrology predictions]({% post_url 2025-06-19-get-astrology-predictions %})
+- [libra 2026 horoscope]({% post_url 2025-06-19-libra-2026-horoscope %})
