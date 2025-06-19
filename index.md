@@ -541,3 +541,4 @@ Welcome to my AI-powered astrology blog!
 - [free compatibility]({% post_url 2025-06-19-free-compatibility %})
 - [how to find zodiac sign]({% post_url 2025-06-19-how-to-find-zodiac-sign %})
 - [astrology debra silverman]({% post_url 2025-06-19-astrology-debra-silverman %})
+- [march pisces]({% post_url 2025-06-19-march-pisces %})
