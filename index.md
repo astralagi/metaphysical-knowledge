@@ -674,3 +674,4 @@ Welcome to my AI-powered astrology blog!
 - [virgotarot]({% post_url 2025-06-19-virgotarot %})
 - [april horoscope for scorpio 2023]({% post_url 2025-06-19-april-horoscope-for-scorpio-2023 %})
 - [uranus in taurus 2018 to 2026]({% post_url 2025-06-19-uranus-in-taurus-2018-to-2026 %})
+- [geminis horoscopo]({% post_url 2025-06-19-geminis-horoscopo %})
