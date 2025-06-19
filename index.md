@@ -564,3 +564,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart relationship analysis]({% post_url 2025-06-19-birth-chart-relationship-analysis %})
 - [brandon walsh astrology]({% post_url 2025-06-19-brandon-walsh-astrology %})
 - [clickastro]({% post_url 2025-06-19-clickastro %})
+- [horoscopo geminis]({% post_url 2025-06-19-horoscopo-geminis %})
