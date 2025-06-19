@@ -648,3 +648,4 @@ Welcome to my AI-powered astrology blog!
 - [how to get my horoscope online]({% post_url 2025-06-19-how-to-get-my-horoscope-online %})
 - [my astrology chart free]({% post_url 2025-06-19-my-astrology-chart-free %})
 - [astro jyotish]({% post_url 2025-06-19-astro-jyotish %})
+- [capricorn horoscope march 2025]({% post_url 2025-06-19-capricorn-horoscope-march-2025 %})
