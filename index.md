@@ -535,3 +535,4 @@ Welcome to my AI-powered astrology blog!
 - [natal chart free]({% post_url 2025-06-19-natal-chart-free %})
 - [aquarius and taurus compatibility]({% post_url 2025-06-19-aquarius-and-taurus-compatibility %})
 - [2025 scorpio horoscope]({% post_url 2025-06-19-2025-scorpio-horoscope %})
+- [capricorn in the 3rd house]({% post_url 2025-06-19-capricorn-in-the-3rd-house %})
