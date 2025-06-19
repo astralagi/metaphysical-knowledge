@@ -631,3 +631,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn reading]({% post_url 2025-06-19-capricorn-reading %})
 - [personal chart reading]({% post_url 2025-06-19-personal-chart-reading %})
 - [what are my astrology signs big 3]({% post_url 2025-06-19-what-are-my-astrology-signs-big-3 %})
+- [when will i get married based on birth chart]({% post_url 2025-06-19-when-will-i-get-married-based-on-birth-chart %})
