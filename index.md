@@ -624,3 +624,4 @@ Welcome to my AI-powered astrology blog!
 - [sag april horoscope]({% post_url 2025-06-19-sag-april-horoscope %})
 - [astrology joe]({% post_url 2025-06-19-astrology-joe %})
 - [who is my soulmate]({% post_url 2025-06-19-who-is-my-soulmate %})
+- [horoscope aries 2025]({% post_url 2025-06-19-horoscope-aries-2025 %})
