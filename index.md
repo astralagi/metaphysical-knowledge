@@ -786,3 +786,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn today horoscope]({% post_url 2025-06-19-capricorn-today-horoscope %})
 - [esoteric astrology calculator]({% post_url 2025-06-19-esoteric-astrology-calculator %})
 - [how to find my moon sign]({% post_url 2025-06-19-how-to-find-my-moon-sign %})
+- [free tarot card reading]({% post_url 2025-06-19-free-tarot-card-reading %})
