@@ -772,3 +772,4 @@ Welcome to my AI-powered astrology blog!
 - [fixed stars astrology calculator]({% post_url 2025-06-19-fixed-stars-astrology-calculator %})
 - [virgo tarot new]({% post_url 2025-06-19-virgo-tarot-new %})
 - [how to get a free tarot reading]({% post_url 2025-06-19-how-to-get-a-free-tarot-reading %})
+- [arvind sood numerologist]({% post_url 2025-06-19-arvind-sood-numerologist %})
