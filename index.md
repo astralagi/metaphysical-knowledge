@@ -543,3 +543,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology debra silverman]({% post_url 2025-06-19-astrology-debra-silverman %})
 - [march pisces]({% post_url 2025-06-19-march-pisces %})
 - [nuworld tarot]({% post_url 2025-06-19-nuworld-tarot %})
+- [aries for april]({% post_url 2025-06-19-aries-for-april %})
