@@ -508,3 +508,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart rectification free]({% post_url 2025-06-19-birth-chart-rectification-free %})
 - [molly mccord astrology]({% post_url 2025-06-19-molly-mccord-astrology %})
 - [gemini reading today]({% post_url 2025-06-19-gemini-reading-today %})
+- [astrology america]({% post_url 2025-06-19-astrology-america %})
