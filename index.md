@@ -798,3 +798,4 @@ Welcome to my AI-powered astrology blog!
 - [rising sign and moon sign calculator]({% post_url 2025-06-19-rising-sign-and-moon-sign-calculator %})
 - [pam gregory]({% post_url 2025-06-19-pam-gregory %})
 - [natal charts]({% post_url 2025-06-19-natal-charts %})
+- [capricorn the year that you were born song]({% post_url 2025-06-19-capricorn-the-year-that-you-were-born-song %})
