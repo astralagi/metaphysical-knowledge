@@ -601,3 +601,4 @@ Welcome to my AI-powered astrology blog!
 - [leo card reading for today]({% post_url 2025-06-19-leo-card-reading-for-today %})
 - [aquarius horoscope today]({% post_url 2025-06-19-aquarius-horoscope-today %})
 - [accurate astrology]({% post_url 2025-06-19-accurate-astrology %})
+- [woman pisces horoscope]({% post_url 2025-06-19-woman-pisces-horoscope %})
