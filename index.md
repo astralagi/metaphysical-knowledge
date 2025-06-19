@@ -651,3 +651,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn horoscope march 2025]({% post_url 2025-06-19-capricorn-horoscope-march-2025 %})
 - [cosmic profile free]({% post_url 2025-06-19-cosmic-profile-free %})
 - [tula rashi]({% post_url 2025-06-19-tula-rashi %})
+- [kundli free]({% post_url 2025-06-19-kundli-free %})
