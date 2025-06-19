@@ -529,3 +529,4 @@ Welcome to my AI-powered astrology blog!
 - [wedding astrology chart]({% post_url 2025-06-19-wedding-astrology-chart %})
 - [astro nikhil]({% post_url 2025-06-19-astro-nikhil %})
 - [gemini 2025]({% post_url 2025-06-19-gemini-2025 %})
+- [what house is my black moon lilith in]({% post_url 2025-06-19-what-house-is-my-black-moon-lilith-in %})
