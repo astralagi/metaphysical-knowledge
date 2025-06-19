@@ -702,3 +702,4 @@ Welcome to my AI-powered astrology blog!
 - [compatibility report]({% post_url 2025-06-19-compatibility-report %})
 - [compatibility test by date of birth]({% post_url 2025-06-19-compatibility-test-by-date-of-birth %})
 - [career birth chart reading]({% post_url 2025-06-19-career-birth-chart-reading %})
+- [free in depth birth chart]({% post_url 2025-06-19-free-in-depth-birth-chart %})
