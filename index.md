@@ -602,3 +602,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius horoscope today]({% post_url 2025-06-19-aquarius-horoscope-today %})
 - [accurate astrology]({% post_url 2025-06-19-accurate-astrology %})
 - [woman pisces horoscope]({% post_url 2025-06-19-woman-pisces-horoscope %})
+- [midheaven astrology]({% post_url 2025-06-19-midheaven-astrology %})
