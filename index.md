@@ -682,3 +682,4 @@ Welcome to my AI-powered astrology blog!
 - [couples astrology chart]({% post_url 2025-06-19-couples-astrology-chart %})
 - [hint app]({% post_url 2025-06-19-hint-app %})
 - [aries weekly horoscope]({% post_url 2025-06-19-aries-weekly-horoscope %})
+- [how to find out your rising sun and moon sign]({% post_url 2025-06-19-how-to-find-out-your-rising-sun-and-moon-sign %})
