@@ -677,3 +677,4 @@ Welcome to my AI-powered astrology blog!
 - [geminis horoscopo]({% post_url 2025-06-19-geminis-horoscopo %})
 - [virgo april 2025]({% post_url 2025-06-19-virgo-april-2025 %})
 - [pisces horoscope today]({% post_url 2025-06-19-pisces-horoscope-today %})
+- [syed haider jafri]({% post_url 2025-06-19-syed-haider-jafri %})
