@@ -598,3 +598,4 @@ Welcome to my AI-powered astrology blog!
 - [prediction by birth chart]({% post_url 2025-06-19-prediction-by-birth-chart %})
 - [bazi]({% post_url 2025-06-19-bazi %})
 - [sagittarius libra compatibility]({% post_url 2025-06-19-sagittarius-libra-compatibility %})
+- [leo card reading for today]({% post_url 2025-06-19-leo-card-reading-for-today %})
