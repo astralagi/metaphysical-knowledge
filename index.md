@@ -791,3 +791,4 @@ Welcome to my AI-powered astrology blog!
 - [neda the astrologer]({% post_url 2025-06-19-neda-the-astrologer %})
 - [free lal kitab kundali]({% post_url 2025-06-19-free-lal-kitab-kundali %})
 - [natal birth chart calculator]({% post_url 2025-06-19-natal-birth-chart-calculator %})
+- [leo and sagittarius compatibility]({% post_url 2025-06-19-leo-and-sagittarius-compatibility %})
