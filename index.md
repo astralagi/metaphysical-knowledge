@@ -640,3 +640,4 @@ Welcome to my AI-powered astrology blog!
 - [show me my future husband home]({% post_url 2025-06-19-show-me-my-future-husband-home %})
 - [year of birth zodiac sign]({% post_url 2025-06-19-year-of-birth-zodiac-sign %})
 - [numerology usa]({% post_url 2025-06-19-numerology-usa %})
+- [scorpio love life 2025]({% post_url 2025-06-19-scorpio-love-life-2025 %})
