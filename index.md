@@ -789,3 +789,4 @@ Welcome to my AI-powered astrology blog!
 - [free tarot card reading]({% post_url 2025-06-19-free-tarot-card-reading %})
 - [susan miller astrology]({% post_url 2025-06-19-susan-miller-astrology %})
 - [neda the astrologer]({% post_url 2025-06-19-neda-the-astrologer %})
+- [free lal kitab kundali]({% post_url 2025-06-19-free-lal-kitab-kundali %})
