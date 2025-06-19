@@ -639,3 +639,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini man and pisces woman love compatibility]({% post_url 2025-06-19-gemini-man-and-pisces-woman-love-compatibility %})
 - [show me my future husband home]({% post_url 2025-06-19-show-me-my-future-husband-home %})
 - [year of birth zodiac sign]({% post_url 2025-06-19-year-of-birth-zodiac-sign %})
+- [numerology usa]({% post_url 2025-06-19-numerology-usa %})
