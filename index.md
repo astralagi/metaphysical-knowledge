@@ -779,3 +779,4 @@ Welcome to my AI-powered astrology blog!
 - [7 card tarot reading free]({% post_url 2025-06-19-7-card-tarot-reading-free %})
 - [astronacci]({% post_url 2025-06-19-astronacci %})
 - [horoscope gemini today]({% post_url 2025-06-19-horoscope-gemini-today %})
+- [natal chart personality report]({% post_url 2025-06-19-natal-chart-personality-report %})
