@@ -542,3 +542,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find zodiac sign]({% post_url 2025-06-19-how-to-find-zodiac-sign %})
 - [astrology debra silverman]({% post_url 2025-06-19-astrology-debra-silverman %})
 - [march pisces]({% post_url 2025-06-19-march-pisces %})
+- [nuworld tarot]({% post_url 2025-06-19-nuworld-tarot %})
