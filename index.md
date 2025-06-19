@@ -726,3 +726,4 @@ Welcome to my AI-powered astrology blog!
 - [birth reading]({% post_url 2025-06-19-birth-reading %})
 - [which deity am i connected to birth chart]({% post_url 2025-06-19-which-deity-am-i-connected-to-birth-chart %})
 - [scorpio man scorpio woman]({% post_url 2025-06-19-scorpio-man-scorpio-woman %})
+- [the number of your soulmate]({% post_url 2025-06-19-the-number-of-your-soulmate %})
