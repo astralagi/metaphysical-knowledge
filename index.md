@@ -793,3 +793,4 @@ Welcome to my AI-powered astrology blog!
 - [natal birth chart calculator]({% post_url 2025-06-19-natal-birth-chart-calculator %})
 - [leo and sagittarius compatibility]({% post_url 2025-06-19-leo-and-sagittarius-compatibility %})
 - [virgo compatibility]({% post_url 2025-06-19-virgo-compatibility %})
+- [zodiac compatibilities]({% post_url 2025-06-19-zodiac-compatibilities %})
