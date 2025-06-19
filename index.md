@@ -625,3 +625,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology joe]({% post_url 2025-06-19-astrology-joe %})
 - [who is my soulmate]({% post_url 2025-06-19-who-is-my-soulmate %})
 - [horoscope aries 2025]({% post_url 2025-06-19-horoscope-aries-2025 %})
+- [when will my life get better astrology]({% post_url 2025-06-19-when-will-my-life-get-better-astrology %})
