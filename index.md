@@ -661,3 +661,4 @@ Welcome to my AI-powered astrology blog!
 - [sitara kesy pta chly ga]({% post_url 2025-06-19-sitara-kesy-pta-chly-ga %})
 - [zodiac compatibility calculator]({% post_url 2025-06-19-zodiac-compatibility-calculator %})
 - [halley's comet astrology]({% post_url 2025-06-19-halleys-comet-astrology %})
+- [online free horoscope]({% post_url 2025-06-19-online-free-horoscope %})
