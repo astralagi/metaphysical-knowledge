@@ -635,3 +635,4 @@ Welcome to my AI-powered astrology blog!
 - [the astro chat]({% post_url 2025-06-19-the-astro-chat %})
 - [surya sekhar varahi astrology]({% post_url 2025-06-19-surya-sekhar-varahi-astrology %})
 - [astral method]({% post_url 2025-06-19-astral-method %})
+- [what the month of your birth says about you]({% post_url 2025-06-19-what-the-month-of-your-birth-says-about-you %})
