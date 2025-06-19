@@ -766,3 +766,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology with ninad]({% post_url 2025-06-19-astrology-with-ninad %})
 - [fire and air signs compatibility]({% post_url 2025-06-19-fire-and-air-signs-compatibility %})
 - [daily horoscope sagittarius today]({% post_url 2025-06-19-daily-horoscope-sagittarius-today %})
+- [free astro chart compatibility]({% post_url 2025-06-19-free-astro-chart-compatibility %})
