@@ -634,3 +634,4 @@ Welcome to my AI-powered astrology blog!
 - [when will i get married based on birth chart]({% post_url 2025-06-19-when-will-i-get-married-based-on-birth-chart %})
 - [the astro chat]({% post_url 2025-06-19-the-astro-chat %})
 - [surya sekhar varahi astrology]({% post_url 2025-06-19-surya-sekhar-varahi-astrology %})
+- [astral method]({% post_url 2025-06-19-astral-method %})
