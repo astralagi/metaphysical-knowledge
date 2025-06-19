@@ -745,3 +745,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic birth chart calculator]({% post_url 2025-06-19-vedic-birth-chart-calculator %})
 - [king astro]({% post_url 2025-06-19-king-astro %})
 - [zodiac signs future life]({% post_url 2025-06-19-zodiac-signs-future-life %})
+- [rahu astrology calculator]({% post_url 2025-06-19-rahu-astrology-calculator %})
