@@ -512,3 +512,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscopo de cancer hoy]({% post_url 2025-06-19-horoscopo-de-cancer-hoy %})
 - [gemini man and capricorn woman]({% post_url 2025-06-19-gemini-man-and-capricorn-woman %})
 - [natal chart report]({% post_url 2025-06-19-natal-chart-report %})
+- [astrology ai free]({% post_url 2025-06-19-astrology-ai-free %})
