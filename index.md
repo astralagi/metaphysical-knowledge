@@ -762,3 +762,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope cancer]({% post_url 2025-06-19-horoscope-cancer %})
 - [real astrology]({% post_url 2025-06-19-real-astrology %})
 - [aries new love reading for today]({% post_url 2025-06-19-aries-new-love-reading-for-today %})
+- [what the signa]({% post_url 2025-06-19-what-the-signa %})
