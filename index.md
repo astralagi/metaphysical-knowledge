@@ -567,3 +567,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscopo geminis]({% post_url 2025-06-19-horoscopo-geminis %})
 - [kundali making]({% post_url 2025-06-19-kundali-making %})
 - [taurus zodiac sign soulmate]({% post_url 2025-06-19-taurus-zodiac-sign-soulmate %})
+- [cancer and capricorn compatibility]({% post_url 2025-06-19-cancer-and-capricorn-compatibility %})
