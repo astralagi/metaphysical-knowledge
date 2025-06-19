@@ -720,3 +720,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac dreams]({% post_url 2025-06-19-zodiac-dreams %})
 - [tarot cancer today]({% post_url 2025-06-19-tarot-cancer-today %})
 - [free cartomancy reading]({% post_url 2025-06-19-free-cartomancy-reading %})
+- [sun rahu mercury venus conjunction]({% post_url 2025-06-19-sun-rahu-mercury-venus-conjunction %})
