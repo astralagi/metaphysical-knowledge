@@ -722,3 +722,4 @@ Welcome to my AI-powered astrology blog!
 - [free cartomancy reading]({% post_url 2025-06-19-free-cartomancy-reading %})
 - [sun rahu mercury venus conjunction]({% post_url 2025-06-19-sun-rahu-mercury-venus-conjunction %})
 - [astro seek astrology]({% post_url 2025-06-19-astro-seek-astrology %})
+- [astrological analysis]({% post_url 2025-06-19-astrological-analysis %})
