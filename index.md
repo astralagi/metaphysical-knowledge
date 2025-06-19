@@ -748,3 +748,4 @@ Welcome to my AI-powered astrology blog!
 - [rahu astrology calculator]({% post_url 2025-06-19-rahu-astrology-calculator %})
 - [most accurate horoscope]({% post_url 2025-06-19-most-accurate-horoscope %})
 - [completely free psychic readings]({% post_url 2025-06-19-completely-free-psychic-readings %})
+- [libra career horoscope 2025]({% post_url 2025-06-19-libra-career-horoscope-2025 %})
