@@ -637,3 +637,4 @@ Welcome to my AI-powered astrology blog!
 - [astral method]({% post_url 2025-06-19-astral-method %})
 - [what the month of your birth says about you]({% post_url 2025-06-19-what-the-month-of-your-birth-says-about-you %})
 - [gemini man and pisces woman love compatibility]({% post_url 2025-06-19-gemini-man-and-pisces-woman-love-compatibility %})
+- [show me my future husband home]({% post_url 2025-06-19-show-me-my-future-husband-home %})
