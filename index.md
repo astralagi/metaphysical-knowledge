@@ -733,3 +733,4 @@ Welcome to my AI-powered astrology blog!
 - [death in astrology]({% post_url 2025-06-19-death-in-astrology %})
 - [astroyogi]({% post_url 2025-06-19-astroyogi %})
 - [daily horoscope today capricorn]({% post_url 2025-06-19-daily-horoscope-today-capricorn %})
+- [free astrology by date of birth]({% post_url 2025-06-19-free-astrology-by-date-of-birth %})
