@@ -590,3 +590,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrological chart and reading]({% post_url 2025-06-19-free-astrological-chart-and-reading %})
 - [house chart astrology]({% post_url 2025-06-19-house-chart-astrology %})
 - [janam kundali date of birth]({% post_url 2025-06-19-janam-kundali-date-of-birth %})
+- [capricorn april]({% post_url 2025-06-19-capricorn-april %})
