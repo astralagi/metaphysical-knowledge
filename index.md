@@ -732,3 +732,4 @@ Welcome to my AI-powered astrology blog!
 - [free horoscope chart reading]({% post_url 2025-06-19-free-horoscope-chart-reading %})
 - [death in astrology]({% post_url 2025-06-19-death-in-astrology %})
 - [astroyogi]({% post_url 2025-06-19-astroyogi %})
+- [daily horoscope today capricorn]({% post_url 2025-06-19-daily-horoscope-today-capricorn %})
