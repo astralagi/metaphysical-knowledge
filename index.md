@@ -719,3 +719,4 @@ Welcome to my AI-powered astrology blog!
 - [use a birth chart calculator]({% post_url 2025-06-19-use-a-birth-chart-calculator %})
 - [zodiac dreams]({% post_url 2025-06-19-zodiac-dreams %})
 - [tarot cancer today]({% post_url 2025-06-19-tarot-cancer-today %})
+- [free cartomancy reading]({% post_url 2025-06-19-free-cartomancy-reading %})
