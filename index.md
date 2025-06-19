@@ -610,3 +610,4 @@ Welcome to my AI-powered astrology blog!
 - [get astrology predictions]({% post_url 2025-06-19-get-astrology-predictions %})
 - [libra 2026 horoscope]({% post_url 2025-06-19-libra-2026-horoscope %})
 - [weekly horoscope humayun mehboob]({% post_url 2025-06-19-weekly-horoscope-humayun-mehboob %})
+- [leo tarot today]({% post_url 2025-06-19-leo-tarot-today %})
