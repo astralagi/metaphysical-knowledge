@@ -539,3 +539,4 @@ Welcome to my AI-powered astrology blog!
 - [free synastry compatibility report]({% post_url 2025-06-19-free-synastry-compatibility-report %})
 - [scorpio 2025 love horoscope]({% post_url 2025-06-19-scorpio-2025-love-horoscope %})
 - [free compatibility]({% post_url 2025-06-19-free-compatibility %})
+- [how to find zodiac sign]({% post_url 2025-06-19-how-to-find-zodiac-sign %})
