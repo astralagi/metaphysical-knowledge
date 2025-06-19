@@ -670,3 +670,4 @@ Welcome to my AI-powered astrology blog!
 - [horóscopos de hoy virgo]({% post_url 2025-06-19-horóscopos-de-hoy-virgo %})
 - [natal chart reports]({% post_url 2025-06-19-natal-chart-reports %})
 - [astrology alert]({% post_url 2025-06-19-astrology-alert %})
+- [april 23 compatibility]({% post_url 2025-06-19-april-23-compatibility %})
