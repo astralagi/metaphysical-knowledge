@@ -687,3 +687,4 @@ Welcome to my AI-powered astrology blog!
 - [reading astrology chart]({% post_url 2025-06-19-reading-astrology-chart %})
 - [empowerment unlimited]({% post_url 2025-06-19-empowerment-unlimited %})
 - [kathy biehl astrology]({% post_url 2025-06-19-kathy-biehl-astrology %})
+- [sagittarius april 2025 horoscope]({% post_url 2025-06-19-sagittarius-april-2025-horoscope %})
