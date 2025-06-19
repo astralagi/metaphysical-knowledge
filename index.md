@@ -654,3 +654,4 @@ Welcome to my AI-powered astrology blog!
 - [kundli free]({% post_url 2025-06-19-kundli-free %})
 - [romantic compatibility by birth date free]({% post_url 2025-06-19-romantic-compatibility-by-birth-date-free %})
 - [what's happening in the cosmos today astrology]({% post_url 2025-06-19-whats-happening-in-the-cosmos-today-astrology %})
+- [zodiac sun moon and rising]({% post_url 2025-06-19-zodiac-sun-moon-and-rising %})
