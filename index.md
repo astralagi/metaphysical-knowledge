@@ -704,3 +704,4 @@ Welcome to my AI-powered astrology blog!
 - [career birth chart reading]({% post_url 2025-06-19-career-birth-chart-reading %})
 - [free in depth birth chart]({% post_url 2025-06-19-free-in-depth-birth-chart %})
 - [zodiac signs daily horoscope today]({% post_url 2025-06-19-zodiac-signs-daily-horoscope-today %})
+- [kundli vishleshan free]({% post_url 2025-06-19-kundli-vishleshan-free %})
