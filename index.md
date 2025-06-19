@@ -664,3 +664,4 @@ Welcome to my AI-powered astrology blog!
 - [online free horoscope]({% post_url 2025-06-19-online-free-horoscope %})
 - [dasamsa chart]({% post_url 2025-06-19-dasamsa-chart %})
 - [sagittarius april 2025 astrology]({% post_url 2025-06-19-sagittarius-april-2025-astrology %})
+- [serenasastrology]({% post_url 2025-06-19-serenasastrology %})
