@@ -685,3 +685,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find out your rising sun and moon sign]({% post_url 2025-06-19-how-to-find-out-your-rising-sun-and-moon-sign %})
 - [nadi astrology]({% post_url 2025-06-19-nadi-astrology %})
 - [reading astrology chart]({% post_url 2025-06-19-reading-astrology-chart %})
+- [empowerment unlimited]({% post_url 2025-06-19-empowerment-unlimited %})
