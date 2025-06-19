@@ -537,3 +537,4 @@ Welcome to my AI-powered astrology blog!
 - [2025 scorpio horoscope]({% post_url 2025-06-19-2025-scorpio-horoscope %})
 - [capricorn in the 3rd house]({% post_url 2025-06-19-capricorn-in-the-3rd-house %})
 - [free synastry compatibility report]({% post_url 2025-06-19-free-synastry-compatibility-report %})
+- [scorpio 2025 love horoscope]({% post_url 2025-06-19-scorpio-2025-love-horoscope %})
