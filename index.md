@@ -559,3 +559,4 @@ Welcome to my AI-powered astrology blog!
 - [pradeep jyothisham]({% post_url 2025-06-19-pradeep-jyothisham %})
 - [astrology app birth chart]({% post_url 2025-06-19-astrology-app-birth-chart %})
 - [mi signo es leo]({% post_url 2025-06-19-mi-signo-es-leo %})
+- [starheal]({% post_url 2025-06-19-starheal %})
