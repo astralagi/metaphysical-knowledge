@@ -622,3 +622,4 @@ Welcome to my AI-powered astrology blog!
 - [learning astrology]({% post_url 2025-06-19-learning-astrology %})
 - [rux astrology]({% post_url 2025-06-19-rux-astrology %})
 - [sag april horoscope]({% post_url 2025-06-19-sag-april-horoscope %})
+- [astrology joe]({% post_url 2025-06-19-astrology-joe %})
