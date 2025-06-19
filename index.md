@@ -557,3 +557,4 @@ Welcome to my AI-powered astrology blog!
 - [in depth natal chart reading]({% post_url 2025-06-19-in-depth-natal-chart-reading %})
 - [j sewa astrology]({% post_url 2025-06-19-j-sewa-astrology %})
 - [pradeep jyothisham]({% post_url 2025-06-19-pradeep-jyothisham %})
+- [astrology app birth chart]({% post_url 2025-06-19-astrology-app-birth-chart %})
