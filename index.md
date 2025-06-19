@@ -517,3 +517,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology software]({% post_url 2025-06-19-free-astrology-software %})
 - [kundali milan by date of birth]({% post_url 2025-06-19-kundali-milan-by-date-of-birth %})
 - [astrosage]({% post_url 2025-06-19-astrosage %})
+- [natal chart reading]({% post_url 2025-06-19-natal-chart-reading %})
