@@ -592,3 +592,4 @@ Welcome to my AI-powered astrology blog!
 - [janam kundali date of birth]({% post_url 2025-06-19-janam-kundali-date-of-birth %})
 - [capricorn april]({% post_url 2025-06-19-capricorn-april %})
 - [astroved live]({% post_url 2025-06-19-astroved-live %})
+- [kundali ai]({% post_url 2025-06-19-kundali-ai %})
