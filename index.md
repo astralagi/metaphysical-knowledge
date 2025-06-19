@@ -676,3 +676,4 @@ Welcome to my AI-powered astrology blog!
 - [uranus in taurus 2018 to 2026]({% post_url 2025-06-19-uranus-in-taurus-2018-to-2026 %})
 - [geminis horoscopo]({% post_url 2025-06-19-geminis-horoscopo %})
 - [virgo april 2025]({% post_url 2025-06-19-virgo-april-2025 %})
+- [pisces horoscope today]({% post_url 2025-06-19-pisces-horoscope-today %})
