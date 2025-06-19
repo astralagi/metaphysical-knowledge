@@ -656,3 +656,4 @@ Welcome to my AI-powered astrology blog!
 - [what's happening in the cosmos today astrology]({% post_url 2025-06-19-whats-happening-in-the-cosmos-today-astrology %})
 - [zodiac sun moon and rising]({% post_url 2025-06-19-zodiac-sun-moon-and-rising %})
 - [midnight zero astrology]({% post_url 2025-06-19-midnight-zero-astrology %})
+- [how to read kundli chart]({% post_url 2025-06-19-how-to-read-kundli-chart %})
