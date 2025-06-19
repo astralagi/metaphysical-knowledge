@@ -735,3 +735,4 @@ Welcome to my AI-powered astrology blog!
 - [daily horoscope today capricorn]({% post_url 2025-06-19-daily-horoscope-today-capricorn %})
 - [free astrology by date of birth]({% post_url 2025-06-19-free-astrology-by-date-of-birth %})
 - [aquarius reading today]({% post_url 2025-06-19-aquarius-reading-today %})
+- [astrology about career]({% post_url 2025-06-19-astrology-about-career %})
