@@ -771,3 +771,4 @@ Welcome to my AI-powered astrology blog!
 - [queen amun ra tarot capricorn]({% post_url 2025-06-19-queen-amun-ra-tarot-capricorn %})
 - [fixed stars astrology calculator]({% post_url 2025-06-19-fixed-stars-astrology-calculator %})
 - [virgo tarot new]({% post_url 2025-06-19-virgo-tarot-new %})
+- [how to get a free tarot reading]({% post_url 2025-06-19-how-to-get-a-free-tarot-reading %})
