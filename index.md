@@ -760,3 +760,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini and libra compatibility]({% post_url 2025-06-19-gemini-and-libra-compatibility %})
 - [gemini sun scorpio rising]({% post_url 2025-06-19-gemini-sun-scorpio-rising %})
 - [horoscope cancer]({% post_url 2025-06-19-horoscope-cancer %})
+- [real astrology]({% post_url 2025-06-19-real-astrology %})
