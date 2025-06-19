@@ -761,3 +761,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini sun scorpio rising]({% post_url 2025-06-19-gemini-sun-scorpio-rising %})
 - [horoscope cancer]({% post_url 2025-06-19-horoscope-cancer %})
 - [real astrology]({% post_url 2025-06-19-real-astrology %})
+- [aries new love reading for today]({% post_url 2025-06-19-aries-new-love-reading-for-today %})
