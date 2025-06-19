@@ -774,3 +774,4 @@ Welcome to my AI-powered astrology blog!
 - [how to get a free tarot reading]({% post_url 2025-06-19-how-to-get-a-free-tarot-reading %})
 - [arvind sood numerologist]({% post_url 2025-06-19-arvind-sood-numerologist %})
 - [astrolin]({% post_url 2025-06-19-astrolin %})
+- [scorpio rising]({% post_url 2025-06-19-scorpio-rising %})
