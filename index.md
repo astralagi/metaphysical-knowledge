@@ -672,3 +672,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology alert]({% post_url 2025-06-19-astrology-alert %})
 - [april 23 compatibility]({% post_url 2025-06-19-april-23-compatibility %})
 - [virgotarot]({% post_url 2025-06-19-virgotarot %})
+- [april horoscope for scorpio 2023]({% post_url 2025-06-19-april-horoscope-for-scorpio-2023 %})
