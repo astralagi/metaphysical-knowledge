@@ -699,3 +699,4 @@ Welcome to my AI-powered astrology blog!
 - [free human design reading]({% post_url 2025-06-19-free-human-design-reading %})
 - [online free palm reading]({% post_url 2025-06-19-online-free-palm-reading %})
 - [leo virgo cusp horoscope today]({% post_url 2025-06-19-leo-virgo-cusp-horoscope-today %})
+- [compatibility report]({% post_url 2025-06-19-compatibility-report %})
