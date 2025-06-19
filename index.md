@@ -669,3 +669,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali kaise dekhe]({% post_url 2025-06-19-kundali-kaise-dekhe %})
 - [horóscopos de hoy virgo]({% post_url 2025-06-19-horóscopos-de-hoy-virgo %})
 - [natal chart reports]({% post_url 2025-06-19-natal-chart-reports %})
+- [astrology alert]({% post_url 2025-06-19-astrology-alert %})
