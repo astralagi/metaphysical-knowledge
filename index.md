@@ -738,3 +738,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology about career]({% post_url 2025-06-19-astrology-about-career %})
 - [astrology birth chart]({% post_url 2025-06-19-astrology-birth-chart %})
 - [appnebula]({% post_url 2025-06-19-appnebula %})
+- [aries tarot card reading for today]({% post_url 2025-06-19-aries-tarot-card-reading-for-today %})
