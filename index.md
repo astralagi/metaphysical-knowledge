@@ -706,3 +706,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac signs daily horoscope today]({% post_url 2025-06-19-zodiac-signs-daily-horoscope-today %})
 - [kundli vishleshan free]({% post_url 2025-06-19-kundli-vishleshan-free %})
 - [free accurate tarot reading]({% post_url 2025-06-19-free-accurate-tarot-reading %})
+- [astrology house calculator]({% post_url 2025-06-19-astrology-house-calculator %})
