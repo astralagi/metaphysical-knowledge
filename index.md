@@ -612,3 +612,4 @@ Welcome to my AI-powered astrology blog!
 - [weekly horoscope humayun mehboob]({% post_url 2025-06-19-weekly-horoscope-humayun-mehboob %})
 - [leo tarot today]({% post_url 2025-06-19-leo-tarot-today %})
 - [free astrology numerology reading]({% post_url 2025-06-19-free-astrology-numerology-reading %})
+- [lilith in pisces]({% post_url 2025-06-19-lilith-in-pisces %})
