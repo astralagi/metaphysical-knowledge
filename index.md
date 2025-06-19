@@ -627,3 +627,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope aries 2025]({% post_url 2025-06-19-horoscope-aries-2025 %})
 - [when will my life get better astrology]({% post_url 2025-06-19-when-will-my-life-get-better-astrology %})
 - [zodiac compatibility quiz]({% post_url 2025-06-19-zodiac-compatibility-quiz %})
+- [june 8 2025 horoscope]({% post_url 2025-06-19-june-8-2025-horoscope %})
