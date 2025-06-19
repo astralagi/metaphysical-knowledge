@@ -636,3 +636,4 @@ Welcome to my AI-powered astrology blog!
 - [surya sekhar varahi astrology]({% post_url 2025-06-19-surya-sekhar-varahi-astrology %})
 - [astral method]({% post_url 2025-06-19-astral-method %})
 - [what the month of your birth says about you]({% post_url 2025-06-19-what-the-month-of-your-birth-says-about-you %})
+- [gemini man and pisces woman love compatibility]({% post_url 2025-06-19-gemini-man-and-pisces-woman-love-compatibility %})
