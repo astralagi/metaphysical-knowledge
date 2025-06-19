@@ -642,3 +642,4 @@ Welcome to my AI-powered astrology blog!
 - [numerology usa]({% post_url 2025-06-19-numerology-usa %})
 - [scorpio love life 2025]({% post_url 2025-06-19-scorpio-love-life-2025 %})
 - [astrology 2025 free]({% post_url 2025-06-19-astrology-2025-free %})
+- [daily libra tarot reading]({% post_url 2025-06-19-daily-libra-tarot-reading %})
