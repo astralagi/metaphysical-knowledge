@@ -777,3 +777,4 @@ Welcome to my AI-powered astrology blog!
 - [scorpio rising]({% post_url 2025-06-19-scorpio-rising %})
 - [cancer love compatibility]({% post_url 2025-06-19-cancer-love-compatibility %})
 - [7 card tarot reading free]({% post_url 2025-06-19-7-card-tarot-reading-free %})
+- [astronacci]({% post_url 2025-06-19-astronacci %})
