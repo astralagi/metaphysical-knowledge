@@ -516,3 +516,4 @@ Welcome to my AI-powered astrology blog!
 - [what your sign says about you]({% post_url 2025-06-19-what-your-sign-says-about-you %})
 - [free astrology software]({% post_url 2025-06-19-free-astrology-software %})
 - [kundali milan by date of birth]({% post_url 2025-06-19-kundali-milan-by-date-of-birth %})
+- [astrosage]({% post_url 2025-06-19-astrosage %})
