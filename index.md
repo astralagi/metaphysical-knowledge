@@ -741,3 +741,4 @@ Welcome to my AI-powered astrology blog!
 - [aries tarot card reading for today]({% post_url 2025-06-19-aries-tarot-card-reading-for-today %})
 - [numerology chart free]({% post_url 2025-06-19-numerology-chart-free %})
 - [medical astrologer prashant kapoor]({% post_url 2025-06-19-medical-astrologer-prashant-kapoor %})
+- [astrology birth dates compatibility]({% post_url 2025-06-19-astrology-birth-dates-compatibility %})
