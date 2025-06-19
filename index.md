@@ -573,3 +573,4 @@ Welcome to my AI-powered astrology blog!
 - [how can i find my rising sign]({% post_url 2025-06-19-how-can-i-find-my-rising-sign %})
 - [www monastro org]({% post_url 2025-06-19-www-monastro-org %})
 - [virgo scorpio tarot]({% post_url 2025-06-19-virgo-scorpio-tarot %})
+- [astro seek transit chart calculator]({% post_url 2025-06-19-astro-seek-transit-chart-calculator %})
