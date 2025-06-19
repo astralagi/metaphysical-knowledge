@@ -513,3 +513,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini man and capricorn woman]({% post_url 2025-06-19-gemini-man-and-capricorn-woman %})
 - [natal chart report]({% post_url 2025-06-19-natal-chart-report %})
 - [astrology ai free]({% post_url 2025-06-19-astrology-ai-free %})
+- [what your sign says about you]({% post_url 2025-06-19-what-your-sign-says-about-you %})
