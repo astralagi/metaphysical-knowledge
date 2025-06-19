@@ -534,3 +534,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac compatibility]({% post_url 2025-06-19-zodiac-compatibility %})
 - [natal chart free]({% post_url 2025-06-19-natal-chart-free %})
 - [aquarius and taurus compatibility]({% post_url 2025-06-19-aquarius-and-taurus-compatibility %})
+- [2025 scorpio horoscope]({% post_url 2025-06-19-2025-scorpio-horoscope %})
