@@ -724,3 +724,4 @@ Welcome to my AI-powered astrology blog!
 - [astro seek astrology]({% post_url 2025-06-19-astro-seek-astrology %})
 - [astrological analysis]({% post_url 2025-06-19-astrological-analysis %})
 - [birth reading]({% post_url 2025-06-19-birth-reading %})
+- [which deity am i connected to birth chart]({% post_url 2025-06-19-which-deity-am-i-connected-to-birth-chart %})
