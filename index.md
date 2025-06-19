@@ -521,3 +521,4 @@ Welcome to my AI-powered astrology blog!
 - [libra horoscope]({% post_url 2025-06-19-libra-horoscope %})
 - [north node in gemini]({% post_url 2025-06-19-north-node-in-gemini %})
 - [loka astrology]({% post_url 2025-06-19-loka-astrology %})
+- [pushya nakshatra 2025 prediction]({% post_url 2025-06-19-pushya-nakshatra-2025-prediction %})
