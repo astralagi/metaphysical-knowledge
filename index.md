@@ -561,3 +561,4 @@ Welcome to my AI-powered astrology blog!
 - [mi signo es leo]({% post_url 2025-06-19-mi-signo-es-leo %})
 - [starheal]({% post_url 2025-06-19-starheal %})
 - [how can i check my kundli online for free]({% post_url 2025-06-19-how-can-i-check-my-kundli-online-for-free %})
+- [birth chart relationship analysis]({% post_url 2025-06-19-birth-chart-relationship-analysis %})
