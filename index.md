@@ -525,3 +525,4 @@ Welcome to my AI-powered astrology blog!
 - [past life reading astrology]({% post_url 2025-06-19-past-life-reading-astrology %})
 - [fortune teller free ask question]({% post_url 2025-06-19-fortune-teller-free-ask-question %})
 - [true astrology]({% post_url 2025-06-19-true-astrology %})
+- [capricorn tarot today]({% post_url 2025-06-19-capricorn-tarot-today %})
