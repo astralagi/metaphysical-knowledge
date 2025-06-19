@@ -717,3 +717,4 @@ Welcome to my AI-powered astrology blog!
 - [first free chat with astrologer]({% post_url 2025-06-19-first-free-chat-with-astrologer %})
 - [how to read birth chart astrology]({% post_url 2025-06-19-how-to-read-birth-chart-astrology %})
 - [use a birth chart calculator]({% post_url 2025-06-19-use-a-birth-chart-calculator %})
+- [zodiac dreams]({% post_url 2025-06-19-zodiac-dreams %})
