@@ -730,3 +730,4 @@ Welcome to my AI-powered astrology blog!
 - [5 minute free chat astrology]({% post_url 2025-06-19-5-minute-free-chat-astrology %})
 - [esoteric astrology]({% post_url 2025-06-19-esoteric-astrology %})
 - [free horoscope chart reading]({% post_url 2025-06-19-free-horoscope-chart-reading %})
+- [death in astrology]({% post_url 2025-06-19-death-in-astrology %})
