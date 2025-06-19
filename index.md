@@ -531,3 +531,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini 2025]({% post_url 2025-06-19-gemini-2025 %})
 - [what house is my black moon lilith in]({% post_url 2025-06-19-what-house-is-my-black-moon-lilith-in %})
 - [free 5 minutes astrology]({% post_url 2025-06-19-free-5-minutes-astrology %})
+- [zodiac compatibility]({% post_url 2025-06-19-zodiac-compatibility %})
