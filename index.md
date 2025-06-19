@@ -514,3 +514,4 @@ Welcome to my AI-powered astrology blog!
 - [natal chart report]({% post_url 2025-06-19-natal-chart-report %})
 - [astrology ai free]({% post_url 2025-06-19-astrology-ai-free %})
 - [what your sign says about you]({% post_url 2025-06-19-what-your-sign-says-about-you %})
+- [free astrology software]({% post_url 2025-06-19-free-astrology-software %})
