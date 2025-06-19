@@ -583,3 +583,4 @@ Welcome to my AI-powered astrology blog!
 - [love test]({% post_url 2025-06-19-love-test %})
 - [capricorn february 2016]({% post_url 2025-06-19-capricorn-february-2016 %})
 - [astro king]({% post_url 2025-06-19-astro-king %})
+- [pick a card reading today]({% post_url 2025-06-19-pick-a-card-reading-today %})
