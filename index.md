@@ -757,3 +757,4 @@ Welcome to my AI-powered astrology blog!
 - [carta astral]({% post_url 2025-06-19-carta-astral %})
 - [astrological charts free online]({% post_url 2025-06-19-astrological-charts-free-online %})
 - [tarot reading for aquarius today]({% post_url 2025-06-19-tarot-reading-for-aquarius-today %})
+- [gemini and libra compatibility]({% post_url 2025-06-19-gemini-and-libra-compatibility %})
