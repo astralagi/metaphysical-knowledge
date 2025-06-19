@@ -701,3 +701,4 @@ Welcome to my AI-powered astrology blog!
 - [leo virgo cusp horoscope today]({% post_url 2025-06-19-leo-virgo-cusp-horoscope-today %})
 - [compatibility report]({% post_url 2025-06-19-compatibility-report %})
 - [compatibility test by date of birth]({% post_url 2025-06-19-compatibility-test-by-date-of-birth %})
+- [career birth chart reading]({% post_url 2025-06-19-career-birth-chart-reading %})
