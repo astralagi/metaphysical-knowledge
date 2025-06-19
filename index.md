@@ -606,3 +606,4 @@ Welcome to my AI-powered astrology blog!
 - [life path 7]({% post_url 2025-06-19-life-path-7 %})
 - [astrology based dating app]({% post_url 2025-06-19-astrology-based-dating-app %})
 - [astrocartography love]({% post_url 2025-06-19-astrocartography-love %})
+- [astrology report]({% post_url 2025-06-19-astrology-report %})
