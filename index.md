@@ -842,3 +842,4 @@ Welcome to my AI-powered astrology blog!
 - [best astrology birth chart free]({% post_url 2025-06-20-best-astrology-birth-chart-free %})
 - [daily karmic number]({% post_url 2025-06-20-daily-karmic-number %})
 - [my health prediction astrology free]({% post_url 2025-06-20-my-health-prediction-astrology-free %})
+- [birth chart compatibility astro seek]({% post_url 2025-06-20-birth-chart-compatibility-astro-seek %})
