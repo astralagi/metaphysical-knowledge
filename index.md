@@ -829,3 +829,4 @@ Welcome to my AI-powered astrology blog!
 - [ms charlotte astrology]({% post_url 2025-06-20-ms-charlotte-astrology %})
 - [astrologer dr richa shukla]({% post_url 2025-06-20-astrologer-dr-richa-shukla %})
 - [aries tarot love]({% post_url 2025-06-20-aries-tarot-love %})
+- [full free astrology report]({% post_url 2025-06-20-full-free-astrology-report %})
