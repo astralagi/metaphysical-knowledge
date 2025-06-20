@@ -835,3 +835,4 @@ Welcome to my AI-powered astrology blog!
 - [astro app]({% post_url 2025-06-20-astro-app %})
 - [palm reading free]({% post_url 2025-06-20-palm-reading-free %})
 - [how to know your zodiac sign]({% post_url 2025-06-20-how-to-know-your-zodiac-sign %})
+- [birth chart analysis]({% post_url 2025-06-20-birth-chart-analysis %})
