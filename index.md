@@ -873,3 +873,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces tarot today]({% post_url 2025-06-20-pisces-tarot-today %})
 - [today match prediction astrology free]({% post_url 2025-06-20-today-match-prediction-astrology-free %})
 - [astro moon]({% post_url 2025-06-20-astro-moon %})
+- [generate your birth chart]({% post_url 2025-06-20-generate-your-birth-chart %})
