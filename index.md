@@ -814,3 +814,4 @@ Welcome to my AI-powered astrology blog!
 - [celestial blueprint]({% post_url 2025-06-20-celestial-blueprint %})
 - [birthday compatibility test free]({% post_url 2025-06-20-birthday-compatibility-test-free %})
 - [birth chart astrology calculator]({% post_url 2025-06-20-birth-chart-astrology-calculator %})
+- [jayakumar astrology]({% post_url 2025-06-20-jayakumar-astrology %})
