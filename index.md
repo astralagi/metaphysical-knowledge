@@ -966,3 +966,4 @@ Welcome to my AI-powered astrology blog!
 - [susan tarot pisces today]({% post_url 2025-06-20-susan-tarot-pisces-today %})
 - [ketu]({% post_url 2025-06-20-ketu %})
 - [gemini today]({% post_url 2025-06-20-gemini-today %})
+- [art of living astrology consultation]({% post_url 2025-06-20-art-of-living-astrology-consultation %})
