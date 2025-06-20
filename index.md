@@ -952,3 +952,4 @@ Welcome to my AI-powered astrology blog!
 - [most accurate astrology app]({% post_url 2025-06-20-most-accurate-astrology-app %})
 - [sv bhardwaj astrologer]({% post_url 2025-06-20-sv-bhardwaj-astrologer %})
 - [astroyogi palm reading app]({% post_url 2025-06-20-astroyogi-palm-reading-app %})
+- [free future reading by date of birth]({% post_url 2025-06-20-free-future-reading-by-date-of-birth %})
