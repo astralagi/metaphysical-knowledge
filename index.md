@@ -855,3 +855,4 @@ Welcome to my AI-powered astrology blog!
 - [carta natal gratis]({% post_url 2025-06-20-carta-natal-gratis %})
 - [how to find birth chart]({% post_url 2025-06-20-how-to-find-birth-chart %})
 - [rashi chart]({% post_url 2025-06-20-rashi-chart %})
+- [astro seek birth chart]({% post_url 2025-06-20-astro-seek-birth-chart %})
