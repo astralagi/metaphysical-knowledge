@@ -968,3 +968,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini today]({% post_url 2025-06-20-gemini-today %})
 - [art of living astrology consultation]({% post_url 2025-06-20-art-of-living-astrology-consultation %})
 - [putra yog calculator by date of birth]({% post_url 2025-06-20-putra-yog-calculator-by-date-of-birth %})
+- [ai tarot readings]({% post_url 2025-06-20-ai-tarot-readings %})
