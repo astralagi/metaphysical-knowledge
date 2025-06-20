@@ -896,3 +896,4 @@ Welcome to my AI-powered astrology blog!
 - [child prediction by date of birth]({% post_url 2025-06-20-child-prediction-by-date-of-birth %})
 - [how do you figure out your moon sign]({% post_url 2025-06-20-how-do-you-figure-out-your-moon-sign %})
 - [mercury in 10th house for sagittarius ascendant]({% post_url 2025-06-20-mercury-in-10th-house-for-sagittarius-ascendant %})
+- [personal horoscope]({% post_url 2025-06-20-personal-horoscope %})
