@@ -899,3 +899,4 @@ Welcome to my AI-powered astrology blog!
 - [personal horoscope]({% post_url 2025-06-20-personal-horoscope %})
 - [gemini woman tarot reading]({% post_url 2025-06-20-gemini-woman-tarot-reading %})
 - [astrology for mystics]({% post_url 2025-06-20-astrology-for-mystics %})
+- [free full birth chart reading]({% post_url 2025-06-20-free-full-birth-chart-reading %})
