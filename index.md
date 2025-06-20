@@ -844,3 +844,4 @@ Welcome to my AI-powered astrology blog!
 - [my health prediction astrology free]({% post_url 2025-06-20-my-health-prediction-astrology-free %})
 - [birth chart compatibility astro seek]({% post_url 2025-06-20-birth-chart-compatibility-astro-seek %})
 - [how to tell your zodiac sign]({% post_url 2025-06-20-how-to-tell-your-zodiac-sign %})
+- [virgo career]({% post_url 2025-06-20-virgo-career %})
