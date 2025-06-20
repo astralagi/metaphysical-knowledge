@@ -965,3 +965,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic birth chart with interpretation]({% post_url 2025-06-20-vedic-birth-chart-with-interpretation %})
 - [susan tarot pisces today]({% post_url 2025-06-20-susan-tarot-pisces-today %})
 - [ketu]({% post_url 2025-06-20-ketu %})
+- [gemini today]({% post_url 2025-06-20-gemini-today %})
