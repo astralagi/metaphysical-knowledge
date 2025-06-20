@@ -907,3 +907,4 @@ Welcome to my AI-powered astrology blog!
 - [astrocartography chart generator]({% post_url 2025-06-20-astrocartography-chart-generator %})
 - [free astrology prediction]({% post_url 2025-06-20-free-astrology-prediction %})
 - [are scorpio and virgo soulmates]({% post_url 2025-06-20-are-scorpio-and-virgo-soulmates %})
+- [astrology 2025]({% post_url 2025-06-20-astrology-2025 %})
