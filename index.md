@@ -816,3 +816,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart astrology calculator]({% post_url 2025-06-20-birth-chart-astrology-calculator %})
 - [jayakumar astrology]({% post_url 2025-06-20-jayakumar-astrology %})
 - [capricorn tarot love today]({% post_url 2025-06-20-capricorn-tarot-love-today %})
+- [vl astrology]({% post_url 2025-06-20-vl-astrology %})
