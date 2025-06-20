@@ -823,3 +823,4 @@ Welcome to my AI-powered astrology blog!
 - [current planetary positions by date of birth]({% post_url 2025-06-20-current-planetary-positions-by-date-of-birth %})
 - [awake space astrology]({% post_url 2025-06-20-awake-space-astrology %})
 - [astrological report]({% post_url 2025-06-20-astrological-report %})
+- [free detailed birth chart analysis]({% post_url 2025-06-20-free-detailed-birth-chart-analysis %})
