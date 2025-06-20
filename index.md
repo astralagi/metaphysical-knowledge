@@ -889,3 +889,4 @@ Welcome to my AI-powered astrology blog!
 - [twinstrology]({% post_url 2025-06-20-twinstrology %})
 - [my life prediction]({% post_url 2025-06-20-my-life-prediction %})
 - [morning star tarot libra]({% post_url 2025-06-20-morning-star-tarot-libra %})
+- [janampatri reading online free]({% post_url 2025-06-20-janampatri-reading-online-free %})
