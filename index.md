@@ -949,3 +949,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology chart with houses]({% post_url 2025-06-20-free-astrology-chart-with-houses %})
 - [capricorn march 2025]({% post_url 2025-06-20-capricorn-march-2025 %})
 - [mercury in gemini birth chart]({% post_url 2025-06-20-mercury-in-gemini-birth-chart %})
+- [most accurate astrology app]({% post_url 2025-06-20-most-accurate-astrology-app %})
