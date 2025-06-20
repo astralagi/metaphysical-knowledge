@@ -848,3 +848,4 @@ Welcome to my AI-powered astrology blog!
 - [libra latest tarot reading]({% post_url 2025-06-20-libra-latest-tarot-reading %})
 - [pam gregory david clements]({% post_url 2025-06-20-pam-gregory-david-clements %})
 - [virgo love making]({% post_url 2025-06-20-virgo-love-making %})
+- [numerology reading]({% post_url 2025-06-20-numerology-reading %})
