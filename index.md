@@ -868,3 +868,4 @@ Welcome to my AI-powered astrology blog!
 - [prashnavali by date of birth]({% post_url 2025-06-20-prashnavali-by-date-of-birth %})
 - [how to figure out your sun moon and rising sign]({% post_url 2025-06-20-how-to-figure-out-your-sun-moon-and-rising-sign %})
 - [yashi astrology]({% post_url 2025-06-20-yashi-astrology %})
+- [astrologer hemant]({% post_url 2025-06-20-astrologer-hemant %})
