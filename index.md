@@ -943,3 +943,4 @@ Welcome to my AI-powered astrology blog!
 - [lotus tarot reading free]({% post_url 2025-06-20-lotus-tarot-reading-free %})
 - [free horoscope chart]({% post_url 2025-06-20-free-horoscope-chart %})
 - [exact birth chart]({% post_url 2025-06-20-exact-birth-chart %})
+- [astrologia tarot]({% post_url 2025-06-20-astrologia-tarot %})
