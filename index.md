@@ -831,3 +831,4 @@ Welcome to my AI-powered astrology blog!
 - [aries tarot love]({% post_url 2025-06-20-aries-tarot-love %})
 - [full free astrology report]({% post_url 2025-06-20-full-free-astrology-report %})
 - [virgo reading today]({% post_url 2025-06-20-virgo-reading-today %})
+- [aquarius by aquarius]({% post_url 2025-06-20-aquarius-by-aquarius %})
