@@ -818,3 +818,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn tarot love today]({% post_url 2025-06-20-capricorn-tarot-love-today %})
 - [vl astrology]({% post_url 2025-06-20-vl-astrology %})
 - [time passages]({% post_url 2025-06-20-time-passages %})
+- [taurus tarot reading today 2025]({% post_url 2025-06-20-taurus-tarot-reading-today-2025 %})
