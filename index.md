@@ -849,3 +849,4 @@ Welcome to my AI-powered astrology blog!
 - [pam gregory david clements]({% post_url 2025-06-20-pam-gregory-david-clements %})
 - [virgo love making]({% post_url 2025-06-20-virgo-love-making %})
 - [numerology reading]({% post_url 2025-06-20-numerology-reading %})
+- [scorpio lucky numbers today]({% post_url 2025-06-20-scorpio-lucky-numbers-today %})
