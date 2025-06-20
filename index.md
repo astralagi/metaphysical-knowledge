@@ -947,3 +947,4 @@ Welcome to my AI-powered astrology blog!
 - [mecca woods]({% post_url 2025-06-20-mecca-woods %})
 - [free psychic soulmate reading]({% post_url 2025-06-20-free-psychic-soulmate-reading %})
 - [free astrology chart with houses]({% post_url 2025-06-20-free-astrology-chart-with-houses %})
+- [capricorn march 2025]({% post_url 2025-06-20-capricorn-march-2025 %})
