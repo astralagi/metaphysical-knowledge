@@ -875,3 +875,4 @@ Welcome to my AI-powered astrology blog!
 - [astro moon]({% post_url 2025-06-20-astro-moon %})
 - [generate your birth chart]({% post_url 2025-06-20-generate-your-birth-chart %})
 - [my horoscope for today]({% post_url 2025-06-20-my-horoscope-for-today %})
+- [find your life path number calculator]({% post_url 2025-06-20-find-your-life-path-number-calculator %})
