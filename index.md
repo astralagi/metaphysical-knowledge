@@ -808,3 +808,4 @@ Welcome to my AI-powered astrology blog!
 - [free psychic reading by date of birth and time]({% post_url 2025-06-19-free-psychic-reading-by-date-of-birth-and-time %})
 - [namaste today]({% post_url 2025-06-20-namaste-today %})
 - [aquarius predictions]({% post_url 2025-06-20-aquarius-predictions %})
+- [interpret my birth chart]({% post_url 2025-06-20-interpret-my-birth-chart %})
