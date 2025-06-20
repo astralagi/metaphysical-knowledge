@@ -915,3 +915,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope aquarius]({% post_url 2025-06-20-horoscope-aquarius %})
 - [astromartine]({% post_url 2025-06-20-astromartine %})
 - [ethereal astrology]({% post_url 2025-06-20-ethereal-astrology %})
+- [abhigya astrology]({% post_url 2025-06-20-abhigya-astrology %})
