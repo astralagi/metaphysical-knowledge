@@ -821,3 +821,4 @@ Welcome to my AI-powered astrology blog!
 - [taurus tarot reading today 2025]({% post_url 2025-06-20-taurus-tarot-reading-today-2025 %})
 - [my astrology chart]({% post_url 2025-06-20-my-astrology-chart %})
 - [current planetary positions by date of birth]({% post_url 2025-06-20-current-planetary-positions-by-date-of-birth %})
+- [awake space astrology]({% post_url 2025-06-20-awake-space-astrology %})
