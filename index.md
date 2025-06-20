@@ -882,3 +882,4 @@ Welcome to my AI-powered astrology blog!
 - [witch astrology placements]({% post_url 2025-06-20-witch-astrology-placements %})
 - [horoscope 2025 pisces]({% post_url 2025-06-20-horoscope-2025-pisces %})
 - [proactive astrology]({% post_url 2025-06-20-proactive-astrology %})
+- [astromatrix chart]({% post_url 2025-06-20-astromatrix-chart %})
