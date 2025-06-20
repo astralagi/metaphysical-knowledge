@@ -967,3 +967,4 @@ Welcome to my AI-powered astrology blog!
 - [ketu]({% post_url 2025-06-20-ketu %})
 - [gemini today]({% post_url 2025-06-20-gemini-today %})
 - [art of living astrology consultation]({% post_url 2025-06-20-art-of-living-astrology-consultation %})
+- [putra yog calculator by date of birth]({% post_url 2025-06-20-putra-yog-calculator-by-date-of-birth %})
