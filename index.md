@@ -874,3 +874,4 @@ Welcome to my AI-powered astrology blog!
 - [today match prediction astrology free]({% post_url 2025-06-20-today-match-prediction-astrology-free %})
 - [astro moon]({% post_url 2025-06-20-astro-moon %})
 - [generate your birth chart]({% post_url 2025-06-20-generate-your-birth-chart %})
+- [my horoscope for today]({% post_url 2025-06-20-my-horoscope-for-today %})
