@@ -957,3 +957,4 @@ Welcome to my AI-powered astrology blog!
 - [absolutely free psychic reading]({% post_url 2025-06-20-absolutely-free-psychic-reading %})
 - [horoscopos para piscis hoy]({% post_url 2025-06-20-horoscopos-para-piscis-hoy %})
 - [kundali horoscope matching]({% post_url 2025-06-20-kundali-horoscope-matching %})
+- [night light astrology]({% post_url 2025-06-20-night-light-astrology %})
