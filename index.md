@@ -961,3 +961,4 @@ Welcome to my AI-powered astrology blog!
 - [when the moon is in the seventh house and jupiter aligns with mars]({% post_url 2025-06-20-when-the-moon-is-in-the-seventh-house-and-jupiter-aligns-with-mars %})
 - [best love stars]({% post_url 2025-06-20-best-love-stars %})
 - [prashant kapoor astrologer latest]({% post_url 2025-06-20-prashant-kapoor-astrologer-latest %})
+- [what is my venus sign]({% post_url 2025-06-20-what-is-my-venus-sign %})
