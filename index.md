@@ -914,3 +914,4 @@ Welcome to my AI-powered astrology blog!
 - [astrological chart free]({% post_url 2025-06-20-astrological-chart-free %})
 - [horoscope aquarius]({% post_url 2025-06-20-horoscope-aquarius %})
 - [astromartine]({% post_url 2025-06-20-astromartine %})
+- [ethereal astrology]({% post_url 2025-06-20-ethereal-astrology %})
