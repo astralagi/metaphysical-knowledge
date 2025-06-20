@@ -912,3 +912,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find your destiny in your birth chart]({% post_url 2025-06-20-how-to-find-your-destiny-in-your-birth-chart %})
 - [sarangapani jathakam]({% post_url 2025-06-20-sarangapani-jathakam %})
 - [astrological chart free]({% post_url 2025-06-20-astrological-chart-free %})
+- [horoscope aquarius]({% post_url 2025-06-20-horoscope-aquarius %})
