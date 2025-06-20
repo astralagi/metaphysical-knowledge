@@ -853,3 +853,4 @@ Welcome to my AI-powered astrology blog!
 - [daily horoscope by date of birth]({% post_url 2025-06-20-daily-horoscope-by-date-of-birth %})
 - [moon sign]({% post_url 2025-06-20-moon-sign %})
 - [carta natal gratis]({% post_url 2025-06-20-carta-natal-gratis %})
+- [how to find birth chart]({% post_url 2025-06-20-how-to-find-birth-chart %})
