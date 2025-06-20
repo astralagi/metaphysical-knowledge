@@ -922,3 +922,4 @@ Welcome to my AI-powered astrology blog!
 - [libra woman aquarius man]({% post_url 2025-06-20-libra-woman-aquarius-man %})
 - [free compatibility test]({% post_url 2025-06-20-free-compatibility-test %})
 - [house sign astrology]({% post_url 2025-06-20-house-sign-astrology %})
+- [astronomical chart]({% post_url 2025-06-20-astronomical-chart %})
