@@ -923,3 +923,4 @@ Welcome to my AI-powered astrology blog!
 - [free compatibility test]({% post_url 2025-06-20-free-compatibility-test %})
 - [house sign astrology]({% post_url 2025-06-20-house-sign-astrology %})
 - [astronomical chart]({% post_url 2025-06-20-astronomical-chart %})
+- [sign up for daily horoscope]({% post_url 2025-06-20-sign-up-for-daily-horoscope %})
