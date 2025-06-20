@@ -894,3 +894,4 @@ Welcome to my AI-powered astrology blog!
 - [how to make your birth chart]({% post_url 2025-06-20-how-to-make-your-birth-chart %})
 - [esoteric astrology reading free]({% post_url 2025-06-20-esoteric-astrology-reading-free %})
 - [child prediction by date of birth]({% post_url 2025-06-20-child-prediction-by-date-of-birth %})
+- [how do you figure out your moon sign]({% post_url 2025-06-20-how-do-you-figure-out-your-moon-sign %})
