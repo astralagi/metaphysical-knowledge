@@ -935,3 +935,4 @@ Welcome to my AI-powered astrology blog!
 - [download birth chart]({% post_url 2025-06-20-download-birth-chart %})
 - [how do i know my rising sign]({% post_url 2025-06-20-how-do-i-know-my-rising-sign %})
 - [what's my zodiac]({% post_url 2025-06-20-whats-my-zodiac %})
+- [palmistry reading free]({% post_url 2025-06-20-palmistry-reading-free %})
