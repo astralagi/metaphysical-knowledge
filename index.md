@@ -886,3 +886,4 @@ Welcome to my AI-powered astrology blog!
 - [astrological profile]({% post_url 2025-06-20-astrological-profile %})
 - [cancer horoscope]({% post_url 2025-06-20-cancer-horoscope %})
 - [in depth numerology report]({% post_url 2025-06-20-in-depth-numerology-report %})
+- [twinstrology]({% post_url 2025-06-20-twinstrology %})
