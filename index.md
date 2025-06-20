@@ -833,3 +833,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo reading today]({% post_url 2025-06-20-virgo-reading-today %})
 - [aquarius by aquarius]({% post_url 2025-06-20-aquarius-by-aquarius %})
 - [astro app]({% post_url 2025-06-20-astro-app %})
+- [palm reading free]({% post_url 2025-06-20-palm-reading-free %})
