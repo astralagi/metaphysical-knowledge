@@ -920,3 +920,4 @@ Welcome to my AI-powered astrology blog!
 - [rahul kaushik astrologer]({% post_url 2025-06-20-rahul-kaushik-astrologer %})
 - [horoscope cancer april 2025]({% post_url 2025-06-20-horoscope-cancer-april-2025 %})
 - [libra woman aquarius man]({% post_url 2025-06-20-libra-woman-aquarius-man %})
+- [free compatibility test]({% post_url 2025-06-20-free-compatibility-test %})
