@@ -837,3 +837,4 @@ Welcome to my AI-powered astrology blog!
 - [how to know your zodiac sign]({% post_url 2025-06-20-how-to-know-your-zodiac-sign %})
 - [birth chart analysis]({% post_url 2025-06-20-birth-chart-analysis %})
 - [astra astrology]({% post_url 2025-06-20-astra-astrology %})
+- [future horoscope by date of birth free]({% post_url 2025-06-20-future-horoscope-by-date-of-birth-free %})
