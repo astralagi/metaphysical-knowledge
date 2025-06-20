@@ -893,3 +893,4 @@ Welcome to my AI-powered astrology blog!
 - [house calculator astrology]({% post_url 2025-06-20-house-calculator-astrology %})
 - [how to make your birth chart]({% post_url 2025-06-20-how-to-make-your-birth-chart %})
 - [esoteric astrology reading free]({% post_url 2025-06-20-esoteric-astrology-reading-free %})
+- [child prediction by date of birth]({% post_url 2025-06-20-child-prediction-by-date-of-birth %})
