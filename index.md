@@ -921,3 +921,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope cancer april 2025]({% post_url 2025-06-20-horoscope-cancer-april-2025 %})
 - [libra woman aquarius man]({% post_url 2025-06-20-libra-woman-aquarius-man %})
 - [free compatibility test]({% post_url 2025-06-20-free-compatibility-test %})
+- [house sign astrology]({% post_url 2025-06-20-house-sign-astrology %})
