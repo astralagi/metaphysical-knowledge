@@ -826,3 +826,4 @@ Welcome to my AI-powered astrology blog!
 - [free detailed birth chart analysis]({% post_url 2025-06-20-free-detailed-birth-chart-analysis %})
 - [scorpio moon compatibility]({% post_url 2025-06-20-scorpio-moon-compatibility %})
 - [free chart reading online]({% post_url 2025-06-20-free-chart-reading-online %})
+- [ms charlotte astrology]({% post_url 2025-06-20-ms-charlotte-astrology %})
