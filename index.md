@@ -850,3 +850,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo love making]({% post_url 2025-06-20-virgo-love-making %})
 - [numerology reading]({% post_url 2025-06-20-numerology-reading %})
 - [scorpio lucky numbers today]({% post_url 2025-06-20-scorpio-lucky-numbers-today %})
+- [daily horoscope by date of birth]({% post_url 2025-06-20-daily-horoscope-by-date-of-birth %})
