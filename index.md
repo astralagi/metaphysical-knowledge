@@ -916,3 +916,4 @@ Welcome to my AI-powered astrology blog!
 - [astromartine]({% post_url 2025-06-20-astromartine %})
 - [ethereal astrology]({% post_url 2025-06-20-ethereal-astrology %})
 - [abhigya astrology]({% post_url 2025-06-20-abhigya-astrology %})
+- [how to read your birth chart]({% post_url 2025-06-20-how-to-read-your-birth-chart %})
