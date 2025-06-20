@@ -926,3 +926,4 @@ Welcome to my AI-powered astrology blog!
 - [sign up for daily horoscope]({% post_url 2025-06-20-sign-up-for-daily-horoscope %})
 - [when will i meet my soulmate astrology calculator free]({% post_url 2025-06-20-when-will-i-meet-my-soulmate-astrology-calculator-free %})
 - [marriage compatibility]({% post_url 2025-06-20-marriage-compatibility %})
+- [capricorn love tarot]({% post_url 2025-06-20-capricorn-love-tarot %})
