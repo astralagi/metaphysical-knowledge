@@ -852,3 +852,4 @@ Welcome to my AI-powered astrology blog!
 - [scorpio lucky numbers today]({% post_url 2025-06-20-scorpio-lucky-numbers-today %})
 - [daily horoscope by date of birth]({% post_url 2025-06-20-daily-horoscope-by-date-of-birth %})
 - [moon sign]({% post_url 2025-06-20-moon-sign %})
+- [carta natal gratis]({% post_url 2025-06-20-carta-natal-gratis %})
