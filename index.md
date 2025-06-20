@@ -863,3 +863,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo finance]({% post_url 2025-06-20-virgo-finance %})
 - [coyote astrology]({% post_url 2025-06-20-coyote-astrology %})
 - [scorpio horoscope astrology]({% post_url 2025-06-20-scorpio-horoscope-astrology %})
+- [free tamil astrology full life prediction]({% post_url 2025-06-20-free-tamil-astrology-full-life-prediction %})
