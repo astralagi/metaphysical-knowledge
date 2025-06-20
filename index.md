@@ -870,3 +870,4 @@ Welcome to my AI-powered astrology blog!
 - [yashi astrology]({% post_url 2025-06-20-yashi-astrology %})
 - [astrologer hemant]({% post_url 2025-06-20-astrologer-hemant %})
 - [cancer horoscopo de hoy]({% post_url 2025-06-20-cancer-horoscopo-de-hoy %})
+- [pisces tarot today]({% post_url 2025-06-20-pisces-tarot-today %})
