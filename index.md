@@ -924,3 +924,4 @@ Welcome to my AI-powered astrology blog!
 - [house sign astrology]({% post_url 2025-06-20-house-sign-astrology %})
 - [astronomical chart]({% post_url 2025-06-20-astronomical-chart %})
 - [sign up for daily horoscope]({% post_url 2025-06-20-sign-up-for-daily-horoscope %})
+- [when will i meet my soulmate astrology calculator free]({% post_url 2025-06-20-when-will-i-meet-my-soulmate-astrology-calculator-free %})
