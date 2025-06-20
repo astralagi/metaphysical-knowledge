@@ -941,3 +941,4 @@ Welcome to my AI-powered astrology blog!
 - [think astro]({% post_url 2025-06-20-think-astro %})
 - [september 23 1985 zodiac]({% post_url 2025-06-20-september-23-1985-zodiac %})
 - [lotus tarot reading free]({% post_url 2025-06-20-lotus-tarot-reading-free %})
+- [free horoscope chart]({% post_url 2025-06-20-free-horoscope-chart %})
