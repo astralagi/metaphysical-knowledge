@@ -906,3 +906,4 @@ Welcome to my AI-powered astrology blog!
 - [kaypacha pele report]({% post_url 2025-06-20-kaypacha-pele-report %})
 - [astrocartography chart generator]({% post_url 2025-06-20-astrocartography-chart-generator %})
 - [free astrology prediction]({% post_url 2025-06-20-free-astrology-prediction %})
+- [are scorpio and virgo soulmates]({% post_url 2025-06-20-are-scorpio-and-virgo-soulmates %})
