@@ -956,3 +956,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces moon intuitive libra]({% post_url 2025-06-20-pisces-moon-intuitive-libra %})
 - [absolutely free psychic reading]({% post_url 2025-06-20-absolutely-free-psychic-reading %})
 - [horoscopos para piscis hoy]({% post_url 2025-06-20-horoscopos-para-piscis-hoy %})
+- [kundali horoscope matching]({% post_url 2025-06-20-kundali-horoscope-matching %})
