@@ -970,3 +970,4 @@ Welcome to my AI-powered astrology blog!
 - [putra yog calculator by date of birth]({% post_url 2025-06-20-putra-yog-calculator-by-date-of-birth %})
 - [ai tarot readings]({% post_url 2025-06-20-ai-tarot-readings %})
 - [online kundali check]({% post_url 2025-06-20-online-kundali-check %})
+- [horoscope ai]({% post_url 2025-06-20-horoscope-ai %})
