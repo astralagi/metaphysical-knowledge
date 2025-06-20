@@ -933,3 +933,4 @@ Welcome to my AI-powered astrology blog!
 - [leo april 2025 horoscope]({% post_url 2025-06-20-leo-april-2025-horoscope %})
 - [astro com chart]({% post_url 2025-06-20-astro-com-chart %})
 - [download birth chart]({% post_url 2025-06-20-download-birth-chart %})
+- [how do i know my rising sign]({% post_url 2025-06-20-how-do-i-know-my-rising-sign %})
