@@ -892,3 +892,4 @@ Welcome to my AI-powered astrology blog!
 - [janampatri reading online free]({% post_url 2025-06-20-janampatri-reading-online-free %})
 - [house calculator astrology]({% post_url 2025-06-20-house-calculator-astrology %})
 - [how to make your birth chart]({% post_url 2025-06-20-how-to-make-your-birth-chart %})
+- [esoteric astrology reading free]({% post_url 2025-06-20-esoteric-astrology-reading-free %})
