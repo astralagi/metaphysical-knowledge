@@ -901,3 +901,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology for mystics]({% post_url 2025-06-20-astrology-for-mystics %})
 - [free full birth chart reading]({% post_url 2025-06-20-free-full-birth-chart-reading %})
 - [taurus sun sagittarius moon man]({% post_url 2025-06-20-taurus-sun-sagittarius-moon-man %})
+- [respontika astrology]({% post_url 2025-06-20-respontika-astrology %})
