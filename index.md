@@ -817,3 +817,4 @@ Welcome to my AI-powered astrology blog!
 - [jayakumar astrology]({% post_url 2025-06-20-jayakumar-astrology %})
 - [capricorn tarot love today]({% post_url 2025-06-20-capricorn-tarot-love-today %})
 - [vl astrology]({% post_url 2025-06-20-vl-astrology %})
+- [time passages]({% post_url 2025-06-20-time-passages %})
