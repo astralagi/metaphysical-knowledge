@@ -846,3 +846,4 @@ Welcome to my AI-powered astrology blog!
 - [how to tell your zodiac sign]({% post_url 2025-06-20-how-to-tell-your-zodiac-sign %})
 - [virgo career]({% post_url 2025-06-20-virgo-career %})
 - [libra latest tarot reading]({% post_url 2025-06-20-libra-latest-tarot-reading %})
+- [pam gregory david clements]({% post_url 2025-06-20-pam-gregory-david-clements %})
