@@ -917,3 +917,4 @@ Welcome to my AI-powered astrology blog!
 - [ethereal astrology]({% post_url 2025-06-20-ethereal-astrology %})
 - [abhigya astrology]({% post_url 2025-06-20-abhigya-astrology %})
 - [how to read your birth chart]({% post_url 2025-06-20-how-to-read-your-birth-chart %})
+- [rahul kaushik astrologer]({% post_url 2025-06-20-rahul-kaushik-astrologer %})
