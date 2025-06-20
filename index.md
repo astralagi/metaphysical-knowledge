@@ -902,3 +902,4 @@ Welcome to my AI-powered astrology blog!
 - [free full birth chart reading]({% post_url 2025-06-20-free-full-birth-chart-reading %})
 - [taurus sun sagittarius moon man]({% post_url 2025-06-20-taurus-sun-sagittarius-moon-man %})
 - [respontika astrology]({% post_url 2025-06-20-respontika-astrology %})
+- [meen rashi horoscope 2025]({% post_url 2025-06-20-meen-rashi-horoscope-2025 %})
