@@ -958,3 +958,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscopos para piscis hoy]({% post_url 2025-06-20-horoscopos-para-piscis-hoy %})
 - [kundali horoscope matching]({% post_url 2025-06-20-kundali-horoscope-matching %})
 - [night light astrology]({% post_url 2025-06-20-night-light-astrology %})
+- [when the moon is in the seventh house and jupiter aligns with mars]({% post_url 2025-06-20-when-the-moon-is-in-the-seventh-house-and-jupiter-aligns-with-mars %})
