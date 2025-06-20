@@ -918,3 +918,4 @@ Welcome to my AI-powered astrology blog!
 - [abhigya astrology]({% post_url 2025-06-20-abhigya-astrology %})
 - [how to read your birth chart]({% post_url 2025-06-20-how-to-read-your-birth-chart %})
 - [rahul kaushik astrologer]({% post_url 2025-06-20-rahul-kaushik-astrologer %})
+- [horoscope cancer april 2025]({% post_url 2025-06-20-horoscope-cancer-april-2025 %})
