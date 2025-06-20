@@ -930,3 +930,4 @@ Welcome to my AI-powered astrology blog!
 - [what my birth chart says about me]({% post_url 2025-06-20-what-my-birth-chart-says-about-me %})
 - [birth chart relationship compatibility]({% post_url 2025-06-20-birth-chart-relationship-compatibility %})
 - [astroscope app]({% post_url 2025-06-20-astroscope-app %})
+- [leo april 2025 horoscope]({% post_url 2025-06-20-leo-april-2025-horoscope %})
