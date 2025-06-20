@@ -881,3 +881,4 @@ Welcome to my AI-powered astrology blog!
 - [how to figure out moon sign]({% post_url 2025-06-20-how-to-figure-out-moon-sign %})
 - [witch astrology placements]({% post_url 2025-06-20-witch-astrology-placements %})
 - [horoscope 2025 pisces]({% post_url 2025-06-20-horoscope-2025-pisces %})
+- [proactive astrology]({% post_url 2025-06-20-proactive-astrology %})
