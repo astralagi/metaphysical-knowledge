@@ -888,3 +888,4 @@ Welcome to my AI-powered astrology blog!
 - [in depth numerology report]({% post_url 2025-06-20-in-depth-numerology-report %})
 - [twinstrology]({% post_url 2025-06-20-twinstrology %})
 - [my life prediction]({% post_url 2025-06-20-my-life-prediction %})
+- [morning star tarot libra]({% post_url 2025-06-20-morning-star-tarot-libra %})
