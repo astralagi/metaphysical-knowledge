@@ -813,3 +813,4 @@ Welcome to my AI-powered astrology blog!
 - [how do i find out my birth chart]({% post_url 2025-06-20-how-do-i-find-out-my-birth-chart %})
 - [celestial blueprint]({% post_url 2025-06-20-celestial-blueprint %})
 - [birthday compatibility test free]({% post_url 2025-06-20-birthday-compatibility-test-free %})
+- [birth chart astrology calculator]({% post_url 2025-06-20-birth-chart-astrology-calculator %})
