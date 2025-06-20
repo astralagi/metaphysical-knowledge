@@ -953,3 +953,4 @@ Welcome to my AI-powered astrology blog!
 - [sv bhardwaj astrologer]({% post_url 2025-06-20-sv-bhardwaj-astrologer %})
 - [astroyogi palm reading app]({% post_url 2025-06-20-astroyogi-palm-reading-app %})
 - [free future reading by date of birth]({% post_url 2025-06-20-free-future-reading-by-date-of-birth %})
+- [pisces moon intuitive libra]({% post_url 2025-06-20-pisces-moon-intuitive-libra %})
