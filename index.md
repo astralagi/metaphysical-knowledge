@@ -937,3 +937,4 @@ Welcome to my AI-powered astrology blog!
 - [what's my zodiac]({% post_url 2025-06-20-whats-my-zodiac %})
 - [palmistry reading free]({% post_url 2025-06-20-palmistry-reading-free %})
 - [detailed horoscope]({% post_url 2025-06-20-detailed-horoscope %})
+- [free vedic birth chart with interpretation]({% post_url 2025-06-20-free-vedic-birth-chart-with-interpretation %})
