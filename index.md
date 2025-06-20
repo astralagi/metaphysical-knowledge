@@ -950,3 +950,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn march 2025]({% post_url 2025-06-20-capricorn-march-2025 %})
 - [mercury in gemini birth chart]({% post_url 2025-06-20-mercury-in-gemini-birth-chart %})
 - [most accurate astrology app]({% post_url 2025-06-20-most-accurate-astrology-app %})
+- [sv bhardwaj astrologer]({% post_url 2025-06-20-sv-bhardwaj-astrologer %})
