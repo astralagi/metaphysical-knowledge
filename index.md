@@ -834,3 +834,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius by aquarius]({% post_url 2025-06-20-aquarius-by-aquarius %})
 - [astro app]({% post_url 2025-06-20-astro-app %})
 - [palm reading free]({% post_url 2025-06-20-palm-reading-free %})
+- [how to know your zodiac sign]({% post_url 2025-06-20-how-to-know-your-zodiac-sign %})
