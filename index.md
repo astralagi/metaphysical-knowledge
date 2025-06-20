@@ -862,3 +862,4 @@ Welcome to my AI-powered astrology blog!
 - [kaartik gor astrologer]({% post_url 2025-06-20-kaartik-gor-astrologer %})
 - [virgo finance]({% post_url 2025-06-20-virgo-finance %})
 - [coyote astrology]({% post_url 2025-06-20-coyote-astrology %})
+- [scorpio horoscope astrology]({% post_url 2025-06-20-scorpio-horoscope-astrology %})
