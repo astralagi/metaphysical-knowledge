@@ -860,3 +860,4 @@ Welcome to my AI-powered astrology blog!
 - [psychic reading cards]({% post_url 2025-06-20-psychic-reading-cards %})
 - [free astrology app]({% post_url 2025-06-20-free-astrology-app %})
 - [kaartik gor astrologer]({% post_url 2025-06-20-kaartik-gor-astrologer %})
+- [virgo finance]({% post_url 2025-06-20-virgo-finance %})
