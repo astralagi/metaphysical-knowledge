@@ -940,3 +940,4 @@ Welcome to my AI-powered astrology blog!
 - [free vedic birth chart with interpretation]({% post_url 2025-06-20-free-vedic-birth-chart-with-interpretation %})
 - [think astro]({% post_url 2025-06-20-think-astro %})
 - [september 23 1985 zodiac]({% post_url 2025-06-20-september-23-1985-zodiac %})
+- [lotus tarot reading free]({% post_url 2025-06-20-lotus-tarot-reading-free %})
