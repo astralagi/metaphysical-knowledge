@@ -955,3 +955,4 @@ Welcome to my AI-powered astrology blog!
 - [free future reading by date of birth]({% post_url 2025-06-20-free-future-reading-by-date-of-birth %})
 - [pisces moon intuitive libra]({% post_url 2025-06-20-pisces-moon-intuitive-libra %})
 - [absolutely free psychic reading]({% post_url 2025-06-20-absolutely-free-psychic-reading %})
+- [horoscopos para piscis hoy]({% post_url 2025-06-20-horoscopos-para-piscis-hoy %})
