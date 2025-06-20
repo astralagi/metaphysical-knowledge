@@ -963,3 +963,4 @@ Welcome to my AI-powered astrology blog!
 - [prashant kapoor astrologer latest]({% post_url 2025-06-20-prashant-kapoor-astrologer-latest %})
 - [what is my venus sign]({% post_url 2025-06-20-what-is-my-venus-sign %})
 - [vedic birth chart with interpretation]({% post_url 2025-06-20-vedic-birth-chart-with-interpretation %})
+- [susan tarot pisces today]({% post_url 2025-06-20-susan-tarot-pisces-today %})
