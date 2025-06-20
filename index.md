@@ -809,3 +809,4 @@ Welcome to my AI-powered astrology blog!
 - [namaste today]({% post_url 2025-06-20-namaste-today %})
 - [aquarius predictions]({% post_url 2025-06-20-aquarius-predictions %})
 - [interpret my birth chart]({% post_url 2025-06-20-interpret-my-birth-chart %})
+- [free medical astrology predictions]({% post_url 2025-06-20-free-medical-astrology-predictions %})
