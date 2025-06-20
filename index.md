@@ -806,3 +806,4 @@ Welcome to my AI-powered astrology blog!
 - [astro charts]({% post_url 2025-06-19-astro-charts %})
 - [nebula natal chart]({% post_url 2025-06-19-nebula-natal-chart %})
 - [free psychic reading by date of birth and time]({% post_url 2025-06-19-free-psychic-reading-by-date-of-birth-and-time %})
+- [namaste today]({% post_url 2025-06-20-namaste-today %})
