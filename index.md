@@ -910,3 +910,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology 2025]({% post_url 2025-06-20-astrology-2025 %})
 - [horoscope 2025 by date of birth and time]({% post_url 2025-06-20-horoscope-2025-by-date-of-birth-and-time %})
 - [how to find your destiny in your birth chart]({% post_url 2025-06-20-how-to-find-your-destiny-in-your-birth-chart %})
+- [sarangapani jathakam]({% post_url 2025-06-20-sarangapani-jathakam %})
