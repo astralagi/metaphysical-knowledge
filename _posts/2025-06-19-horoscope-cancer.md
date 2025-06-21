@@ -1,6 +1,6 @@
 ---
 title: "horoscope cancer"
-layout: post
+layout: single
 ---
 
 # Horoscope Cancer: Unveiling the Crab's Mysteries with AI
