@@ -1032,3 +1032,4 @@ Welcome to my AI-powered astrology blog!
 - [how to know which is your zodiac sign]({% post_url 2025-06-21-how-to-know-which-is-your-zodiac-sign %})
 - [what is my zodiac sign for december]({% post_url 2025-06-21-what-is-my-zodiac-sign-for-december %})
 - [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
+- [9th house astrology meaning]({% post_url 2025-06-21-9th-house-astrology-meaning %})
