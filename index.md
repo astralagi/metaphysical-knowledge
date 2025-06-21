@@ -1009,3 +1009,4 @@ Welcome to my AI-powered astrology blog!
 - [compatibility by birthdate]({% post_url 2025-06-21-compatibility-by-birthdate %})
 - [astrology app]({% post_url 2025-06-21-astrology-app %})
 - [birth chart information]({% post_url 2025-06-21-birth-chart-information %})
+- [best free astrology app]({% post_url 2025-06-21-best-free-astrology-app %})
