@@ -1,6 +1,6 @@
 ---
 title: "jayakumar astrology"
-layout: post
+layout: single
 ---
 
 # Jayakumar Astrology: Unveiling Cosmic Insights with AI
