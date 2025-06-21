@@ -1,6 +1,6 @@
 ---
 title: "free future reading by date of birth"
-layout: post
+layout: single
 ---
 
 # Free Future Reading by Date of Birth
