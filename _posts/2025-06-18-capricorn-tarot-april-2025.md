@@ -1,6 +1,6 @@
 ---
 title: "capricorn tarot april 2025"
-layout: post
+layout: single
 ---
 
 # Capricorn Tarot April 2025
