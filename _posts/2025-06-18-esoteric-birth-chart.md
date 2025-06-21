@@ -1,6 +1,6 @@
 ---
 title: "esoteric birth chart"
-layout: post
+layout: single
 ---
 
 # Esoteric Birth Chart: Unveiling Deeper Astrological Truths with AI
