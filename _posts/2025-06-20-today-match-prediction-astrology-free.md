@@ -1,6 +1,6 @@
 ---
 title: "today match prediction astrology free"
-layout: post
+layout: single
 ---
 
 # Today Match Prediction Astrology Free: Unveiling Cosmic Insights with AI
