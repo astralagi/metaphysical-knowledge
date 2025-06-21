@@ -1,6 +1,6 @@
 ---
 title: "free astro chart compatibility"
-layout: post
+layout: single
 ---
 
 # Free Astro Chart Compatibility: Unlocking Relationship Potential with AI
