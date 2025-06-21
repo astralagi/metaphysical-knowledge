@@ -1,6 +1,6 @@
 ---
 title: "kumar joshi astrology"
-layout: post
+layout: single
 ---
 
 # kumar joshi astrology
