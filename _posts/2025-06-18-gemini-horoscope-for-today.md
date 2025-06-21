@@ -1,6 +1,6 @@
 ---
 title: "gemini horoscope for today"
-layout: post
+layout: single
 ---
 
 # Gemini Horoscope for Today: Navigating the Airy Currents with AI
