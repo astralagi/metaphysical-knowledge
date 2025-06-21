@@ -1,6 +1,6 @@
 ---
 title: "astro with m singh"
-layout: post
+layout: single
 ---
 
 # astro with m singh: Unveiling Astrological Insights with AI
