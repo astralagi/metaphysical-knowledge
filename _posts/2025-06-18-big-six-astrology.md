@@ -1,6 +1,6 @@
 ---
 title: "big six astrology"
-layout: post
+layout: single
 ---
 
 # Big Six Astrology: Unveiling Your Destiny with AI
