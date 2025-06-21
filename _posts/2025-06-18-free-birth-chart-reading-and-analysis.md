@@ -1,6 +1,6 @@
 ---
 title: "free birth chart reading and analysis"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Reading and Analysis: Unveiling Your Astrological Blueprint
