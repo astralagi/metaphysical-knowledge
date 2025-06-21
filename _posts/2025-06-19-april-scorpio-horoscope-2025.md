@@ -1,6 +1,6 @@
 ---
 title: "april scorpio horoscope 2025"
-layout: post
+layout: single
 ---
 
 # April Scorpio Horoscope 2025: Navigating the Waters of Transformation
