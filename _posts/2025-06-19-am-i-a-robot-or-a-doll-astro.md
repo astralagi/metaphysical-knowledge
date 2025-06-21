@@ -1,6 +1,6 @@
 ---
 title: "am i a robot or a doll astro"
-layout: post
+layout: single
 ---
 
 # Am I a Robot or a Doll Astro? Exploring the Automaton Within Through Astrology
