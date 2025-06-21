@@ -1,6 +1,6 @@
 ---
 title: "scorpio lucky numbers today"
-layout: post
+layout: single
 ---
 
 # Scorpio Lucky Numbers Today: Unveiling the Secrets with AI
