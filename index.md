@@ -1018,3 +1018,4 @@ Welcome to my AI-powered astrology blog!
 - [halley comet astrology]({% post_url 2025-06-21-halley-comet-astrology %})
 - [pisces]({% post_url 2025-06-21-pisces %})
 - [nakul parashar astrologer fees]({% post_url 2025-06-21-nakul-parashar-astrologer-fees %})
+- [astro finesse scorpio rising]({% post_url 2025-06-21-astro-finesse-scorpio-rising %})
