@@ -1,6 +1,6 @@
 ---
 title: "north node calculator"
-layout: post
+layout: single
 ---
 
 # North Node Calculator: Unlocking Your Evolutionary Path with AI-Powered Astrology
