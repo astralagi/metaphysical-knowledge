@@ -1182,3 +1182,4 @@ Welcome to my AI-powered astrology blog!
 - [lloyd strayhorn numerology]({% post_url 2025-06-21-lloyd-strayhorn-numerology %})
 - [astro kimi]({% post_url 2025-06-21-astro-kimi %})
 - [free astrology reports online]({% post_url 2025-06-21-free-astrology-reports-online %})
+- [whole house birth chart calculator]({% post_url 2025-06-21-whole-house-birth-chart-calculator %})
