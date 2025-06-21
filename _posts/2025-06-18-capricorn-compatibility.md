@@ -1,6 +1,6 @@
 ---
 title: "capricorn compatibility"
-layout: post
+layout: single
 ---
 
 # Capricorn Compatibility: Unlocking the Secrets of the Goat
