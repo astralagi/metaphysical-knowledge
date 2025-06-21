@@ -1,6 +1,6 @@
 ---
 title: "what is my venus sign"
-layout: post
+layout: single
 ---
 
 # What is My Venus Sign? Unlocking the Secrets of Love, Beauty, and Values
