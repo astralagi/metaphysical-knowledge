@@ -1,6 +1,6 @@
 ---
 title: "march pisces"
-layout: post
+layout: single
 ---
 
 # March Pisces: Navigating the Cusp of Intuition and Transformation with AI
