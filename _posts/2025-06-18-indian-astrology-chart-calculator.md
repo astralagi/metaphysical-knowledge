@@ -1,6 +1,6 @@
 ---
 title: "indian astrology chart calculator"
-layout: post
+layout: single
 ---
 
 # Indian Astrology Chart Calculator: Unveiling Your Vedic Destiny with AI
