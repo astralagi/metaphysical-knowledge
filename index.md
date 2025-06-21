@@ -1047,3 +1047,4 @@ Welcome to my AI-powered astrology blog!
 - [ai birth chart reading]({% post_url 2025-06-21-ai-birth-chart-reading %})
 - [generate kundli online]({% post_url 2025-06-21-generate-kundli-online %})
 - [sadhguru astrology]({% post_url 2025-06-21-sadhguru-astrology %})
+- [jeff harmon astrology]({% post_url 2025-06-21-jeff-harmon-astrology %})
