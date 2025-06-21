@@ -1,6 +1,6 @@
 ---
 title: "best astrology app for android"
-layout: post
+layout: single
 ---
 
 # Best Astrology App for Android: Navigating the Celestial Landscape with AI
