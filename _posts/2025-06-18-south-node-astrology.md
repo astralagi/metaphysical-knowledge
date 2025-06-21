@@ -1,6 +1,6 @@
 ---
 title: "south node astrology"
-layout: post
+layout: single
 ---
 
 # South Node Astrology: Unveiling Your Karmic Past and Future Potential
