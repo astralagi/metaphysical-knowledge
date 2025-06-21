@@ -1,6 +1,6 @@
 ---
 title: "what your sign says about you"
-layout: post
+layout: single
 ---
 
 ## What Your Sign Says About You
