@@ -1,6 +1,6 @@
 ---
 title: "ms charlotte astrology"
-layout: post
+layout: single
 ---
 
 # ms charlotte astrology: Unveiling Personalized Astrological Insights with AI
