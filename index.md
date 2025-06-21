@@ -1041,3 +1041,4 @@ Welcome to my AI-powered astrology blog!
 - [online synastry]({% post_url 2025-06-21-online-synastry %})
 - [scorpio reading]({% post_url 2025-06-21-scorpio-reading %})
 - [astrology steve judd]({% post_url 2025-06-21-astrology-steve-judd %})
+- [lunar astro]({% post_url 2025-06-21-lunar-astro %})
