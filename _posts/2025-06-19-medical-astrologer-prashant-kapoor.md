@@ -1,6 +1,6 @@
 ---
 title: "medical astrologer prashant kapoor"
-layout: post
+layout: single
 ---
 
 # Medical Astrologer Prashant Kapoor: Unveiling the Celestial Influences on Health
