@@ -1,6 +1,6 @@
 ---
 title: "aries april"
-layout: post
+layout: single
 ---
 
 # Aries April: Embracing the Ram's Spring Energy with AI
