@@ -1,6 +1,6 @@
 ---
 title: "astro charts"
-layout: post
+layout: single
 ---
 
 # Astro Charts: Unlocking the Cosmos with AI-Powered Astrology
