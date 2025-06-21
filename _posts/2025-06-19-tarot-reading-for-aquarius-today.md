@@ -1,6 +1,6 @@
 ---
 title: "tarot reading for aquarius today"
-layout: post
+layout: single
 ---
 
 # Tarot Reading for Aquarius Today: Unlocking Astrological Insights with AI
