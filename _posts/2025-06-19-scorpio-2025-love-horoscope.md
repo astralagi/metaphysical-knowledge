@@ -1,6 +1,6 @@
 ---
 title: "scorpio 2025 love horoscope"
-layout: post
+layout: single
 ---
 
 # Scorpio 2025 Love Horoscope: Unveiling the Year's Romantic Landscape with AI
