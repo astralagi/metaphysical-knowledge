@@ -1,6 +1,6 @@
 ---
 title: "mercury in 10th house for sagittarius ascendant"
-layout: post
+layout: single
 ---
 
 # Mercury in 10th House for Sagittarius Ascendant
