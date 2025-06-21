@@ -1,6 +1,6 @@
 ---
 title: "destiny matrix chart soulmate"
-layout: post
+layout: single
 ---
 
 # Destiny Matrix Chart Soulmate: Unveiling Your Astrological Connection
