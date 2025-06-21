@@ -1,6 +1,6 @@
 ---
 title: "kundali analysis"
-layout: post
+layout: single
 ---
 
 # Kundali Analysis: Unveiling Your Astrological Blueprint with AI
