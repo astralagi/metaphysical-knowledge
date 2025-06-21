@@ -1,6 +1,6 @@
 ---
 title: "compatibility chart"
-layout: post
+layout: single
 ---
 
 # Compatibility Chart: Unlocking Relational Harmony with Astrology and AI
