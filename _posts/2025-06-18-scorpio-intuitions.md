@@ -1,6 +1,6 @@
 ---
 title: "scorpio intuitions"
-layout: post
+layout: single
 ---
 
 # Scorpio Intuitions: Unlocking the Secrets of the Water Scorpion
