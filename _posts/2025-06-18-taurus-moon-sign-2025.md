@@ -1,6 +1,6 @@
 ---
 title: "taurus moon sign 2025"
-layout: post
+layout: single
 ---
 
 # Taurus Moon Sign 2025: Navigating the Year with AI-Powered Astrology
