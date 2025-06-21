@@ -1,6 +1,6 @@
 ---
 title: "libra horoscope"
-layout: post
+layout: single
 ---
 
 # Libra Horoscope: Unveiling the Scales of Fate with AI
