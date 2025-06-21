@@ -1,6 +1,6 @@
 ---
 title: "capricorn today horoscope"
-layout: post
+layout: single
 ---
 
 # Capricorn Today Horoscope: Unveiling Your Astrological Potential with AI
