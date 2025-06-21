@@ -1,6 +1,6 @@
 ---
 title: "birth chart accurate"
-layout: post
+layout: single
 ---
 
 # Birth Chart Accurate: Unveiling the Precision of Astrological Insights with AI
