@@ -1,6 +1,6 @@
 ---
 title: "free online tarot reading"
-layout: post
+layout: single
 ---
 
 # Free Online Tarot Reading: Unveiling the Future with AI and Astrology
