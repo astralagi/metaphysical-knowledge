@@ -1039,3 +1039,4 @@ Welcome to my AI-powered astrology blog!
 - [what is my 7th house calculate free]({% post_url 2025-06-21-what-is-my-7th-house-calculate-free %})
 - [white soul tarot scorpio]({% post_url 2025-06-21-white-soul-tarot-scorpio %})
 - [tarot reading free]({% post_url 2025-06-21-tarot-reading-free %})
+- [halley comet astrology]({% post_url 2025-06-21-halley-comet-astrology %})
