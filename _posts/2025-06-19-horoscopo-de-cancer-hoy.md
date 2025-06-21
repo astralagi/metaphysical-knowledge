@@ -1,6 +1,6 @@
 ---
 title: "horoscopo de cancer hoy"
-layout: post
+layout: single
 ---
 
 # Horoscopo de Cancer Hoy: Unveiling the Daily Astrological Landscape for Cancerians
