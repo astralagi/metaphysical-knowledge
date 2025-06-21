@@ -974,3 +974,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find out if you are manglik]({% post_url 2025-06-21-how-to-find-out-if-you-are-manglik %})
 - [sun in aries vedic astrology]({% post_url 2025-06-21-sun-in-aries-vedic-astrology %})
 - [free astrology birth chart report]({% post_url 2025-06-21-free-astrology-birth-chart-report %})
+- [pisces horoscope 2025 arun pandit]({% post_url 2025-06-21-pisces-horoscope-2025-arun-pandit %})
