@@ -1,6 +1,6 @@
 ---
 title: "whats my astrological chart"
-layout: post
+layout: single
 ---
 
 # What's My Astrological Chart? Unlocking Your Cosmic Blueprint
