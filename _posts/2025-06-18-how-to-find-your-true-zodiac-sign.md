@@ -1,6 +1,6 @@
 ---
 title: "how to find your true zodiac sign"
-layout: post
+layout: single
 ---
 
 # How to Find Your True Zodiac Sign
