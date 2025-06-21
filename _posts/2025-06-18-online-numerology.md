@@ -1,6 +1,6 @@
 ---
 title: "online numerology"
-layout: post
+layout: single
 ---
 
 # Online Numerology: Unlocking Life's Code with AI-Powered Astrology
