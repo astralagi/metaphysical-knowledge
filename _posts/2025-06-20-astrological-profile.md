@@ -1,6 +1,6 @@
 ---
 title: "astrological profile"
-layout: post
+layout: single
 ---
 
 # Astrological Profile: Unlocking Your Cosmic Blueprint with AI
