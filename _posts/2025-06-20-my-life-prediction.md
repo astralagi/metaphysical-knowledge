@@ -1,6 +1,6 @@
 ---
 title: "my life prediction"
-layout: post
+layout: single
 ---
 
 # My Life Prediction: Unveiling Your Astrological Future with AI
