@@ -1,6 +1,6 @@
 ---
 title: "horoscope for pisces for today"
-layout: post
+layout: single
 ---
 
 # Horoscope for Pisces for Today: Unveiling the Day's Astrological Influences
