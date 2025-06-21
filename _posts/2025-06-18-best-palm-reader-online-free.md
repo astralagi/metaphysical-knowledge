@@ -1,6 +1,6 @@
 ---
 title: "best palm reader online free"
-layout: post
+layout: single
 ---
 
 # Best Palm Reader Online Free: Unveiling Your Destiny with AI-Powered Astrology
