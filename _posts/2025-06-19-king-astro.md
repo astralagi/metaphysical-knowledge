@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "king astro"
-layout: post
+layout: single
 ---
 
 # King Astro: Unveiling the Royal Archetype in Your Birth Chart with AI
