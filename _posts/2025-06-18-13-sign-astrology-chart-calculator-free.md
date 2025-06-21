@@ -1,6 +1,6 @@
 ---
 title: "13 sign astrology chart calculator free"
-layout: post
+layout: single
 ---
 
 # 13 Sign Astrology Chart Calculator Free: Unveiling the Expanded Zodiac with AI
