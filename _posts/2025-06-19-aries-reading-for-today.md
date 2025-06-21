@@ -1,6 +1,6 @@
 ---
 title: "aries reading for today"
-layout: post
+layout: single
 ---
 
 # Aries Reading for Today: Unveiling Your Astrological Potential with AI
