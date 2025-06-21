@@ -1,6 +1,6 @@
 ---
 title: "dasamsa chart"
-layout: post
+layout: single
 ---
 
 # Dasamsa Chart: Unveiling Your Marital and Partnership Destiny with AI
