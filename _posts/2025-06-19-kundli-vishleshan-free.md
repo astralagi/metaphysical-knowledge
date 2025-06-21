@@ -1,6 +1,6 @@
 ---
 title: "kundli vishleshan free"
-layout: post
+layout: single
 ---
 
 # Kundli Vishleshan Free: Unlocking Your Astrological Potential with AI
