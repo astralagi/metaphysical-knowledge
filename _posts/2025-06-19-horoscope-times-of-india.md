@@ -1,6 +1,6 @@
 ---
 title: "horoscope times of india"
-layout: post
+layout: single
 ---
 
 # Horoscope Times of India: Unveiling Astrological Insights with AI
