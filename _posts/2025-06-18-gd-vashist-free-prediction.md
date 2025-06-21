@@ -1,6 +1,6 @@
 ---
 title: "gd vashist free prediction"
-layout: post
+layout: single
 ---
 
 # gd vashist free prediction: Unveiling Astrological Insights with AI
