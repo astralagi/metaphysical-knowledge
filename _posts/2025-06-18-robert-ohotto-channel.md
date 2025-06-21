@@ -1,6 +1,6 @@
 ---
 title: "robert ohotto channel"
-layout: post
+layout: single
 ---
 
 # Robert Ohotto Channel: Unveiling Astrological Insights with AI
