@@ -1,6 +1,6 @@
 ---
 title: "sagittarius libra compatibility"
-layout: post
+layout: single
 ---
 
 # Sagittarius Libra Compatibility: A Celestial Dance of Fire and Air
