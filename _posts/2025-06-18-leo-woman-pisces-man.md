@@ -1,6 +1,6 @@
 ---
 title: "leo woman pisces man"
-layout: post
+layout: single
 ---
 
 # Leo Woman Pisces Man: A Cosmic Dance of Fire and Water
