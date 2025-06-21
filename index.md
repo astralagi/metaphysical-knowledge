@@ -1065,3 +1065,4 @@ Welcome to my AI-powered astrology blog!
 - [how to check rahu is in which house]({% post_url 2025-06-21-how-to-check-rahu-is-in-which-house %})
 - [libra astrokween]({% post_url 2025-06-21-libra-astrokween %})
 - [marriage astrology free]({% post_url 2025-06-21-marriage-astrology-free %})
+- [virgo horoscope]({% post_url 2025-06-21-virgo-horoscope %})
