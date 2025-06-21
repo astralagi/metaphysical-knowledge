@@ -1,6 +1,6 @@
 ---
 title: "numerology reading"
-layout: post
+layout: single
 ---
 
 # Numerology Reading: Unlocking Life's Code with AI-Powered Astrology
