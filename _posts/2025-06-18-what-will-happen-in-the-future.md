@@ -1,6 +1,6 @@
 ---
 title: "what will happen in the future"
-layout: post
+layout: single
 ---
 
 ## What Will Happen in the Future? An Astrological and AI Perspective
