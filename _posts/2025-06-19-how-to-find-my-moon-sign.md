@@ -1,6 +1,6 @@
 ---
 title: "how to find my moon sign"
-layout: post
+layout: single
 ---
 
 # How to Find My Moon Sign
