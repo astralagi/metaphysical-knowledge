@@ -1,6 +1,6 @@
 ---
 title: "think astro"
-layout: post
+layout: single
 ---
 
 # Think Astro: Unveiling the Power of AI in Astrological Analysis
