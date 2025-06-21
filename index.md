@@ -985,3 +985,4 @@ Welcome to my AI-powered astrology blog!
 - [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
 - [capricorn job reading]({% post_url 2025-06-21-capricorn-job-reading %})
 - [moon and ascendant sign]({% post_url 2025-06-21-moon-and-ascendant-sign %})
+- [how do i find my 12 houses]({% post_url 2025-06-21-how-do-i-find-my-12-houses %})
