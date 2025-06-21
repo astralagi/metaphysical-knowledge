@@ -1,6 +1,6 @@
 ---
 title: "astrologer dr y rakhi"
-layout: post
+layout: single
 ---
 
 # Astrologer Dr Y Rakhi: Unlocking Astrological Insights with AI
