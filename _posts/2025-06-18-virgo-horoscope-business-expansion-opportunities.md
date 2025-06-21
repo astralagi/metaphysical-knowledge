@@ -1,6 +1,6 @@
 ---
 title: "virgo horoscope business expansion opportunities"
-layout: post
+layout: single
 ---
 
 # Virgo Horoscope Business Expansion Opportunities
