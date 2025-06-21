@@ -1,6 +1,6 @@
 ---
 title: "pisces career"
-layout: post
+layout: single
 ---
 
 # Pisces Career: Navigating the Tides of Professional Success with AI
