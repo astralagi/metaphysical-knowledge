@@ -1,6 +1,6 @@
 ---
 title: "astro legend"
-layout: post
+layout: single
 ---
 
 # Astro Legend: Unveiling Your Celestial Destiny with AI
