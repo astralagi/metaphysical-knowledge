@@ -1,6 +1,6 @@
 ---
 title: "marriage compatibility"
-layout: post
+layout: single
 ---
 
 # Marriage Compatibility: Unveiling Astrological Harmony with AI
