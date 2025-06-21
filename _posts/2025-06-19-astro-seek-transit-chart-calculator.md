@@ -1,6 +1,6 @@
 ---
 title: "astro seek transit chart calculator"
-layout: post
+layout: single
 ---
 
 # Astro Seek Transit Chart Calculator: Unveiling the Cosmic Dance with AI
