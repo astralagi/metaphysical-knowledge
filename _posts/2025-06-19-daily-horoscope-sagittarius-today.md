@@ -1,6 +1,6 @@
 ---
 title: "daily horoscope sagittarius today"
-layout: post
+layout: single
 ---
 
 # Daily Horoscope Sagittarius Today: Unveiling the Archer's Path with AI
