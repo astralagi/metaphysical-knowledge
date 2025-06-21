@@ -1,6 +1,6 @@
 ---
 title: "if a zodiac does this run"
-layout: post
+layout: single
 ---
 
 # If a Zodiac Does This, Run: Deciphering Astrological Red Flags with AI
