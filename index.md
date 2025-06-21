@@ -982,3 +982,4 @@ Welcome to my AI-powered astrology blog!
 - [astronomers and astrologers]({% post_url 2025-06-21-astronomers-and-astrologers %})
 - [what does your rising sign mean]({% post_url 2025-06-21-what-does-your-rising-sign-mean %})
 - [astroo]({% post_url 2025-06-21-astroo %})
+- [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
