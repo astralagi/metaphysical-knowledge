@@ -1,6 +1,6 @@
 ---
 title: "astro charts com birth chart"
-layout: post
+layout: single
 ---
 
 # astro charts com birth chart
