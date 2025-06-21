@@ -1037,3 +1037,4 @@ Welcome to my AI-powered astrology blog!
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
 - [which zodiacs go together]({% post_url 2025-06-21-which-zodiacs-go-together %})
 - [what is my 7th house calculate free]({% post_url 2025-06-21-what-is-my-7th-house-calculate-free %})
+- [white soul tarot scorpio]({% post_url 2025-06-21-white-soul-tarot-scorpio %})
