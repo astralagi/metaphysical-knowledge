@@ -1176,3 +1176,4 @@ Welcome to my AI-powered astrology blog!
 - [como sacar mi carta astral]({% post_url 2025-06-21-como-sacar-mi-carta-astral %})
 - [star chart calculator]({% post_url 2025-06-21-star-chart-calculator %})
 - [horoscope astrology]({% post_url 2025-06-21-horoscope-astrology %})
+- [free tarot reading online accurate]({% post_url 2025-06-21-free-tarot-reading-online-accurate %})
