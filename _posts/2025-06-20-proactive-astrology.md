@@ -1,6 +1,6 @@
 ---
 title: "proactive astrology"
-layout: post
+layout: single
 ---
 
 # Proactive Astrology: Shaping Your Future with Astrological Insights and AI
