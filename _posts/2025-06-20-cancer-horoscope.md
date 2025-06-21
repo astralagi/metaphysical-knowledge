@@ -1,6 +1,6 @@
 ---
 title: "cancer horoscope"
-layout: post
+layout: single
 ---
 
 # Cancer Horoscope: Navigating the Tides of Emotion with AI
