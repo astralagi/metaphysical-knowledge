@@ -1,6 +1,6 @@
 ---
 title: "free 5 minutes astrology"
-layout: post
+layout: single
 ---
 
 # Free 5 Minutes Astrology: Quick Insights into Your Cosmic Blueprint
