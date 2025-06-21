@@ -1,6 +1,6 @@
 ---
 title: "proactive astrology andre"
-layout: post
+layout: single
 ---
 
 # Proactive Astrology Andre: Shaping Your Future with AI-Powered Insights
