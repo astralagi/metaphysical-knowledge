@@ -1,6 +1,6 @@
 ---
 title: "astro naresh"
-layout: post
+layout: single
 ---
 
 # Astro Naresh: Unveiling the Power of Astrological AI
