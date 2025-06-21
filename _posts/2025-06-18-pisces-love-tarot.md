@@ -1,6 +1,6 @@
 ---
 title: "pisces love tarot"
-layout: post
+layout: single
 ---
 
 # Pisces Love Tarot: Unlocking the Mysteries of Love with AI
