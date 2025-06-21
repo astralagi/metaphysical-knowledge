@@ -1,6 +1,6 @@
 ---
 title: "astrology ai free"
-layout: post
+layout: single
 ---
 
 # Astrology AI Free: Unlocking the Cosmos with Artificial Intelligence
