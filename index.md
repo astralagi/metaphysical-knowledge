@@ -1018,3 +1018,4 @@ Welcome to my AI-powered astrology blog!
 - [how to test compatibility with names]({% post_url 2025-06-21-how-to-test-compatibility-with-names %})
 - [what does your rising sign mean]({% post_url 2025-06-21-what-does-your-rising-sign-mean %})
 - [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
+- [moon and ascendant sign]({% post_url 2025-06-21-moon-and-ascendant-sign %})
