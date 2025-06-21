@@ -1,6 +1,6 @@
 ---
 title: "find out your full astrology"
-layout: post
+layout: single
 ---
 
 # Find Out Your Full Astrology: Unlocking Your Cosmic Blueprint with AI
