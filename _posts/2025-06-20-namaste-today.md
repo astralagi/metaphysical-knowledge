@@ -1,6 +1,6 @@
 ---
 title: "namaste today"
-layout: post
+layout: single
 ---
 
 # Namaste Today: Unlocking Daily Astrological Wisdom with AI
