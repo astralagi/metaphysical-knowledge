@@ -1,6 +1,6 @@
 ---
 title: "online kundali check"
-layout: post
+layout: single
 ---
 
 # Online Kundali Check: Unveiling Your Astrological Destiny with AI
