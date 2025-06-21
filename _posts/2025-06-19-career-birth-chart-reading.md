@@ -1,6 +1,6 @@
 ---
 title: "career birth chart reading"
-layout: post
+layout: single
 ---
 
 # Career Birth Chart Reading: Unlocking Your Astrological Career Potential with AI
