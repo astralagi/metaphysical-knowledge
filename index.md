@@ -1158,3 +1158,4 @@ Welcome to my AI-powered astrology blog!
 - [free online psychic reading]({% post_url 2025-06-21-free-online-psychic-reading %})
 - [what is my rashi by date of birth]({% post_url 2025-06-21-what-is-my-rashi-by-date-of-birth %})
 - [gemini astrology 2025]({% post_url 2025-06-21-gemini-astrology-2025 %})
+- [navamsa]({% post_url 2025-06-21-navamsa %})
