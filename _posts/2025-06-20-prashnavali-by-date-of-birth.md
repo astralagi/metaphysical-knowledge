@@ -1,6 +1,6 @@
 ---
 title: "prashnavali by date of birth"
-layout: post
+layout: single
 ---
 
 # Prashnavali by Date of Birth: Unveiling Life's Mysteries with AI-Powered Astrology
