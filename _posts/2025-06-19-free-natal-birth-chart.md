@@ -1,6 +1,6 @@
 ---
 title: "free natal birth chart"
-layout: post
+layout: single
 ---
 
 # Free Natal Birth Chart: Unlocking Your Astrological Potential with AI
