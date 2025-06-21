@@ -1,6 +1,6 @@
 ---
 title: "taurus north node"
-layout: post
+layout: single
 ---
 
 # Taurus North Node: Embracing Sensual Grounding and Material Manifestation
