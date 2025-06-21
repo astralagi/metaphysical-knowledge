@@ -1,6 +1,6 @@
 ---
 title: "free parent child synastry chart"
-layout: post
+layout: single
 ---
 
 # Free Parent Child Synastry Chart: Unveiling the Astrological Bonds
