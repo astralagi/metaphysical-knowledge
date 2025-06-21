@@ -1,6 +1,6 @@
 ---
 title: "capricorn next 48"
-layout: post
+layout: single
 ---
 
 # Capricorn Next 48: Navigating the Next Two Days with AI-Powered Astrology
