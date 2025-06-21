@@ -1153,3 +1153,4 @@ Welcome to my AI-powered astrology blog!
 - [calculate lots astrology]({% post_url 2025-06-21-calculate-lots-astrology %})
 - [astro syndicate]({% post_url 2025-06-21-astro-syndicate %})
 - [scorpio love reading]({% post_url 2025-06-21-scorpio-love-reading %})
+- [san tarot gemini]({% post_url 2025-06-21-san-tarot-gemini %})
