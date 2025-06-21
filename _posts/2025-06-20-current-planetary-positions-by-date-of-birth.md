@@ -1,6 +1,6 @@
 ---
 title: "current planetary positions by date of birth"
-layout: post
+layout: single
 ---
 
 # Current Planetary Positions by Date of Birth: Unveiling Your Astrological Landscape
