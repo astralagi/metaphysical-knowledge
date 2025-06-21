@@ -1,6 +1,6 @@
 ---
 title: "cosmic profile free"
-layout: post
+layout: single
 ---
 
 # Cosmic Profile Free: Unlocking Your Astrological Potential with AI
