@@ -1,6 +1,6 @@
 ---
 title: "zodiac compatibility quiz"
-layout: post
+layout: single
 ---
 
 # Zodiac Compatibility Quiz: Unlocking Romantic Potential with AI
