@@ -977,3 +977,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces horoscope 2025 arun pandit]({% post_url 2025-06-21-pisces-horoscope-2025-arun-pandit %})
 - [another virgo channel]({% post_url 2025-06-21-another-virgo-channel %})
 - [birth placement]({% post_url 2025-06-21-birth-placement %})
+- [pisces love]({% post_url 2025-06-21-pisces-love %})
