@@ -1,6 +1,6 @@
 ---
 title: "midheaven astrology"
-layout: post
+layout: single
 ---
 
 # Midheaven Astrology: Unveiling Your Public Persona and Career Path with AI
