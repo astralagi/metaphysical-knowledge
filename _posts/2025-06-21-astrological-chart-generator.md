@@ -1,6 +1,6 @@
 ---
 title: "astrological chart generator"
-layout: post
+layout: single
 ---
 
 # Astrological Chart Generator: Unlocking the Cosmos with AI
