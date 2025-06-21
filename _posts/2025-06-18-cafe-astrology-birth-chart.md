@@ -1,6 +1,6 @@
 ---
 title: "cafe astrology birth chart"
-layout: post
+layout: single
 ---
 
 # Cafe Astrology Birth Chart: Unveiling Your Cosmic Blueprint with AI
