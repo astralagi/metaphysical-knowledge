@@ -1101,3 +1101,4 @@ Welcome to my AI-powered astrology blog!
 - [personalized astrology charts]({% post_url 2025-06-21-personalized-astrology-charts %})
 - [sun moon rising sign calculator without birth time]({% post_url 2025-06-21-sun-moon-rising-sign-calculator-without-birth-time %})
 - [sagittarius april 2025 tarot]({% post_url 2025-06-21-sagittarius-april-2025-tarot %})
+- [kundali by date of birth]({% post_url 2025-06-21-kundali-by-date-of-birth %})
