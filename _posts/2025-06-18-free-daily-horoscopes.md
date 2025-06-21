@@ -1,6 +1,6 @@
 ---
 title: "free daily horoscopes"
-layout: post
+layout: single
 ---
 
 # Free Daily Horoscopes: Unlocking Daily Astrological Insights with AI
