@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "celestial blueprint"
-layout: post
+layout: single
 ---
 
 # Celestial Blueprint: Unlocking Your Astrological Potential with AI
