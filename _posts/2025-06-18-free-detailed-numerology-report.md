@@ -1,6 +1,6 @@
 ---
 title: "free detailed numerology report"
-layout: post
+layout: single
 ---
 
 # Free Detailed Numerology Report: Unlocking Your Life Path with AI-Powered Astrology
