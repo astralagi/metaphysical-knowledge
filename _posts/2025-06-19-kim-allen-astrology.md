@@ -1,6 +1,6 @@
 ---
 title: "kim allen astrology"
-layout: post
+layout: single
 ---
 
 # kim allen astrology: Unveiling Astrological Insights with AI
