@@ -1062,3 +1062,4 @@ Welcome to my AI-powered astrology blog!
 - [people who can see the future]({% post_url 2025-06-21-people-who-can-see-the-future %})
 - [oak astrology]({% post_url 2025-06-21-oak-astrology %})
 - [mesham]({% post_url 2025-06-21-mesham %})
+- [how to check rahu is in which house]({% post_url 2025-06-21-how-to-check-rahu-is-in-which-house %})
