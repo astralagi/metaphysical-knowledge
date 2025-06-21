@@ -1,6 +1,6 @@
 ---
 title: "what's my horoscope for today"
-layout: post
+layout: single
 ---
 
 # What's My Horoscope for Today?
