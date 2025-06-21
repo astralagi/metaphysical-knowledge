@@ -1,6 +1,6 @@
 ---
 title: "zodiac signs daily horoscope today"
-layout: post
+layout: single
 ---
 
 # Zodiac Signs Daily Horoscope Today: Unveiling the Cosmic Forecast with AI
