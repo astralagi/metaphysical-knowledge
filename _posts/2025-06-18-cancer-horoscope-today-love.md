@@ -1,6 +1,6 @@
 ---
 title: "cancer horoscope today love"
-layout: post
+layout: single
 ---
 
 # Cancer Horoscope Today Love: Navigating Emotions with AI-Powered Astrology
