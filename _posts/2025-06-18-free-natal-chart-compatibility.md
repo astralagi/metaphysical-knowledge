@@ -1,6 +1,6 @@
 ---
 title: "free natal chart compatibility"
-layout: post
+layout: single
 ---
 
 # Free Natal Chart Compatibility: Unlocking Relationship Dynamics with AI
