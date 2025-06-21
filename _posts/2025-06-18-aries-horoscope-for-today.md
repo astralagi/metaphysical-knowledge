@@ -1,6 +1,6 @@
 ---
 title: "aries horoscope for today"
-layout: post
+layout: single
 ---
 
 # Aries Horoscope for Today: Unveiling the Ram's Potential with AI
