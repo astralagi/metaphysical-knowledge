@@ -1,6 +1,6 @@
 ---
 title: "coyote astrology"
-layout: post
+layout: single
 ---
 
 # Coyote Astrology: Navigating the Trickster's Path with AI
