@@ -1,6 +1,6 @@
 ---
 title: "find my rising sun and moon sign"
-layout: post
+layout: single
 ---
 
 # Find My Rising, Sun, and Moon Sign: Unveiling Your Astrological Trifecta
