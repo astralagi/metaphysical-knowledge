@@ -1199,3 +1199,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn horoscope 2025]({% post_url 2025-06-21-capricorn-horoscope-2025 %})
 - [reading my birth chart]({% post_url 2025-06-21-reading-my-birth-chart %})
 - [free reading from psychic]({% post_url 2025-06-21-free-reading-from-psychic %})
+- [terence guardino astrology]({% post_url 2025-06-21-terence-guardino-astrology %})
