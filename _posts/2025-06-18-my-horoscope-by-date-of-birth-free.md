@@ -1,6 +1,6 @@
 ---
 title: "my horoscope by date of birth free"
-layout: post
+layout: single
 ---
 
 # My Horoscope by Date of Birth Free: Unveiling Your Astrological Potential with AI
