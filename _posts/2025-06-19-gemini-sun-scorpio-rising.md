@@ -1,6 +1,6 @@
 ---
 title: "gemini sun scorpio rising"
-layout: post
+layout: single
 ---
 
 # Gemini Sun Scorpio Rising: A Deep Dive into the Astrological Enigma
