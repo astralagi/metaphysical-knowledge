@@ -1,6 +1,6 @@
 ---
 title: "aries nicholas ashbaugh"
-layout: post
+layout: single
 ---
 
 # Aries Nicholas Ashbaugh: Unveiling Astrological Insights with AI
