@@ -1,6 +1,6 @@
 ---
 title: "scorpio stellium"
-layout: post
+layout: single
 ---
 
 # Scorpio Stellium: Unveiling the Intense Power of Transformation
