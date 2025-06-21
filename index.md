@@ -979,3 +979,4 @@ Welcome to my AI-powered astrology blog!
 - [birth placement]({% post_url 2025-06-21-birth-placement %})
 - [pisces love]({% post_url 2025-06-21-pisces-love %})
 - [how to test compatibility with names]({% post_url 2025-06-21-how-to-test-compatibility-with-names %})
+- [astronomers and astrologers]({% post_url 2025-06-21-astronomers-and-astrologers %})
