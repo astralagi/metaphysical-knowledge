@@ -1066,3 +1066,4 @@ Welcome to my AI-powered astrology blog!
 - [santosh santoshi]({% post_url 2025-06-21-santosh-santoshi %})
 - [fortune teller online free]({% post_url 2025-06-21-fortune-teller-online-free %})
 - [virgo bright tarot]({% post_url 2025-06-21-virgo-bright-tarot %})
+- [free astrology compatibility calculator]({% post_url 2025-06-21-free-astrology-compatibility-calculator %})
