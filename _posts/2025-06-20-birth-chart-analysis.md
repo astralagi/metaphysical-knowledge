@@ -1,6 +1,6 @@
 ---
 title: "birth chart analysis"
-layout: post
+layout: single
 ---
 
 # Birth Chart Analysis: Unlocking Your Astrological Potential with AI
