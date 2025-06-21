@@ -1053,3 +1053,4 @@ Welcome to my AI-powered astrology blog!
 - [how to find my full horoscope]({% post_url 2025-06-21-how-to-find-my-full-horoscope %})
 - [santosh santoshi]({% post_url 2025-06-21-santosh-santoshi %})
 - [astrology com leo]({% post_url 2025-06-21-astrology-com-leo %})
+- [fortune teller online free]({% post_url 2025-06-21-fortune-teller-online-free %})
