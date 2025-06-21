@@ -1,6 +1,6 @@
 ---
 title: "free moon reading"
-layout: post
+layout: single
 ---
 
 # Free Moon Reading: Unlocking Lunar Insights with AI
