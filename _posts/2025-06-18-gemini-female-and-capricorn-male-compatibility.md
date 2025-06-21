@@ -1,6 +1,6 @@
 ---
 title: "gemini female and capricorn male compatibility"
-layout: post
+layout: single
 ---
 
 # Gemini Female and Capricorn Male Compatibility: An Astrological Exploration Enhanced by AI
