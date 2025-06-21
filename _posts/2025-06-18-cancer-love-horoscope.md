@@ -1,6 +1,6 @@
 ---
 title: "cancer love horoscope"
-layout: post
+layout: single
 ---
 
 # Cancer Love Horoscope: Navigating Emotions with AI-Powered Astrology
