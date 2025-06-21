@@ -1096,3 +1096,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope based on birth chart]({% post_url 2025-06-21-horoscope-based-on-birth-chart %})
 - [vrishchik lagna 2025]({% post_url 2025-06-21-vrishchik-lagna-2025 %})
 - [val evans forensic astrologer]({% post_url 2025-06-21-val-evans-forensic-astrologer %})
+- [myastroguruji]({% post_url 2025-06-21-myastroguruji %})
