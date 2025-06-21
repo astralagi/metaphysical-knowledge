@@ -1,6 +1,6 @@
 ---
 title: "libra career horoscope 2025"
-layout: post
+layout: single
 ---
 
 # Libra Career Horoscope 2025
