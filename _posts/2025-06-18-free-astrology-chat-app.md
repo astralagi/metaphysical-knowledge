@@ -1,6 +1,6 @@
 ---
 title: "free astrology chat app"
-layout: post
+layout: single
 ---
 
 # Free Astrology Chat App: Unveiling the Cosmic Conversation
