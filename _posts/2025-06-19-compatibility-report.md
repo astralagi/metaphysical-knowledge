@@ -1,6 +1,6 @@
 ---
 title: "compatibility report"
-layout: post
+layout: single
 ---
 
 # Compatibility Report: Unveiling Astrological Connections with AI
