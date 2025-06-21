@@ -1,6 +1,6 @@
 ---
 title: "free reading psychic"
-layout: post
+layout: single
 ---
 
 # Free Reading Psychic: Unveiling Astrological Insights with AI
