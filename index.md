@@ -1183,3 +1183,4 @@ Welcome to my AI-powered astrology blog!
 - [astro kimi]({% post_url 2025-06-21-astro-kimi %})
 - [free astrology reports online]({% post_url 2025-06-21-free-astrology-reports-online %})
 - [whole house birth chart calculator]({% post_url 2025-06-21-whole-house-birth-chart-calculator %})
+- [free astrology birth chart]({% post_url 2025-06-21-free-astrology-birth-chart %})
