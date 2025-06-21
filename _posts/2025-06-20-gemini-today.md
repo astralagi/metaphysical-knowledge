@@ -1,6 +1,6 @@
 ---
 title: "gemini today"
-layout: post
+layout: single
 ---
 
 # Gemini Today: Unveiling Your Astrological Potential with AI
