@@ -1,6 +1,6 @@
 ---
 title: "free astrology app"
-layout: post
+layout: single
 ---
 
 # Free Astrology App: Your Pocket Guide to the Stars
