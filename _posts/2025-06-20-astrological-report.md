@@ -1,6 +1,6 @@
 ---
 title: "astrological report"
-layout: post
+layout: single
 ---
 
 # Astrological Report: Unlocking Your Cosmic Potential with AI
