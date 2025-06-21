@@ -1,6 +1,6 @@
 ---
 title: "full birth chart analysis free"
-layout: post
+layout: single
 ---
 
 # Full Birth Chart Analysis Free: Unlocking Your Astrological Potential with AI
