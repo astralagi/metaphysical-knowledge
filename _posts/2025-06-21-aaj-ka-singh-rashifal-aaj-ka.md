@@ -1,6 +1,6 @@
 ---
 title: "aaj ka singh rashifal aaj ka"
-layout: post
+layout: single
 ---
 
 # Aaj Ka Singh Rashifal Aaj Ka: Unveiling Daily Leo Astrological Insights with AI
