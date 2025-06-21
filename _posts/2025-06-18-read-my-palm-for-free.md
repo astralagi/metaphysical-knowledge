@@ -1,6 +1,6 @@
 ---
 title: "read my palm for free"
-layout: post
+layout: single
 ---
 
 # Read My Palm for Free: Unlocking Astrological Insights with AI
