@@ -1,6 +1,6 @@
 ---
 title: "virgo tarot today 2025"
-layout: post
+layout: single
 ---
 
 # Virgo Tarot Today 2025
