@@ -1045,3 +1045,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology indian]({% post_url 2025-06-21-astrology-indian %})
 - [my future husband prediction free]({% post_url 2025-06-21-my-future-husband-prediction-free %})
 - [ai birth chart reading]({% post_url 2025-06-21-ai-birth-chart-reading %})
+- [generate kundli online]({% post_url 2025-06-21-generate-kundli-online %})
