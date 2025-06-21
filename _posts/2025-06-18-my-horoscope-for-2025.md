@@ -1,6 +1,6 @@
 ---
 title: "my horoscope for 2025"
-layout: post
+layout: single
 ---
 
 # My Horoscope for 2025: Unveiling the Year Ahead with AI-Powered Astrology
