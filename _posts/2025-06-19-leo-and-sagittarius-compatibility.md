@@ -1,6 +1,6 @@
 ---
 title: "leo and sagittarius compatibility"
-layout: post
+layout: single
 ---
 
 # Leo and Sagittarius Compatibility: A Fiery Fusion Analyzed
