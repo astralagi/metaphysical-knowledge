@@ -1139,3 +1139,4 @@ Welcome to my AI-powered astrology blog!
 - [ai astrologer free chat]({% post_url 2025-06-21-ai-astrologer-free-chat %})
 - [pisces career horoscope]({% post_url 2025-06-21-pisces-career-horoscope %})
 - [laurie rivers astrology]({% post_url 2025-06-21-laurie-rivers-astrology %})
+- [libra tula rashi]({% post_url 2025-06-21-libra-tula-rashi %})
