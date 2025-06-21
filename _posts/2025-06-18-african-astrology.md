@@ -1,6 +1,6 @@
 ---
 title: "african astrology"
-layout: post
+layout: single
 ---
 
 # African Astrology: Unveiling the Cosmos Through an African Lens
