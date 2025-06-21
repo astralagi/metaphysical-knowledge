@@ -1022,3 +1022,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn love]({% post_url 2025-06-21-capricorn-love %})
 - [best places to live according to your birth chart]({% post_url 2025-06-21-best-places-to-live-according-to-your-birth-chart %})
 - [leo love reading]({% post_url 2025-06-21-leo-love-reading %})
+- [online birth charts]({% post_url 2025-06-21-online-birth-charts %})
