@@ -1124,3 +1124,4 @@ Welcome to my AI-powered astrology blog!
 - [gpt astrology]({% post_url 2025-06-21-gpt-astrology %})
 - [pisces vs virgo]({% post_url 2025-06-21-pisces-vs-virgo %})
 - [luckiesplays]({% post_url 2025-06-21-luckiesplays %})
+- [october 2 zodiac compatibility]({% post_url 2025-06-21-october-2-zodiac-compatibility %})
