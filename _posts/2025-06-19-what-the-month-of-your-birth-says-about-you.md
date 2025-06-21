@@ -1,6 +1,6 @@
 ---
 title: "what the month of your birth says about you"
-layout: post
+layout: single
 ---
 
 # What the Month of Your Birth Says About You
