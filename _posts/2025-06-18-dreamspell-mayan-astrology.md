@@ -1,6 +1,6 @@
 ---
 title: "dreamspell mayan astrology"
-layout: post
+layout: single
 ---
 
 # Dreamspell Mayan Astrology: Unveiling the Galactic Maya's Wisdom with AI
