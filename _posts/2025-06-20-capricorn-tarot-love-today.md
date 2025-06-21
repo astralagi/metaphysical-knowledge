@@ -1,6 +1,6 @@
 ---
 title: "capricorn tarot love today"
-layout: post
+layout: single
 ---
 
 # Capricorn Tarot Love Today: Unveiling Your Romantic Destiny with AI
