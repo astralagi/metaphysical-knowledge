@@ -1,6 +1,6 @@
 ---
 title: "astrology app"
-layout: post
+layout: single
 ---
 
 # Astrology App: Revolutionizing Astrological Insights with AI
