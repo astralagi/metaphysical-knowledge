@@ -1,6 +1,6 @@
 ---
 title: "moon rising sign"
-layout: post
+layout: single
 ---
 
 # Moon Rising Sign: Unveiling Your Emotional Landscape with AI
