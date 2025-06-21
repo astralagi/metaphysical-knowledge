@@ -1,6 +1,6 @@
 ---
 title: "read birth chart"
-layout: post
+layout: single
 ---
 
 # Read Birth Chart: Unlocking Your Astrological Potential with AI
