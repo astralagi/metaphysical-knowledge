@@ -1094,3 +1094,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac chart order]({% post_url 2025-06-21-zodiac-chart-order %})
 - [kundli without birth time]({% post_url 2025-06-21-kundli-without-birth-time %})
 - [horoscope based on birth chart]({% post_url 2025-06-21-horoscope-based-on-birth-chart %})
+- [vrishchik lagna 2025]({% post_url 2025-06-21-vrishchik-lagna-2025 %})
