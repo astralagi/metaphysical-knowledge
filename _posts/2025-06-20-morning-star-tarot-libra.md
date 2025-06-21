@@ -1,6 +1,6 @@
 ---
 title: "morning star tarot libra"
-layout: post
+layout: single
 ---
 
 # Morning Star Tarot Libra: Unveiling Harmonious Potential with AI Astrology
