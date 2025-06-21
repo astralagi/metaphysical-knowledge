@@ -1,6 +1,6 @@
 ---
 title: "free soul contract reading"
-layout: post
+layout: single
 ---
 
 # Free Soul Contract Reading: Unveiling Your Karmic Blueprint with AI
