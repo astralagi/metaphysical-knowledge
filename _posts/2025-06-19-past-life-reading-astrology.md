@@ -1,6 +1,6 @@
 ---
 title: "past life reading astrology"
-layout: post
+layout: single
 ---
 
 # Past Life Reading Astrology: Unlocking Your Soul's Journey Through the Stars
