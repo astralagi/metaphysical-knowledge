@@ -1,6 +1,6 @@
 ---
 title: "leo card reading for today"
-layout: post
+layout: single
 ---
 
 # Leo Card Reading for Today: Unlocking Your Daily Astrological Potential with AI
