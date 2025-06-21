@@ -1049,3 +1049,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope detailed]({% post_url 2025-06-21-horoscope-detailed %})
 - [vedic astrology report]({% post_url 2025-06-21-vedic-astrology-report %})
 - [palm reader online free]({% post_url 2025-06-21-palm-reader-online-free %})
+- [how to know which is your zodiac sign]({% post_url 2025-06-21-how-to-know-which-is-your-zodiac-sign %})
