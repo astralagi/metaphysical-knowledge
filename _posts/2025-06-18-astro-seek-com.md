@@ -1,6 +1,6 @@
 ---
 title: "astro seek com"
-layout: post
+layout: single
 ---
 
 # astro seek com: Unlocking Astrological Insights with AI
