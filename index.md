@@ -1167,3 +1167,4 @@ Welcome to my AI-powered astrology blog!
 - [for me tarot]({% post_url 2025-06-21-for-me-tarot %})
 - [andre astrology]({% post_url 2025-06-21-andre-astrology %})
 - [birth chart detailed]({% post_url 2025-06-21-birth-chart-detailed %})
+- [scorpio moon]({% post_url 2025-06-21-scorpio-moon %})
