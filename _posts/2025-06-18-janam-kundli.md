@@ -1,6 +1,6 @@
 ---
 title: "janam kundli"
-layout: post
+layout: single
 ---
 
 # Janam Kundli: Unveiling Your Astrological Blueprint with AI
