@@ -1104,3 +1104,4 @@ Welcome to my AI-powered astrology blog!
 - [leo birth chart calculator]({% post_url 2025-06-21-leo-birth-chart-calculator %})
 - [free horoscope online]({% post_url 2025-06-21-free-horoscope-online %})
 - [how do i find out my astrological houses]({% post_url 2025-06-21-how-do-i-find-out-my-astrological-houses %})
+- [moon sun rising]({% post_url 2025-06-21-moon-sun-rising %})
