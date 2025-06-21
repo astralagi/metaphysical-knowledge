@@ -1,6 +1,6 @@
 ---
 title: "samiah khan astrologer"
-layout: post
+layout: single
 ---
 
 # Samiah Khan Astrologer: Unveiling Astrological Insights with AI
