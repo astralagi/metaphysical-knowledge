@@ -1,6 +1,6 @@
 ---
 title: "astro nikhil"
-layout: post
+layout: single
 ---
 
 # astro nikhil: Unveiling Personalized Astrological Insights with AI
