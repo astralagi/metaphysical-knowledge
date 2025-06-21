@@ -1,6 +1,6 @@
 ---
 title: "uranus trine pluto transit"
-layout: post
+layout: single
 ---
 
 # Uranus Trine Pluto Transit: A Transformative Astrological Event
