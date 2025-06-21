@@ -1137,3 +1137,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac signs that belong together]({% post_url 2025-06-21-zodiac-signs-that-belong-together %})
 - [virgo marriage prediction 2025]({% post_url 2025-06-21-virgo-marriage-prediction-2025 %})
 - [ai astrologer free chat]({% post_url 2025-06-21-ai-astrologer-free-chat %})
+- [pisces career horoscope]({% post_url 2025-06-21-pisces-career-horoscope %})
