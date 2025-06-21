@@ -1,6 +1,6 @@
 ---
 title: "birth reading"
-layout: post
+layout: single
 ---
 
 # Birth Reading: Unlocking Your Astrological Blueprint with AI
