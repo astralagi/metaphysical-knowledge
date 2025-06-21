@@ -1,6 +1,6 @@
 ---
 title: "how to figure out rising moon and sun"
-layout: post
+layout: single
 ---
 
 # How to Figure Out Your Rising, Sun, and Moon Signs in Astrology
