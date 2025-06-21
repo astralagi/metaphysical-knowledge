@@ -1,6 +1,6 @@
 ---
 title: "astro finesse scorpio rising"
-layout: post
+layout: single
 ---
 
 # Astro Finesse Scorpio Rising: Unveiling the Depth and Power
