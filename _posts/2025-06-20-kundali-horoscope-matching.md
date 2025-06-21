@@ -1,6 +1,6 @@
 ---
 title: "kundali horoscope matching"
-layout: post
+layout: single
 ---
 
 # Kundali Horoscope Matching: Unveiling Compatibility Through AI
