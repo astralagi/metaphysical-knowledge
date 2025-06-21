@@ -1,6 +1,6 @@
 ---
 title: "free synastry compatibility report"
-layout: post
+layout: single
 ---
 
 # Free Synastry Compatibility Report: Unlocking Relationship Dynamics with AI
