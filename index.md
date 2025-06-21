@@ -1095,3 +1095,4 @@ Welcome to my AI-powered astrology blog!
 - [free horoscope online]({% post_url 2025-06-21-free-horoscope-online %})
 - [best astrologers on youtube]({% post_url 2025-06-21-best-astrologers-on-youtube %})
 - [how do i find out my astrological houses]({% post_url 2025-06-21-how-do-i-find-out-my-astrological-houses %})
+- [moon sun rising]({% post_url 2025-06-21-moon-sun-rising %})
