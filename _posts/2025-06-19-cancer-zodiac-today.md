@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "cancer zodiac today"
-layout: post
+layout: single
 ---
 
 # Cancer Zodiac Today: Navigating the Tides with AI-Powered Astrology
