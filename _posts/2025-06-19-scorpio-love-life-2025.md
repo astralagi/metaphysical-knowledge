@@ -1,6 +1,6 @@
 ---
 title: "scorpio love life 2025"
-layout: post
+layout: single
 ---
 
 # Scorpio Love Life 2025
