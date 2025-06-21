@@ -1,6 +1,6 @@
 ---
 title: "joni patry astrologer"
-layout: post
+layout: single
 ---
 
 # Joni Patry Astrologer: Unveiling Astrological Insights with AI
