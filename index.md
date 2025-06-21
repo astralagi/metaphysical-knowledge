@@ -1059,3 +1059,4 @@ Welcome to my AI-powered astrology blog!
 - [lunar astro]({% post_url 2025-06-21-lunar-astro %})
 - [my future husband prediction free]({% post_url 2025-06-21-my-future-husband-prediction-free %})
 - [generate kundli online]({% post_url 2025-06-21-generate-kundli-online %})
+- [sadhguru astrology]({% post_url 2025-06-21-sadhguru-astrology %})
