@@ -1,6 +1,6 @@
 ---
 title: "how to read kundli chart"
-layout: post
+layout: single
 ---
 
 # How to Read a Kundli Chart
