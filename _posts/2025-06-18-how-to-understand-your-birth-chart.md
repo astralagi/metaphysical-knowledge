@@ -1,6 +1,6 @@
 ---
 title: "how to understand your birth chart"
-layout: post
+layout: single
 ---
 
 # How to Understand Your Birth Chart
