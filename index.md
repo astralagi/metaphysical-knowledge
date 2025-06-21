@@ -1173,3 +1173,4 @@ Welcome to my AI-powered astrology blog!
 - [how to read my astrology chart]({% post_url 2025-06-21-how-to-read-my-astrology-chart %})
 - [find my birth chart]({% post_url 2025-06-21-find-my-birth-chart %})
 - [como leer una carta natal]({% post_url 2025-06-21-como-leer-una-carta-natal %})
+- [como sacar mi carta astral]({% post_url 2025-06-21-como-sacar-mi-carta-astral %})
