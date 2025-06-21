@@ -1,6 +1,6 @@
 ---
 title: "quackity birth chart"
-layout: post
+layout: single
 ---
 
 # Quackity Birth Chart: Unveiling the Astrological Blueprint of a Digital Icon
