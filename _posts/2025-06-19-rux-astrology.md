@@ -1,6 +1,6 @@
 ---
 title: "rux astrology"
-layout: post
+layout: single
 ---
 
 # Rux Astrology: Unveiling Hidden Astrological Insights with AI
