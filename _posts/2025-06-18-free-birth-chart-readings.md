@@ -1,6 +1,6 @@
 ---
 title: "free birth chart readings"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Readings: Unlocking Your Astrological Potential with AI
