@@ -1,6 +1,6 @@
 ---
 title: "aquarius by aquarius"
-layout: post
+layout: single
 ---
 
 # Aquarius by Aquarius: Unveiling the Revolutionary Spirit
