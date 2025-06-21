@@ -1,6 +1,6 @@
 ---
 title: "pretty and prospering libra"
-layout: post
+layout: single
 ---
 
 # Pretty and Prospering Libra: Unveiling the Harmonious Potential
