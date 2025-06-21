@@ -1,6 +1,6 @@
 ---
 title: "what your zodiac sign says about you"
-layout: post
+layout: single
 ---
 
 # What Your Zodiac Sign Says About You
