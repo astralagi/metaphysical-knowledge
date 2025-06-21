@@ -1,6 +1,6 @@
 ---
 title: "cancer astrology horoscope"
-layout: post
+layout: single
 ---
 
 # Cancer Astrology Horoscope: Unveiling the Crab's Secrets with AI
