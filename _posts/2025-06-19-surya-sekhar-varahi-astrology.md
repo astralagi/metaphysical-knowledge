@@ -1,6 +1,6 @@
 ---
 title: "surya sekhar varahi astrology"
-layout: post
+layout: single
 ---
 
 # Surya Sekhar Varahi Astrology: Unveiling Astrological Insights with AI
