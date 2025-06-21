@@ -1,6 +1,6 @@
 ---
 title: "natal chart reading"
-layout: post
+layout: single
 ---
 
 # Natal Chart Reading: Unlocking Your Astrological Blueprint with AI
