@@ -1,6 +1,6 @@
 ---
 title: "meccadreams pisces"
-layout: post
+layout: single
 ---
 
 # meccadreams pisces: Unveiling the Dreamy Depths with AI Astrology
