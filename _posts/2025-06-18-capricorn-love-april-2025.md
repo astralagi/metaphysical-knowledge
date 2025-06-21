@@ -1,6 +1,6 @@
 ---
 title: "capricorn love april 2025"
-layout: post
+layout: single
 ---
 
 # Capricorn Love April 2025
