@@ -1130,3 +1130,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo 9th house]({% post_url 2025-06-21-virgo-9th-house %})
 - [free spiritual reading]({% post_url 2025-06-21-free-spiritual-reading %})
 - [golden transit astrology]({% post_url 2025-06-21-golden-transit-astrology %})
+- [when will i meet my soulmate by date of birth free]({% post_url 2025-06-21-when-will-i-meet-my-soulmate-by-date-of-birth-free %})
