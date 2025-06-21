@@ -1,6 +1,6 @@
 ---
 title: "detailed astrology report"
-layout: post
+layout: single
 ---
 
 # Detailed Astrology Report: Unlocking Your Astrological Potential with AI
