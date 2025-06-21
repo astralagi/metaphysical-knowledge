@@ -1132,3 +1132,4 @@ Welcome to my AI-powered astrology blog!
 - [golden transit astrology]({% post_url 2025-06-21-golden-transit-astrology %})
 - [when will i meet my soulmate by date of birth free]({% post_url 2025-06-21-when-will-i-meet-my-soulmate-by-date-of-birth-free %})
 - [use a moon sign calculator]({% post_url 2025-06-21-use-a-moon-sign-calculator %})
+- [gemini tarot today single]({% post_url 2025-06-21-gemini-tarot-today-single %})
