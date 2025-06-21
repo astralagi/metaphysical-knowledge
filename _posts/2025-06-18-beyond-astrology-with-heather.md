@@ -1,6 +1,6 @@
 ---
 title: "beyond astrology with heather"
-layout: post
+layout: single
 ---
 
 # Beyond Astrology with Heather: Exploring the Unseen Dimensions of Your Astrological Chart with AI
