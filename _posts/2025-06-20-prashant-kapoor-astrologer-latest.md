@@ -1,6 +1,6 @@
 ---
 title: "prashant kapoor astrologer latest"
-layout: post
+layout: single
 ---
 
 # Prashant Kapoor Astrologer Latest: Unveiling Astrological Insights with AI
