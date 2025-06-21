@@ -1,6 +1,6 @@
 ---
 title: "synastry report"
-layout: post
+layout: single
 ---
 
 # Synastry Report: Unveiling the Cosmic Connection Between Two Individuals
