@@ -1098,3 +1098,4 @@ Welcome to my AI-powered astrology blog!
 - [moon sun rising]({% post_url 2025-06-21-moon-sun-rising %})
 - [astroclick travel]({% post_url 2025-06-21-astroclick-travel %})
 - [davison chart astrology]({% post_url 2025-06-21-davison-chart-astrology %})
+- [personalized astrology charts]({% post_url 2025-06-21-personalized-astrology-charts %})
