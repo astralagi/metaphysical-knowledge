@@ -1111,3 +1111,4 @@ Welcome to my AI-powered astrology blog!
 - [sagittarius april 2025 tarot]({% post_url 2025-06-21-sagittarius-april-2025-tarot %})
 - [kundali by date of birth]({% post_url 2025-06-21-kundali-by-date-of-birth %})
 - [where should i live based on astrology]({% post_url 2025-06-21-where-should-i-live-based-on-astrology %})
+- [osho janam kundali]({% post_url 2025-06-21-osho-janam-kundali %})
