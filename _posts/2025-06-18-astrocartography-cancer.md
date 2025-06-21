@@ -1,6 +1,6 @@
 ---
 title: "astrocartography cancer"
-layout: post
+layout: single
 ---
 
 # Astrocartography Cancer: Unveiling Emotional Landscapes Through AI
