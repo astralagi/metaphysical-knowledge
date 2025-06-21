@@ -1,6 +1,6 @@
 ---
 title: "milind chitambar consultation"
-layout: post
+layout: single
 ---
 
 # Milind Chitambar Consultation: Unveiling Astrological Insights with AI
