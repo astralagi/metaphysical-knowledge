@@ -1,6 +1,6 @@
 ---
 title: "libra 2026 horoscope"
-layout: post
+layout: single
 ---
 
 # Libra 2026 Horoscope: Navigating the Year Ahead with AI-Powered Astrology
