@@ -1,6 +1,6 @@
 ---
 title: "gemini man and capricorn woman"
-layout: post
+layout: single
 ---
 
 # Gemini Man and Capricorn Woman: A Celestial Dance of Opposites
