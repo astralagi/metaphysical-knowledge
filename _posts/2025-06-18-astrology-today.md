@@ -1,6 +1,6 @@
 ---
 title: "astrology today"
-layout: post
+layout: single
 ---
 
 # Astrology Today: Unveiling the Cosmic Currents with AI
