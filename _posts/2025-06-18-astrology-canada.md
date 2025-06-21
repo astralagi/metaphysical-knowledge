@@ -1,6 +1,6 @@
 ---
 title: "astrology canada"
-layout: post
+layout: single
 ---
 
 # Astrology Canada: Exploring the Canadian Astrological Landscape with AI
