@@ -1,6 +1,6 @@
 ---
 title: "gemini woman leo man"
-layout: post
+layout: single
 ---
 
 # Gemini Woman Leo Man: A Sparkling, Yet Challenging, Astrological Combination
