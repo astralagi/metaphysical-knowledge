@@ -1,6 +1,6 @@
 ---
 title: "vedic astrology aquarius"
-layout: post
+layout: single
 ---
 
 # Vedic Astrology Aquarius: Unveiling the Water Bearer's Secrets with AI
