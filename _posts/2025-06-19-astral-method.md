@@ -1,6 +1,6 @@
 ---
 title: "astral method"
-layout: post
+layout: single
 ---
 
 # Astral Method: Unveiling the Mysteries of the Cosmos with AI
