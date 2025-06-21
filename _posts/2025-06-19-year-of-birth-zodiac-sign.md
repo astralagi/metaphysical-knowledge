@@ -1,6 +1,6 @@
 ---
 title: "year of birth zodiac sign"
-layout: post
+layout: single
 ---
 
 # Year of Birth Zodiac Sign: Unveiling Your Astrological Blueprint with AI
