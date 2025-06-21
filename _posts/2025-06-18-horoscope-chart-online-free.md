@@ -1,6 +1,6 @@
 ---
 title: "horoscope chart online free"
-layout: post
+layout: single
 ---
 
 # Horoscope Chart Online Free: Unlocking Your Astrological Potential with AI
