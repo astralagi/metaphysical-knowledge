@@ -1,6 +1,6 @@
 ---
 title: "zodiac dreams"
-layout: post
+layout: single
 ---
 
 # Zodiac Dreams: Unlocking the Celestial Messages in Your Sleep
