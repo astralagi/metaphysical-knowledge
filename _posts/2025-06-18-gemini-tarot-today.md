@@ -1,6 +1,6 @@
 ---
 title: "gemini tarot today"
-layout: post
+layout: single
 ---
 
 # Gemini Tarot Today: Unveiling Your Astrological Insights with AI
