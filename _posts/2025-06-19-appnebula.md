@@ -1,6 +1,6 @@
 ---
 title: "appnebula"
-layout: post
+layout: single
 ---
 
 # Appnebula: Unveiling Astrological Insights with AI
