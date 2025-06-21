@@ -1,6 +1,6 @@
 ---
 title: "horoscope aries 2025"
-layout: post
+layout: single
 ---
 
 # horoscope aries 2025: Navigating the Year Ahead with AI-Powered Astrology
