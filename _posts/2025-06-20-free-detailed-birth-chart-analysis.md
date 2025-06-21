@@ -1,6 +1,6 @@
 ---
 title: "free detailed birth chart analysis"
-layout: post
+layout: single
 ---
 
 # Free Detailed Birth Chart Analysis: Unveiling Your Astrological Blueprint
