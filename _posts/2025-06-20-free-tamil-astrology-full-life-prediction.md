@@ -1,6 +1,6 @@
 ---
 title: "free tamil astrology full life prediction"
-layout: post
+layout: single
 ---
 
 # Free Tamil Astrology Full Life Prediction: Unveiling Your Destiny with AI
