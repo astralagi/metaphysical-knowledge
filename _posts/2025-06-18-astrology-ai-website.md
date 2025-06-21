@@ -1,6 +1,6 @@
 ---
 title: "astrology ai website"
-layout: post
+layout: single
 ---
 
 # Astrology AI Website: Revolutionizing Astrological Insights
