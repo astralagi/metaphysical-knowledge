@@ -1,6 +1,6 @@
 ---
 title: "astrology chart reading"
-layout: post
+layout: single
 ---
 
 # Astrology Chart Reading: Unlocking Your Cosmic Blueprint with AI
