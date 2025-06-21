@@ -1,6 +1,6 @@
 ---
 title: "free birth chart report"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Report: Unlocking Your Astrological Potential with AI
