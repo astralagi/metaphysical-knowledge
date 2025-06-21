@@ -1,6 +1,6 @@
 ---
 title: "leo april 2025 tarot"
-layout: post
+layout: single
 ---
 
 # Leo April 2025 Tarot: Unveiling the Royal Path with AI Astrology
