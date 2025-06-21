@@ -1,6 +1,6 @@
 ---
 title: "witch astrology placements"
-layout: post
+layout: single
 ---
 
 # Witch Astrology Placements: Unveiling Your Inner Crone with AI
