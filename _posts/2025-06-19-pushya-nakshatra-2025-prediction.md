@@ -1,6 +1,6 @@
 ---
 title: "pushya nakshatra 2025 prediction"
-layout: post
+layout: single
 ---
 
 # Pushya Nakshatra 2025 Prediction: Unveiling the Year's Astrological Influences with AI
