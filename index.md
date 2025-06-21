@@ -1083,3 +1083,4 @@ Welcome to my AI-powered astrology blog!
 - [payal astro research institute]({% post_url 2025-06-21-payal-astro-research-institute %})
 - [zodiac chart order]({% post_url 2025-06-21-zodiac-chart-order %})
 - [kundli without birth time]({% post_url 2025-06-21-kundli-without-birth-time %})
+- [horoscope based on birth chart]({% post_url 2025-06-21-horoscope-based-on-birth-chart %})
