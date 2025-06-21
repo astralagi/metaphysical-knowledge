@@ -1117,3 +1117,4 @@ Welcome to my AI-powered astrology blog!
 - [numerology reading free online]({% post_url 2025-06-21-numerology-reading-free-online %})
 - [kala vedic astrology software]({% post_url 2025-06-21-kala-vedic-astrology-software %})
 - [astrowin natal chart]({% post_url 2025-06-21-astrowin-natal-chart %})
+- [best astrology app for android]({% post_url 2025-06-21-best-astrology-app-for-android %})
