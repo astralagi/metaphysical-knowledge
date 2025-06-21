@@ -1,6 +1,6 @@
 ---
 title: "astrotheme الخريطة الفلكية بالعربي"
-layout: post
+layout: single
 ---
 
 # astrotheme الخريطة الفلكية بالعربي: Unveiling Your Astrological Destiny with AI
