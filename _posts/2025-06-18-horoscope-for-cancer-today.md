@@ -1,6 +1,6 @@
 ---
 title: "horoscope for cancer today"
-layout: post
+layout: single
 ---
 
 # Horoscope for Cancer Today: Unveiling the Astrological Insights with AI
