@@ -989,3 +989,4 @@ Welcome to my AI-powered astrology blog!
 - [numerology birth chart calculator]({% post_url 2025-06-21-numerology-birth-chart-calculator %})
 - [zodiacal releasing]({% post_url 2025-06-21-zodiacal-releasing %})
 - [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
+- [free astrologer]({% post_url 2025-06-21-free-astrologer %})
