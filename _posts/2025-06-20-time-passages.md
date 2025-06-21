@@ -1,6 +1,6 @@
 ---
 title: "time passages"
-layout: post
+layout: single
 ---
 
 # Time Passages: Navigating Life's Transitions with Astrology and AI
