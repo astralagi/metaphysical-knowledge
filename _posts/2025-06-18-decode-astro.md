@@ -1,6 +1,6 @@
 ---
 title: "decode astro"
-layout: post
+layout: single
 ---
 
 # Decode Astro: Unlocking the Secrets of the Cosmos with AI
