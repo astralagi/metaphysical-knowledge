@@ -1,6 +1,6 @@
 ---
 title: "midnight zero astrology"
-layout: post
+layout: single
 ---
 
 # Midnight Zero Astrology: Unlocking the Secrets of the Cosmic Midnight
