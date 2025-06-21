@@ -1039,3 +1039,4 @@ Welcome to my AI-powered astrology blog!
 - [lunatic astrologer]({% post_url 2025-06-21-lunatic-astrologer %})
 - [palm reading scanner]({% post_url 2025-06-21-palm-reading-scanner %})
 - [online synastry]({% post_url 2025-06-21-online-synastry %})
+- [scorpio reading]({% post_url 2025-06-21-scorpio-reading %})
