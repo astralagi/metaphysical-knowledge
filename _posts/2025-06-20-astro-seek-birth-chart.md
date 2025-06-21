@@ -1,6 +1,6 @@
 ---
 title: "astro seek birth chart"
-layout: post
+layout: single
 ---
 
 # Astro Seek Birth Chart: Unlocking Your Cosmic Blueprint with AI
