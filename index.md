@@ -1034,3 +1034,4 @@ Welcome to my AI-powered astrology blog!
 - [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
 - [9th house astrology meaning]({% post_url 2025-06-21-9th-house-astrology-meaning %})
 - [gurubala banaye veer ji]({% post_url 2025-06-21-gurubala-banaye-veer-ji %})
+- [birth chart websites]({% post_url 2025-06-21-birth-chart-websites %})
