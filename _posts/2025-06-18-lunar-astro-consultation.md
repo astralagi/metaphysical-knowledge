@@ -1,6 +1,6 @@
 ---
 title: "lunar astro consultation"
-layout: post
+layout: single
 ---
 
 # Lunar Astro Consultation: Unveiling the Power of the Moon with AI
