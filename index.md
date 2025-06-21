@@ -1059,3 +1059,4 @@ Welcome to my AI-powered astrology blog!
 - [dna astrology vishal]({% post_url 2025-06-21-dna-astrology-vishal %})
 - [astro naresh]({% post_url 2025-06-21-astro-naresh %})
 - [daily horoscope june 4 2025]({% post_url 2025-06-21-daily-horoscope-june-4-2025 %})
+- [people who can see the future]({% post_url 2025-06-21-people-who-can-see-the-future %})
