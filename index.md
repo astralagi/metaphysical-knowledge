@@ -1040,3 +1040,4 @@ Welcome to my AI-powered astrology blog!
 - [palm reading scanner]({% post_url 2025-06-21-palm-reading-scanner %})
 - [online synastry]({% post_url 2025-06-21-online-synastry %})
 - [scorpio reading]({% post_url 2025-06-21-scorpio-reading %})
+- [astrology steve judd]({% post_url 2025-06-21-astrology-steve-judd %})
