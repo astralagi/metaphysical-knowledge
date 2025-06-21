@@ -1,6 +1,6 @@
 ---
 title: "the planets astrology"
-layout: post
+layout: single
 ---
 
 # The Planets Astrology: Unveiling Cosmic Influences with AI
