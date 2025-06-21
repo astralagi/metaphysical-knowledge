@@ -1,6 +1,6 @@
 ---
 title: "astrology com leo"
-layout: post
+layout: single
 ---
 
 # astrology com leo: Unleashing the Leo Within with AI-Powered Astrology
