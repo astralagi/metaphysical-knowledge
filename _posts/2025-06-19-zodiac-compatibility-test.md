@@ -1,6 +1,6 @@
 ---
 title: "zodiac compatibility test"
-layout: post
+layout: single
 ---
 
 # Zodiac Compatibility Test: Unveiling Astrological Connections with AI
