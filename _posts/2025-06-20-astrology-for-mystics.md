@@ -1,6 +1,6 @@
 ---
 title: "astrology for mystics"
-layout: post
+layout: single
 ---
 
 # Astrology for Mystics: Unveiling Deeper Spiritual Insights with AI
