@@ -1,6 +1,6 @@
 ---
 title: "synastry chart"
-layout: post
+layout: single
 ---
 
 # Synastry Chart: Unveiling Relationship Dynamics with Astrology and AI
