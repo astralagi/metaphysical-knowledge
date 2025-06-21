@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "most compatible with"
-layout: post
+layout: single
 ---
 
 # Most Compatible With: Unveiling Astrological Harmony with AI
