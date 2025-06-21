@@ -1,6 +1,6 @@
 ---
 title: "free compatibility test for couples by date of birth"
-layout: post
+layout: single
 ---
 
 # Free Compatibility Test for Couples by Date of Birth
