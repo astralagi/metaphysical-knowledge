@@ -1,6 +1,6 @@
 ---
 title: "free psychic chat no credit card"
-layout: post
+layout: single
 ---
 
 # Free Psychic Chat No Credit Card: Exploring the Astrological Landscape with AI
