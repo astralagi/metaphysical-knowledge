@@ -1,6 +1,6 @@
 ---
 title: "today's astrological insights for various zodiac signs"
-layout: post
+layout: single
 ---
 
 # Today's Astrological Insights for Various Zodiac Signs
