@@ -1,6 +1,6 @@
 ---
 title: "exact astrology chart"
-layout: post
+layout: single
 ---
 
 # Exact Astrology Chart: Unveiling Precision in Astrological Insights
