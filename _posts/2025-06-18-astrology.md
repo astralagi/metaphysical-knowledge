@@ -1,6 +1,6 @@
 ---
 title: "astrology"
-layout: post
+layout: single
 ---
 
 # Astrology: Unveiling the Cosmos with AI
