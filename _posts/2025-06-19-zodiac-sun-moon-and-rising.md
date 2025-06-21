@@ -1,6 +1,6 @@
 ---
 title: "zodiac sun moon and rising"
-layout: post
+layout: single
 ---
 
 # Zodiac Sun, Moon, and Rising: Unveiling Your Astrological Triad
