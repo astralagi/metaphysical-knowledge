@@ -1,6 +1,6 @@
 ---
 title: "aries tarot love"
-layout: post
+layout: single
 ---
 
 # Aries Tarot Love: Igniting Passion with AI Insights
