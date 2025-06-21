@@ -1,6 +1,6 @@
 ---
 title: "how to know your soulmate astrology"
-layout: post
+layout: single
 ---
 
 # How to Know Your Soulmate Astrology
