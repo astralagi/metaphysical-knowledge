@@ -1,6 +1,6 @@
 ---
 title: "astro intelligence"
-layout: post
+layout: single
 ---
 
 # Astro Intelligence: Unveiling Your Cosmic Potential with AI
