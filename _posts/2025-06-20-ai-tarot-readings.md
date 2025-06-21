@@ -1,6 +1,6 @@
 ---
 title: "ai tarot readings"
-layout: post
+layout: single
 ---
 
 # AI Tarot Readings: The Future of Astrological Insight
