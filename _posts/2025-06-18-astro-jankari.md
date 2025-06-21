@@ -1,6 +1,6 @@
 ---
 title: "astro jankari"
-layout: post
+layout: single
 ---
 
 # Astro Jankari: Unveiling the Power of AI in Vedic Astrology
