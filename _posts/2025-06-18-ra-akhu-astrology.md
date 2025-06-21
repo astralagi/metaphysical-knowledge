@@ -1,6 +1,6 @@
 ---
 title: "ra akhu astrology"
-layout: post
+layout: single
 ---
 
 # Ra Akhu Astrology: Unveiling Hidden Potential with AI
