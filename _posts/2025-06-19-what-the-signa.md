@@ -1,6 +1,6 @@
 ---
 title: "what the signa"
-layout: post
+layout: single
 ---
 
 # What the Signa? Unveiling Astrological Insights with AI
