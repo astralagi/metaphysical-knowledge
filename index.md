@@ -1019,3 +1019,4 @@ Welcome to my AI-powered astrology blog!
 - [what does your rising sign mean]({% post_url 2025-06-21-what-does-your-rising-sign-mean %})
 - [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
 - [moon and ascendant sign]({% post_url 2025-06-21-moon-and-ascendant-sign %})
+- [how do i find my 12 houses]({% post_url 2025-06-21-how-do-i-find-my-12-houses %})
