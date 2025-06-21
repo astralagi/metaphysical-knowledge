@@ -1,6 +1,6 @@
 ---
 title: "horoscope for today"
-layout: post
+layout: single
 ---
 
 # Horoscope for Today: Unlocking Daily Astrological Insights with AI
