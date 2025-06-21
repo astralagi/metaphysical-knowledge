@@ -1032,3 +1032,4 @@ Welcome to my AI-powered astrology blog!
 - [where should i live based on my birth chart]({% post_url 2025-06-21-where-should-i-live-based-on-my-birth-chart %})
 - [free personalised horoscope based on date of birth]({% post_url 2025-06-21-free-personalised-horoscope-based-on-date-of-birth %})
 - [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
+- [ketu in 11th house]({% post_url 2025-06-21-ketu-in-11th-house %})
