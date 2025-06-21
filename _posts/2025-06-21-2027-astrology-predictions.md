@@ -1,6 +1,6 @@
 ---
 title: "2027 astrology predictions"
-layout: post
+layout: single
 ---
 
 # 2027 Astrology Predictions: Unveiling the Year's Cosmic Blueprint
