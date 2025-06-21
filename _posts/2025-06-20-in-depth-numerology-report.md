@@ -1,6 +1,6 @@
 ---
 title: "in depth numerology report"
-layout: post
+layout: single
 ---
 
 # In Depth Numerology Report: Unlocking Your Life Path with AI-Powered Astrology
