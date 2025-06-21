@@ -1,6 +1,6 @@
 ---
 title: "carta astral aries"
-layout: post
+layout: single
 ---
 
 # Carta Astral Aries: Unveiling the Ram's Energetic Blueprint with AI
