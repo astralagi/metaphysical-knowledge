@@ -1,6 +1,6 @@
 ---
 title: "birth chart astrology calculator"
-layout: post
+layout: single
 ---
 
 # Birth Chart Astrology Calculator: Unlocking Your Astrological Potential with AI
