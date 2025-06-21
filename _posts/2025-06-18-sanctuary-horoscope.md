@@ -1,6 +1,6 @@
 ---
 title: "sanctuary horoscope"
-layout: post
+layout: single
 ---
 
 # Sanctuary Horoscope: Finding Your Astrological Safe Space
