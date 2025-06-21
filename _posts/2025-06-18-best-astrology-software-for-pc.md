@@ -1,6 +1,6 @@
 ---
 title: "best astrology software for pc"
-layout: post
+layout: single
 ---
 
 # Best Astrology Software for PC: Unlocking Celestial Insights with AI
