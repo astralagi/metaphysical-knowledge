@@ -1061,3 +1061,4 @@ Welcome to my AI-powered astrology blog!
 - [generate kundli online]({% post_url 2025-06-21-generate-kundli-online %})
 - [sadhguru astrology]({% post_url 2025-06-21-sadhguru-astrology %})
 - [jeff harmon astrology]({% post_url 2025-06-21-jeff-harmon-astrology %})
+- [time to shine zodiac]({% post_url 2025-06-21-time-to-shine-zodiac %})
