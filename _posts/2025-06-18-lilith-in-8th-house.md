@@ -1,6 +1,6 @@
 ---
 title: "lilith in 8th house"
-layout: post
+layout: single
 ---
 
 # Lilith in 8th House: Unlocking the Mysteries of Shadow and Transformation with AI
