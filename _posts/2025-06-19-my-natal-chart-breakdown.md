@@ -1,6 +1,6 @@
 ---
 title: "my natal chart breakdown"
-layout: post
+layout: single
 ---
 
 # My Natal Chart Breakdown: Unlocking Your Astrological Potential with AI
