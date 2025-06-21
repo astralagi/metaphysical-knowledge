@@ -1,6 +1,6 @@
 ---
 title: "aliya nazar horoscope"
-layout: post
+layout: single
 ---
 
 # Aliya Nazar Horoscope: Unveiling Astrological Insights with AI
