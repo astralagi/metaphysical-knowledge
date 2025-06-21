@@ -1,6 +1,6 @@
 ---
 title: "what's my zodiac sign"
-layout: post
+layout: single
 ---
 
 # What's My Zodiac Sign? Unveiling Your Astrological Identity
