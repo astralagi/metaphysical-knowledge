@@ -1,6 +1,6 @@
 ---
 title: "tarot interpretation online"
-layout: post
+layout: single
 ---
 
 # Tarot Interpretation Online: Unlocking Astrological Insights with AI
