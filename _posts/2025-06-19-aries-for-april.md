@@ -1,6 +1,6 @@
 ---
 title: "aries for april"
-layout: post
+layout: single
 ---
 
 # Aries for April: Harnessing the Ram's Spring Energy with AI
