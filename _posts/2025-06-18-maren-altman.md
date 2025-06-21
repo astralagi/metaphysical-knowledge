@@ -1,6 +1,6 @@
 ---
 title: "maren altman"
-layout: post
+layout: single
 ---
 
 # Maren Altman: An Astrological Exploration Enhanced by AI
