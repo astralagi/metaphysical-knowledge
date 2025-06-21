@@ -1,6 +1,6 @@
 ---
 title: "birth chart compatibility astro seek"
-layout: post
+layout: single
 ---
 
 # Birth Chart Compatibility: Astro Seek and the Power of AI
