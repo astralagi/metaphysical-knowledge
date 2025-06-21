@@ -1,6 +1,6 @@
 ---
 title: "how to find birth chart"
-layout: post
+layout: single
 ---
 
 # How to Find Your Birth Chart: Unlocking the Secrets of Your Astrological Blueprint
