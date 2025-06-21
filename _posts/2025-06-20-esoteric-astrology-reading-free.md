@@ -1,6 +1,6 @@
 ---
 title: "esoteric astrology reading free"
-layout: post
+layout: single
 ---
 
 # Esoteric Astrology Reading Free: Unveiling Hidden Dimensions with AI
