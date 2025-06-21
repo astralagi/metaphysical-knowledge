@@ -1,6 +1,6 @@
 ---
 title: "capricorn today tarot"
-layout: post
+layout: single
 ---
 
 # Capricorn Today Tarot: Unveiling Your Astrological Potential with AI
