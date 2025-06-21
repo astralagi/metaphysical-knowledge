@@ -1,6 +1,6 @@
 ---
 title: "molly mccord astrology"
-layout: post
+layout: single
 ---
 
 # Molly McCord Astrology: Unveiling Personalized Insights with AI
