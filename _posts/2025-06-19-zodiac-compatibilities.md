@@ -1,6 +1,6 @@
 ---
 title: "zodiac compatibilities"
-layout: post
+layout: single
 ---
 
 # Zodiac Compatibilities: Unveiling the Cosmic Connections
