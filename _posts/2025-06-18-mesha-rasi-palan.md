@@ -1,6 +1,6 @@
 ---
 title: "mesha rasi palan"
-layout: post
+layout: single
 ---
 
 # Mesha Rasi Palan: Unveiling Astrological Insights with AI
