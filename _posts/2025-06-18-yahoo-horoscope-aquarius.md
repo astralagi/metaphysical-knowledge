@@ -1,6 +1,6 @@
 ---
 title: "yahoo horoscope aquarius"
-layout: post
+layout: single
 ---
 
 # yahoo horoscope aquarius: Unveiling the Air Sign's Secrets with AI
