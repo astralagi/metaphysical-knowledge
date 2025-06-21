@@ -1,6 +1,6 @@
 ---
 title: "mecca woods"
-layout: post
+layout: single
 ---
 
 # Mecca Woods: Unveiling the Astrological Mysteries with AI
