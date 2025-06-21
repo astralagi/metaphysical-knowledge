@@ -1,6 +1,6 @@
 ---
 title: "most accurate natal chart reading"
-layout: post
+layout: single
 ---
 
 # Most Accurate Natal Chart Reading: Unlocking Your Astrological Potential with AI
