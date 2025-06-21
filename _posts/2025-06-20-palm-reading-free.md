@@ -1,6 +1,6 @@
 ---
 title: "palm reading free"
-layout: post
+layout: single
 ---
 
 # Palm Reading Free: Unlocking Your Life's Potential with AI-Powered Astrology
