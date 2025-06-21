@@ -1,6 +1,6 @@
 ---
 title: "astrologia tarot"
-layout: post
+layout: single
 ---
 
 # Astrologia Tarot: Unveiling the Celestial Secrets Through Cards and Stars
