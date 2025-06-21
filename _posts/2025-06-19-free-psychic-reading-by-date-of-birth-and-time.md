@@ -1,6 +1,6 @@
 ---
 title: "free psychic reading by date of birth and time"
-layout: post
+layout: single
 ---
 
 # Free Psychic Reading by Date of Birth and Time
