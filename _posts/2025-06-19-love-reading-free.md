@@ -1,6 +1,6 @@
 ---
 title: "love reading free"
-layout: post
+layout: single
 ---
 
 # Love Reading Free: Unlocking Astrological Insights with AI
