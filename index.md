@@ -1152,3 +1152,4 @@ Welcome to my AI-powered astrology blog!
 - [support astroarunpandit org]({% post_url 2025-06-21-support-astroarunpandit-org %})
 - [calculate lots astrology]({% post_url 2025-06-21-calculate-lots-astrology %})
 - [astro syndicate]({% post_url 2025-06-21-astro-syndicate %})
+- [scorpio love reading]({% post_url 2025-06-21-scorpio-love-reading %})
