@@ -1,6 +1,6 @@
 ---
 title: "stella wilde astrology"
-layout: post
+layout: single
 ---
 
 # Stella Wilde Astrology: Unveiling the Astrological Landscape with AI
