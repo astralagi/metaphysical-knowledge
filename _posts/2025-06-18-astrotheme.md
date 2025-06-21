@@ -1,6 +1,6 @@
 ---
 title: "astrotheme"
-layout: post
+layout: single
 ---
 
 # Astrotheme: Unveiling the Cosmic Blueprint with AI
