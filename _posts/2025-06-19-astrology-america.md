@@ -1,6 +1,6 @@
 ---
 title: "astrology america"
-layout: post
+layout: single
 ---
 
 # Astrology America: Unlocking the Nation's Cosmic Blueprint with AI
