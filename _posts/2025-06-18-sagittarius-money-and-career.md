@@ -1,6 +1,6 @@
 ---
 title: "sagittarius money and career"
-layout: post
+layout: single
 ---
 
 # Sagittarius Money and Career: An Astrological and AI-Powered Perspective
