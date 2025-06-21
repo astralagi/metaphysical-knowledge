@@ -1,6 +1,6 @@
 ---
 title: "free chart reading online"
-layout: post
+layout: single
 ---
 
 # Free Chart Reading Online: Unveiling Your Astrological Potential with AI
