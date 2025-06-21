@@ -1,6 +1,6 @@
 ---
 title: "astrology with ninad"
-layout: post
+layout: single
 ---
 
 # Astrology with Ninad: Unveiling Personalized Astrological Insights with AI
