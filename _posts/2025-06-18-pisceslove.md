@@ -1,6 +1,6 @@
 ---
 title: "pisceslove"
-layout: post
+layout: single
 ---
 
 # Pisceslove: Unlocking the Mysteries of Love and the Fishes with AI
