@@ -1,6 +1,6 @@
 ---
 title: "astrological analysis"
-layout: post
+layout: single
 ---
 
 # Astrological Analysis: Unveiling the Cosmos with AI
