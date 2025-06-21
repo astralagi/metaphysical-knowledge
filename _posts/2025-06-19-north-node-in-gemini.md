@@ -1,6 +1,6 @@
 ---
 title: "north node in gemini"
-layout: post
+layout: single
 ---
 
 # North Node in Gemini: Navigating Communication and Curiosity with AI
