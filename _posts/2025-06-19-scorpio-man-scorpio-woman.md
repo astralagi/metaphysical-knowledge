@@ -1,6 +1,6 @@
 ---
 title: "scorpio man scorpio woman"
-layout: post
+layout: single
 ---
 
 # Scorpio Man Scorpio Woman: A Powerful Astrological Combination
