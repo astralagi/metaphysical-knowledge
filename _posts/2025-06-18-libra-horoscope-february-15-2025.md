@@ -1,6 +1,6 @@
 ---
 title: "libra horoscope february 15 2025"
-layout: post
+layout: single
 ---
 
 # Libra Horoscope February 15, 2025
