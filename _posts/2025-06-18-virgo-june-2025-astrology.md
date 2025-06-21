@@ -1,6 +1,6 @@
 ---
 title: "virgo june 2025 astrology"
-layout: post
+layout: single
 ---
 
 # Virgo June 2025 Astrology: Navigating the Celestial Currents with AI
