@@ -1,6 +1,6 @@
 ---
 title: "2025 predictions indian astrology"
-layout: post
+layout: single
 ---
 
 # 2025 Predictions Indian Astrology
