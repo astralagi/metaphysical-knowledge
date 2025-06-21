@@ -1,6 +1,6 @@
 ---
 title: "chiemtinhlaso"
-layout: post
+layout: single
 ---
 
 # chiemtinhlaso: Unveiling the Secrets of Your Astrological Destiny with AI
