@@ -1,6 +1,6 @@
 ---
 title: "cancer love tarot today"
-layout: post
+layout: single
 ---
 
 # Cancer Love Tarot Today: Unlocking Emotional Insights with AI
