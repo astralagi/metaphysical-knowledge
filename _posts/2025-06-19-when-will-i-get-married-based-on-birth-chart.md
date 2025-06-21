@@ -1,6 +1,6 @@
 ---
 title: "when will i get married based on birth chart"
-layout: post
+layout: single
 ---
 
 # When Will I Get Married Based on Birth Chart?
