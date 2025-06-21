@@ -1,6 +1,6 @@
 ---
 title: "tarot virgo"
-layout: post
+layout: single
 ---
 
 # Tarot Virgo: Unveiling the Analytical Maiden Through Astrology and AI
