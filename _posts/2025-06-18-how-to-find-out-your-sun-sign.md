@@ -1,6 +1,6 @@
 ---
 title: "how to find out your sun sign"
-layout: post
+layout: single
 ---
 
 # How to Find Out Your Sun Sign
