@@ -1,6 +1,6 @@
 ---
 title: "scorpio astrology april 2025"
-layout: post
+layout: single
 ---
 
 # Scorpio Astrology April 2025: Unveiling the Mysteries with AI
