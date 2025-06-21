@@ -1,6 +1,6 @@
 ---
 title: "personalised horoscope"
-layout: post
+layout: single
 ---
 
 # Personalised Horoscope: Unveiling Your Unique Astrological Blueprint
