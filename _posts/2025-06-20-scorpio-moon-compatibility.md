@@ -1,6 +1,6 @@
 ---
 title: "scorpio moon compatibility"
-layout: post
+layout: single
 ---
 
 # Scorpio Moon Compatibility: Unveiling Emotional Depth with AI
