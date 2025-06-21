@@ -1,6 +1,6 @@
 ---
 title: "when will i get pregnant prediction"
-layout: post
+layout: single
 ---
 
 # When Will I Get Pregnant Prediction: Astrology and AI Insights
