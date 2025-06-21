@@ -1,6 +1,6 @@
 ---
 title: "aries love"
-layout: post
+layout: single
 ---
 
 # Aries Love: A Fiery Affair Unveiled by Astrology and AI
