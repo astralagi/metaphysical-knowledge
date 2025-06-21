@@ -1,6 +1,6 @@
 ---
 title: "janam kundali date of birth"
-layout: post
+layout: single
 ---
 
 # Janam Kundali Date of Birth: Unlocking Your Astrological Destiny with AI
