@@ -1,6 +1,6 @@
 ---
 title: "horoscope for gemini 2025"
-layout: post
+layout: single
 ---
 
 # Horoscope for Gemini 2025: Navigating the Year with AI-Powered Astrology
