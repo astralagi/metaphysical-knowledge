@@ -1,6 +1,6 @@
 ---
 title: "my natal chart"
-layout: post
+layout: single
 ---
 
 # My Natal Chart: Unveiling Your Astrological Blueprint with AI
