@@ -1,6 +1,6 @@
 ---
 title: "astro moon"
-layout: post
+layout: single
 ---
 
 # Astro Moon: Unveiling the Mysteries of Your Lunar Self with AI
