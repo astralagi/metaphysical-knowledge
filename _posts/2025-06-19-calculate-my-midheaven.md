@@ -1,6 +1,6 @@
 ---
 title: "calculate my midheaven"
-layout: post
+layout: single
 ---
 
 # Calculate My Midheaven: Unveiling Your Public Persona and Career Path with AI
