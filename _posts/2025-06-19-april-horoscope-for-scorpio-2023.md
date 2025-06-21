@@ -1,6 +1,6 @@
 ---
 title: "april horoscope for scorpio 2023"
-layout: post
+layout: single
 ---
 
 # April Horoscope for Scorpio 2023
