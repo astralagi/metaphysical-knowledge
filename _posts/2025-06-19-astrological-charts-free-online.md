@@ -1,6 +1,6 @@
 ---
 title: "astrological charts free online"
-layout: post
+layout: single
 ---
 
 # Astrological Charts Free Online: Unveiling Your Cosmic Blueprint with AI
