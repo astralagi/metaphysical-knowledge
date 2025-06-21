@@ -1105,3 +1105,4 @@ Welcome to my AI-powered astrology blog!
 - [free horoscope online]({% post_url 2025-06-21-free-horoscope-online %})
 - [how do i find out my astrological houses]({% post_url 2025-06-21-how-do-i-find-out-my-astrological-houses %})
 - [moon sun rising]({% post_url 2025-06-21-moon-sun-rising %})
+- [davison chart astrology]({% post_url 2025-06-21-davison-chart-astrology %})
