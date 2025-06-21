@@ -1,6 +1,6 @@
 ---
 title: "natal chart report"
-layout: post
+layout: single
 ---
 
 # Natal Chart Report: Unveiling Your Astrological Blueprint with AI
