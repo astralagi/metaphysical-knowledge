@@ -1,6 +1,6 @@
 ---
 title: "free vedic astrology analysis"
-layout: post
+layout: single
 ---
 
 # Free Vedic Astrology Analysis: Unlocking Your Potential with AI
