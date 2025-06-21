@@ -1,6 +1,6 @@
 ---
 title: "free astrology chart with houses"
-layout: post
+layout: single
 ---
 
 # Free Astrology Chart with Houses: Unlocking Deeper Astrological Insights
