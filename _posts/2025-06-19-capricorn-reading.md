@@ -1,6 +1,6 @@
 ---
 title: "capricorn reading"
-layout: post
+layout: single
 ---
 
 # Capricorn Reading: Unlocking Your Potential with AI-Powered Astrology
