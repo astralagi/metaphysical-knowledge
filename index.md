@@ -1025,3 +1025,4 @@ Welcome to my AI-powered astrology blog!
 - [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
 - [free astrologer]({% post_url 2025-06-21-free-astrologer %})
 - [mesh rashi ko santan prapti kab hogi]({% post_url 2025-06-21-mesh-rashi-ko-santan-prapti-kab-hogi %})
+- [numerology horoscope 2025]({% post_url 2025-06-21-numerology-horoscope-2025 %})
