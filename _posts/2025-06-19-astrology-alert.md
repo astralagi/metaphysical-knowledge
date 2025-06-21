@@ -1,6 +1,6 @@
 ---
 title: "astrology alert"
-layout: post
+layout: single
 ---
 
 # Astrology Alert: Navigating Celestial Influences with AI
