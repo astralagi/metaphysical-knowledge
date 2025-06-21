@@ -1,6 +1,6 @@
 ---
 title: "know your love life by date of birth"
-layout: post
+layout: single
 ---
 
 # Know Your Love Life By Date of Birth
