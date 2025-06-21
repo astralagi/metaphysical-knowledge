@@ -1,6 +1,6 @@
 ---
 title: "carien astrology"
-layout: post
+layout: single
 ---
 
 # Carien Astrology: Unveiling Your Life Path Through AI-Powered Insights
