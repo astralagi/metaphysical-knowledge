@@ -1,6 +1,6 @@
 ---
 title: "astromartine"
-layout: post
+layout: single
 ---
 
 # Astromartine: Unveiling the Cosmic Blueprint with AI-Powered Astrology
