@@ -1,6 +1,6 @@
 ---
 title: "capricorn horoscope march 2025"
-layout: post
+layout: single
 ---
 
 # Capricorn Horoscope March 2025
