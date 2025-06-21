@@ -1,6 +1,6 @@
 ---
 title: "chart rectification"
-layout: post
+layout: single
 ---
 
 # Chart Rectification: Refining Your Astrological Blueprint with AI
