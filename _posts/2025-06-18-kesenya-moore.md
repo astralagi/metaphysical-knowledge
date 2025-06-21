@@ -1,6 +1,6 @@
 ---
 title: "kesenya moore"
-layout: post
+layout: single
 ---
 
 # Kesenya Moore: Unveiling Astrological Insights with AI
