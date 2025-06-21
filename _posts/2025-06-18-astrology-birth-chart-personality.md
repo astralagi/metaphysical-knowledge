@@ -1,6 +1,6 @@
 ---
 title: "astrology birth chart personality"
-layout: post
+layout: single
 ---
 
 # Astrology Birth Chart Personality: Unveiling Your Astrological Self
