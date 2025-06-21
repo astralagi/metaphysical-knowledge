@@ -1,6 +1,6 @@
 ---
 title: "how to check kundali for future"
-layout: post
+layout: single
 ---
 
 # How to Check Kundali for Future
