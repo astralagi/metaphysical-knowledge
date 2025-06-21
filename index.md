@@ -999,3 +999,4 @@ Welcome to my AI-powered astrology blog!
 - [where should i live based on my birth chart]({% post_url 2025-06-21-where-should-i-live-based-on-my-birth-chart %})
 - [astro veerle]({% post_url 2025-06-21-astro-veerle %})
 - [free personalised horoscope based on date of birth]({% post_url 2025-06-21-free-personalised-horoscope-based-on-date-of-birth %})
+- [astro with m singh]({% post_url 2025-06-21-astro-with-m-singh %})
