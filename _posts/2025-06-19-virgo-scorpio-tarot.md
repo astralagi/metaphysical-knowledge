@@ -1,6 +1,6 @@
 ---
 title: "virgo scorpio tarot"
-layout: post
+layout: single
 ---
 
 # Virgo Scorpio Tarot: Unlocking the Secrets of a Powerful Combination
