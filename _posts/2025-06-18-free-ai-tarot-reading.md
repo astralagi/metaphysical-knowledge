@@ -1,6 +1,6 @@
 ---
 title: "free ai tarot reading"
-layout: post
+layout: single
 ---
 
 # Free AI Tarot Reading: Unveiling Astrological Insights with Artificial Intelligence
