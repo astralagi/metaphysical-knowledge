@@ -1,6 +1,6 @@
 ---
 title: "susan miller astrology"
-layout: post
+layout: single
 ---
 
 # Susan Miller Astrology: Unveiling Astrological Insights with AI
