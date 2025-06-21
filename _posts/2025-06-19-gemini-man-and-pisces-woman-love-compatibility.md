@@ -1,6 +1,6 @@
 ---
 title: "gemini man and pisces woman love compatibility"
-layout: post
+layout: single
 ---
 
 # Gemini Man and Pisces Woman Love Compatibility
