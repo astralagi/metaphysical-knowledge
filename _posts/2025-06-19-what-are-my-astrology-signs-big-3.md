@@ -1,6 +1,6 @@
 ---
 title: "what are my astrology signs big 3"
-layout: post
+layout: single
 ---
 
 # What Are My Astrology Signs Big 3?
