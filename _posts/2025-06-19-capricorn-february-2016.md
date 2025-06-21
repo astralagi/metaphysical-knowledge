@@ -1,6 +1,6 @@
 ---
 title: "capricorn february 2016"
-layout: post
+layout: single
 ---
 
 # Capricorn February 2016: Navigating the Astrological Landscape with AI
