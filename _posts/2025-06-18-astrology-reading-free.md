@@ -1,6 +1,6 @@
 ---
 title: "astrology reading free"
-layout: post
+layout: single
 ---
 
 # Astrology Reading Free: Unlocking Cosmic Insights with AI
