@@ -1,6 +1,6 @@
 ---
 title: "free electional astrology"
-layout: post
+layout: single
 ---
 
 # Free Electional Astrology: Charting Your Destiny with AI
