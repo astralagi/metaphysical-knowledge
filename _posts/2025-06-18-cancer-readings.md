@@ -1,6 +1,6 @@
 ---
 title: "cancer readings"
-layout: post
+layout: single
 ---
 
 # Cancer Readings: Unlocking the Secrets of the Crab with AI
