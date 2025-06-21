@@ -1,6 +1,6 @@
 ---
 title: "halley's comet astrology"
-layout: post
+layout: single
 ---
 
 # Halley's Comet Astrology: A Celestial Event and its Astrological Significance
