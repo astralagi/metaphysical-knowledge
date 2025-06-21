@@ -1,6 +1,6 @@
 ---
 title: "taurus sun sagittarius moon man"
-layout: post
+layout: single
 ---
 
 # Taurus Sun Sagittarius Moon Man: A Deep Dive into Astrological Complexity
