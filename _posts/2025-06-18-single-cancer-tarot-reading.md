@@ -1,6 +1,6 @@
 ---
 title: "single cancer tarot reading"
-layout: post
+layout: single
 ---
 
 # Single Cancer Tarot Reading: Unlocking Your Astrological Potential with AI
