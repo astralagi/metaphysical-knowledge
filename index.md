@@ -1068,3 +1068,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo horoscope]({% post_url 2025-06-21-virgo-horoscope %})
 - [free kundali reading online]({% post_url 2025-06-21-free-kundali-reading-online %})
 - [destiny matrix chart interpretation free]({% post_url 2025-06-21-destiny-matrix-chart-interpretation-free %})
+- [numerologist free reading]({% post_url 2025-06-21-numerologist-free-reading %})
