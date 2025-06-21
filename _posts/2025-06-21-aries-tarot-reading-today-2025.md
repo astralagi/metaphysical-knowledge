@@ -1,6 +1,6 @@
 ---
 title: "aries tarot reading today 2025"
-layout: post
+layout: single
 ---
 
 # Aries Tarot Reading Today 2025
