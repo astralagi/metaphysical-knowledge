@@ -1,6 +1,6 @@
 ---
 title: "aries love tarot reading today"
-layout: post
+layout: single
 ---
 
 # Aries Love Tarot Reading Today: Unlocking Romantic Insights with AI
