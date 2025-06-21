@@ -1015,3 +1015,4 @@ Welcome to my AI-powered astrology blog!
 - [free astrology birth chart report]({% post_url 2025-06-21-free-astrology-birth-chart-report %})
 - [pisces horoscope 2025 arun pandit]({% post_url 2025-06-21-pisces-horoscope-2025-arun-pandit %})
 - [pisces love]({% post_url 2025-06-21-pisces-love %})
+- [how to test compatibility with names]({% post_url 2025-06-21-how-to-test-compatibility-with-names %})
