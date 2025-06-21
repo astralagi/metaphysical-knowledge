@@ -1,6 +1,6 @@
 ---
 title: "rising sun and moon sign"
-layout: post
+layout: single
 ---
 
 # Rising Sun and Moon Sign: Unlocking Deeper Astrological Insights with AI
