@@ -1,6 +1,6 @@
 ---
 title: "virgo destiny"
-layout: post
+layout: single
 ---
 
 # Virgo Destiny: Unraveling the Analytical Soul's Path
