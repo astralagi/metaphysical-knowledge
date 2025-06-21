@@ -1,6 +1,6 @@
 ---
 title: "astrology birth charts"
-layout: post
+layout: single
 ---
 
 # Astrology Birth Charts: Unlocking Your Cosmic Blueprint with AI
