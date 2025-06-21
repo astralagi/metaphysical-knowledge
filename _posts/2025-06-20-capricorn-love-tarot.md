@@ -1,6 +1,6 @@
 ---
 title: "capricorn love tarot"
-layout: post
+layout: single
 ---
 
 # Capricorn Love Tarot: Unveiling the Secrets of the Goat's Heart
