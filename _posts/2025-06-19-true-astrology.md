@@ -1,6 +1,6 @@
 ---
 title: "true astrology"
-layout: post
+layout: single
 ---
 
 # True Astrology: Unveiling Deeper Meaning Through AI
