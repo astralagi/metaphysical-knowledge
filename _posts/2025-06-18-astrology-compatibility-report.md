@@ -1,6 +1,6 @@
 ---
 title: "astrology compatibility report"
-layout: post
+layout: single
 ---
 
 # Astrology Compatibility Report: Unlocking Relational Harmony with AI
