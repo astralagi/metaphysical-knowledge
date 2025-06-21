@@ -1,6 +1,6 @@
 ---
 title: "friendship tarot reading free"
-layout: post
+layout: single
 ---
 
 # Friendship Tarot Reading Free: Unlocking Astrological Insights with AI
