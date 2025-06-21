@@ -1,6 +1,6 @@
 ---
 title: "louis turi"
-layout: post
+layout: single
 ---
 
 # Louis Turi: Unveiling the Mysteries of Astrological Forecasting with AI
