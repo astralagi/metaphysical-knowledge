@@ -1,6 +1,6 @@
 ---
 title: "astrotalk free kundli"
-layout: post
+layout: single
 ---
 
 # AstroTalk Free Kundli: Unlocking Your Astrological Potential with AI
