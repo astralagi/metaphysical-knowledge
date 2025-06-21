@@ -1196,3 +1196,4 @@ Welcome to my AI-powered astrology blog!
 - [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
 - [birth chart websites]({% post_url 2025-06-21-birth-chart-websites %})
 - [capricorn daily horoscope today]({% post_url 2025-06-21-capricorn-daily-horoscope-today %})
+- [capricorn horoscope 2025]({% post_url 2025-06-21-capricorn-horoscope-2025 %})
