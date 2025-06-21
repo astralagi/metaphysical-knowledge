@@ -1008,3 +1008,4 @@ Welcome to my AI-powered astrology blog!
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
 - [compatibility by birthdate]({% post_url 2025-06-21-compatibility-by-birthdate %})
 - [astrology app]({% post_url 2025-06-21-astrology-app %})
+- [birth chart information]({% post_url 2025-06-21-birth-chart-information %})
