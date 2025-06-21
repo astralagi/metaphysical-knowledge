@@ -1,6 +1,6 @@
 ---
 title: "que signo soy segun mi fecha de nacimiento"
-layout: post
+layout: single
 ---
 
 # Que Signo Soy Segun Mi Fecha de Nacimiento: Unveiling Your Astrological Identity
