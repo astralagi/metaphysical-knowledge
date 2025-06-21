@@ -1104,3 +1104,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali by date of birth]({% post_url 2025-06-21-kundali-by-date-of-birth %})
 - [where should i live based on astrology]({% post_url 2025-06-21-where-should-i-live-based-on-astrology %})
 - [aquarius tarot career]({% post_url 2025-06-21-aquarius-tarot-career %})
+- [capricorn horoscope 2025]({% post_url 2025-06-21-capricorn-horoscope-2025 %})
