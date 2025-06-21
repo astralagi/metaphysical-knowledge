@@ -1,6 +1,6 @@
 ---
 title: "horoscopes are real"
-layout: post
+layout: single
 ---
 
 # Horoscopes Are Real: Unveiling the Power of Astrology with AI
