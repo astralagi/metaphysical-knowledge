@@ -1,6 +1,6 @@
 ---
 title: "horoscope ai"
-layout: post
+layout: single
 ---
 
 # Horoscope AI: The Future of Astrological Insight
