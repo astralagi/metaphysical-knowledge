@@ -1,6 +1,6 @@
 ---
 title: "pisces tarot"
-layout: post
+layout: single
 ---
 
 # Pisces Tarot: Unlocking the Mysteries of the Twelfth House with AI
