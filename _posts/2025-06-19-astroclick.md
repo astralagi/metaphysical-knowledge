@@ -1,6 +1,6 @@
 ---
 title: "astroclick"
-layout: post
+layout: single
 ---
 
 # astroclick: Unveiling the Power of AI-Driven Astrological Insights
