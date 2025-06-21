@@ -1,6 +1,6 @@
 ---
 title: "how to find out your astrology chart"
-layout: post
+layout: single
 ---
 
 # How to Find Out Your Astrology Chart
