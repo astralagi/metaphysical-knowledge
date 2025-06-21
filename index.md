@@ -1028,3 +1028,4 @@ Welcome to my AI-powered astrology blog!
 - [numerology horoscope 2025]({% post_url 2025-06-21-numerology-horoscope-2025 %})
 - [daily horoscope aquarius]({% post_url 2025-06-21-daily-horoscope-aquarius %})
 - [online psychic chat room free]({% post_url 2025-06-21-online-psychic-chat-room-free %})
+- [ruby franke birth chart]({% post_url 2025-06-21-ruby-franke-birth-chart %})
