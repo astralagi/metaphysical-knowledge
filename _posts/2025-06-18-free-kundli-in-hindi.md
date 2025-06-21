@@ -1,6 +1,6 @@
 ---
 title: "free kundli in hindi"
-layout: post
+layout: single
 ---
 
 # Free Kundli in Hindi: Unveiling Your Astrological Destiny with AI
