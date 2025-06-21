@@ -1,6 +1,6 @@
 ---
 title: "free astrology chat online ai"
-layout: post
+layout: single
 ---
 
 # Free Astrology Chat Online AI: Unveiling the Cosmic Dialogue
