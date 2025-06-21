@@ -1,6 +1,6 @@
 ---
 title: "what are my houses in astrology"
-layout: post
+layout: single
 ---
 
 ## What Are My Houses in Astrology?
