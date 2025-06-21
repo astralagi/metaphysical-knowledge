@@ -1,6 +1,6 @@
 ---
 title: "numerology marriage compatibility calculator"
-layout: post
+layout: single
 ---
 
 # Numerology Marriage Compatibility Calculator: Unveiling the Secrets of Lasting Love with AI
