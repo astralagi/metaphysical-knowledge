@@ -1193,3 +1193,4 @@ Welcome to my AI-powered astrology blog!
 - [best free astrology app]({% post_url 2025-06-21-best-free-astrology-app %})
 - [capricorn love]({% post_url 2025-06-21-capricorn-love %})
 - [best places to live according to your birth chart]({% post_url 2025-06-21-best-places-to-live-according-to-your-birth-chart %})
+- [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
