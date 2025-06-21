@@ -1,6 +1,6 @@
 ---
 title: "rising sign and moon sign calculator"
-layout: post
+layout: single
 ---
 
 # Rising Sign and Moon Sign Calculator: Unlocking the Secrets of Your Astrological Self with AI
