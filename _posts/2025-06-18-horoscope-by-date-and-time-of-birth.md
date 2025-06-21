@@ -1,6 +1,6 @@
 ---
 title: "horoscope by date and time of birth"
-layout: post
+layout: single
 ---
 
 # Horoscope by Date and Time of Birth: Unlocking Deeper Astrological Insights with AI
