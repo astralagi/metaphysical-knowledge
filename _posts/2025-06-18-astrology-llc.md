@@ -1,6 +1,6 @@
 ---
 title: "astrology llc"
-layout: post
+layout: single
 ---
 
 # Astrology LLC: Navigating the Business of the Stars
