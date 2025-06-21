@@ -1,6 +1,6 @@
 ---
 title: "capricorn in the 3rd house"
-layout: post
+layout: single
 ---
 
 # Capricorn in the 3rd House: A Deep Dive with AI-Powered Astrology
