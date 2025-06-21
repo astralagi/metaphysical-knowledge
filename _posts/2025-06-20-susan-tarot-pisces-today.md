@@ -1,6 +1,6 @@
 ---
 title: "susan tarot pisces today"
-layout: post
+layout: single
 ---
 
 # Susan Tarot Pisces Today: Unveiling the Daily Astrological Landscape with AI
