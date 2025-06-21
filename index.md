@@ -1147,3 +1147,4 @@ Welcome to my AI-powered astrology blog!
 - [dr y rakhi astrologer live video]({% post_url 2025-06-21-dr-y-rakhi-astrologer-live-video %})
 - [medium chat online free]({% post_url 2025-06-21-medium-chat-online-free %})
 - [leo sun aquarius moon aries rising]({% post_url 2025-06-21-leo-sun-aquarius-moon-aries-rising %})
+- [horoscope for pisces today]({% post_url 2025-06-21-horoscope-for-pisces-today %})
