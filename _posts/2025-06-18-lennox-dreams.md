@@ -1,6 +1,6 @@
 ---
 title: "lennox dreams"
-layout: post
+layout: single
 ---
 
 # Lennox Dreams: Unraveling the Astrological Mysteries with AI
