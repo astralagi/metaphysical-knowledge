@@ -1,6 +1,6 @@
 ---
 title: "what's my zodiac"
-layout: post
+layout: single
 ---
 
 # What's My Zodiac? Unveiling Your Astrological Blueprint
