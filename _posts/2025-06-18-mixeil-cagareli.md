@@ -1,6 +1,6 @@
 ---
 title: "mixeil cagareli"
-layout: post
+layout: single
 ---
 
 # mixeil cagareli: Unveiling Astrological Insights with AI
