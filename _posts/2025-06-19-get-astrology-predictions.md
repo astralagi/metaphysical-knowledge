@@ -1,6 +1,6 @@
 ---
 title: "get astrology predictions"
-layout: post
+layout: single
 ---
 
 # Get Astrology Predictions: Unveiling the Future with AI-Powered Insights
