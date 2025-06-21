@@ -1,6 +1,6 @@
 ---
 title: "free psychic soulmate reading"
-layout: post
+layout: single
 ---
 
 # Free Psychic Soulmate Reading: Unveiling Astrological Connections with AI
