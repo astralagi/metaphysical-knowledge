@@ -1,6 +1,6 @@
 ---
 title: "virgo tarot today career"
-layout: post
+layout: single
 ---
 
 # Virgo Tarot Today Career
