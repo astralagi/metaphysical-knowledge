@@ -1,6 +1,6 @@
 ---
 title: "today's horoscope for leo"
-layout: post
+layout: single
 ---
 
 # Today's Horoscope for Leo: Unveiling the Lion's Destiny with AI
