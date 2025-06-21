@@ -1144,3 +1144,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo love horoscope]({% post_url 2025-06-21-virgo-love-horoscope %})
 - [aries love tarot reading today]({% post_url 2025-06-21-aries-love-tarot-reading-today %})
 - [sign of september 22]({% post_url 2025-06-21-sign-of-september-22 %})
+- [dr y rakhi astrologer live video]({% post_url 2025-06-21-dr-y-rakhi-astrologer-live-video %})
