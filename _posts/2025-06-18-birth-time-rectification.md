@@ -1,6 +1,6 @@
 ---
 title: "birth time rectification"
-layout: post
+layout: single
 ---
 
 # Birth Time Rectification: Unveiling the Accuracy of Your Astrological Chart with AI
