@@ -1,6 +1,6 @@
 ---
 title: "daily horoscope today capricorn"
-layout: post
+layout: single
 ---
 
 # Daily Horoscope Today Capricorn: Unveiling the Cosmic Insights with AI
