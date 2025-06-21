@@ -1,6 +1,6 @@
 ---
 title: "leo april 2025 horoscope"
-layout: post
+layout: single
 ---
 
 # Leo April 2025 Horoscope: A Sun-Kissed Forecast Enhanced by AI
