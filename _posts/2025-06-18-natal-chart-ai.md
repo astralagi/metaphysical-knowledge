@@ -1,6 +1,6 @@
 ---
 title: "natal chart ai"
-layout: post
+layout: single
 ---
 
 # Natal Chart AI: Revolutionizing Astrological Interpretation
