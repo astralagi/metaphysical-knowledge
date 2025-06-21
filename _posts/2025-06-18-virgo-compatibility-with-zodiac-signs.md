@@ -1,6 +1,6 @@
 ---
 title: "virgo compatibility with zodiac signs"
-layout: post
+layout: single
 ---
 
 # Virgo Compatibility with Zodiac Signs
