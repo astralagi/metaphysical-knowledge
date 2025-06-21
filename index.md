@@ -984,3 +984,4 @@ Welcome to my AI-powered astrology blog!
 - [astroo]({% post_url 2025-06-21-astroo %})
 - [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
 - [capricorn job reading]({% post_url 2025-06-21-capricorn-job-reading %})
+- [moon and ascendant sign]({% post_url 2025-06-21-moon-and-ascendant-sign %})
