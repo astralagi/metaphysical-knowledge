@@ -1,6 +1,6 @@
 ---
 title: "zodiac signs future life"
-layout: post
+layout: single
 ---
 
 # Zodiac Signs Future Life: Unveiling Your Astrological Destiny with AI
