@@ -1,6 +1,6 @@
 ---
 title: "esoteric astrology calculator"
-layout: post
+layout: single
 ---
 
 # Esoteric Astrology Calculator: Unlocking Deeper Astrological Insights with AI
