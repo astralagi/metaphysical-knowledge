@@ -1,6 +1,6 @@
 ---
 title: "the leo king"
-layout: post
+layout: single
 ---
 
 # The Leo King: Unveiling the Regal Heart of Astrology with AI
