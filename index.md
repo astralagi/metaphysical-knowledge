@@ -1034,3 +1034,4 @@ Welcome to my AI-powered astrology blog!
 - [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
 - [ketu in 11th house]({% post_url 2025-06-21-ketu-in-11th-house %})
 - [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
+- [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
