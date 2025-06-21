@@ -1,6 +1,6 @@
 ---
 title: "free composite chart interpretation"
-layout: post
+layout: single
 ---
 
 # Free Composite Chart Interpretation: Unveiling Relationship Dynamics with AI
