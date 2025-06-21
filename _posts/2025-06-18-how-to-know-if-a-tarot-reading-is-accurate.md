@@ -1,6 +1,6 @@
 ---
 title: "how to know if a tarot reading is accurate"
-layout: post
+layout: single
 ---
 
 # How to Know if a Tarot Reading is Accurate
