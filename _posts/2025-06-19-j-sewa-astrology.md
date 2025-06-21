@@ -1,6 +1,6 @@
 ---
 title: "j sewa astrology"
-layout: post
+layout: single
 ---
 
 # j sewa astrology: Unveiling the Mysteries with AI-Powered Astrology
