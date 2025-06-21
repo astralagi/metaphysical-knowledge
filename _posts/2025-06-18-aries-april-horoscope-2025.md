@@ -1,6 +1,6 @@
 ---
 title: "aries april horoscope 2025"
-layout: post
+layout: single
 ---
 
 # Aries April Horoscope 2025
