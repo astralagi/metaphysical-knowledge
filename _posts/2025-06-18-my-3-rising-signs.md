@@ -1,6 +1,6 @@
 ---
 title: "my 3 rising signs"
-layout: post
+layout: single
 ---
 
 # My 3 Rising Signs: Unlocking Deeper Astrological Insights with AI
