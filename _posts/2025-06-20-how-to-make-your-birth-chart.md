@@ -1,6 +1,6 @@
 ---
 title: "how to make your birth chart"
-layout: post
+layout: single
 ---
 
 # How to Make Your Birth Chart: Unlocking the Secrets of the Cosmos
