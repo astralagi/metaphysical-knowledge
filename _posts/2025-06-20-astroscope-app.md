@@ -1,6 +1,6 @@
 ---
 title: "astroscope app"
-layout: post
+layout: single
 ---
 
 # Astroscope App: Unveiling Cosmic Insights with AI
