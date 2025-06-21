@@ -1,6 +1,6 @@
 ---
 title: "free soulmate prediction"
-layout: post
+layout: single
 ---
 
 # Free Soulmate Prediction: Unveiling Astrological Connections with AI
