@@ -1,6 +1,6 @@
 ---
 title: "Mars in Aries"
-layout: post
+layout: single
 ---
 
 # Mars in Aries: A Fiery Combination of Action and Initiative
