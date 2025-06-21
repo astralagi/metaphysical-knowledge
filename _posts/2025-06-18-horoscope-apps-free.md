@@ -1,6 +1,6 @@
 ---
 title: "horoscope apps free"
-layout: post
+layout: single
 ---
 
 # Horoscope Apps Free: Your Astrological Guide to the Galaxy (and Beyond)
