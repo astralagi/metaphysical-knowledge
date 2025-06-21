@@ -1,6 +1,6 @@
 ---
 title: "full free astrology report"
-layout: post
+layout: single
 ---
 
 # Full Free Astrology Report: Unlocking Your Astrological Potential with AI
