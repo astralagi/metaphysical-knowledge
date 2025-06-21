@@ -1,6 +1,6 @@
 ---
 title: "astrology software free"
-layout: post
+layout: single
 ---
 
 # Astrology Software Free: Unlocking the Cosmos with AI
