@@ -1,6 +1,6 @@
 ---
 title: "cancer man virgo woman"
-layout: post
+layout: single
 ---
 
 # Cancer Man Virgo Woman: A Celestial Match Made with AI Insights
