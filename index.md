@@ -1185,3 +1185,4 @@ Welcome to my AI-powered astrology blog!
 - [whole house birth chart calculator]({% post_url 2025-06-21-whole-house-birth-chart-calculator %})
 - [free astrology birth chart]({% post_url 2025-06-21-free-astrology-birth-chart %})
 - [neptune in scorpio 10th house]({% post_url 2025-06-21-neptune-in-scorpio-10th-house %})
+- [dev astrology]({% post_url 2025-06-21-dev-astrology %})
