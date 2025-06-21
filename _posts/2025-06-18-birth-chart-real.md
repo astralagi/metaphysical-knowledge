@@ -1,6 +1,6 @@
 ---
 title: "birth chart real"
-layout: post
+layout: single
 ---
 
 # Birth Chart Real: Unveiling Your Authentic Astrological Self
