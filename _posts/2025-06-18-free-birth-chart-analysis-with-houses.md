@@ -1,6 +1,6 @@
 ---
 title: "free birth chart analysis with houses"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Analysis with Houses: Unlocking Your Astrological Potential
