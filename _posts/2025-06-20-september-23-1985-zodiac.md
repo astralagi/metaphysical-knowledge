@@ -1,6 +1,6 @@
 ---
 title: "september 23 1985 zodiac"
-layout: post
+layout: single
 ---
 
 # September 23 1985 Zodiac
