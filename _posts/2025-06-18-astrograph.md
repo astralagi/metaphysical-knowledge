@@ -1,6 +1,6 @@
 ---
 title: "astrograph"
-layout: post
+layout: single
 ---
 
 # Astrograph: Unveiling Your Cosmic Blueprint with AI
