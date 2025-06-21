@@ -1177,3 +1177,4 @@ Welcome to my AI-powered astrology blog!
 - [star chart calculator]({% post_url 2025-06-21-star-chart-calculator %})
 - [horoscope astrology]({% post_url 2025-06-21-horoscope-astrology %})
 - [free tarot reading online accurate]({% post_url 2025-06-21-free-tarot-reading-online-accurate %})
+- [birthday book astrology online free]({% post_url 2025-06-21-birthday-book-astrology-online-free %})
