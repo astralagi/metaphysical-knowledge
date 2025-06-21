@@ -1162,3 +1162,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope today scorpio]({% post_url 2025-06-21-horoscope-today-scorpio %})
 - [pam gregory astrology latest]({% post_url 2025-06-21-pam-gregory-astrology-latest %})
 - [pandit com]({% post_url 2025-06-21-pandit-com %})
+- [gemini readings for today]({% post_url 2025-06-21-gemini-readings-for-today %})
