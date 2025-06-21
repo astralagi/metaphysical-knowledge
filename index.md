@@ -1017,3 +1017,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces love]({% post_url 2025-06-21-pisces-love %})
 - [how to test compatibility with names]({% post_url 2025-06-21-how-to-test-compatibility-with-names %})
 - [what does your rising sign mean]({% post_url 2025-06-21-what-does-your-rising-sign-mean %})
+- [kaypacha pele report latest]({% post_url 2025-06-21-kaypacha-pele-report-latest %})
