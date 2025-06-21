@@ -1,6 +1,6 @@
 ---
 title: "astrology all"
-layout: post
+layout: single
 ---
 
 # Astrology All: A Holistic Approach to Astrological Understanding
