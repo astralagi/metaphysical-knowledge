@@ -1171,3 +1171,4 @@ Welcome to my AI-powered astrology blog!
 - [my daily horoscope today]({% post_url 2025-06-21-my-daily-horoscope-today %})
 - [astra astrology app]({% post_url 2025-06-21-astra-astrology-app %})
 - [how to read my astrology chart]({% post_url 2025-06-21-how-to-read-my-astrology-chart %})
+- [find my birth chart]({% post_url 2025-06-21-find-my-birth-chart %})
