@@ -1052,3 +1052,4 @@ Welcome to my AI-powered astrology blog!
 - [capricorn daily horoscope today]({% post_url 2025-06-21-capricorn-daily-horoscope-today %})
 - [how to find my full horoscope]({% post_url 2025-06-21-how-to-find-my-full-horoscope %})
 - [santosh santoshi]({% post_url 2025-06-21-santosh-santoshi %})
+- [astrology com leo]({% post_url 2025-06-21-astrology-com-leo %})
