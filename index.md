@@ -1033,3 +1033,4 @@ Welcome to my AI-powered astrology blog!
 - [free personalised horoscope based on date of birth]({% post_url 2025-06-21-free-personalised-horoscope-based-on-date-of-birth %})
 - [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
 - [ketu in 11th house]({% post_url 2025-06-21-ketu-in-11th-house %})
+- [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
