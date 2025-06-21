@@ -1,6 +1,6 @@
 ---
 title: "how to check gana in astrology"
-layout: post
+layout: single
 ---
 
 # How to Check Gana in Astrology
