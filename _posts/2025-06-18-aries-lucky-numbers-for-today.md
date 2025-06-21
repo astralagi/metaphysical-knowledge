@@ -1,6 +1,6 @@
 ---
 title: "aries lucky numbers for today"
-layout: post
+layout: single
 ---
 
 # Aries Lucky Numbers for Today: Unveiling the Cosmic Code with AI
