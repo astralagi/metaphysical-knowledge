@@ -1,6 +1,6 @@
 ---
 title: "my health prediction astrology free"
-layout: post
+layout: single
 ---
 
 # My Health Prediction Astrology Free: Unlocking Wellness Insights with AI
