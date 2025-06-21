@@ -1,6 +1,6 @@
 ---
 title: "night light astrology"
-layout: post
+layout: single
 ---
 
 # Night Light Astrology: Unveiling the Mysteries of the Nocturnal Sky
