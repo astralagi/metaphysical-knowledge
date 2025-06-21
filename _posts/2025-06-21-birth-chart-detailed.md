@@ -1,6 +1,6 @@
 ---
 title: "birth chart detailed"
-layout: post
+layout: single
 ---
 
 # Birth Chart Detailed: Unlocking Your Astrological Potential with AI
