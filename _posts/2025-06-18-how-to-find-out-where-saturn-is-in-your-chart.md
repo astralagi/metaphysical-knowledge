@@ -1,6 +1,6 @@
 ---
 title: "how to find out where saturn is in your chart"
-layout: post
+layout: single
 ---
 
 # How to Find Out Where Saturn Is in Your Chart
