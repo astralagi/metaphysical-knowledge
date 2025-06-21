@@ -1,6 +1,6 @@
 ---
 title: "what is the zodiac for march 1"
-layout: post
+layout: single
 ---
 
 # What is the Zodiac for March 1?
