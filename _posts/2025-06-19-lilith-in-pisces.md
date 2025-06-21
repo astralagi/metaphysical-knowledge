@@ -1,6 +1,6 @@
 ---
 title: "lilith in pisces"
-layout: post
+layout: single
 ---
 
 # Lilith in Pisces: Unveiling the Shadow Self Through AI Astrology
