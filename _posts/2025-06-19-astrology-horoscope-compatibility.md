@@ -1,6 +1,6 @@
 ---
 title: "astrology horoscope compatibility"
-layout: post
+layout: single
 ---
 
 # Astrology Horoscope Compatibility: Unveiling Relationship Dynamics with AI
