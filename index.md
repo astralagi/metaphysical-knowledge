@@ -1140,3 +1140,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces career horoscope]({% post_url 2025-06-21-pisces-career-horoscope %})
 - [laurie rivers astrology]({% post_url 2025-06-21-laurie-rivers-astrology %})
 - [libra tula rashi]({% post_url 2025-06-21-libra-tula-rashi %})
+- [zodiac element signs]({% post_url 2025-06-21-zodiac-element-signs %})
