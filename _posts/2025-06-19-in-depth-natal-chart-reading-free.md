@@ -1,6 +1,6 @@
 ---
 title: "in depth natal chart reading free"
-layout: post
+layout: single
 ---
 
 # In Depth Natal Chart Reading Free: Unlocking Your Astrological Potential with AI
