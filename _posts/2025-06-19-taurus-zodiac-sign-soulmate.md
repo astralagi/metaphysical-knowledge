@@ -1,6 +1,6 @@
 ---
 title: "taurus zodiac sign soulmate"
-layout: post
+layout: single
 ---
 
 # Taurus Zodiac Sign Soulmate
