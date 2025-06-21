@@ -1024,3 +1024,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiacal releasing]({% post_url 2025-06-21-zodiacal-releasing %})
 - [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
 - [free astrologer]({% post_url 2025-06-21-free-astrologer %})
+- [mesh rashi ko santan prapti kab hogi]({% post_url 2025-06-21-mesh-rashi-ko-santan-prapti-kab-hogi %})
