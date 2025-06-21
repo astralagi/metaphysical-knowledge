@@ -1,6 +1,6 @@
 ---
 title: "free accurate tarot reading for love and marriage"
-layout: post
+layout: single
 ---
 
 # Free Accurate Tarot Reading for Love and Marriage
