@@ -1154,3 +1154,4 @@ Welcome to my AI-powered astrology blog!
 - [astro syndicate]({% post_url 2025-06-21-astro-syndicate %})
 - [scorpio love reading]({% post_url 2025-06-21-scorpio-love-reading %})
 - [san tarot gemini]({% post_url 2025-06-21-san-tarot-gemini %})
+- [free navamsa chart prediction for marriage]({% post_url 2025-06-21-free-navamsa-chart-prediction-for-marriage %})
