@@ -1,6 +1,6 @@
 ---
 title: "horoscope gemini today"
-layout: post
+layout: single
 ---
 
 # horoscope gemini today
