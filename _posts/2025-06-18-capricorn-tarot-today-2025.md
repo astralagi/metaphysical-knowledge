@@ -1,6 +1,6 @@
 ---
 title: "capricorn tarot today 2025"
-layout: post
+layout: single
 ---
 
 # Capricorn Tarot Today 2025
