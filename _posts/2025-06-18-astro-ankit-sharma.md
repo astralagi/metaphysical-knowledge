@@ -1,6 +1,6 @@
 ---
 title: "astro ankit sharma"
-layout: post
+layout: single
 ---
 
 # astro ankit sharma: Unveiling Astrological Insights with AI
