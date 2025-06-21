@@ -1,6 +1,6 @@
 ---
 title: "astrologer free chat"
-layout: post
+layout: single
 ---
 
 # Astrologer Free Chat: Exploring the Universe of Astrological Guidance with AI
