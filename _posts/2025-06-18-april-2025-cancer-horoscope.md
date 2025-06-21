@@ -1,6 +1,6 @@
 ---
 title: "april 2025 cancer horoscope"
-layout: post
+layout: single
 ---
 
 # April 2025 Cancer Horoscope: Navigating the Tides of Change with AI
