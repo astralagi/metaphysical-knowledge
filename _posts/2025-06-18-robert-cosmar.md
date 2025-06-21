@@ -1,6 +1,6 @@
 ---
 title: "robert cosmar"
-layout: post
+layout: single
 ---
 
 # Robert Cosmar: Exploring the Astrological Significance with AI
