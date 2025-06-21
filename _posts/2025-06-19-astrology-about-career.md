@@ -1,6 +1,6 @@
 ---
 title: "astrology about career"
-layout: post
+layout: single
 ---
 
 # Astrology About Career: Unveiling Your Professional Destiny with AI
