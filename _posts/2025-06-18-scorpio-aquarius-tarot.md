@@ -1,6 +1,6 @@
 ---
 title: "scorpio aquarius tarot"
-layout: post
+layout: single
 ---
 
 # Scorpio Aquarius Tarot: Unveiling the Mysteries with AI
