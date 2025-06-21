@@ -1057,3 +1057,4 @@ Welcome to my AI-powered astrology blog!
 - [online synastry]({% post_url 2025-06-21-online-synastry %})
 - [scorpio reading]({% post_url 2025-06-21-scorpio-reading %})
 - [lunar astro]({% post_url 2025-06-21-lunar-astro %})
+- [my future husband prediction free]({% post_url 2025-06-21-my-future-husband-prediction-free %})
