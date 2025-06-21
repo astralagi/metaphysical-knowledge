@@ -1,6 +1,6 @@
 ---
 title: "february 2nd birthday horoscope"
-layout: post
+layout: single
 ---
 
 # February 2nd Birthday Horoscope: Unveiling Your Astrological Potential
