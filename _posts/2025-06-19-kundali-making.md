@@ -1,6 +1,6 @@
 ---
 title: "kundali making"
-layout: post
+layout: single
 ---
 
 # Kundali Making: Unveiling Your Astrological Blueprint with AI
