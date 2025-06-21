@@ -1,6 +1,6 @@
 ---
 title: "free horoscope chart reading"
-layout: post
+layout: single
 ---
 
 # Free Horoscope Chart Reading: Unlocking Your Astrological Potential with AI
