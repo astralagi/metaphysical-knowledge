@@ -1,6 +1,6 @@
 ---
 title: "house sign astrology"
-layout: post
+layout: single
 ---
 
 # House Sign Astrology: Unlocking Your Life's Blueprint with AI
