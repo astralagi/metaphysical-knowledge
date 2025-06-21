@@ -1,6 +1,6 @@
 ---
 title: "aries weekly horoscope"
-layout: post
+layout: single
 ---
 
 # Aries Weekly Horoscope: Navigating the Week with AI-Powered Astrology
