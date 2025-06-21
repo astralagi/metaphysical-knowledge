@@ -1,6 +1,6 @@
 ---
 title: "cancer love compatibility"
-layout: post
+layout: single
 ---
 
 # Cancer Love Compatibility: Unveiling the Crab's Romantic Potential with AI
