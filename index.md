@@ -1128,3 +1128,4 @@ Welcome to my AI-powered astrology blog!
 - [ratafal]({% post_url 2025-06-21-ratafal %})
 - [how to read my birth chart]({% post_url 2025-06-21-how-to-read-my-birth-chart %})
 - [virgo 9th house]({% post_url 2025-06-21-virgo-9th-house %})
+- [free spiritual reading]({% post_url 2025-06-21-free-spiritual-reading %})
