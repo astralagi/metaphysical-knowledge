@@ -1,6 +1,6 @@
 ---
 title: "astrology cards"
-layout: post
+layout: single
 ---
 
 # Astrology Cards: Unveiling Cosmic Insights with AI
