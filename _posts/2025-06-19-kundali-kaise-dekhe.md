@@ -1,6 +1,6 @@
 ---
 title: "kundali kaise dekhe"
-layout: post
+layout: single
 ---
 
 # Kundali Kaise Dekhe: Unveiling the Secrets of Your Birth Chart with AI
