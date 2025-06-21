@@ -1,6 +1,6 @@
 ---
 title: "astrologer"
-layout: post
+layout: single
 ---
 
 # Astrologer: Unveiling the Celestial Insights with AI
