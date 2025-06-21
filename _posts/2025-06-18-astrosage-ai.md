@@ -1,6 +1,6 @@
 ---
 title: "astrosage ai"
-layout: post
+layout: single
 ---
 
 # Astrosage AI: Revolutionizing Astrological Insights
