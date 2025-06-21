@@ -1,6 +1,6 @@
 ---
 title: "horoscopos geminis"
-layout: post
+layout: single
 ---
 
 # Horoscopos Géminis: Unveiling the Twin's Astrological Secrets with AI
