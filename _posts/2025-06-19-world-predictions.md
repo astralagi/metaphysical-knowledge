@@ -1,6 +1,6 @@
 ---
 title: "world predictions"
-layout: post
+layout: single
 ---
 
 # World Predictions: Unveiling Global Trends Through Astrology and AI
