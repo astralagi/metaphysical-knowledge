@@ -1,6 +1,6 @@
 ---
 title: "free tarot reading real"
-layout: post
+layout: single
 ---
 
 # Free Tarot Reading Real: Unlocking Astrological Insights with AI
