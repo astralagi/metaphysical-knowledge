@@ -1,6 +1,6 @@
 ---
 title: "zodiac sign"
-layout: post
+layout: single
 ---
 
 # Zodiac Sign: Unlocking Your Astrological Potential with AI
