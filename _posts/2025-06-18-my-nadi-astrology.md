@@ -1,6 +1,6 @@
 ---
 title: "my nadi astrology"
-layout: post
+layout: single
 ---
 
 # My Nadi Astrology: Unveiling Your Destiny with AI-Powered Insights
