@@ -1,6 +1,6 @@
 ---
 title: "astrocartography love"
-layout: post
+layout: single
 ---
 
 # Astrocartography Love: Charting Your Romantic Destiny
