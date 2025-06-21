@@ -1,6 +1,6 @@
 ---
 title: "how do i find out my birth chart"
-layout: post
+layout: single
 ---
 
 # How Do I Find Out My Birth Chart?
