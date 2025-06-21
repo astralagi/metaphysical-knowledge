@@ -1026,3 +1026,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo tarot april 2025]({% post_url 2025-06-21-virgo-tarot-april-2025 %})
 - [hindi astrology]({% post_url 2025-06-21-hindi-astrology %})
 - [horoscope detailed]({% post_url 2025-06-21-horoscope-detailed %})
+- [vedic astrology report]({% post_url 2025-06-21-vedic-astrology-report %})
