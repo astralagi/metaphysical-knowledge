@@ -1,6 +1,6 @@
 ---
 title: "capricorn the year that you were born song"
-layout: post
+layout: single
 ---
 
 # Capricorn: The Year You Were Born Song - An Astrological and AI Perspective
