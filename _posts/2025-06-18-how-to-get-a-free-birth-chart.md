@@ -1,6 +1,6 @@
 ---
 title: "how to get a free birth chart"
-layout: post
+layout: single
 ---
 
 # How to Get a Free Birth Chart: Unlocking Your Astrological Potential
