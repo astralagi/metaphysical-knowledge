@@ -1,6 +1,6 @@
 ---
 title: "what zodiac sign is for september"
-layout: post
+layout: single
 ---
 
 # What Zodiac Sign is for September?
