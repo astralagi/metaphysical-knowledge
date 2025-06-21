@@ -1,6 +1,6 @@
 ---
 title: "free astrology predictions"
-layout: post
+layout: single
 ---
 
 # Free Astrology Predictions: Unlocking Cosmic Insights with AI
