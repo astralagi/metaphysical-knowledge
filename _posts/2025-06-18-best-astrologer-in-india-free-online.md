@@ -1,6 +1,6 @@
 ---
 title: "best astrologer in india free online"
-layout: post
+layout: single
 ---
 
 # Best Astrologer in India Free Online: Navigating the Digital Age of Vedic Astrology
