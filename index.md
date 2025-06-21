@@ -1143,3 +1143,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiac element signs]({% post_url 2025-06-21-zodiac-element-signs %})
 - [virgo love horoscope]({% post_url 2025-06-21-virgo-love-horoscope %})
 - [aries love tarot reading today]({% post_url 2025-06-21-aries-love-tarot-reading-today %})
+- [sign of september 22]({% post_url 2025-06-21-sign-of-september-22 %})
