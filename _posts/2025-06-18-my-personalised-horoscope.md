@@ -1,6 +1,6 @@
 ---
 title: "my personalised horoscope"
-layout: post
+layout: single
 ---
 
 # My Personalised Horoscope: Unveiling Your Astrological Blueprint with AI
