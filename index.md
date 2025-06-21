@@ -1197,3 +1197,4 @@ Welcome to my AI-powered astrology blog!
 - [birth chart websites]({% post_url 2025-06-21-birth-chart-websites %})
 - [capricorn daily horoscope today]({% post_url 2025-06-21-capricorn-daily-horoscope-today %})
 - [capricorn horoscope 2025]({% post_url 2025-06-21-capricorn-horoscope-2025 %})
+- [reading my birth chart]({% post_url 2025-06-21-reading-my-birth-chart %})
