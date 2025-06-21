@@ -1,6 +1,6 @@
 ---
 title: "retrograde planets in natal chart"
-layout: post
+layout: single
 ---
 
 # Retrograde Planets in Natal Chart: Unveiling Deeper Meaning with AI
