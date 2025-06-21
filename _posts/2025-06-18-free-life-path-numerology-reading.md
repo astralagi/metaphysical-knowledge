@@ -1,6 +1,6 @@
 ---
 title: "free life path numerology reading"
-layout: post
+layout: single
 ---
 
 # Free Life Path Numerology Reading: Unlocking Your Destiny with AI
