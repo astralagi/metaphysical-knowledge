@@ -1,6 +1,6 @@
 ---
 title: "online free palm reading"
-layout: post
+layout: single
 ---
 
 # Online Free Palm Reading: Unveiling Your Destiny with AI-Powered Astrology
