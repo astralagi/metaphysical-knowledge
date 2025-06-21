@@ -1003,3 +1003,4 @@ Welcome to my AI-powered astrology blog!
 - [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
 - [aries horoscopes]({% post_url 2025-06-21-aries-horoscopes %})
 - [ketu in 11th house]({% post_url 2025-06-21-ketu-in-11th-house %})
+- [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
