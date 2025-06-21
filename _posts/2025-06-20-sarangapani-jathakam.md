@@ -1,6 +1,6 @@
 ---
 title: "sarangapani jathakam"
-layout: post
+layout: single
 ---
 
 # Sarangapani Jathakam: Unveiling Astrological Insights with AI
