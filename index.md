@@ -1036,3 +1036,4 @@ Welcome to my AI-powered astrology blog!
 - [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
 - [which zodiacs go together]({% post_url 2025-06-21-which-zodiacs-go-together %})
+- [what is my 7th house calculate free]({% post_url 2025-06-21-what-is-my-7th-house-calculate-free %})
