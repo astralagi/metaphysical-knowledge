@@ -1068,3 +1068,4 @@ Welcome to my AI-powered astrology blog!
 - [virgo bright tarot]({% post_url 2025-06-21-virgo-bright-tarot %})
 - [free astrology compatibility calculator]({% post_url 2025-06-21-free-astrology-compatibility-calculator %})
 - [dna astrology vishal]({% post_url 2025-06-21-dna-astrology-vishal %})
+- [daily horoscope june 4 2025]({% post_url 2025-06-21-daily-horoscope-june-4-2025 %})
