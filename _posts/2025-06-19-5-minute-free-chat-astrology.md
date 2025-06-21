@@ -1,6 +1,6 @@
 ---
 title: "5 minute free chat astrology"
-layout: post
+layout: single
 ---
 
 # 5 Minute Free Chat Astrology: Unveiling Cosmic Insights in Minutes
