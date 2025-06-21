@@ -1,6 +1,6 @@
 ---
 title: "free medical astrology predictions"
-layout: post
+layout: single
 ---
 
 # Free Medical Astrology Predictions: Unveiling the Cosmic Blueprint of Your Health
