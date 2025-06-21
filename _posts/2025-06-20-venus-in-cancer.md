@@ -1,6 +1,6 @@
 ---
 title: "venus in cancer"
-layout: post
+layout: single
 ---
 
 # Venus in Cancer: A Deep Dive into Emotional Attachments
