@@ -1,6 +1,6 @@
 ---
 title: "marriage astro"
-layout: post
+layout: single
 ---
 
 # Marriage Astro: Unveiling the Cosmic Blueprint of Your Relationship
