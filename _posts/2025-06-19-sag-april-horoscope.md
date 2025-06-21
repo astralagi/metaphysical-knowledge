@@ -1,6 +1,6 @@
 ---
 title: "sag april horoscope"
-layout: post
+layout: single
 ---
 
 # Sag April Horoscope: Navigating the Crossroads with AI-Powered Astrology
