@@ -1,6 +1,6 @@
 ---
 title: "best birth chart compatibility"
-layout: post
+layout: single
 ---
 
 # Best Birth Chart Compatibility: Unveiling the Secrets of Astrological Synergy
