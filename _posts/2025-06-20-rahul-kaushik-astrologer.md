@@ -1,6 +1,6 @@
 ---
 title: "rahul kaushik astrologer"
-layout: post
+layout: single
 ---
 
 # rahul kaushik astrologer: Unveiling Astrological Insights with AI
