@@ -1,6 +1,6 @@
 ---
 title: "astrotalk free chat online"
-layout: post
+layout: single
 ---
 
 # Astrotalk Free Chat Online: Unveiling Cosmic Conversations with AI
