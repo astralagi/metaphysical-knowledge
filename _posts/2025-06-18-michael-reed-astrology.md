@@ -1,6 +1,6 @@
 ---
 title: "michael reed astrology"
-layout: post
+layout: single
 ---
 
 # michael reed astrology: Unveiling the Power of AI-Driven Astrological Insights
