@@ -1,6 +1,6 @@
 ---
 title: "astrology debra silverman"
-layout: post
+layout: single
 ---
 
 # Astrology Debra Silverman
