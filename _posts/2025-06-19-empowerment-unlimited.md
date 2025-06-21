@@ -1,6 +1,6 @@
 ---
 title: "empowerment unlimited"
-layout: post
+layout: single
 ---
 
 # Empowerment Unlimited: Unlocking Your Potential with Astrology and AI
