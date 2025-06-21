@@ -1,6 +1,6 @@
 ---
 title: "kundali milan by date of birth"
-layout: post
+layout: single
 ---
 
 # Kundali Milan by Date of Birth: Unveiling Compatibility Through AI-Powered Astrology
