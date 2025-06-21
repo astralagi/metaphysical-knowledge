@@ -1,6 +1,6 @@
 ---
 title: "taurus love compatibility"
-layout: post
+layout: single
 ---
 
 # Taurus Love Compatibility: Unveiling the Bull's Romantic Potential with AI
