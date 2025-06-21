@@ -1,6 +1,6 @@
 ---
 title: "astro data"
-layout: post
+layout: single
 ---
 
 # Astro Data: Unlocking the Universe's Secrets with AI
