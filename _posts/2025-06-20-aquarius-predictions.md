@@ -1,6 +1,6 @@
 ---
 title: "aquarius predictions"
-layout: post
+layout: single
 ---
 
 # Aquarius Predictions: Unveiling the Future with AI-Powered Astrology
