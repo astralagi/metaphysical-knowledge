@@ -1,6 +1,6 @@
 ---
 title: "how do you find out your birth sign"
-layout: post
+layout: single
 ---
 
 # How Do You Find Out Your Birth Sign?
