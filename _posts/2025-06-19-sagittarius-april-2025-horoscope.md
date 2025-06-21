@@ -1,6 +1,6 @@
 ---
 title: "sagittarius april 2025 horoscope"
-layout: post
+layout: single
 ---
 
 # Sagittarius April 2025 Horoscope: Navigating the Celestial Currents with AI
