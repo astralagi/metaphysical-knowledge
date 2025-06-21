@@ -1,6 +1,6 @@
 ---
 title: "how to get astro research fast"
-layout: post
+layout: single
 ---
 
 # How to Get Astro Research Fast
