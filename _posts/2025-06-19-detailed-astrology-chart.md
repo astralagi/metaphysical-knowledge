@@ -1,6 +1,6 @@
 ---
 title: "detailed astrology chart"
-layout: post
+layout: single
 ---
 
 # Detailed Astrology Chart: Unveiling Your Astrological Blueprint with AI
