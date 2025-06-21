@@ -1,6 +1,6 @@
 ---
 title: "tarot accurate readings"
-layout: post
+layout: single
 ---
 
 # Tarot Accurate Readings: Unveiling the Mysteries with AI and Astrology
