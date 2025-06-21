@@ -1,6 +1,6 @@
 ---
 title: "antphrodite"
-layout: post
+layout: single
 ---
 
 # Antphrodite: Unveiling the AI-Powered Astrology of Love and Harmony
