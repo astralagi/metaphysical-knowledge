@@ -1,6 +1,6 @@
 ---
 title: "my astrology chart"
-layout: post
+layout: single
 ---
 
 # My Astrology Chart: Unlocking Your Cosmic Blueprint with AI
