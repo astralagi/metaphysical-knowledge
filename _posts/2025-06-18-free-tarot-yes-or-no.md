@@ -1,6 +1,6 @@
 ---
 title: "free tarot yes or no"
-layout: post
+layout: single
 ---
 
 # Free Tarot Yes or No: Unveiling Answers Through AI-Powered Astrology
