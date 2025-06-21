@@ -1,6 +1,6 @@
 ---
 title: "astronitt"
-layout: post
+layout: single
 ---
 
 # Astronitt: Unveiling the Celestial Influence through AI-Powered Astrology
