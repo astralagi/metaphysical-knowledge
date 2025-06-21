@@ -1,6 +1,6 @@
 ---
 title: "prediction by birth chart"
-layout: post
+layout: single
 ---
 
 # Prediction by Birth Chart: Unveiling Your Astrological Future
