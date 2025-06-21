@@ -1035,3 +1035,4 @@ Welcome to my AI-powered astrology blog!
 - [ketu in 11th house]({% post_url 2025-06-21-ketu-in-11th-house %})
 - [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
+- [which zodiacs go together]({% post_url 2025-06-21-which-zodiacs-go-together %})
