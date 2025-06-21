@@ -1,6 +1,6 @@
 ---
 title: "best rated horoscope app"
-layout: post
+layout: single
 ---
 
 # Best Rated Horoscope App: Navigating the Astrological Landscape with AI
