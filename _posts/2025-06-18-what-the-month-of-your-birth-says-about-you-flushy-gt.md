@@ -1,6 +1,6 @@
 ---
 title: "what the month of your birth says about you flushy gt"
-layout: post
+layout: single
 ---
 
 ## What the Month of Your Birth Says About You: A Deep Dive into Solar Influences
