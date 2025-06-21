@@ -1135,3 +1135,4 @@ Welcome to my AI-powered astrology blog!
 - [gemini tarot today single]({% post_url 2025-06-21-gemini-tarot-today-single %})
 - [pisces sun capricorn moon aquarius rising]({% post_url 2025-06-21-pisces-sun-capricorn-moon-aquarius-rising %})
 - [zodiac signs that belong together]({% post_url 2025-06-21-zodiac-signs-that-belong-together %})
+- [virgo marriage prediction 2025]({% post_url 2025-06-21-virgo-marriage-prediction-2025 %})
