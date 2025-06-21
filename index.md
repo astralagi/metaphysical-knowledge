@@ -1044,3 +1044,4 @@ Welcome to my AI-powered astrology blog!
 - [lunar astro]({% post_url 2025-06-21-lunar-astro %})
 - [astrology indian]({% post_url 2025-06-21-astrology-indian %})
 - [my future husband prediction free]({% post_url 2025-06-21-my-future-husband-prediction-free %})
+- [ai birth chart reading]({% post_url 2025-06-21-ai-birth-chart-reading %})
