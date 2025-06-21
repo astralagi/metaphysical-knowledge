@@ -1021,3 +1021,4 @@ Welcome to my AI-powered astrology blog!
 - [astro finesse scorpio rising]({% post_url 2025-06-21-astro-finesse-scorpio-rising %})
 - [capricorn love]({% post_url 2025-06-21-capricorn-love %})
 - [best places to live according to your birth chart]({% post_url 2025-06-21-best-places-to-live-according-to-your-birth-chart %})
+- [leo love reading]({% post_url 2025-06-21-leo-love-reading %})
