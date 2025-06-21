@@ -1,6 +1,6 @@
 ---
 title: "aries horoscope march 2025"
-layout: post
+layout: single
 ---
 
 # Aries Horoscope March 2025
