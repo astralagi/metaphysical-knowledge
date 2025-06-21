@@ -1,6 +1,6 @@
 ---
 title: "astrology com compatibility"
-layout: post
+layout: single
 ---
 
 # Astrology Com Compatibility: Unveiling Relationship Dynamics with AI
