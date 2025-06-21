@@ -1,6 +1,6 @@
 ---
 title: "pradeep jyothisham"
-layout: post
+layout: single
 ---
 
 # Pradeep Jyothisham: Unveiling Astrological Insights with AI
