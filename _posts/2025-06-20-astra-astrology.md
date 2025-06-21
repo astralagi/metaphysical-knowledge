@@ -1,6 +1,6 @@
 ---
 title: "astra astrology"
-layout: post
+layout: single
 ---
 
 # Astra Astrology: Unveiling Celestial Insights with AI
