@@ -1,6 +1,6 @@
 ---
 title: "love lanyadoo"
-layout: post
+layout: single
 ---
 
 # Love Lanyadoo: Exploring the Intersection of Astrology and AI
