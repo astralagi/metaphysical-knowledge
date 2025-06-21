@@ -1,6 +1,6 @@
 ---
 title: "time of birth astrology calculator"
-layout: post
+layout: single
 ---
 
 # Time of Birth Astrology Calculator: Unlocking Your Astrological Potential with AI
