@@ -1,6 +1,6 @@
 ---
 title: "in depth free horoscope"
-layout: post
+layout: single
 ---
 
 # In Depth Free Horoscope: Unveiling the Secrets of the Stars with AI
