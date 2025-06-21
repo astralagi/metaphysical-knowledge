@@ -1,6 +1,6 @@
 ---
 title: "natal chart synastry report"
-layout: post
+layout: single
 ---
 
 # Natal Chart Synastry Report: Unveiling Relationship Dynamics with AI
