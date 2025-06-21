@@ -1,6 +1,6 @@
 ---
 title: "tanya gabrielle"
-layout: post
+layout: single
 ---
 
 # Tanya Gabrielle: Exploring Astrological Influences with AI
