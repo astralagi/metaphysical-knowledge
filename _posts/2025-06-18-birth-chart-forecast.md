@@ -1,6 +1,6 @@
 ---
 title: "birth chart forecast"
-layout: post
+layout: single
 ---
 
 # Birth Chart Forecast: Unveiling Your Astrological Future with AI
