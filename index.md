@@ -1133,3 +1133,4 @@ Welcome to my AI-powered astrology blog!
 - [when will i meet my soulmate by date of birth free]({% post_url 2025-06-21-when-will-i-meet-my-soulmate-by-date-of-birth-free %})
 - [use a moon sign calculator]({% post_url 2025-06-21-use-a-moon-sign-calculator %})
 - [gemini tarot today single]({% post_url 2025-06-21-gemini-tarot-today-single %})
+- [pisces sun capricorn moon aquarius rising]({% post_url 2025-06-21-pisces-sun-capricorn-moon-aquarius-rising %})
