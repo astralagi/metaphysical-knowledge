@@ -1,6 +1,6 @@
 ---
 title: "i want to know my future life partner name"
-layout: post
+layout: single
 ---
 
 # I Want to Know My Future Life Partner's Name
