@@ -1,6 +1,6 @@
 ---
 title: "free chat with astrologer online in india"
-layout: post
+layout: single
 ---
 
 # Free Chat with Astrologer Online in India: Unveiling the Cosmic Insights
