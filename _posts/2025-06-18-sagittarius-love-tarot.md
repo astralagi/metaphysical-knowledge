@@ -1,6 +1,6 @@
 ---
 title: "sagittarius love tarot"
-layout: post
+layout: single
 ---
 
 # Sagittarius Love Tarot: Unveiling the Archer's Romantic Destiny
