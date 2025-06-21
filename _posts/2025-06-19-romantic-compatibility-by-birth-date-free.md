@@ -1,6 +1,6 @@
 ---
 title: "romantic compatibility by birth date free"
-layout: post
+layout: single
 ---
 
 # Romantic Compatibility by Birth Date Free: Unveiling Astrological Insights with AI
