@@ -1,6 +1,6 @@
 ---
 title: "virgo karir"
-layout: post
+layout: single
 ---
 
 # Virgo Karir: Unveiling Your Career Path Through AI-Powered Astrology
