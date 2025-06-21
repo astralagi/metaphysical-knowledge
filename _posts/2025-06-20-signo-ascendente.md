@@ -1,6 +1,6 @@
 ---
 title: "signo ascendente"
-layout: post
+layout: single
 ---
 
 # Signo Ascendente: Unveiling Your Rising Sign with AI
