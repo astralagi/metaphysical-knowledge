@@ -1,6 +1,6 @@
 ---
 title: "daily karmic number"
-layout: post
+layout: single
 ---
 
 # Daily Karmic Number: Unlocking Your Destiny with AI-Powered Astrology
