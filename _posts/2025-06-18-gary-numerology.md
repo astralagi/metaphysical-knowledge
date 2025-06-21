@@ -1,6 +1,6 @@
 ---
 title: "gary numerology"
-layout: post
+layout: single
 ---
 
 # Gary Numerology: Unveiling Life's Blueprint Through AI-Powered Astrology
