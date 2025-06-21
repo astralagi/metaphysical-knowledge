@@ -1,6 +1,6 @@
 ---
 title: "ai birth chart reading"
-layout: post
+layout: single
 ---
 
 # AI Birth Chart Reading: The Future of Astrological Insight
