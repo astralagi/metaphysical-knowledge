@@ -1,6 +1,6 @@
 ---
 title: "how to find out your big three"
-layout: post
+layout: single
 ---
 
 # How to Find Out Your Big Three
