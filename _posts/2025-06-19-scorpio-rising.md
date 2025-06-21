@@ -1,6 +1,6 @@
 ---
 title: "scorpio rising"
-layout: post
+layout: single
 ---
 
 # Scorpio Rising: Unveiling the Mysteries of the Eighth House
