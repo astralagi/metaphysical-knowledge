@@ -1,6 +1,6 @@
 ---
 title: "the best zodiac sign to date"
-layout: post
+layout: single
 ---
 
 # The Best Zodiac Sign to Date: An Astrological and AI Perspective
