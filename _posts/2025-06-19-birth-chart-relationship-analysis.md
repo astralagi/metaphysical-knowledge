@@ -1,6 +1,6 @@
 ---
 title: "birth chart relationship analysis"
-layout: post
+layout: single
 ---
 
 # Birth Chart Relationship Analysis: Unlocking Astrological Compatibility with AI
