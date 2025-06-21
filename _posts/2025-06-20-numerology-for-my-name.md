@@ -1,6 +1,6 @@
 ---
 title: "numerology for my name"
-layout: post
+layout: single
 ---
 
 # Numerology for My Name: Unlocking Your Life Path Through AI-Powered Astrology
