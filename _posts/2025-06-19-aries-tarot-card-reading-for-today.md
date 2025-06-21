@@ -1,6 +1,6 @@
 ---
 title: "aries tarot card reading for today"
-layout: post
+layout: single
 ---
 
 # Aries Tarot Card Reading for Today: Unveiling Your Astrological Potential with AI
