@@ -1,6 +1,6 @@
 ---
 title: "free online astrology course with certificate"
-layout: post
+layout: single
 ---
 
 # Free Online Astrology Course with Certificate: Demystifying the Celestial Paths
