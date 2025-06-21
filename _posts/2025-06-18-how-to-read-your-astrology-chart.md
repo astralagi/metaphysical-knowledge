@@ -1,6 +1,6 @@
 ---
 title: "how to read your astrology chart"
-layout: post
+layout: single
 ---
 
 # How to Read Your Astrology Chart
