@@ -1,6 +1,6 @@
 ---
 title: "astro butterfly"
-layout: post
+layout: single
 ---
 
 # Astro Butterfly: Navigating Transformation Through AI-Powered Astrology
