@@ -1,6 +1,6 @@
 ---
 title: "sun rahu mercury venus conjunction"
-layout: post
+layout: single
 ---
 
 # Sun Rahu Mercury Venus Conjunction: Unveiling the Cosmic Dance
