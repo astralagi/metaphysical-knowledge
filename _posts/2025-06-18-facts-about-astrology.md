@@ -1,6 +1,6 @@
 ---
 title: "facts about astrology"
-layout: post
+layout: single
 ---
 
 # Facts About Astrology: Unveiling the Cosmos with AI
