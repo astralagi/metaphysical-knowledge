@@ -1,6 +1,6 @@
 ---
 title: "gemini and libra compatibility"
-layout: post
+layout: single
 ---
 
 # Gemini and Libra Compatibility: A Harmonious Dance or a Clash of Styles?
