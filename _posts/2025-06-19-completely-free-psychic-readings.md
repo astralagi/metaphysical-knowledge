@@ -1,6 +1,6 @@
 ---
 title: "completely free psychic readings"
-layout: post
+layout: single
 ---
 
 # Completely Free Psychic Readings: Unveiling Astrological Insights with AI
