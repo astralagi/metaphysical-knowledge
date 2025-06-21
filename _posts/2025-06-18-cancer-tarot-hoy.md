@@ -1,6 +1,6 @@
 ---
 title: "cancer tarot hoy"
-layout: post
+layout: single
 ---
 
 # Cancer Tarot Hoy: Unveiling Daily Insights with AI-Powered Astrology
