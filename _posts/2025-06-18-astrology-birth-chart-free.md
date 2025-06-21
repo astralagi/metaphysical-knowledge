@@ -1,6 +1,6 @@
 ---
 title: "astrology birth chart free"
-layout: post
+layout: single
 ---
 
 # Astrology Birth Chart Free: Unlocking Your Cosmic Blueprint
