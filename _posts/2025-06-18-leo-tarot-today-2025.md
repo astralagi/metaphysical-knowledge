@@ -1,6 +1,6 @@
 ---
 title: "leo tarot today 2025"
-layout: post
+layout: single
 ---
 
 # Leo Tarot Today 2025
