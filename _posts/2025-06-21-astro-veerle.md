@@ -1,6 +1,6 @@
 ---
 title: "astro veerle"
-layout: post
+layout: single
 ---
 
 # astro veerle: Unveiling the Mysteries of Vedic Astrology with AI
