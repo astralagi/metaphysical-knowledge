@@ -1,6 +1,6 @@
 ---
 title: "harihar adhikari appointment fees"
-layout: post
+layout: single
 ---
 
 # harihar adhikari appointment fees: Unveiling Astrological Insights with AI
