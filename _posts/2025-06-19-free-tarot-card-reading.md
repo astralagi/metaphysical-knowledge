@@ -1,6 +1,6 @@
 ---
 title: "free tarot card reading"
-layout: post
+layout: single
 ---
 
 # Free Tarot Card Reading: Unveiling Your Destiny with AI-Powered Astrology
