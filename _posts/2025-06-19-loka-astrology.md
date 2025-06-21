@@ -1,6 +1,6 @@
 ---
 title: "loka astrology"
-layout: post
+layout: single
 ---
 
 # Loka Astrology: Unveiling the Cosmic Landscape with AI
