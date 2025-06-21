@@ -1,6 +1,6 @@
 ---
 title: "venus chart ruler"
-layout: post
+layout: single
 ---
 
 # Venus Chart Ruler: Unveiling Your Love, Values, and Pleasures with AI
