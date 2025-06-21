@@ -1,6 +1,6 @@
 ---
 title: "twinstrology"
-layout: post
+layout: single
 ---
 
 # Twinstrology: Unveiling the Mysteries of Twin Relationships Through Astrology and AI
