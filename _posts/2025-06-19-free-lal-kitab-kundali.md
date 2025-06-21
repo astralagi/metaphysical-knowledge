@@ -1,6 +1,6 @@
 ---
 title: "free lal kitab kundali"
-layout: post
+layout: single
 ---
 
 # Free Lal Kitab Kundali: Unlocking Astrological Insights with AI
