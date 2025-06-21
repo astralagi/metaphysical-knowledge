@@ -1,6 +1,6 @@
 ---
 title: "leo tarot today"
-layout: post
+layout: single
 ---
 
 # Leo Tarot Today: Unveiling Your Astrological Potential with AI
