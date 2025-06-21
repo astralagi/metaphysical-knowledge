@@ -1,6 +1,6 @@
 ---
 title: "virgo compatibility"
-layout: post
+layout: single
 ---
 
 # Virgo Compatibility: Unveiling the Secrets of the Maiden
