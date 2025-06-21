@@ -1080,3 +1080,4 @@ Welcome to my AI-powered astrology blog!
 - [mary magdalene birth chart]({% post_url 2025-06-21-mary-magdalene-birth-chart %})
 - [in depth astrology]({% post_url 2025-06-21-in-depth-astrology %})
 - [free kundli for career]({% post_url 2025-06-21-free-kundli-for-career %})
+- [payal astro research institute]({% post_url 2025-06-21-payal-astro-research-institute %})
