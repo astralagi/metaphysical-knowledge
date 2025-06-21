@@ -1066,3 +1066,4 @@ Welcome to my AI-powered astrology blog!
 - [libra astrokween]({% post_url 2025-06-21-libra-astrokween %})
 - [marriage astrology free]({% post_url 2025-06-21-marriage-astrology-free %})
 - [virgo horoscope]({% post_url 2025-06-21-virgo-horoscope %})
+- [free kundali reading online]({% post_url 2025-06-21-free-kundali-reading-online %})
