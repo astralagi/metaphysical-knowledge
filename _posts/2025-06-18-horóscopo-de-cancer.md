@@ -1,6 +1,6 @@
 ---
 title: "horóscopo de cancer"
-layout: post
+layout: single
 ---
 
 # horóscopo de cancer: Unveiling the Crab's Secrets with AI-Powered Astrology
