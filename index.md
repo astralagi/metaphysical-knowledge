@@ -1048,3 +1048,4 @@ Welcome to my AI-powered astrology blog!
 - [hindi astrology]({% post_url 2025-06-21-hindi-astrology %})
 - [horoscope detailed]({% post_url 2025-06-21-horoscope-detailed %})
 - [vedic astrology report]({% post_url 2025-06-21-vedic-astrology-report %})
+- [palm reader online free]({% post_url 2025-06-21-palm-reader-online-free %})
