@@ -1,6 +1,6 @@
 ---
 title: "show me my future husband home"
-layout: post
+layout: single
 ---
 
 # Show Me My Future Husband's Home: Astrological Insights and AI Assistance
