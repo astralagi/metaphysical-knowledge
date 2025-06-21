@@ -1,6 +1,6 @@
 ---
 title: "veerle debruyne astrology"
-layout: post
+layout: single
 ---
 
 # Veerle Debruyne Astrology: Unveiling Personalized Insights with AI
