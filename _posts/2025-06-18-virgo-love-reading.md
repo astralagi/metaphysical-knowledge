@@ -1,6 +1,6 @@
 ---
 title: "virgo love reading"
-layout: post
+layout: single
 ---
 
 # Virgo Love Reading: Unveiling the Analytical Heart
