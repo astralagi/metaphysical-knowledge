@@ -1,6 +1,6 @@
 ---
 title: "when will i meet my soulmate astrology calculator free"
-layout: post
+layout: single
 ---
 
 # When Will I Meet My Soulmate? Astrology Calculator Free
