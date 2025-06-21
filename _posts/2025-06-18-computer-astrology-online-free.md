@@ -1,6 +1,6 @@
 ---
 title: "computer astrology online free"
-layout: post
+layout: single
 ---
 
 # Computer Astrology Online Free: Unveiling Cosmic Insights with AI
