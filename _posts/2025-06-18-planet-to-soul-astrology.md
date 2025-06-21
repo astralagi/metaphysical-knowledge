@@ -1,6 +1,6 @@
 ---
 title: "planet to soul astrology"
-layout: post
+layout: single
 ---
 
 # Planet to Soul Astrology: Unveiling Your Deeper Self Through AI-Powered Insights
