@@ -1148,3 +1148,4 @@ Welcome to my AI-powered astrology blog!
 - [medium chat online free]({% post_url 2025-06-21-medium-chat-online-free %})
 - [leo sun aquarius moon aries rising]({% post_url 2025-06-21-leo-sun-aquarius-moon-aries-rising %})
 - [horoscope for pisces today]({% post_url 2025-06-21-horoscope-for-pisces-today %})
+- [pisces march 2025]({% post_url 2025-06-21-pisces-march-2025 %})
