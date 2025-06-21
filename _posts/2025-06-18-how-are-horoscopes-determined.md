@@ -1,6 +1,6 @@
 ---
 title: "how are horoscopes determined"
-layout: post
+layout: single
 ---
 
 # How Are Horoscopes Determined?
