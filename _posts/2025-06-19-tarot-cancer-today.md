@@ -1,6 +1,6 @@
 ---
 title: "tarot cancer today"
-layout: post
+layout: single
 ---
 
 # Tarot Cancer Today: Unveiling the Crab's Cosmic Secrets with AI
