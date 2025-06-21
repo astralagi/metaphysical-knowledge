@@ -1,6 +1,6 @@
 ---
 title: "what my birth chart says about me"
-layout: post
+layout: single
 ---
 
 # What My Birth Chart Says About Me
