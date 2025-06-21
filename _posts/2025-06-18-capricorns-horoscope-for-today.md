@@ -1,6 +1,6 @@
 ---
 title: "capricorn's horoscope for today"
-layout: post
+layout: single
 ---
 
 # Capricorn's Horoscope for Today: Unveiling the Goat's Path with AI
