@@ -1,6 +1,6 @@
 ---
 title: "learning astrology"
-layout: post
+layout: single
 ---
 
 # Learning Astrology: Unlocking Celestial Wisdom with AI
