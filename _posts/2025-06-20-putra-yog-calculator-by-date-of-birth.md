@@ -1,6 +1,6 @@
 ---
 title: "putra yog calculator by date of birth"
-layout: post
+layout: single
 ---
 
 # Putra Yog Calculator by Date of Birth: Unveiling the Secrets of Progeny through Astrology and AI
