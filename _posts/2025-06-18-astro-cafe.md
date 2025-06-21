@@ -1,6 +1,6 @@
 ---
 title: "astro cafe"
-layout: post
+layout: single
 ---
 
 # Astro Cafe: Blending Astrology and AI for Personalized Insights
