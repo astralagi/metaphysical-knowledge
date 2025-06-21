@@ -1,6 +1,6 @@
 ---
 title: "best birth chart"
-layout: post
+layout: single
 ---
 
 # Best Birth Chart: Unveiling Your Astrological Potential with AI
