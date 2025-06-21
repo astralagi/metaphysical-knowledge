@@ -1,6 +1,6 @@
 ---
 title: "what is my sun and moon sign"
-layout: post
+layout: single
 ---
 
 # What is My Sun and Moon Sign?
