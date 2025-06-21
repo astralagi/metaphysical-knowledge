@@ -1,6 +1,6 @@
 ---
 title: "aquarius horoscope today"
-layout: post
+layout: single
 ---
 
 # Aquarius Horoscope Today: Unlocking Your Potential with AI-Driven Astrology
