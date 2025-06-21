@@ -1,6 +1,6 @@
 ---
 title: "explain my birth chart"
-layout: post
+layout: single
 ---
 
 # Explain My Birth Chart: Unlocking Your Astrological Potential with AI
