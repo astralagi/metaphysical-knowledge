@@ -1087,3 +1087,4 @@ Welcome to my AI-powered astrology blog!
 - [find my big 3 astrology free]({% post_url 2025-06-21-find-my-big-3-astrology-free %})
 - [virgo love horoscope for today]({% post_url 2025-06-21-virgo-love-horoscope-for-today %})
 - [scorpio and cancer horoscope today]({% post_url 2025-06-21-scorpio-and-cancer-horoscope-today %})
+- [mary magdalene birth chart]({% post_url 2025-06-21-mary-magdalene-birth-chart %})
