@@ -1,6 +1,6 @@
 ---
 title: "pisces tarot today"
-layout: post
+layout: single
 ---
 
 # Pisces Tarot Today: Unveiling Your Daily Astrological Insights with AI
