@@ -1,6 +1,6 @@
 ---
 title: "sagittarius money luck today"
-layout: post
+layout: single
 ---
 
 # Sagittarius Money Luck Today: Unveiling Financial Fortunes with AI Astrology
