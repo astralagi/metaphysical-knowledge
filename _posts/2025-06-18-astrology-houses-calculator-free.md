@@ -1,6 +1,6 @@
 ---
 title: "astrology houses calculator free"
-layout: post
+layout: single
 ---
 
 # Astrology Houses Calculator Free: Unlocking the Secrets of Your Birth Chart
