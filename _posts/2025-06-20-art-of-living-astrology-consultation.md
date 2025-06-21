@@ -1,6 +1,6 @@
 ---
 title: "art of living astrology consultation"
-layout: post
+layout: single
 ---
 
 # Art of Living Astrology Consultation
