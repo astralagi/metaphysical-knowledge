@@ -1,6 +1,6 @@
 ---
 title: "astrology report"
-layout: post
+layout: single
 ---
 
 # Astrology Report: Unlocking Celestial Insights with AI
