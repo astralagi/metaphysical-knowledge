@@ -1,6 +1,6 @@
 ---
 title: "dina bhavishya kannada"
-layout: post
+layout: single
 ---
 
 # Dina Bhavishya Kannada: Unveiling Daily Astrological Insights with AI
