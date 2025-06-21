@@ -1,6 +1,6 @@
 ---
 title: "zodiac compatibility"
-layout: post
+layout: single
 ---
 
 # Zodiac Compatibility: Unveiling the Cosmic Connection with AI
