@@ -1,6 +1,6 @@
 ---
 title: "free accurate tarot reading"
-layout: post
+layout: single
 ---
 
 # Free Accurate Tarot Reading: Unveiling the Future with AI and Astrology
