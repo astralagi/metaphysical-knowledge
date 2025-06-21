@@ -1,6 +1,6 @@
 ---
 title: "free compatibility"
-layout: post
+layout: single
 ---
 
 # Free Compatibility: Unlocking Astrological Insights with AI
