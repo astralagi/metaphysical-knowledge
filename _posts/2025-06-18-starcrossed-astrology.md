@@ -1,6 +1,6 @@
 ---
 title: "starcrossed astrology"
-layout: post
+layout: single
 ---
 
 # Starcrossed Astrology: Unraveling Destiny with AI
