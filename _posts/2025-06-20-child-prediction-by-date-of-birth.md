@@ -1,6 +1,6 @@
 ---
 title: "child prediction by date of birth"
-layout: post
+layout: single
 ---
 
 # Child Prediction by Date of Birth
