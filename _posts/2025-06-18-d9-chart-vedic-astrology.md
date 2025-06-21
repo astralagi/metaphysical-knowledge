@@ -1,6 +1,6 @@
 ---
 title: "d9 chart vedic astrology"
-layout: post
+layout: single
 ---
 
 # d9 Chart Vedic Astrology: Unveiling the Secrets of Your Navamsa
