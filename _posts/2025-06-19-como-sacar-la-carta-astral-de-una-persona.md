@@ -1,6 +1,6 @@
 ---
 title: "como sacar la carta astral de una persona"
-layout: post
+layout: single
 ---
 
 # Como Sacar la Carta Astral de una Persona: Unveiling Your Astrological Blueprint with AI
