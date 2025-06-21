@@ -1,6 +1,6 @@
 ---
 title: "cancer marriage compatibility"
-layout: post
+layout: single
 ---
 
 # Cancer Marriage Compatibility: Unveiling the Mysteries with AI
