@@ -1,6 +1,6 @@
 ---
 title: "starseed test free astrology"
-layout: post
+layout: single
 ---
 
 # Starseed Test Free Astrology: Unveiling Your Cosmic Origins with AI
