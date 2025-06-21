@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "free psychic reading app"
-layout: post
+layout: single
 ---
 
 # Free Psychic Reading App: Exploring the Astrological Landscape with AI
