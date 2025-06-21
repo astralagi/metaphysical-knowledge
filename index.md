@@ -1010,3 +1010,4 @@ Welcome to my AI-powered astrology blog!
 - [astrology app]({% post_url 2025-06-21-astrology-app %})
 - [birth chart information]({% post_url 2025-06-21-birth-chart-information %})
 - [best free astrology app]({% post_url 2025-06-21-best-free-astrology-app %})
+- [which zodiacs go together]({% post_url 2025-06-21-which-zodiacs-go-together %})
