@@ -1,6 +1,6 @@
 ---
 title: "ethereal astrology"
-layout: post
+layout: single
 ---
 
 # Ethereal Astrology: Exploring the Celestial Realms with AI
