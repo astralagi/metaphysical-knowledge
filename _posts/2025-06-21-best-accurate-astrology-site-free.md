@@ -1,6 +1,6 @@
 ---
 title: "best accurate astrology site free"
-layout: post
+layout: single
 ---
 
 # Finding the Best Accurate Astrology Site Free: A Guide
