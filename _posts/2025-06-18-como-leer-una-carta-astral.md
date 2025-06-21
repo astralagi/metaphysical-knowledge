@@ -1,6 +1,6 @@
 ---
 title: "como leer una carta astral"
-layout: post
+layout: single
 ---
 
 # Como Leer Una Carta Astral: Un Viaje al Autoconocimiento a través de la Astrología y la IA
