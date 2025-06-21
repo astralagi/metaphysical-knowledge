@@ -1,6 +1,6 @@
 ---
 title: "horary astrology free"
-layout: post
+layout: single
 ---
 
 # Horary Astrology Free: Unlocking the Secrets of the Stars with AI
