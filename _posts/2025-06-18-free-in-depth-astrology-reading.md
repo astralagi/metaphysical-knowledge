@@ -1,6 +1,6 @@
 ---
 title: "free in depth astrology reading"
-layout: post
+layout: single
 ---
 
 # Free In-Depth Astrology Reading: Unlocking Your Cosmic Potential with AI
