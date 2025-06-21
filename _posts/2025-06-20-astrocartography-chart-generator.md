@@ -1,6 +1,6 @@
 ---
 title: "astrocartography chart generator"
-layout: post
+layout: single
 ---
 
 # Astrocartography Chart Generator: Unlocking Your Planetary Destiny with AI
