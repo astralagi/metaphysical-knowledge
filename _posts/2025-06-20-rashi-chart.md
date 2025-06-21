@@ -1,6 +1,6 @@
 ---
 title: "rashi chart"
-layout: post
+layout: single
 ---
 
 # Rashi Chart: Unveiling Your Astrological Blueprint with AI
