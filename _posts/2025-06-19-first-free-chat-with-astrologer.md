@@ -1,6 +1,6 @@
 ---
 title: "first free chat with astrologer"
-layout: post
+layout: single
 ---
 
 # First Free Chat with an Astrologer: Unveiling Astrological Insights with AI
