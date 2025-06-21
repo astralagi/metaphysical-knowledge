@@ -1,6 +1,6 @@
 ---
 title: "my natal chart explained"
-layout: post
+layout: single
 ---
 
 # My Natal Chart Explained
