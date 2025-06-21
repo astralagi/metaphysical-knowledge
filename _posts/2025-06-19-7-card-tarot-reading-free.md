@@ -1,6 +1,6 @@
 ---
 title: "7 card tarot reading free"
-layout: post
+layout: single
 ---
 
 # 7 Card Tarot Reading Free: Unlocking Deeper Insights with AI
