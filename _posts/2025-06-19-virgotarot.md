@@ -1,6 +1,6 @@
 ---
 title: "virgotarot"
-layout: post
+layout: single
 ---
 
 # virgotarot: Unlocking Virgo's Potential Through AI-Powered Astrology
