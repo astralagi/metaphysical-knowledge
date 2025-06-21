@@ -1122,3 +1122,4 @@ Welcome to my AI-powered astrology blog!
 - [how to get your birth chart for free]({% post_url 2025-06-21-how-to-get-your-birth-chart-for-free %})
 - [aaj ka singh rashifal aaj ka]({% post_url 2025-06-21-aaj-ka-singh-rashifal-aaj-ka %})
 - [gpt astrology]({% post_url 2025-06-21-gpt-astrology %})
+- [pisces vs virgo]({% post_url 2025-06-21-pisces-vs-virgo %})
