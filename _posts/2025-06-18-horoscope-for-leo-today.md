@@ -1,6 +1,6 @@
 ---
 title: "horoscope for leo today"
-layout: post
+layout: single
 ---
 
 # Horoscope for Leo Today: Unveiling the Lion's Daily Destiny
