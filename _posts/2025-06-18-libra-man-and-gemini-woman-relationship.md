@@ -1,6 +1,6 @@
 ---
 title: "libra man and gemini woman relationship"
-layout: post
+layout: single
 ---
 
 # Libra Man and Gemini Woman Relationship: A Celestial Dance of Intellect and Charm
