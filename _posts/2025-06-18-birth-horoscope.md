@@ -1,6 +1,6 @@
 ---
 title: "birth horoscope"
-layout: post
+layout: single
 ---
 
 # Birth Horoscope: Unlocking Your Astrological Blueprint with AI
