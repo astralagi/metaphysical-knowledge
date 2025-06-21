@@ -1,6 +1,6 @@
 ---
 title: "fortune teller free ask question"
-layout: post
+layout: single
 ---
 
 # Fortune Teller Free Ask Question: Unveiling Astrological Insights with AI
