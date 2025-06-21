@@ -1,6 +1,6 @@
 ---
 title: "sv bhardwaj astrologer"
-layout: post
+layout: single
 ---
 
 # sv bhardwaj astrologer: Unlocking Astrological Insights with AI
