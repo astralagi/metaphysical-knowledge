@@ -1,6 +1,6 @@
 ---
 title: "free vedic birth chart with interpretation"
-layout: post
+layout: single
 ---
 
 # Free Vedic Birth Chart with Interpretation: Unlocking Your Astrological Potential
