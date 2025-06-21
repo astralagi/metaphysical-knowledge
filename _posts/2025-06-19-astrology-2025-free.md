@@ -1,6 +1,6 @@
 ---
 title: "astrology 2025 free"
-layout: post
+layout: single
 ---
 
 # Astrology 2025 Free: Unlocking the Year's Astrological Potential with AI
