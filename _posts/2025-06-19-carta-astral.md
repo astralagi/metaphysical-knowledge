@@ -1,6 +1,6 @@
 ---
 title: "carta astral"
-layout: post
+layout: single
 ---
 
 # Carta Astral: Unlocking Your Astrological Blueprint with AI
