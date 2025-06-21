@@ -1,6 +1,6 @@
 ---
 title: "astro astro"
-layout: post
+layout: single
 ---
 
 # astro astro: Unveiling the Doubled Power of Astrological Influence
