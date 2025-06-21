@@ -1,6 +1,6 @@
 ---
 title: "astrologers"
-layout: post
+layout: single
 ---
 
 # Astrologers: Unveiling the Human Element Behind the Stars
