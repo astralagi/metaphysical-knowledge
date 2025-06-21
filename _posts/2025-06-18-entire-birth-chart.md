@@ -1,6 +1,6 @@
 ---
 title: "entire birth chart"
-layout: post
+layout: single
 ---
 
 # Entire Birth Chart: Unveiling Your Astrological Blueprint with AI
