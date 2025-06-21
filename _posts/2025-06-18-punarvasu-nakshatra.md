@@ -1,6 +1,6 @@
 ---
 title: "punarvasu nakshatra"
-layout: post
+layout: single
 ---
 
 # Punarvasu Nakshatra: Unveiling the Mysteries with AI
