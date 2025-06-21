@@ -1,6 +1,6 @@
 ---
 title: "sasha bonasin weekly horoscope"
-layout: post
+layout: single
 ---
 
 # Sasha Bonasin Weekly Horoscope: Unveiling Astrological Insights with AI
