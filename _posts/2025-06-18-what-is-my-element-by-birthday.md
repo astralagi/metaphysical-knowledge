@@ -1,6 +1,6 @@
 ---
 title: "what is my element by birthday"
-layout: post
+layout: single
 ---
 
 ## What is My Element by Birthday?
