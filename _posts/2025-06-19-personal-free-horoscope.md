@@ -1,6 +1,6 @@
 ---
 title: "personal free horoscope"
-layout: post
+layout: single
 ---
 
 # Personal Free Horoscope: Unlocking Your Astrological Potential with AI
