@@ -1,6 +1,6 @@
 ---
 title: "como sacar mi carta astral gratis"
-layout: post
+layout: single
 ---
 
 # Como Sacar Mi Carta Astral Gratis: Un Viaje al Autoconocimiento a Través de la Astrología y la IA
