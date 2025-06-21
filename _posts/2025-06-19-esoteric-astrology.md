@@ -1,6 +1,6 @@
 ---
 title: "esoteric astrology"
-layout: post
+layout: single
 ---
 
 # Esoteric Astrology: Unveiling the Hidden Depths of the Cosmos
