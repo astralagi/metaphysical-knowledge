@@ -1,6 +1,6 @@
 ---
 title: "astrology calculators"
-layout: post
+layout: single
 ---
 
 # Astrology Calculators: Unlocking Cosmic Insights with AI
