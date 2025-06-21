@@ -1,6 +1,6 @@
 ---
 title: "km sinha astrologer"
-layout: post
+layout: single
 ---
 
 # km sinha astrologer: Unveiling Astrological Insights with AI
