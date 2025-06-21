@@ -1115,3 +1115,4 @@ Welcome to my AI-powered astrology blog!
 - [find my pluto placement]({% post_url 2025-06-21-find-my-pluto-placement %})
 - [best accurate astrology site free]({% post_url 2025-06-21-best-accurate-astrology-site-free %})
 - [numerology reading free online]({% post_url 2025-06-21-numerology-reading-free-online %})
+- [kala vedic astrology software]({% post_url 2025-06-21-kala-vedic-astrology-software %})
