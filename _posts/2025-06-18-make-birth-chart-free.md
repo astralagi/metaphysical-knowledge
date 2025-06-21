@@ -1,6 +1,6 @@
 ---
 title: "make birth chart free"
-layout: post
+layout: single
 ---
 
 # Make Birth Chart Free: Unlocking Your Astrological Potential with AI
