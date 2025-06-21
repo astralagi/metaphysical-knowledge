@@ -1,6 +1,6 @@
 ---
 title: "astrology com"
-layout: post
+layout: single
 ---
 
 # astrology com: Unveiling the Celestial Influence on Your Online Presence
