@@ -1,6 +1,6 @@
 ---
 title: "freewillastrology"
-layout: post
+layout: single
 ---
 
 # Free Will Astrology: Navigating Destiny with AI
