@@ -1,6 +1,6 @@
 ---
 title: "use a birth chart calculator"
-layout: post
+layout: single
 ---
 
 # Use a Birth Chart Calculator: Unlocking the Secrets of Your Astrological Blueprint
