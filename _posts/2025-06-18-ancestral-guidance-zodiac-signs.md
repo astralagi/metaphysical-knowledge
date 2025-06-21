@@ -1,6 +1,6 @@
 ---
 title: "ancestral guidance zodiac signs"
-layout: post
+layout: single
 ---
 
 # Ancestral Guidance Zodiac Signs: Unlocking Your Heritage Through Astrology and AI
