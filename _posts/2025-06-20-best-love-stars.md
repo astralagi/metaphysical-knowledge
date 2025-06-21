@@ -1,6 +1,6 @@
 ---
 title: "best love stars"
-layout: post
+layout: single
 ---
 
 # Best Love Stars: Unveiling Astrological Secrets with AI
