@@ -1,6 +1,6 @@
 ---
 title: "the number of your soulmate"
-layout: post
+layout: single
 ---
 
 # The Number of Your Soulmate: Unveiling Astrological Connections with AI
