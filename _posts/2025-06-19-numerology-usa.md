@@ -1,6 +1,6 @@
 ---
 title: "numerology usa"
-layout: post
+layout: single
 ---
 
 # Numerology USA: Unlocking American Destiny Through Numbers and AI
