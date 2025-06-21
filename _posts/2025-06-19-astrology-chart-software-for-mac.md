@@ -1,6 +1,6 @@
 ---
 title: "astrology chart software for mac"
-layout: post
+layout: single
 ---
 
 # Astrology Chart Software for Mac: Unlocking the Cosmos on Your Desktop
