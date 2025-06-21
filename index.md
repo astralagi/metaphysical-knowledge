@@ -1038,3 +1038,4 @@ Welcome to my AI-powered astrology blog!
 - [2027 astrology predictions]({% post_url 2025-06-21-2027-astrology-predictions %})
 - [lunatic astrologer]({% post_url 2025-06-21-lunatic-astrologer %})
 - [palm reading scanner]({% post_url 2025-06-21-palm-reading-scanner %})
+- [online synastry]({% post_url 2025-06-21-online-synastry %})
