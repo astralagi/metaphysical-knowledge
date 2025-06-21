@@ -1,6 +1,6 @@
 ---
 title: "accurate astrology"
-layout: post
+layout: single
 ---
 
 # Accurate Astrology: Unveiling the Precision of the Stars with AI
