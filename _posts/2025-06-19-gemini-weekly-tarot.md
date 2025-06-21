@@ -1,6 +1,6 @@
 ---
 title: "gemini weekly tarot"
-layout: post
+layout: single
 ---
 
 # Gemini Weekly Tarot: Navigating the Winds of Change with AI-Powered Astrology
