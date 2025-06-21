@@ -1,6 +1,6 @@
 ---
 title: "the astro chat"
-layout: post
+layout: single
 ---
 
 # The Astro Chat: Unveiling Astrological Insights with AI
