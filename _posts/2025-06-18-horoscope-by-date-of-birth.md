@@ -1,6 +1,6 @@
 ---
 title: "horoscope by date of birth"
-layout: post
+layout: single
 ---
 
 # Horoscope by Date of Birth: Unveiling Your Astrological Blueprint with AI
