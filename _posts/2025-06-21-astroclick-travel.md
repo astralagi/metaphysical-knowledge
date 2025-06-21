@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "astroclick travel"
-layout: post
+layout: single
 ---
 
 # Astroclick Travel: Unveiling the Cosmic Roadmap for Your Journeys
