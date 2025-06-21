@@ -1,6 +1,6 @@
 ---
 title: "in depth astrology chart reading"
-layout: post
+layout: single
 ---
 
 # In Depth Astrology Chart Reading: Unlocking Your Astrological Potential with AI
