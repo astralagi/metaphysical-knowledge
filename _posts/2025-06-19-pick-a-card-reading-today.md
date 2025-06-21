@@ -1,6 +1,6 @@
 ---
 title: "pick a card reading today"
-layout: post
+layout: single
 ---
 
 # Pick a Card Reading Today: Unveiling Your Astrological Potential with AI
