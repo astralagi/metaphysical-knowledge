@@ -1,6 +1,6 @@
 ---
 title: "upload picture palm reading free online"
-layout: post
+layout: single
 ---
 
 # Upload Picture Palm Reading Free Online: Unveiling Your Life Path Through AI-Powered Astrology
