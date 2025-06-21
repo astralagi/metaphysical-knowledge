@@ -1,6 +1,6 @@
 ---
 title: "leo prediction 2025"
-layout: post
+layout: single
 ---
 
 # Leo Prediction 2025: A Year of Radiant Transformation
