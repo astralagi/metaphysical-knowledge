@@ -1010,3 +1010,4 @@ Welcome to my AI-powered astrology blog!
 - [13 Sign Astrology Chart Calculator Free]({% post_url 2025-06-18-13-sign-astrology-chart-calculator-free %})
 - [pisces taurus compatibility]({% post_url 2025-06-21-pisces-taurus-compatibility %})
 - [how to find out if you are manglik]({% post_url 2025-06-21-how-to-find-out-if-you-are-manglik %})
+- [natal chart compatibility report free]({% post_url 2025-06-21-natal-chart-compatibility-report-free %})
