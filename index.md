@@ -1201,3 +1201,4 @@ Welcome to my AI-powered astrology blog!
 - [free reading from psychic]({% post_url 2025-06-21-free-reading-from-psychic %})
 - [terence guardino astrology]({% post_url 2025-06-21-terence-guardino-astrology %})
 - [pisces tarot april 2025]({% post_url 2025-06-21-pisces-tarot-april-2025 %})
+- [birth chart maker]({% post_url 2025-06-21-birth-chart-maker %})
