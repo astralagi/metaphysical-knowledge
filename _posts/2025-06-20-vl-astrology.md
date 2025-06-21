@@ -1,6 +1,6 @@
 ---
 title: "vl astrology"
-layout: post
+layout: single
 ---
 
 # vl astrology: Unveiling the Mysteries with AI
