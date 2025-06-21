@@ -1,6 +1,6 @@
 ---
 title: "daily horoscope by date of birth"
-layout: post
+layout: single
 ---
 
 # Daily Horoscope by Date of Birth: Unveiling Your Cosmic Potential with AI
