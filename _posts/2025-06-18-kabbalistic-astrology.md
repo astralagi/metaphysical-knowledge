@@ -1,6 +1,6 @@
 ---
 title: "kabbalistic astrology"
-layout: post
+layout: single
 ---
 
 # Kabbalistic Astrology: Unveiling the Mystical Depths of the Cosmos
