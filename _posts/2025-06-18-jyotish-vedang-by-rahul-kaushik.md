@@ -1,6 +1,6 @@
 ---
 title: "jyotish vedang by rahul kaushik"
-layout: post
+layout: single
 ---
 
 # Jyotish Vedang by Rahul Kaushik: Unveiling Astrological Insights with AI
