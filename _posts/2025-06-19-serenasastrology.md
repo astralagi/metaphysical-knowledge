@@ -1,6 +1,6 @@
 ---
 title: "serenasastrology"
-layout: post
+layout: single
 ---
 
 # serenastrology: Unveiling Personalized Astrological Insights with AI
