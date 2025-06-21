@@ -1,6 +1,6 @@
 ---
 title: "who is my soulmate"
-layout: post
+layout: single
 ---
 
 # Who Is My Soulmate? Unraveling the Astrological Mystery with AI
