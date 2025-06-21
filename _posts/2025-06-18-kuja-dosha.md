@@ -1,6 +1,6 @@
 ---
 title: "kuja dosha"
-layout: post
+layout: single
 ---
 
 # Kuja Dosha: Understanding Mars' Influence and its AI-Powered Analysis
