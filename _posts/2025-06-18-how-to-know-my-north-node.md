@@ -1,6 +1,6 @@
 ---
 title: "how to know my north node"
-layout: post
+layout: single
 ---
 
 # How to Know My North Node
