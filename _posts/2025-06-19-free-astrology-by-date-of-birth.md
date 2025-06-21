@@ -1,6 +1,6 @@
 ---
 title: "free astrology by date of birth"
-layout: post
+layout: single
 ---
 
 # Free Astrology by Date of Birth: Unlocking Your Astrological Potential with AI
