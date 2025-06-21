@@ -1,6 +1,6 @@
 ---
 title: "aries horoscopes"
-layout: post
+layout: single
 ---
 
 # Aries Horoscopes: Unveiling the Ram's Potential with AI
