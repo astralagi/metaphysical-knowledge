@@ -1,6 +1,6 @@
 ---
 title: "saturn return"
-layout: post
+layout: single
 ---
 
 # Saturn Return: A Transformative Astrological Journey Enhanced by AI
