@@ -1,6 +1,6 @@
 ---
 title: "how to find lucky day"
-layout: post
+layout: single
 ---
 
 # How to Find Your Lucky Day: An Astrological and AI-Powered Approach
