@@ -1,6 +1,6 @@
 ---
 title: "nuworld tarot"
-layout: post
+layout: single
 ---
 
 # NuWorld Tarot: Exploring the Future of Astrological Interpretation with AI
