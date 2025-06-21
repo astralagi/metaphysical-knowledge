@@ -1,6 +1,6 @@
 ---
 title: "how do i find out my rising sign free"
-layout: post
+layout: single
 ---
 
 # How Do I Find Out My Rising Sign Free?
