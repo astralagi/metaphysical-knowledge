@@ -1,6 +1,6 @@
 ---
 title: "astroscience free kundli"
-layout: post
+layout: single
 ---
 
 # Astroscience Free Kundli: Unlocking Your Astrological Potential with AI
