@@ -1,6 +1,6 @@
 ---
 title: "astro bharath"
-layout: post
+layout: single
 ---
 
 # Astro Bharath: Unveiling the Power of AI in Vedic Astrology
