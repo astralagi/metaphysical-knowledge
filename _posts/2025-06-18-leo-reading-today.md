@@ -1,6 +1,6 @@
 ---
 title: "leo reading today"
-layout: post
+layout: single
 ---
 
 # Leo Reading Today: Unlocking Your Zodiac Potential with AI
