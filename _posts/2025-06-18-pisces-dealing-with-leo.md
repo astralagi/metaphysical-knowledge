@@ -1,6 +1,6 @@
 ---
 title: "pisces dealing with leo"
-layout: post
+layout: single
 ---
 
 # Pisces Dealing with Leo: A Celestial Dance of Water and Fire
