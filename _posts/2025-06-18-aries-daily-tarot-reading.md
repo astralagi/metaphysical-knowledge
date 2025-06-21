@@ -1,6 +1,6 @@
 ---
 title: "aries daily tarot reading"
-layout: post
+layout: single
 ---
 
 # Aries Daily Tarot Reading: Unlocking Your Astrological Potential with AI
