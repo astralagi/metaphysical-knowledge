@@ -1,6 +1,6 @@
 ---
 title: "free daily horoscopes for cancer"
-layout: post
+layout: single
 ---
 
 # Free Daily Horoscopes for Cancer: Unveiling the Astrological Insights with AI
