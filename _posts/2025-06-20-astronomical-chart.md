@@ -1,6 +1,6 @@
 ---
 title: "astronomical chart"
-layout: post
+layout: single
 ---
 
 # Astronomical Chart: Unveiling the Cosmic Blueprint with AI
