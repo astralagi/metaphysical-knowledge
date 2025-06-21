@@ -1,6 +1,6 @@
 ---
 title: "free birth chart interpretation"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Interpretation: Unlocking Your Astrological Potential with AI
