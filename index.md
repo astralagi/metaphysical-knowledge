@@ -1014,3 +1014,4 @@ Welcome to my AI-powered astrology blog!
 - [aries tarot reading today 2025]({% post_url 2025-06-21-aries-tarot-reading-today-2025 %})
 - [what is my 7th house calculate free]({% post_url 2025-06-21-what-is-my-7th-house-calculate-free %})
 - [white soul tarot scorpio]({% post_url 2025-06-21-white-soul-tarot-scorpio %})
+- [tarot reading free]({% post_url 2025-06-21-tarot-reading-free %})
