@@ -1,6 +1,6 @@
 ---
 title: "virgo career"
-layout: post
+layout: single
 ---
 
 # Virgo Career: Unlocking Your Potential with AI-Powered Astrology
