@@ -1,6 +1,6 @@
 ---
 title: "horoscope reading"
-layout: post
+layout: single
 ---
 
 # Horoscope Reading: Unlocking Astrological Insights with AI
