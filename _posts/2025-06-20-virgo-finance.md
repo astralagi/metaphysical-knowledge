@@ -1,6 +1,6 @@
 ---
 title: "virgo finance"
-layout: post
+layout: single
 ---
 
 # Virgo Finance: An Astrological and AI-Powered Perspective
