@@ -1,6 +1,6 @@
 ---
 title: "astroyogi palm reading app"
-layout: post
+layout: single
 ---
 
 # Astroyogi Palm Reading App: Unveiling Life's Mysteries Through AI-Powered Astrology
