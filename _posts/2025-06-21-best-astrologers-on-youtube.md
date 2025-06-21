@@ -1,6 +1,6 @@
 ---
 title: "best astrologers on youtube"
-layout: post
+layout: single
 ---
 
 # Best Astrologers on YouTube: Navigating the Astrological Landscape with AI
