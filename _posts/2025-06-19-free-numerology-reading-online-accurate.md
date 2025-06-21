@@ -1,6 +1,6 @@
 ---
 title: "free numerology reading online accurate"
-layout: post
+layout: single
 ---
 
 # Free Numerology Reading Online Accurate: Unlocking Your Life Path with AI
