@@ -1,6 +1,6 @@
 ---
 title: "wedding astrology chart"
-layout: post
+layout: single
 ---
 
 # Wedding Astrology Chart: Unveiling the Cosmic Blueprint of Your Union
