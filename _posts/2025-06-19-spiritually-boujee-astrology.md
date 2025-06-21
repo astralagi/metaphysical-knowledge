@@ -1,6 +1,6 @@
 ---
 title: "spiritually boujee astrology"
-layout: post
+layout: single
 ---
 
 # Spiritually Boujee Astrology: Elevating Your Astrological Journey with AI
