@@ -1,6 +1,6 @@
 ---
 title: "respontika astrology"
-layout: post
+layout: single
 ---
 
 # Respontika Astrology: Unveiling the Future with AI-Powered Insights
