@@ -1,6 +1,6 @@
 ---
 title: "horoscope compatibility"
-layout: post
+layout: single
 ---
 
 # Horoscope Compatibility: Unveiling the Cosmic Connection with AI
