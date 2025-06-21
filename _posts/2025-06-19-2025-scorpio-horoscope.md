@@ -1,6 +1,6 @@
 ---
 title: "2025 scorpio horoscope"
-layout: post
+layout: single
 ---
 
 # 2025 Scorpio Horoscope: Navigating the Year Ahead with AI-Powered Astrology
