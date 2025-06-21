@@ -1,6 +1,6 @@
 ---
 title: "astrological chart free"
-layout: post
+layout: single
 ---
 
 # Astrological Chart Free: Unlocking Your Cosmic Blueprint with AI
