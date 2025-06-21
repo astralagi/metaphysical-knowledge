@@ -1,6 +1,6 @@
 ---
 title: "what house is my black moon lilith in"
-layout: post
+layout: single
 ---
 
 # What House is My Black Moon Lilith In?
