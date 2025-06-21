@@ -1,6 +1,6 @@
 ---
 title: "astrologer hemant"
-layout: post
+layout: single
 ---
 
 # Astrologer Hemant: Unveiling the Power of AI in Vedic Astrology
