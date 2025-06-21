@@ -1,6 +1,6 @@
 ---
 title: "birth chart reading future"
-layout: post
+layout: single
 ---
 
 # Birth Chart Reading Future: Unveiling Your Astrological Destiny
