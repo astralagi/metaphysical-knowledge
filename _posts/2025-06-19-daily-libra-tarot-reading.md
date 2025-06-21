@@ -1,6 +1,6 @@
 ---
 title: "daily libra tarot reading"
-layout: post
+layout: single
 ---
 
 # Daily Libra Tarot Reading: Unlocking Your Day's Potential with AI
