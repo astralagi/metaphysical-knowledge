@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "house chart astrology"
-layout: post
+layout: single
 ---
 
 # House Chart Astrology: Unveiling Your Life's Blueprint with AI
