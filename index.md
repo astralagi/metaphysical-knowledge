@@ -1079,3 +1079,4 @@ Welcome to my AI-powered astrology blog!
 - [scorpio and cancer horoscope today]({% post_url 2025-06-21-scorpio-and-cancer-horoscope-today %})
 - [mary magdalene birth chart]({% post_url 2025-06-21-mary-magdalene-birth-chart %})
 - [in depth astrology]({% post_url 2025-06-21-in-depth-astrology %})
+- [free kundli for career]({% post_url 2025-06-21-free-kundli-for-career %})
