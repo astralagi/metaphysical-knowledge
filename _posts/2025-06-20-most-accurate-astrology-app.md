@@ -1,6 +1,6 @@
 ---
 title: "most accurate astrology app"
-layout: post
+layout: single
 ---
 
 # The Quest for the Most Accurate Astrology App
