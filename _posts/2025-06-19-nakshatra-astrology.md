@@ -1,6 +1,6 @@
 ---
 title: "nakshatra astrology"
-layout: post
+layout: single
 ---
 
 # Nakshatra Astrology: Unveiling the Lunar Mansions with AI
