@@ -1,6 +1,6 @@
 ---
 title: "find out my kundali"
-layout: post
+layout: single
 ---
 
 # Find Out My Kundali: Unlocking Your Astrological Blueprint with AI
