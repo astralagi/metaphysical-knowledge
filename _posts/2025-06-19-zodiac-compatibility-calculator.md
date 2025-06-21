@@ -1,6 +1,6 @@
 ---
 title: "zodiac compatibility calculator"
-layout: post
+layout: single
 ---
 
 # Zodiac Compatibility Calculator: Unveiling the Secrets of Stellar Alignment with AI
