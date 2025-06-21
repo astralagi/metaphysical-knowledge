@@ -1,6 +1,6 @@
 ---
 title: "aries daily horoscope 2025"
-layout: post
+layout: single
 ---
 
 # Aries Daily Horoscope 2025: Navigating the Year Ahead with AI-Powered Astrology
