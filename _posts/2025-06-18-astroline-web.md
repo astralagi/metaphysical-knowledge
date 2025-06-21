@@ -1,6 +1,6 @@
 ---
 title: "astroline web"
-layout: post
+layout: single
 ---
 
 # Astroline Web: Weaving the Threads of Destiny with AI
