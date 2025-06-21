@@ -1,6 +1,6 @@
 ---
 title: "kundali by name and date of birth"
-layout: post
+layout: single
 ---
 
 # Kundali by Name and Date of Birth: Unveiling Your Astrological Blueprint with AI
