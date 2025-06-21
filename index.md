@@ -1007,3 +1007,4 @@ Welcome to my AI-powered astrology blog!
 - [aquarius career reading]({% post_url 2025-06-21-aquarius-career-reading %})
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
 - [compatibility by birthdate]({% post_url 2025-06-21-compatibility-by-birthdate %})
+- [astrology app]({% post_url 2025-06-21-astrology-app %})
