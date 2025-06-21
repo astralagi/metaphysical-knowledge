@@ -1,6 +1,6 @@
 ---
 title: "astrologers near me"
-layout: post
+layout: single
 ---
 
 # Astrologers Near Me: Finding Your Perfect Astrological Guide in the Age of AI
