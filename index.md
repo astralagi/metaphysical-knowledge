@@ -997,3 +997,4 @@ Welcome to my AI-powered astrology blog!
 - [online psychic chat room free]({% post_url 2025-06-21-online-psychic-chat-room-free %})
 - [ruby franke birth chart]({% post_url 2025-06-21-ruby-franke-birth-chart %})
 - [where should i live based on my birth chart]({% post_url 2025-06-21-where-should-i-live-based-on-my-birth-chart %})
+- [astro veerle]({% post_url 2025-06-21-astro-veerle %})
