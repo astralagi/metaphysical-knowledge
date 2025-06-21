@@ -1,6 +1,6 @@
 ---
 title: "future horoscope by date of birth free"
-layout: post
+layout: single
 ---
 
 # Future Horoscope by Date of Birth Free: Unlocking Astrological Insights with AI
