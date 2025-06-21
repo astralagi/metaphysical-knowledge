@@ -1,6 +1,6 @@
 ---
 title: "pisces moon intuitive libra"
-layout: post
+layout: single
 ---
 
 # Pisces Moon Intuitive Libra: Unlocking Emotional Depth and Harmonic Balance
