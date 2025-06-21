@@ -1,6 +1,6 @@
 ---
 title: "astrochat ai"
-layout: post
+layout: single
 ---
 
 # Astrochat AI: Revolutionizing Astrological Insights with Artificial Intelligence
