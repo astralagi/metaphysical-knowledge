@@ -1022,3 +1022,4 @@ Welcome to my AI-powered astrology blog!
 - [how do i find my 12 houses]({% post_url 2025-06-21-how-do-i-find-my-12-houses %})
 - [numerology birth chart calculator]({% post_url 2025-06-21-numerology-birth-chart-calculator %})
 - [zodiacal releasing]({% post_url 2025-06-21-zodiacal-releasing %})
+- [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
