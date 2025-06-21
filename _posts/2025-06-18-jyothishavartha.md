@@ -1,6 +1,6 @@
 ---
 title: "jyothishavartha"
-layout: post
+layout: single
 ---
 
 # Jyothishavartha: Unveiling Astrological Meanings with AI
