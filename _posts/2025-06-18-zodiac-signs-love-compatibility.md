@@ -1,6 +1,6 @@
 ---
 title: "zodiac signs love compatibility"
-layout: post
+layout: single
 ---
 
 # Zodiac Signs Love Compatibility: Unveiling Romantic Potential with Astrology and AI
