@@ -1,6 +1,6 @@
 ---
 title: "destiny matrix chart"
-layout: post
+layout: single
 ---
 
 # Destiny Matrix Chart: Unveiling Your Astrological Blueprint with AI
