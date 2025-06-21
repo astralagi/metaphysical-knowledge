@@ -1,6 +1,6 @@
 ---
 title: "geminis horoscopo"
-layout: post
+layout: single
 ---
 
 # Geminis Horoscopo: Unveiling the Gemini's Astrological Landscape with AI
