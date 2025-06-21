@@ -1063,3 +1063,4 @@ Welcome to my AI-powered astrology blog!
 - [jeff harmon astrology]({% post_url 2025-06-21-jeff-harmon-astrology %})
 - [time to shine zodiac]({% post_url 2025-06-21-time-to-shine-zodiac %})
 - [how to find my full horoscope]({% post_url 2025-06-21-how-to-find-my-full-horoscope %})
+- [santosh santoshi]({% post_url 2025-06-21-santosh-santoshi %})
