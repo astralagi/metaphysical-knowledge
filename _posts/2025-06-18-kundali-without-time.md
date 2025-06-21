@@ -1,6 +1,6 @@
 ---
 title: "kundali without time"
-layout: post
+layout: single
 ---
 
 # Kundali Without Time: Unveiling Astrological Insights with AI
