@@ -1151,3 +1151,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces march 2025]({% post_url 2025-06-21-pisces-march-2025 %})
 - [support astroarunpandit org]({% post_url 2025-06-21-support-astroarunpandit-org %})
 - [calculate lots astrology]({% post_url 2025-06-21-calculate-lots-astrology %})
+- [astro syndicate]({% post_url 2025-06-21-astro-syndicate %})
