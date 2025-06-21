@@ -1,6 +1,6 @@
 ---
 title: "past lives birth chart"
-layout: post
+layout: single
 ---
 
 # Past Lives Birth Chart: Unlocking Karmic Insights with AI
