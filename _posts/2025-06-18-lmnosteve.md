@@ -1,6 +1,6 @@
 ---
 title: "lmnosteve"
-layout: post
+layout: single
 ---
 
 # lmnosteve: Unveiling the Astrological Mysteries with AI
