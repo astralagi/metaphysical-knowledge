@@ -1126,3 +1126,4 @@ Welcome to my AI-powered astrology blog!
 - [luckiesplays]({% post_url 2025-06-21-luckiesplays %})
 - [october 2 zodiac compatibility]({% post_url 2025-06-21-october-2-zodiac-compatibility %})
 - [ratafal]({% post_url 2025-06-21-ratafal %})
+- [how to read my birth chart]({% post_url 2025-06-21-how-to-read-my-birth-chart %})
