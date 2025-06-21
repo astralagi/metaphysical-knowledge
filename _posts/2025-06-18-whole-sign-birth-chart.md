@@ -1,6 +1,6 @@
 ---
 title: "whole sign birth chart"
-layout: post
+layout: single
 ---
 
 # Whole Sign Birth Chart: Unveiling Astrological Insights with AI
