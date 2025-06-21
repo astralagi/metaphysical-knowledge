@@ -1,6 +1,6 @@
 ---
 title: "sun moon rising sign calculator"
-layout: post
+layout: single
 ---
 
 # Sun Moon Rising Sign Calculator: Unlocking Your Astrological Blueprint with AI
