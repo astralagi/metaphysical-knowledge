@@ -1,6 +1,6 @@
 ---
 title: "exact birth chart"
-layout: post
+layout: single
 ---
 
 # Exact Birth Chart: Unveiling the Secrets of Your Astrological Blueprint with AI
