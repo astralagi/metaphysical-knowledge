@@ -1,6 +1,6 @@
 ---
 title: "rich lopp aquarius"
-layout: post
+layout: single
 ---
 
 # Rich Lopp Aquarius: Unveiling the Astrological Enigma with AI
