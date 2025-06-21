@@ -1,6 +1,6 @@
 ---
 title: "kaypacha pele report"
-layout: post
+layout: single
 ---
 
 # kaypacha pele report: Unveiling Andean Cosmological Insights with AI
