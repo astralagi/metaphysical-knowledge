@@ -1,6 +1,6 @@
 ---
 title: "aquarius and taurus compatibility"
-layout: post
+layout: single
 ---
 
 # Aquarius and Taurus Compatibility: A Celestial Clash or Harmonious Blend?
