@@ -1,6 +1,6 @@
 ---
 title: "best online horoscope"
-layout: post
+layout: single
 ---
 
 # Best Online Horoscope: Navigating the Digital Stars with AI
