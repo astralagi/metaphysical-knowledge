@@ -1036,3 +1036,4 @@ Welcome to my AI-powered astrology blog!
 - [gurubala banaye veer ji]({% post_url 2025-06-21-gurubala-banaye-veer-ji %})
 - [birth chart websites]({% post_url 2025-06-21-birth-chart-websites %})
 - [2027 astrology predictions]({% post_url 2025-06-21-2027-astrology-predictions %})
+- [lunatic astrologer]({% post_url 2025-06-21-lunatic-astrologer %})
