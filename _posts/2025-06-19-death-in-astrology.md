@@ -1,6 +1,6 @@
 ---
 title: "death in astrology"
-layout: post
+layout: single
 ---
 
 # Death in Astrology: Understanding Endings and Transformations
