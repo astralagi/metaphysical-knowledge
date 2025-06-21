@@ -1,6 +1,6 @@
 ---
 title: "genuine horoscope"
-layout: post
+layout: single
 ---
 
 # Genuine Horoscope: Unveiling Authentic Astrological Insights with AI
