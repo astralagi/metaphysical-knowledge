@@ -1,6 +1,6 @@
 ---
 title: "astro arun pandit leo 2025"
-layout: post
+layout: single
 ---
 
 # astro arun pandit leo 2025
