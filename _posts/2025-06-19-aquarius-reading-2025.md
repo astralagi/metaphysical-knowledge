@@ -1,6 +1,6 @@
 ---
 title: "aquarius reading 2025"
-layout: post
+layout: single
 ---
 
 # Aquarius Reading 2025: Navigating the Year Ahead with AI-Powered Astrology
