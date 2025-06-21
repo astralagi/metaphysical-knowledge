@@ -1,6 +1,6 @@
 ---
 title: "astro syndicate"
-layout: post
+layout: single
 ---
 
 # Astro Syndicate: Unveiling the Power of Collective Astrological Influence
