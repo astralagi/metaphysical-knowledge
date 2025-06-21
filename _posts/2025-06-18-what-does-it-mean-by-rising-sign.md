@@ -1,6 +1,6 @@
 ---
 title: "what does it mean by rising sign"
-layout: post
+layout: single
 ---
 
 # What Does It Mean by Rising Sign?
