@@ -1,6 +1,6 @@
 ---
 title: "libra woman aquarius man"
-layout: post
+layout: single
 ---
 
 # Libra Woman Aquarius Man: A Celestial Connection Analyzed
