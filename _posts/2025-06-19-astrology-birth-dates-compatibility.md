@@ -1,6 +1,6 @@
 ---
 title: "astrology birth dates compatibility"
-layout: post
+layout: single
 ---
 
 # Astrology Birth Dates Compatibility: Unlocking Relationship Dynamics with AI
