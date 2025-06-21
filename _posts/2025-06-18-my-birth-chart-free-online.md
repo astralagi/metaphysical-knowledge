@@ -1,6 +1,6 @@
 ---
 title: "my birth chart free online"
-layout: post
+layout: single
 ---
 
 # My Birth Chart Free Online: Unlocking Your Astrological Potential with AI
