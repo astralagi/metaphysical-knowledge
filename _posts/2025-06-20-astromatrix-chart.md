@@ -1,6 +1,6 @@
 ---
 title: "astromatrix chart"
-layout: post
+layout: single
 ---
 
 # Astromatrix Chart: Unveiling Your Astrological Blueprint with AI
