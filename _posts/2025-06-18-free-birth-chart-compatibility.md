@@ -1,6 +1,6 @@
 ---
 title: "free birth chart compatibility"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Compatibility: Unlocking Astrological Insights with AI
