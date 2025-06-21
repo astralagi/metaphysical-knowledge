@@ -1,6 +1,6 @@
 ---
 title: "fixed stars astrology calculator"
-layout: post
+layout: single
 ---
 
 # Fixed Stars Astrology Calculator: Unlocking Celestial Insights with AI
