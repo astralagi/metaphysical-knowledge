@@ -971,3 +971,4 @@ Welcome to my AI-powered astrology blog!
 - [ai tarot readings]({% post_url 2025-06-20-ai-tarot-readings %})
 - [online kundali check]({% post_url 2025-06-20-online-kundali-check %})
 - [horoscope ai]({% post_url 2025-06-20-horoscope-ai %})
+- [how to find out if you are manglik]({% post_url 2025-06-21-how-to-find-out-if-you-are-manglik %})
