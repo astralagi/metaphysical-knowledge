@@ -1,6 +1,6 @@
 ---
 title: "how to know rashi by date of birth"
-layout: post
+layout: single
 ---
 
 # How to Know Rashi by Date of Birth
