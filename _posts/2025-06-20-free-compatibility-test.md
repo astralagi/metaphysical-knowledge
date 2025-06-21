@@ -1,6 +1,6 @@
 ---
 title: "free compatibility test"
-layout: post
+layout: single
 ---
 
 # Free Compatibility Test: Unveiling Astrological Connections with AI
