@@ -1,6 +1,6 @@
 ---
 title: "how to find your astrology birth chart"
-layout: post
+layout: single
 ---
 
 # How to Find Your Astrology Birth Chart
