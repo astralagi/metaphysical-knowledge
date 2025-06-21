@@ -1,6 +1,6 @@
 ---
 title: "free astrology numerology reading"
-layout: post
+layout: single
 ---
 
 # Free Astrology Numerology Reading: Unlocking Your Life Path with AI
