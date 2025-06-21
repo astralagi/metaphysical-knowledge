@@ -1,6 +1,6 @@
 ---
 title: "astrologer in canada"
-layout: post
+layout: single
 ---
 
 # Astrologer in Canada: Navigating the Canadian Astrological Landscape with AI
