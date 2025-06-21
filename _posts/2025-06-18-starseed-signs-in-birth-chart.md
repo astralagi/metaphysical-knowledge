@@ -1,6 +1,6 @@
 ---
 title: "starseed signs in birth chart"
-layout: post
+layout: single
 ---
 
 # Starseed Signs in Birth Chart: Unveiling Your Cosmic Origin Through AI Astrology
