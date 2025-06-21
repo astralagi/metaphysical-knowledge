@@ -1,6 +1,6 @@
 ---
 title: "in depth natal chart reading"
-layout: post
+layout: single
 ---
 
 # In Depth Natal Chart Reading: Unveiling the Secrets of Your Astrological Blueprint
