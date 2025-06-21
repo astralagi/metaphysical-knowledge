@@ -1,6 +1,6 @@
 ---
 title: "sagittarius and aquarius love compatibility"
-layout: post
+layout: single
 ---
 
 # Sagittarius and Aquarius Love Compatibility: A Celestial Spark
