@@ -1011,3 +1011,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces taurus compatibility]({% post_url 2025-06-21-pisces-taurus-compatibility %})
 - [how to find out if you are manglik]({% post_url 2025-06-21-how-to-find-out-if-you-are-manglik %})
 - [natal chart compatibility report free]({% post_url 2025-06-21-natal-chart-compatibility-report-free %})
+- [sun in aries vedic astrology]({% post_url 2025-06-21-sun-in-aries-vedic-astrology %})
