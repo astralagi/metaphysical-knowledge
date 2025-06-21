@@ -1,6 +1,6 @@
 ---
 title: "are scorpio and virgo soulmates"
-layout: post
+layout: single
 ---
 
 # Are Scorpio and Virgo Soulmates?
