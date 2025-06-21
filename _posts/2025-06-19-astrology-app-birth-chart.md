@@ -1,6 +1,6 @@
 ---
 title: "astrology app birth chart"
-layout: post
+layout: single
 ---
 
 # Astrology App Birth Chart: Unlocking Cosmic Insights with AI
