@@ -1,6 +1,6 @@
 ---
 title: "capricorn money and career"
-layout: post
+layout: single
 ---
 
 # Capricorn Money and Career: Unveiling Your Astrological Potential with AI
