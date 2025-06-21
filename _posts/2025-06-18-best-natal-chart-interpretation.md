@@ -1,6 +1,6 @@
 ---
 title: "best natal chart interpretation"
-layout: post
+layout: single
 ---
 
 # Best Natal Chart Interpretation: Unlocking Your Astrological Potential with AI
