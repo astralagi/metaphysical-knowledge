@@ -1,6 +1,6 @@
 ---
 title: "professional birth chart reading"
-layout: post
+layout: single
 ---
 
 # Professional Birth Chart Reading: Unlocking Your Career Potential with AI
