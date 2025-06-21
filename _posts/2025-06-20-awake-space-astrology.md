@@ -1,6 +1,6 @@
 ---
 title: "awake space astrology"
-layout: post
+layout: single
 ---
 
 # Awake Space Astrology: Navigating Your Cosmic Potential with AI
