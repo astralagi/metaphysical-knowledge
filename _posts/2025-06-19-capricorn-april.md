@@ -1,6 +1,6 @@
 ---
 title: "capricorn april"
-layout: post
+layout: single
 ---
 
 # Capricorn April: Navigating the Goat's Spring
