@@ -1,6 +1,6 @@
 ---
 title: "signe astrologique gémeaux"
-layout: post
+layout: single
 ---
 
 # signe astrologique gémeaux: Unveiling the Gemini's Astrological Secrets with AI
