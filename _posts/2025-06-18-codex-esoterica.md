@@ -1,6 +1,6 @@
 ---
 title: "codex esoterica"
-layout: post
+layout: single
 ---
 
 # Codex Esoterica: Unveiling Hidden Astrological Truths with AI
