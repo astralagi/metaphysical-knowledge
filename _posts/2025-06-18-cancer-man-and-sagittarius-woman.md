@@ -1,6 +1,6 @@
 ---
 title: "cancer man and sagittarius woman"
-layout: post
+layout: single
 ---
 
 # Cancer Man and Sagittarius Woman: A Celestial Dance of Opposites
