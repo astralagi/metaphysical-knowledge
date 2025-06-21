@@ -1,6 +1,6 @@
 ---
 title: "tula rashi"
-layout: post
+layout: single
 ---
 
 # Tula Rashi: Unveiling the Secrets of the Libra Sign with AI
