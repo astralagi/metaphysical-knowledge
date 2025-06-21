@@ -1,6 +1,6 @@
 ---
 title: "tarot pisces"
-layout: post
+layout: single
 ---
 
 # Tarot Pisces: Unveiling the Mystical Depths with AI
