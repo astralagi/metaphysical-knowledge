@@ -1,6 +1,6 @@
 ---
 title: "real astrology"
-layout: post
+layout: single
 ---
 
 # Real Astrology: Unveiling Authentic Astrological Insights with AI
