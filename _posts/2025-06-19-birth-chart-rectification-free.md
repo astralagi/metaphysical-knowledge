@@ -1,6 +1,6 @@
 ---
 title: "birth chart rectification free"
-layout: post
+layout: single
 ---
 
 # Birth Chart Rectification Free: Unveiling Your True Astrological Potential
