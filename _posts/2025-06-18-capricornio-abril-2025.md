@@ -1,6 +1,6 @@
 ---
 title: "capricornio abril 2025"
-layout: post
+layout: single
 ---
 
 # capricornio abril 2025
