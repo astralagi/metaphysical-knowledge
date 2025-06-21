@@ -1,6 +1,6 @@
 ---
 title: "libra latest tarot reading"
-layout: post
+layout: single
 ---
 
 # Libra Latest Tarot Reading: Unveiling Astrological Insights with AI
