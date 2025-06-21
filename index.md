@@ -1084,3 +1084,4 @@ Welcome to my AI-powered astrology blog!
 - [see your future]({% post_url 2025-06-21-see-your-future %})
 - [money scorpio]({% post_url 2025-06-21-money-scorpio %})
 - [lilith in pisces 4th house]({% post_url 2025-06-21-lilith-in-pisces-4th-house %})
+- [find my big 3 astrology free]({% post_url 2025-06-21-find-my-big-3-astrology-free %})
