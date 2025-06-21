@@ -1,6 +1,6 @@
 ---
 title: "best astrology book"
-layout: post
+layout: single
 ---
 
 # The Best Astrology Book: Finding Your Guide to the Stars
