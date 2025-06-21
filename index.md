@@ -1085,3 +1085,4 @@ Welcome to my AI-powered astrology blog!
 - [kundli without birth time]({% post_url 2025-06-21-kundli-without-birth-time %})
 - [horoscope based on birth chart]({% post_url 2025-06-21-horoscope-based-on-birth-chart %})
 - [vrishchik lagna 2025]({% post_url 2025-06-21-vrishchik-lagna-2025 %})
+- [val evans forensic astrologer]({% post_url 2025-06-21-val-evans-forensic-astrologer %})
