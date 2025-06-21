@@ -1,6 +1,6 @@
 ---
 title: "the pattern astrology premium mod apk"
-layout: post
+layout: single
 ---
 
 # The Pattern Astrology Premium Mod APK: Unveiling Astrological Insights with AI
