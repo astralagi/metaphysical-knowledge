@@ -1,6 +1,6 @@
 ---
 title: "astroseekers"
-layout: post
+layout: single
 ---
 
 # AstroSeekers: Unveiling Your Celestial Path with AI-Powered Astrology
