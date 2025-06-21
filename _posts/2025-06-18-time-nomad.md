@@ -1,6 +1,6 @@
 ---
 title: "time nomad"
-layout: post
+layout: single
 ---
 
 # Time Nomad: Navigating Life's Currents with Astrological Insights and AI
