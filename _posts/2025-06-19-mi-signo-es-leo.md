@@ -1,6 +1,6 @@
 ---
 title: "mi signo es leo"
-layout: post
+layout: single
 ---
 
 # Mi Signo Es Leo: Uncovering the Fiery Heart of the Lion with AI
