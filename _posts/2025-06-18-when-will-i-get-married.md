@@ -1,6 +1,6 @@
 ---
 title: "when will i get married"
-layout: post
+layout: single
 ---
 
 # When Will I Get Married? An Astrological and AI Perspective
