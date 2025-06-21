@@ -1,6 +1,6 @@
 ---
 title: "astrowin natal chart"
-layout: post
+layout: single
 ---
 
 # astrowin natal chart: Unveiling Your Astrological Blueprint with AI
