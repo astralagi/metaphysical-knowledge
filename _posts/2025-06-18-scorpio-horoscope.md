@@ -1,6 +1,6 @@
 ---
 title: "scorpio horoscope"
-layout: post
+layout: single
 ---
 
 # Scorpio Horoscope: Unlocking Your Potential with AI-Driven Astrology
