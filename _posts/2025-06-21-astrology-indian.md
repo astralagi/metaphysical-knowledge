@@ -1,6 +1,6 @@
 ---
 title: "astrology indian"
-layout: post
+layout: single
 ---
 
 # Astrology Indian: Unveiling the Wisdom of Jyotish with AI
