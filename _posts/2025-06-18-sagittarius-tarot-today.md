@@ -1,6 +1,6 @@
 ---
 title: "sagittarius tarot today"
-layout: post
+layout: single
 ---
 
 # Sagittarius Tarot Today: Unlocking Astrological Insights with AI
