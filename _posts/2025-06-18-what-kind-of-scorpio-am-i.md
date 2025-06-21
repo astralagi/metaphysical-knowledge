@@ -1,6 +1,6 @@
 ---
 title: "what kind of scorpio am i"
-layout: post
+layout: single
 ---
 
 # What Kind of Scorpio Am I? Unveiling Your Scorpio Subtype with AI
