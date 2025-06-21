@@ -1,6 +1,6 @@
 ---
 title: "meen rashi horoscope 2025"
-layout: post
+layout: single
 ---
 
 # Meen Rashi Horoscope 2025: Navigating the Year Ahead with AI-Powered Astrology
