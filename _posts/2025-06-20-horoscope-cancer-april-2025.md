@@ -1,6 +1,6 @@
 ---
 title: "horoscope cancer april 2025"
-layout: post
+layout: single
 ---
 
 # Horoscope Cancer April 2025
