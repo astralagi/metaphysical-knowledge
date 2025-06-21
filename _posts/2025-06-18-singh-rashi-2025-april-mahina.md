@@ -1,6 +1,6 @@
 ---
 title: "singh rashi 2025 april mahina"
-layout: post
+layout: single
 ---
 
 # Singh Rashi 2025 April Mahina: Unveiling the Astrological Landscape with AI
