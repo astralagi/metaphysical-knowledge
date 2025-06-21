@@ -1,6 +1,6 @@
 ---
 title: "astroyogi"
-layout: post
+layout: single
 ---
 
 # Astroyogi: Unveiling the Power of Yogic Planetary Combinations with AI
