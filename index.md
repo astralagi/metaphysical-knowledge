@@ -1033,3 +1033,4 @@ Welcome to my AI-powered astrology blog!
 - [what is my zodiac sign for december]({% post_url 2025-06-21-what-is-my-zodiac-sign-for-december %})
 - [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
 - [9th house astrology meaning]({% post_url 2025-06-21-9th-house-astrology-meaning %})
+- [gurubala banaye veer ji]({% post_url 2025-06-21-gurubala-banaye-veer-ji %})
