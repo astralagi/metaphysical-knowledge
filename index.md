@@ -1012,3 +1012,4 @@ Welcome to my AI-powered astrology blog!
 - [best free astrology app]({% post_url 2025-06-21-best-free-astrology-app %})
 - [which zodiacs go together]({% post_url 2025-06-21-which-zodiacs-go-together %})
 - [aries tarot reading today 2025]({% post_url 2025-06-21-aries-tarot-reading-today-2025 %})
+- [what is my 7th house calculate free]({% post_url 2025-06-21-what-is-my-7th-house-calculate-free %})
