@@ -1159,3 +1159,4 @@ Welcome to my AI-powered astrology blog!
 - [what is my rashi by date of birth]({% post_url 2025-06-21-what-is-my-rashi-by-date-of-birth %})
 - [gemini astrology 2025]({% post_url 2025-06-21-gemini-astrology-2025 %})
 - [navamsa]({% post_url 2025-06-21-navamsa %})
+- [horoscope today scorpio]({% post_url 2025-06-21-horoscope-today-scorpio %})
