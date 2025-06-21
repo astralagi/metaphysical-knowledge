@@ -1,6 +1,6 @@
 ---
 title: "birth chart reader"
-layout: post
+layout: single
 ---
 
 # Birth Chart Reader: Unlocking Your Astrological Potential with AI
