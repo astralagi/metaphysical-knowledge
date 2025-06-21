@@ -1,6 +1,6 @@
 ---
 title: "free astrology prediction"
-layout: post
+layout: single
 ---
 
 # Free Astrology Prediction: Unveiling Your Cosmic Potential with AI
