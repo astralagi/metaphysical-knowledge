@@ -1,6 +1,6 @@
 ---
 title: "numerology chart"
-layout: post
+layout: single
 ---
 
 # Numerology Chart: Unlocking Life's Code with AI-Powered Astrology
