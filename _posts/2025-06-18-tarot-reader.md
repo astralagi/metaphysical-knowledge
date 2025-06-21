@@ -1,6 +1,6 @@
 ---
 title: "tarot reader"
-layout: post
+layout: single
 ---
 
 # Tarot Reader: Unlocking Astrological Insights with AI
