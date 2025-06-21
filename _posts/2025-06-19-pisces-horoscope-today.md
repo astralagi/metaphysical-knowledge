@@ -1,6 +1,6 @@
 ---
 title: "pisces horoscope today"
-layout: post
+layout: single
 ---
 
 # Pisces Horoscope Today: Unlocking Your Potential with AI-Powered Astrology
