@@ -1,6 +1,6 @@
 ---
 title: "bad kundali"
-layout: post
+layout: single
 ---
 
 # Bad Kundali: Understanding and Mitigating Astrological Challenges
