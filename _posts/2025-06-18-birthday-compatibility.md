@@ -1,6 +1,6 @@
 ---
 title: "birthday compatibility"
-layout: post
+layout: single
 ---
 
 # Birthday Compatibility: Unveiling the Cosmic Connections
