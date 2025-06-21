@@ -1,6 +1,6 @@
 ---
 title: "how to tell your zodiac sign"
-layout: post
+layout: single
 ---
 
 # How to Tell Your Zodiac Sign
