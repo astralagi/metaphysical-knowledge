@@ -1,6 +1,6 @@
 ---
 title: "mercury in gemini birth chart"
-layout: post
+layout: single
 ---
 
 # Mercury in Gemini Birth Chart: A Deep Dive with AI Assistance
