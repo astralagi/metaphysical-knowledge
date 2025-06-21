@@ -1,6 +1,6 @@
 ---
 title: "zodiac attraction"
-layout: post
+layout: single
 ---
 
 # Zodiac Attraction: Unveiling the Cosmic Chemistry
