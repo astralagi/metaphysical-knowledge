@@ -1,6 +1,6 @@
 ---
 title: "astrology birthday book a guide to your personality and destiny"
-layout: post
+layout: single
 ---
 
 # Astrology Birthday Book: A Guide to Your Personality and Destiny
