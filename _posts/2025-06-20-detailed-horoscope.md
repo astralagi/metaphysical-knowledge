@@ -1,6 +1,6 @@
 ---
 title: "detailed horoscope"
-layout: post
+layout: single
 ---
 
 # Detailed Horoscope: Unlocking the Nuances of Your Astrological Blueprint
