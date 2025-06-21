@@ -1,6 +1,6 @@
 ---
 title: "astrology predictions"
-layout: post
+layout: single
 ---
 
 # Astrology Predictions: Unveiling the Future with AI
