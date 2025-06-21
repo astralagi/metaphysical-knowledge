@@ -1,6 +1,6 @@
 ---
 title: "rashifal by name"
-layout: post
+layout: single
 ---
 
 # Rashifal by Name: Unveiling Astrological Insights Through AI
