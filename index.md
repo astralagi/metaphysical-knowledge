@@ -990,3 +990,4 @@ Welcome to my AI-powered astrology blog!
 - [zodiacal releasing]({% post_url 2025-06-21-zodiacal-releasing %})
 - [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
 - [free astrologer]({% post_url 2025-06-21-free-astrologer %})
+- [astrological chart generator]({% post_url 2025-06-21-astrological-chart-generator %})
