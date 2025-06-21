@@ -1,6 +1,6 @@
 ---
 title: "how to see kundli"
-layout: post
+layout: single
 ---
 
 # How to See Kundli: Unveiling Your Astrological Blueprint
