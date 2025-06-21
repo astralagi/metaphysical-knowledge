@@ -1,6 +1,6 @@
 ---
 title: "free human design reading"
-layout: post
+layout: single
 ---
 
 # Free Human Design Reading: Unlocking Your Life's Blueprint with AI
