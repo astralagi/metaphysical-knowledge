@@ -1,6 +1,6 @@
 ---
 title: "aquarius career and money"
-layout: post
+layout: single
 ---
 
 # Aquarius Career and Money: Unveiling Astrological Insights with AI
