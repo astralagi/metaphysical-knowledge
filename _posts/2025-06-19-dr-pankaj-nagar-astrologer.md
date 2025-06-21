@@ -1,6 +1,6 @@
 ---
 title: "dr pankaj nagar astrologer"
-layout: post
+layout: single
 ---
 
 # Dr Pankaj Nagar Astrologer: Unveiling Astrological Insights with AI
