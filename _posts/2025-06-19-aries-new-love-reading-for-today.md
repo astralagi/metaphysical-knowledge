@@ -1,6 +1,6 @@
 ---
 title: "aries new love reading for today"
-layout: post
+layout: single
 ---
 
 # Aries New Love Reading for Today
