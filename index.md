@@ -1019,3 +1019,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces]({% post_url 2025-06-21-pisces %})
 - [nakul parashar astrologer fees]({% post_url 2025-06-21-nakul-parashar-astrologer-fees %})
 - [astro finesse scorpio rising]({% post_url 2025-06-21-astro-finesse-scorpio-rising %})
+- [capricorn love]({% post_url 2025-06-21-capricorn-love %})
