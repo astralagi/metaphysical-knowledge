@@ -1,6 +1,6 @@
 ---
 title: "what zodiac signs are not compatibility with cancer"
-layout: post
+layout: single
 ---
 
 # What Zodiac Signs Are Not Compatible With Cancer?
