@@ -1,6 +1,6 @@
 ---
 title: "my numerology report"
-layout: post
+layout: single
 ---
 
 # My Numerology Report: Unveiling Your Life Path with AI-Powered Astrology
