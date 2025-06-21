@@ -1,6 +1,6 @@
 ---
 title: "cosmic owl astrology"
-layout: post
+layout: single
 ---
 
 # Cosmic Owl Astrology: Unlocking Wisdom Through AI-Powered Astrology
