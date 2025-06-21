@@ -1,6 +1,6 @@
 ---
 title: "virgo love making"
-layout: post
+layout: single
 ---
 
 # Virgo Love Making: An Astrological Exploration Enhanced by AI
