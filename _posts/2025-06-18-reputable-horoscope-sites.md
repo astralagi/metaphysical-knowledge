@@ -1,6 +1,6 @@
 ---
 title: "reputable horoscope sites"
-layout: post
+layout: single
 ---
 
 # Reputable Horoscope Sites: Navigating the Astrological Landscape with AI
