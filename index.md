@@ -1141,3 +1141,4 @@ Welcome to my AI-powered astrology blog!
 - [laurie rivers astrology]({% post_url 2025-06-21-laurie-rivers-astrology %})
 - [libra tula rashi]({% post_url 2025-06-21-libra-tula-rashi %})
 - [zodiac element signs]({% post_url 2025-06-21-zodiac-element-signs %})
+- [virgo love horoscope]({% post_url 2025-06-21-virgo-love-horoscope %})
