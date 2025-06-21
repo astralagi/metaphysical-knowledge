@@ -1,6 +1,6 @@
 ---
 title: "aquarius today"
-layout: post
+layout: single
 ---
 
 # Aquarius Today: Unlocking the Airy Potential with AI-Powered Astrology
