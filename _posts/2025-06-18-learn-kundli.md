@@ -1,6 +1,6 @@
 ---
 title: "learn kundli"
-layout: post
+layout: single
 ---
 
 # Learn Kundli: Unlocking Your Astrological Potential with AI
