@@ -1,6 +1,6 @@
 ---
 title: "capricorn woman cancer man"
-layout: post
+layout: single
 ---
 
 # Capricorn Woman Cancer Man: A Celestial Dance of Opposites
