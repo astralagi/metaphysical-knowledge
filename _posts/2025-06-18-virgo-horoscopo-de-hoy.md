@@ -1,6 +1,6 @@
 ---
 title: "virgo horoscopo de hoy"
-layout: post
+layout: single
 ---
 
 # Virgo Horóscopo de Hoy: Unveiling Your Daily Astrological Potential with AI
