@@ -1,6 +1,6 @@
 ---
 title: "palmistry reading free"
-layout: post
+layout: single
 ---
 
 # Palmistry Reading Free: Unlocking Your Life's Blueprint with AI
