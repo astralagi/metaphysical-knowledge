@@ -1,7 +1,7 @@
 ```markdown
 ---
 title: "horoscopes"
-layout: post
+layout: single
 ---
 
 # Horoscopes: Unveiling Your Astrological Blueprint with AI
