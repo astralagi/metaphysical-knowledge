@@ -1,6 +1,6 @@
 ---
 title: "birth chart relationship compatibility"
-layout: post
+layout: single
 ---
 
 # Birth Chart Relationship Compatibility: Unveiling Astrological Harmony with AI
