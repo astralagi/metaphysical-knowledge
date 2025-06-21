@@ -1,6 +1,6 @@
 ---
 title: "horoscope aquarius"
-layout: post
+layout: single
 ---
 
 # Horoscope Aquarius: Unveiling the Water Bearer's Secrets with AI
