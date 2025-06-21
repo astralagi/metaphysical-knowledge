@@ -1053,3 +1053,4 @@ Welcome to my AI-powered astrology blog!
 - [what is my zodiac sign for december]({% post_url 2025-06-21-what-is-my-zodiac-sign-for-december %})
 - [gurubala banaye veer ji]({% post_url 2025-06-21-gurubala-banaye-veer-ji %})
 - [lunatic astrologer]({% post_url 2025-06-21-lunatic-astrologer %})
+- [palm reading scanner]({% post_url 2025-06-21-palm-reading-scanner %})
