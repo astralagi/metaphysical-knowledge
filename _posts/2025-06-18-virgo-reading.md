@@ -1,6 +1,6 @@
 ---
 title: "virgo reading"
-layout: post
+layout: single
 ---
 
 # Virgo Reading: Unlocking Your Potential with AI-Powered Astrology
