@@ -1,6 +1,6 @@
 ---
 title: "fire and air signs compatibility"
-layout: post
+layout: single
 ---
 
 # Fire and Air Signs Compatibility: An Astrological Exploration Enhanced by AI
