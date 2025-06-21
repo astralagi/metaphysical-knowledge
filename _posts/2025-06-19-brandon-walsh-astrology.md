@@ -1,6 +1,6 @@
 ---
 title: "brandon walsh astrology"
-layout: post
+layout: single
 ---
 
 # Brandon Walsh Astrology: Unveiling the Astrological Profile with AI
