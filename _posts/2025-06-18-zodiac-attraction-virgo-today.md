@@ -1,6 +1,6 @@
 ---
 title: "zodiac attraction virgo today"
-layout: post
+layout: single
 ---
 
 # Zodiac Attraction Virgo Today
