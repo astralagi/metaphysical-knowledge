@@ -1,6 +1,6 @@
 ---
 title: "birth chart houses"
-layout: post
+layout: single
 ---
 
 # Birth Chart Houses: Unveiling Your Life's Blueprint
