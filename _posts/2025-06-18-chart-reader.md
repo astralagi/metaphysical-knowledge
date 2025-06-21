@@ -1,6 +1,6 @@
 ---
 title: "chart reader"
-layout: post
+layout: single
 ---
 
 # Chart Reader: Unveiling the Secrets of Your Astrological Blueprint with AI
