@@ -1,6 +1,6 @@
 ---
 title: "lotus tarot reading free"
-layout: post
+layout: single
 ---
 
 # Lotus Tarot Reading Free: Unfolding Your Destiny with AI-Powered Astrology
