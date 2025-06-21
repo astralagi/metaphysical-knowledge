@@ -1088,3 +1088,4 @@ Welcome to my AI-powered astrology blog!
 - [val evans forensic astrologer]({% post_url 2025-06-21-val-evans-forensic-astrologer %})
 - [myastroguruji]({% post_url 2025-06-21-myastroguruji %})
 - [wealth birth chart calculator]({% post_url 2025-06-21-wealth-birth-chart-calculator %})
+- [leo numerology number]({% post_url 2025-06-21-leo-numerology-number %})
