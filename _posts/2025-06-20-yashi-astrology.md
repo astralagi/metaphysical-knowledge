@@ -1,6 +1,6 @@
 ---
 title: "yashi astrology"
-layout: post
+layout: single
 ---
 
 # Yashi Astrology: Unveiling the Cosmic Influence with AI
