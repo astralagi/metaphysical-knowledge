@@ -1,6 +1,6 @@
 ---
 title: "janampatri reading online free"
-layout: post
+layout: single
 ---
 
 # Janampatri Reading Online Free: Unveiling Your Astrological Blueprint
