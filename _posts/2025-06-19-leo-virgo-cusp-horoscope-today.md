@@ -1,6 +1,6 @@
 ---
 title: "leo virgo cusp horoscope today"
-layout: post
+layout: single
 ---
 
 # Leo Virgo Cusp Horoscope Today
