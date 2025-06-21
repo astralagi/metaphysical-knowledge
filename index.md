@@ -1181,3 +1181,4 @@ Welcome to my AI-powered astrology blog!
 - [free horary]({% post_url 2025-06-21-free-horary %})
 - [lloyd strayhorn numerology]({% post_url 2025-06-21-lloyd-strayhorn-numerology %})
 - [astro kimi]({% post_url 2025-06-21-astro-kimi %})
+- [free astrology reports online]({% post_url 2025-06-21-free-astrology-reports-online %})
