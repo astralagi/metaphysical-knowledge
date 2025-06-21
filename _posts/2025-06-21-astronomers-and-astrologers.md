@@ -1,6 +1,6 @@
 ---
 title: "astronomers and astrologers"
-layout: post
+layout: single
 ---
 
 # Astronomers and Astrologers: A Celestial Convergence of Science and Spirit
