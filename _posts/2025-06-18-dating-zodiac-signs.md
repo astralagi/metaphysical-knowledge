@@ -1,6 +1,6 @@
 ---
 title: "dating zodiac signs"
-layout: post
+layout: single
 ---
 
 # Dating Zodiac Signs: Unveiling Compatibility with AI
