@@ -1,6 +1,6 @@
 ---
 title: "how can i check my kundli online for free"
-layout: post
+layout: single
 ---
 
 # How Can I Check My Kundli Online for Free?
