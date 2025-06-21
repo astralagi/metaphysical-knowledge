@@ -1,6 +1,6 @@
 ---
 title: "download birth chart"
-layout: post
+layout: single
 ---
 
 # Download Birth Chart: Unlocking Your Astrological Potential with AI
