@@ -1,6 +1,6 @@
 ---
 title: "astronacci"
-layout: post
+layout: single
 ---
 
 # Astronacci: Unveiling the Celestial Sequence of Success
