@@ -1202,3 +1202,4 @@ Welcome to my AI-powered astrology blog!
 - [terence guardino astrology]({% post_url 2025-06-21-terence-guardino-astrology %})
 - [pisces tarot april 2025]({% post_url 2025-06-21-pisces-tarot-april-2025 %})
 - [birth chart maker]({% post_url 2025-06-21-birth-chart-maker %})
+- [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
