@@ -1,6 +1,6 @@
 ---
 title: "astrology career prediction"
-layout: post
+layout: single
 ---
 
 # Astrology Career Prediction: Unveiling Your Cosmic Career Path
