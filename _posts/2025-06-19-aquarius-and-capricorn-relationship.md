@@ -1,6 +1,6 @@
 ---
 title: "aquarius and capricorn relationship"
-layout: post
+layout: single
 ---
 
 # Aquarius and Capricorn Relationship: A Celestial Dance of Air and Earth
