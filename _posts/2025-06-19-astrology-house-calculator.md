@@ -1,6 +1,6 @@
 ---
 title: "astrology house calculator"
-layout: post
+layout: single
 ---
 
 # Astrology House Calculator: Unveiling Your Astrological Blueprint with AI
