@@ -1,6 +1,6 @@
 ---
 title: "cailin astrology"
-layout: post
+layout: single
 ---
 
 # Cailin Astrology: Unlocking Personal Insights with AI
