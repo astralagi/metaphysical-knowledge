@@ -1,6 +1,6 @@
 ---
 title: "pisces tarot reading"
-layout: post
+layout: single
 ---
 
 # Pisces Tarot Reading: Unlocking the Mysteries of the Twelfth Sign
