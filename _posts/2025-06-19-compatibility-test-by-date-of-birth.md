@@ -1,6 +1,6 @@
 ---
 title: "compatibility test by date of birth"
-layout: post
+layout: single
 ---
 
 # Compatibility Test by Date of Birth: Unveiling Astrological Connections with AI
