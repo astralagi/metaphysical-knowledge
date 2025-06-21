@@ -1,6 +1,6 @@
 ---
 title: "capricorn march 2025"
-layout: post
+layout: single
 ---
 
 # Capricorn March 2025: Navigating the Ambitions of the Goat
