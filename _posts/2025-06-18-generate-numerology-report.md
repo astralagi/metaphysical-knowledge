@@ -1,6 +1,6 @@
 ---
 title: "generate numerology report"
-layout: post
+layout: single
 ---
 
 # Generate Numerology Report: Unlocking Life's Blueprint with AI
