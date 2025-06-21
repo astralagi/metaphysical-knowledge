@@ -1,6 +1,6 @@
 ---
 title: "clickastro"
-layout: post
+layout: single
 ---
 
 # clickastro: Unveiling the Power of AI in Astrological Analysis
