@@ -1,6 +1,6 @@
 ---
 title: "astro seek surgery"
-layout: post
+layout: single
 ---
 
 # Astro Seek Surgery: Unveiling the Cosmic Blueprint for Elective Procedures
