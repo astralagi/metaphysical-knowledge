@@ -1,6 +1,6 @@
 ---
 title: "saber es poder virgo hoy"
-layout: post
+layout: single
 ---
 
 # saber es poder virgo hoy: Unveiling Virgo's Power Through Knowledge and AI
