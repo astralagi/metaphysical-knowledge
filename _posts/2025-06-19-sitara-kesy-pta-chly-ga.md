@@ -1,6 +1,6 @@
 ---
 title: "sitara kesy pta chly ga"
-layout: post
+layout: single
 ---
 
 # Sitara Kesy Pta Chly Ga: Unveiling Astrological Insights with AI
