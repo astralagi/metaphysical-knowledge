@@ -1,6 +1,6 @@
 ---
 title: "porondama"
-layout: post
+layout: single
 ---
 
 # Porondama: Unveiling the Hidden Depths of Astrological Timing with AI
