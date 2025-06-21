@@ -1,6 +1,6 @@
 ---
 title: "pisces horoscope 2025"
-layout: post
+layout: single
 ---
 
 # Pisces Horoscope 2025: Navigating the Tides of Change with AI
