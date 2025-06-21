@@ -1,6 +1,6 @@
 ---
 title: "how can i find my rising sign"
-layout: post
+layout: single
 ---
 
 # How Can I Find My Rising Sign?
