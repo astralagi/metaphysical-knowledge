@@ -1,6 +1,6 @@
 ---
 title: "arvind sood numerologist"
-layout: post
+layout: single
 ---
 
 # Arvind Sood Numerologist: Unveiling Life's Blueprint Through AI-Powered Astrology
