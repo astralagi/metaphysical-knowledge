@@ -1,6 +1,6 @@
 ---
 title: "astrologer dr richa shukla"
-layout: post
+layout: single
 ---
 
 # Astrologer Dr Richa Shukla: Unveiling Astrological Insights with AI
