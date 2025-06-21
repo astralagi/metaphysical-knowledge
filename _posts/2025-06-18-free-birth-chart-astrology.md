@@ -1,6 +1,6 @@
 ---
 title: "free birth chart astrology"
-layout: post
+layout: single
 ---
 
 # Free Birth Chart Astrology: Unlocking Your Astrological Potential with AI
