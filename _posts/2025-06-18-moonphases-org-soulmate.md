@@ -1,6 +1,6 @@
 ---
 title: "moonphases org soulmate"
-layout: post
+layout: single
 ---
 
 # Moonphases Org Soulmate: Unveiling Astrological Connections with AI
