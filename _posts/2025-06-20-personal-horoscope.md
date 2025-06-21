@@ -1,6 +1,6 @@
 ---
 title: "personal horoscope"
-layout: post
+layout: single
 ---
 
 # Personal Horoscope: Unlocking Your Astrological Potential with AI
