@@ -1,6 +1,6 @@
 ---
 title: "sagittarius love reading"
-layout: post
+layout: single
 ---
 
 # Sagittarius Love Reading: Unlocking the Archer's Heart with AI Astrology
