@@ -1,6 +1,6 @@
 ---
 title: "personal chart reading"
-layout: post
+layout: single
 ---
 
 # Personal Chart Reading: Unlocking Your Astrological Blueprint with AI
