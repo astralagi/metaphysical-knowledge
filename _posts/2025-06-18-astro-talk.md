@@ -1,6 +1,6 @@
 ---
 title: "astro talk"
-layout: post
+layout: single
 ---
 
 # Astro Talk: Unlocking Celestial Insights with AI
