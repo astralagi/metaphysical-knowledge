@@ -1,6 +1,6 @@
 ---
 title: "astrofinesse"
-layout: post
+layout: single
 ---
 
 # Astrofinesse: Unveiling the Subtle Nuances of Your Astrological Chart with AI
