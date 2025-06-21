@@ -1146,3 +1146,4 @@ Welcome to my AI-powered astrology blog!
 - [sign of september 22]({% post_url 2025-06-21-sign-of-september-22 %})
 - [dr y rakhi astrologer live video]({% post_url 2025-06-21-dr-y-rakhi-astrologer-live-video %})
 - [medium chat online free]({% post_url 2025-06-21-medium-chat-online-free %})
+- [leo sun aquarius moon aries rising]({% post_url 2025-06-21-leo-sun-aquarius-moon-aries-rising %})
