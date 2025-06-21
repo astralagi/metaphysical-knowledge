@@ -1195,3 +1195,4 @@ Welcome to my AI-powered astrology blog!
 - [best places to live according to your birth chart]({% post_url 2025-06-21-best-places-to-live-according-to-your-birth-chart %})
 - [cognitive universe libra]({% post_url 2025-06-21-cognitive-universe-libra %})
 - [birth chart websites]({% post_url 2025-06-21-birth-chart-websites %})
+- [capricorn daily horoscope today]({% post_url 2025-06-21-capricorn-daily-horoscope-today %})
