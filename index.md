@@ -1043,3 +1043,4 @@ Welcome to my AI-powered astrology blog!
 - [pisces]({% post_url 2025-06-21-pisces %})
 - [nakul parashar astrologer fees]({% post_url 2025-06-21-nakul-parashar-astrologer-fees %})
 - [leo love reading]({% post_url 2025-06-21-leo-love-reading %})
+- [online birth charts]({% post_url 2025-06-21-online-birth-charts %})
