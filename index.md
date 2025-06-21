@@ -1156,3 +1156,4 @@ Welcome to my AI-powered astrology blog!
 - [san tarot gemini]({% post_url 2025-06-21-san-tarot-gemini %})
 - [free navamsa chart prediction for marriage]({% post_url 2025-06-21-free-navamsa-chart-prediction-for-marriage %})
 - [free online psychic reading]({% post_url 2025-06-21-free-online-psychic-reading %})
+- [what is my rashi by date of birth]({% post_url 2025-06-21-what-is-my-rashi-by-date-of-birth %})
