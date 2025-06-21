@@ -1,6 +1,6 @@
 ---
 title: "aries and virgo compatibility love"
-layout: post
+layout: single
 ---
 
 # Aries and Virgo Compatibility Love: A Fire and Earth Encounter
