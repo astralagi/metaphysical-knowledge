@@ -1,6 +1,6 @@
 ---
 title: "horoscopes for today"
-layout: post
+layout: single
 ---
 
 # Horoscopes for Today: Unveiling Daily Astrological Insights with AI
