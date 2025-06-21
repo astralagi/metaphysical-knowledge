@@ -1,6 +1,6 @@
 ---
 title: "astro jyotish"
-layout: post
+layout: single
 ---
 
 # Astro Jyotish: Unveiling the Cosmic Blueprint with AI
