@@ -1,6 +1,6 @@
 ---
 title: "Lunar Nodes"
-layout: post
+layout: single
 ---
 
 # Lunar Nodes
