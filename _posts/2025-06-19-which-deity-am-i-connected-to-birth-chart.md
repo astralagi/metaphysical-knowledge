@@ -1,6 +1,6 @@
 ---
 title: "which deity am i connected to birth chart"
-layout: post
+layout: single
 ---
 
 # Which Deity Am I Connected To: Birth Chart Deities and AI
