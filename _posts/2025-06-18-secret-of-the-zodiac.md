@@ -1,6 +1,6 @@
 ---
 title: "secret of the zodiac"
-layout: post
+layout: single
 ---
 
 # Secret of the Zodiac: Unveiling Hidden Astrological Insights with AI
