@@ -1,6 +1,6 @@
 ---
 title: "astro mysore"
-layout: post
+layout: single
 ---
 
 # Astro Mysore: Unveiling the Astrological Secrets of Mysore with AI
