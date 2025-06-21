@@ -1,6 +1,6 @@
 ---
 title: "astrology lilith"
-layout: post
+layout: single
 ---
 
 # Astrology Lilith: Unveiling the Shadow Self with AI
