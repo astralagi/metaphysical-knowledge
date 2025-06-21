@@ -1,6 +1,6 @@
 ---
 title: "free cartomancy reading"
-layout: post
+layout: single
 ---
 
 # Free Cartomancy Reading: Unlocking Astrological Insights with AI
