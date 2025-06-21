@@ -1,6 +1,6 @@
 ---
 title: "geminis de hoy"
-layout: post
+layout: single
 ---
 
 # Geminis de Hoy: Unlocking Daily Astrological Insights with AI
