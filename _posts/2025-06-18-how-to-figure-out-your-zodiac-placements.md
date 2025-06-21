@@ -1,6 +1,6 @@
 ---
 title: "how to figure out your zodiac placements"
-layout: post
+layout: single
 ---
 
 # How to Figure Out Your Zodiac Placements
