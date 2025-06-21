@@ -1,6 +1,6 @@
 ---
 title: "free in depth birth chart"
-layout: post
+layout: single
 ---
 
 # Free In-Depth Birth Chart: Unlocking Your Astrological Potential with AI
