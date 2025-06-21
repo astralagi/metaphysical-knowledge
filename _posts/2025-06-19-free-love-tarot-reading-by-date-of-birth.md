@@ -1,6 +1,6 @@
 ---
 title: "free love tarot reading by date of birth"
-layout: post
+layout: single
 ---
 
 # Free Love Tarot Reading by Date of Birth: Unlocking Romantic Insights with AI
