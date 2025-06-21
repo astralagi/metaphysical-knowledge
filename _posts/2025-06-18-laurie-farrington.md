@@ -1,6 +1,6 @@
 ---
 title: "laurie farrington"
-layout: post
+layout: single
 ---
 
 # Laurie Farrington: An Astrological Exploration Enhanced by AI
