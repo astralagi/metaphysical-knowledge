@@ -1,6 +1,6 @@
 ---
 title: "9th house astrology meaning"
-layout: post
+layout: single
 ---
 
 # 9th House Astrology Meaning: Exploring Higher Learning and Distant Horizons with AI
