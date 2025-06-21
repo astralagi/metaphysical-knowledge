@@ -1,6 +1,6 @@
 ---
 title: "nuit astrology"
-layout: post
+layout: single
 ---
 
 # Nuit Astrology: Unveiling the Night's Celestial Secrets with AI
