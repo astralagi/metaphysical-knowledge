@@ -1,6 +1,6 @@
 ---
 title: "astrological"
-layout: post
+layout: single
 ---
 
 # Astrological: Unveiling the Celestial Influence Through AI
