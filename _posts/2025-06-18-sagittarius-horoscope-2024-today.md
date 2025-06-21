@@ -1,6 +1,6 @@
 ---
 title: "sagittarius horoscope 2024 today"
-layout: post
+layout: single
 ---
 
 # Sagittarius Horoscope 2024 Today: Navigating the Year with AI-Powered Astrology
