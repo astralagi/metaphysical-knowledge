@@ -1,6 +1,6 @@
 ---
 title: "gemini love"
-layout: post
+layout: single
 ---
 
 # Gemini Love: Navigating the Airy Twists and Turns with AI
