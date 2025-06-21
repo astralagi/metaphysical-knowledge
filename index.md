@@ -1077,3 +1077,4 @@ Welcome to my AI-powered astrology blog!
 - [marriage astrology free]({% post_url 2025-06-21-marriage-astrology-free %})
 - [virgo horoscope]({% post_url 2025-06-21-virgo-horoscope %})
 - [free kundali reading online]({% post_url 2025-06-21-free-kundali-reading-online %})
+- [destiny matrix chart interpretation free]({% post_url 2025-06-21-destiny-matrix-chart-interpretation-free %})
