@@ -1,6 +1,6 @@
 ---
 title: "virgo reading today"
-layout: post
+layout: single
 ---
 
 # Virgo Reading Today: Unlocking Your Potential with AI Astrology
