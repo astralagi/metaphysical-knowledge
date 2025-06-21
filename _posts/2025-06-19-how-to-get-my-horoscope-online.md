@@ -1,6 +1,6 @@
 ---
 title: "how to get my horoscope online"
-layout: post
+layout: single
 ---
 
 # How to Get My Horoscope Online: A Guide to Astrological Insights in the Digital Age
