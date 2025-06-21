@@ -1,6 +1,6 @@
 ---
 title: "scorpio horoscope astrology"
-layout: post
+layout: single
 ---
 
 # Scorpio Horoscope Astrology: Unlocking the Secrets of the Water Scorpion
