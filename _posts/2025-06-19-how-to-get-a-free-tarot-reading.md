@@ -1,6 +1,6 @@
 ---
 title: "how to get a free tarot reading"
-layout: post
+layout: single
 ---
 
 # How to Get a Free Tarot Reading
