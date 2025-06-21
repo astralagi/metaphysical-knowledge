@@ -1,6 +1,6 @@
 ---
 title: "kaartik gor astrologer"
-layout: post
+layout: single
 ---
 
 # Kaartik Gor Astrologer: Unveiling Astrological Insights with AI
