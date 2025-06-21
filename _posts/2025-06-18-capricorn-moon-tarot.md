@@ -1,6 +1,6 @@
 ---
 title: "capricorn moon tarot"
-layout: post
+layout: single
 ---
 
 # Capricorn Moon Tarot: Unveiling the Ambitious Soul with AI Astrology
