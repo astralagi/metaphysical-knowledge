@@ -1,6 +1,6 @@
 ---
 title: "astro com chart"
-layout: post
+layout: single
 ---
 
 # astro com chart: Unlocking Astrological Insights with AI
