@@ -1,6 +1,6 @@
 ---
 title: "accurate daily scorpio horoscope"
-layout: post
+layout: single
 ---
 
 # Accurate Daily Scorpio Horoscope: Unveiling the Secrets of the Scorpion with AI
