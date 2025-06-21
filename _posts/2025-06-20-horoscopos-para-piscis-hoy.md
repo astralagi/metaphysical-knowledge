@@ -1,6 +1,6 @@
 ---
 title: "horoscopos para piscis hoy"
-layout: post
+layout: single
 ---
 
 # horoscopos para piscis hoy: Unveiling Your Daily Pisces Astrological Forecast with AI
