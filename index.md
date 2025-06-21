@@ -1029,3 +1029,4 @@ Welcome to my AI-powered astrology blog!
 - [vedic astrology report]({% post_url 2025-06-21-vedic-astrology-report %})
 - [astrologer in canada]({% post_url 2025-06-21-astrologer-in-canada %})
 - [palm reader online free]({% post_url 2025-06-21-palm-reader-online-free %})
+- [how to know which is your zodiac sign]({% post_url 2025-06-21-how-to-know-which-is-your-zodiac-sign %})
