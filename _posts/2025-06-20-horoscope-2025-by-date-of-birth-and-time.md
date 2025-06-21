@@ -1,6 +1,6 @@
 ---
 title: "horoscope 2025 by date of birth and time"
-layout: post
+layout: single
 ---
 
 # Horoscope 2025 by Date of Birth and Time
