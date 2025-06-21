@@ -1,6 +1,6 @@
 ---
 title: "quietest revolution aries"
-layout: post
+layout: single
 ---
 
 # The Quietest Revolution: Aries's Inner Transformation
