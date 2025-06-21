@@ -1,6 +1,6 @@
 ---
 title: "dr honey astrology"
-layout: post
+layout: single
 ---
 
 # dr honey astrology: Unveiling Personalized Astrological Insights with AI
