@@ -1187,3 +1187,4 @@ Welcome to my AI-powered astrology blog!
 - [neptune in scorpio 10th house]({% post_url 2025-06-21-neptune-in-scorpio-10th-house %})
 - [dev astrology]({% post_url 2025-06-21-dev-astrology %})
 - [birth placement]({% post_url 2025-06-21-birth-placement %})
+- [capricorn job reading]({% post_url 2025-06-21-capricorn-job-reading %})
