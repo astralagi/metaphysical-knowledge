@@ -1,6 +1,6 @@
 ---
 title: "taurus tarot reading today 2025"
-layout: post
+layout: single
 ---
 
 # Taurus Tarot Reading Today 2025
