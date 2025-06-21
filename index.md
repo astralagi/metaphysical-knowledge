@@ -1045,3 +1045,4 @@ Welcome to my AI-powered astrology blog!
 - [leo love reading]({% post_url 2025-06-21-leo-love-reading %})
 - [online birth charts]({% post_url 2025-06-21-online-birth-charts %})
 - [virgo tarot april 2025]({% post_url 2025-06-21-virgo-tarot-april-2025 %})
+- [hindi astrology]({% post_url 2025-06-21-hindi-astrology %})
