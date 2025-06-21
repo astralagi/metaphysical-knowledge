@@ -1,6 +1,6 @@
 ---
 title: "best horoscope"
-layout: post
+layout: single
 ---
 
 # Best Horoscope: Unlocking Your Astrological Potential with AI
