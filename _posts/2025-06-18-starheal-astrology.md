@@ -1,6 +1,6 @@
 ---
 title: "starheal astrology"
-layout: post
+layout: single
 ---
 
 # Starheal Astrology: Unlocking Celestial Healing with AI
