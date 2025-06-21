@@ -1,6 +1,6 @@
 ---
 title: "astro king"
-layout: post
+layout: single
 ---
 
 # Astro King: Unveiling the Regal Aspects of Your Chart with AI
