@@ -1,6 +1,6 @@
 ---
 title: "pisces love reading"
-layout: post
+layout: single
 ---
 
 # Pisces Love Reading: Unveiling the Mysteries Through AI Astrology
