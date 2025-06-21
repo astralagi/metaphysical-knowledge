@@ -1166,3 +1166,4 @@ Welcome to my AI-powered astrology blog!
 - [wb yog khub niam txiv tsi tau lwm qaib]({% post_url 2025-06-21-wb-yog-khub-niam-txiv-tsi-tau-lwm-qaib %})
 - [for me tarot]({% post_url 2025-06-21-for-me-tarot %})
 - [andre astrology]({% post_url 2025-06-21-andre-astrology %})
+- [birth chart detailed]({% post_url 2025-06-21-birth-chart-detailed %})
