@@ -1056,3 +1056,4 @@ Welcome to my AI-powered astrology blog!
 - [fortune teller online free]({% post_url 2025-06-21-fortune-teller-online-free %})
 - [virgo bright tarot]({% post_url 2025-06-21-virgo-bright-tarot %})
 - [free astrology compatibility calculator]({% post_url 2025-06-21-free-astrology-compatibility-calculator %})
+- [dna astrology vishal]({% post_url 2025-06-21-dna-astrology-vishal %})
