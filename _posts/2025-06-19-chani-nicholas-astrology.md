@@ -1,6 +1,6 @@
 ---
 title: "chani nicholas astrology"
-layout: post
+layout: single
 ---
 
 # Chani Nicholas Astrology: Unveiling Your Cosmic Potential with AI
