@@ -1,6 +1,6 @@
 ---
 title: "the most accurate horoscope"
-layout: post
+layout: single
 ---
 
 # The Most Accurate Horoscope: Unveiling Astrological Precision with AI
