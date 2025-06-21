@@ -1,6 +1,6 @@
 ---
 title: "astro reading"
-layout: post
+layout: single
 ---
 
 # Astro Reading: Unlocking Cosmic Insights with AI
