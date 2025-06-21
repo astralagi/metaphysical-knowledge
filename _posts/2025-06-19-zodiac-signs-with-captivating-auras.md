@@ -1,6 +1,6 @@
 ---
 title: "zodiac signs with captivating auras"
-layout: post
+layout: single
 ---
 
 # Zodiac Signs with Captivating Auras
