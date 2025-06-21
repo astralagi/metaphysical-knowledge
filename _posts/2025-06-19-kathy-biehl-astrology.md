@@ -1,6 +1,6 @@
 ---
 title: "kathy biehl astrology"
-layout: post
+layout: single
 ---
 
 # Kathy Biehl Astrology: Unveiling Deeper Astrological Insights with AI
