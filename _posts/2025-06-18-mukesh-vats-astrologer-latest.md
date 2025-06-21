@@ -1,6 +1,6 @@
 ---
 title: "mukesh vats astrologer latest"
-layout: post
+layout: single
 ---
 
 # Mukesh Vats Astrologer Latest: Unveiling Astrological Insights with AI
