@@ -1,6 +1,6 @@
 ---
 title: "wolfman tarot pisces"
-layout: post
+layout: single
 ---
 
 # Wolfman Tarot Pisces: Unmasking the Mystical Depth
