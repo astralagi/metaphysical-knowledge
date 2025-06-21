@@ -1,6 +1,6 @@
 ---
 title: "indian astrologer in dallas"
-layout: post
+layout: single
 ---
 
 # Indian Astrologer in Dallas: Unveiling Destiny with AI-Powered Insights
