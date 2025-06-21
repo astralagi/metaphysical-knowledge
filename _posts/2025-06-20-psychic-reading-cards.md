@@ -1,6 +1,6 @@
 ---
 title: "psychic reading cards"
-layout: post
+layout: single
 ---
 
 # Psychic Reading Cards: Unlocking Astrological Insights with AI
