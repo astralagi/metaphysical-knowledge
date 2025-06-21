@@ -1,6 +1,6 @@
 ---
 title: "generate birth chart free"
-layout: post
+layout: single
 ---
 
 # Generate Birth Chart Free: Unlocking Your Astrological Potential with AI
