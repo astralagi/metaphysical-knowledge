@@ -1,6 +1,6 @@
 ---
 title: "find your life path number calculator"
-layout: post
+layout: single
 ---
 
 # Find Your Life Path Number Calculator: Unveiling Your Destiny with AI-Powered Astrology
