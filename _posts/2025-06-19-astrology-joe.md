@@ -1,6 +1,6 @@
 ---
 title: "astrology joe"
-layout: post
+layout: single
 ---
 
 # Astrology Joe: Unveiling the Power of Personalized Astrological Insights with AI
