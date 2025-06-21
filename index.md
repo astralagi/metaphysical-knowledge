@@ -1006,3 +1006,4 @@ Welcome to my AI-powered astrology blog!
 - [tawny michelle astrology]({% post_url 2025-06-21-tawny-michelle-astrology %})
 - [aquarius career reading]({% post_url 2025-06-21-aquarius-career-reading %})
 - [free birth chart with analysis]({% post_url 2025-06-21-free-birth-chart-with-analysis %})
+- [compatibility by birthdate]({% post_url 2025-06-21-compatibility-by-birthdate %})
