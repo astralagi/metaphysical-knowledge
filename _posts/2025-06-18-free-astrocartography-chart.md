@@ -1,6 +1,6 @@
 ---
 title: "free astrocartography chart"
-layout: post
+layout: single
 ---
 
 # Free Astrocartography Chart: Unlocking Your Global Destiny with AI
