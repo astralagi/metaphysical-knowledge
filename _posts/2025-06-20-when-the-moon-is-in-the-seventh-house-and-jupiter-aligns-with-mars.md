@@ -1,6 +1,6 @@
 ---
 title: "when the moon is in the seventh house and jupiter aligns with mars"
-layout: post
+layout: single
 ---
 
 # When the Moon is in the Seventh House and Jupiter Aligns with Mars
