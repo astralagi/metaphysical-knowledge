@@ -1,6 +1,6 @@
 ---
 title: "how to find out what my moon and rising sign is"
-layout: post
+layout: single
 ---
 
 # How to Find Out What My Moon and Rising Sign Is
