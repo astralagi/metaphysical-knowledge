@@ -1,6 +1,6 @@
 ---
 title: "edwin learnard"
-layout: post
+layout: single
 ---
 
 # edwin learnard: Unveiling Astrological Insights with AI
