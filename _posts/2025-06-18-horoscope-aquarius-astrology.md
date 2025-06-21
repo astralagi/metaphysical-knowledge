@@ -1,6 +1,6 @@
 ---
 title: "horoscope aquarius astrology"
-layout: post
+layout: single
 ---
 
 # Horoscope Aquarius Astrology: Unlocking the Airy Wisdom with AI
