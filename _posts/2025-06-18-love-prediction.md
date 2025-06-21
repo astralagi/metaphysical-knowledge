@@ -1,6 +1,6 @@
 ---
 title: "love prediction"
-layout: post
+layout: single
 ---
 
 # Love Prediction: Unveiling the Secrets of Your Heart with Astrology and AI
