@@ -1,6 +1,6 @@
 ---
 title: "astro trevino"
-layout: post
+layout: single
 ---
 
 # Astro Trevino: Unveiling the Power of AI in Astrological Interpretation
