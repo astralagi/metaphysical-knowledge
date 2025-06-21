@@ -1,6 +1,6 @@
 ---
 title: "free past life karmic astrology chart"
-layout: post
+layout: single
 ---
 
 # Free Past Life Karmic Astrology Chart: Unlocking Your Soul's Journey
