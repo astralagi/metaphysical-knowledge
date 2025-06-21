@@ -1,6 +1,6 @@
 ---
 title: "carta natal gratis"
-layout: post
+layout: single
 ---
 
 # Carta Natal Gratis: Unveiling Your Astrological Blueprint with AI
