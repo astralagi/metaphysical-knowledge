@@ -1,6 +1,6 @@
 ---
 title: "natal birth chart calculator"
-layout: post
+layout: single
 ---
 
 # Natal Birth Chart Calculator: Unlocking Your Astrological Potential with AI
