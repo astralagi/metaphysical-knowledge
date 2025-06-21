@@ -1,6 +1,6 @@
 ---
 title: "birthchart com"
-layout: post
+layout: single
 ---
 
 # birthchart com: Unveiling the Secrets of Your Astrological Blueprint with AI
