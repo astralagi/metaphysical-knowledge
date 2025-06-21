@@ -1,6 +1,6 @@
 ---
 title: "weekly horoscope humayun mehboob"
-layout: post
+layout: single
 ---
 
 # Weekly Horoscope Humayun Mehboob: Unveiling Astrological Insights with AI
