@@ -1,6 +1,6 @@
 ---
 title: "destiny matrix interpretation"
-layout: post
+layout: single
 ---
 
 # Destiny Matrix Interpretation: Unlocking Your Astrological Blueprint with AI
