@@ -1,6 +1,6 @@
 ---
 title: "astrology log"
-layout: post
+layout: single
 ---
 
 # Astrology Log: Charting Your Celestial Journey with AI
