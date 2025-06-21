@@ -1100,3 +1100,4 @@ Welcome to my AI-powered astrology blog!
 - [wealth birth chart calculator]({% post_url 2025-06-21-wealth-birth-chart-calculator %})
 - [leo numerology number]({% post_url 2025-06-21-leo-numerology-number %})
 - [prophet glovis astrology]({% post_url 2025-06-21-prophet-glovis-astrology %})
+- [how to get my zodiac chart]({% post_url 2025-06-21-how-to-get-my-zodiac-chart %})
