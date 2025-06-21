@@ -1,6 +1,6 @@
 ---
 title: "vedic astrology chart with interpretation free"
-layout: post
+layout: single
 ---
 
 # Vedic Astrology Chart with Interpretation Free: Unlocking Your Astrological Potential
