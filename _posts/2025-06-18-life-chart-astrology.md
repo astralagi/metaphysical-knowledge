@@ -1,6 +1,6 @@
 ---
 title: "life chart astrology"
-layout: post
+layout: single
 ---
 
 # Life Chart Astrology: Unlocking Your Cosmic Blueprint with AI
