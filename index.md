@@ -1073,3 +1073,4 @@ Welcome to my AI-powered astrology blog!
 - [free horoscope apps]({% post_url 2025-06-21-free-horoscope-apps %})
 - [see your future]({% post_url 2025-06-21-see-your-future %})
 - [money scorpio]({% post_url 2025-06-21-money-scorpio %})
+- [lilith in pisces 4th house]({% post_url 2025-06-21-lilith-in-pisces-4th-house %})
