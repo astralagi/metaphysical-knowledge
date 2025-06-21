@@ -1,6 +1,6 @@
 ---
 title: "nebula natal chart"
-layout: post
+layout: single
 ---
 
 # Nebula Natal Chart: Unveiling Cosmic Influences with AI
