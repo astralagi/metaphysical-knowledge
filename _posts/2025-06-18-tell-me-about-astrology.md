@@ -1,6 +1,6 @@
 ---
 title: "tell me about astrology"
-layout: post
+layout: single
 ---
 
 # Tell Me About Astrology: Unveiling the Cosmos with AI
