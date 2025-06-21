@@ -1,6 +1,6 @@
 ---
 title: "joni patry astrology"
-layout: post
+layout: single
 ---
 
 # Joni Patry Astrology: Unveiling the Mysteries with AI
