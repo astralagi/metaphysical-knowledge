@@ -1,6 +1,6 @@
 ---
 title: "sagittarius new love tarot today"
-layout: post
+layout: single
 ---
 
 # Sagittarius New Love Tarot Today: Unveiling the Future with AI-Powered Astrology
