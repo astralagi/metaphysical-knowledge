@@ -1170,3 +1170,4 @@ Welcome to my AI-powered astrology blog!
 - [scorpio moon]({% post_url 2025-06-21-scorpio-moon %})
 - [my daily horoscope today]({% post_url 2025-06-21-my-daily-horoscope-today %})
 - [astra astrology app]({% post_url 2025-06-21-astra-astrology-app %})
+- [how to read my astrology chart]({% post_url 2025-06-21-how-to-read-my-astrology-chart %})
