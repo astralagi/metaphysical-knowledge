@@ -1,6 +1,6 @@
 ---
 title: "aquarius rising 2025"
-layout: post
+layout: single
 ---
 
 # Aquarius Rising 2025: Navigating the Year Ahead with AI-Powered Astrology
