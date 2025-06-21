@@ -1,6 +1,6 @@
 ---
 title: "astroved live"
-layout: post
+layout: single
 ---
 
 # astroved live: Unveiling Astrological Insights with AI
