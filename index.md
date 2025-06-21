@@ -991,3 +991,4 @@ Welcome to my AI-powered astrology blog!
 - [how to read a birth chart for beginners]({% post_url 2025-06-21-how-to-read-a-birth-chart-for-beginners %})
 - [free astrologer]({% post_url 2025-06-21-free-astrologer %})
 - [astrological chart generator]({% post_url 2025-06-21-astrological-chart-generator %})
+- [mesh rashi ko santan prapti kab hogi]({% post_url 2025-06-21-mesh-rashi-ko-santan-prapti-kab-hogi %})
