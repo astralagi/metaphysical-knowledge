@@ -1,6 +1,6 @@
 ---
 title: "natal chart personality report"
-layout: post
+layout: single
 ---
 
 # Natal Chart Personality Report: Unlocking Your Astrological Self with AI
