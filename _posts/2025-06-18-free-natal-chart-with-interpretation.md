@@ -1,6 +1,6 @@
 ---
 title: "free natal chart with interpretation"
-layout: post
+layout: single
 ---
 
 # Free Natal Chart with Interpretation: Unlocking Your Astrological Potential with AI
