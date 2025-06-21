@@ -1,6 +1,6 @@
 ---
 title: "vinny astro"
-layout: post
+layout: single
 ---
 
 # Vinny Astro: Unveiling Personalized Astrological Insights with AI
