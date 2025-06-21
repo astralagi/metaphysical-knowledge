@@ -1,6 +1,6 @@
 ---
 title: "daily horoscope scorpio"
-layout: post
+layout: single
 ---
 
 # Daily Horoscope Scorpio: Unveiling the Secrets of the Scorpion with AI
