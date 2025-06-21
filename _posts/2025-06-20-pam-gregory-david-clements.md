@@ -1,6 +1,6 @@
 ---
 title: "pam gregory david clements"
-layout: post
+layout: single
 ---
 
 # Pam Gregory David Clements: An Astrological Exploration Enhanced by AI
