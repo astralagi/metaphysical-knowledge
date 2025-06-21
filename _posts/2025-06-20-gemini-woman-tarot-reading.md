@@ -1,6 +1,6 @@
 ---
 title: "gemini woman tarot reading"
-layout: post
+layout: single
 ---
 
 # Gemini Woman Tarot Reading: Unveiling Her Astrological Secrets with AI
