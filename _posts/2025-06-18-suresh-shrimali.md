@@ -1,6 +1,6 @@
 ---
 title: "suresh shrimali"
-layout: post
+layout: single
 ---
 
 # Suresh Shrimali: An Astrological Exploration Enhanced by AI
