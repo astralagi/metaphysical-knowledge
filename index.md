@@ -1113,3 +1113,4 @@ Welcome to my AI-powered astrology blog!
 - [where should i live based on astrology]({% post_url 2025-06-21-where-should-i-live-based-on-astrology %})
 - [osho janam kundali]({% post_url 2025-06-21-osho-janam-kundali %})
 - [find my pluto placement]({% post_url 2025-06-21-find-my-pluto-placement %})
+- [best accurate astrology site free]({% post_url 2025-06-21-best-accurate-astrology-site-free %})
