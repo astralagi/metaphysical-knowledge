@@ -1,6 +1,6 @@
 ---
 title: "www monastro org"
-layout: post
+layout: single
 ---
 
 # www monastro org: Unveiling Astrological Insights with AI
