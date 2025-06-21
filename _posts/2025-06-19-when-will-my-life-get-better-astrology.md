@@ -1,6 +1,6 @@
 ---
 title: "when will my life get better astrology"
-layout: post
+layout: single
 ---
 
 # When Will My Life Get Better Astrology?
