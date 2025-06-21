@@ -1,6 +1,6 @@
 ---
 title: "how to find your destiny in your birth chart"
-layout: post
+layout: single
 ---
 
 # How to Find Your Destiny in Your Birth Chart
