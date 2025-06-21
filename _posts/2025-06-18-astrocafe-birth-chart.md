@@ -1,6 +1,6 @@
 ---
 title: "astrocafe birth chart"
-layout: post
+layout: single
 ---
 
 # astrocafe birth chart: Unveiling Your Astrological Blueprint with AI
