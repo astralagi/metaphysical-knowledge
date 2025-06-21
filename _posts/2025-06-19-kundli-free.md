@@ -1,6 +1,6 @@
 ---
 title: "kundli free"
-layout: post
+layout: single
 ---
 
 # Kundli Free: Unveiling Your Astrological Potential with AI
