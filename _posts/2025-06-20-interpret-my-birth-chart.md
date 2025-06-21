@@ -1,6 +1,6 @@
 ---
 title: "interpret my birth chart"
-layout: post
+layout: single
 ---
 
 # Interpret My Birth Chart: Unlocking Your Astrological Potential with AI
