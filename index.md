@@ -1188,3 +1188,4 @@ Welcome to my AI-powered astrology blog!
 - [dev astrology]({% post_url 2025-06-21-dev-astrology %})
 - [birth placement]({% post_url 2025-06-21-birth-placement %})
 - [capricorn job reading]({% post_url 2025-06-21-capricorn-job-reading %})
+- [compatibility by birthdate]({% post_url 2025-06-21-compatibility-by-birthdate %})
