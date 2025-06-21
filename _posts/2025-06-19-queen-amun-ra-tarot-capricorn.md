@@ -1,6 +1,6 @@
 ---
 title: "queen amun ra tarot capricorn"
-layout: post
+layout: single
 ---
 
 # Queen Amun Ra Tarot Capricorn: A Deep Dive into Astrological Insights
