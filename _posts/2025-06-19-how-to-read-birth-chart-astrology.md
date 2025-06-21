@@ -1,6 +1,6 @@
 ---
 title: "how to read birth chart astrology"
-layout: post
+layout: single
 ---
 
 # How to Read Birth Chart Astrology
