@@ -1,6 +1,6 @@
 ---
 title: "astrosage com"
-layout: post
+layout: single
 ---
 
 # astrosage com: Unveiling Astrological Insights with AI
