@@ -1,6 +1,6 @@
 ---
 title: "vedic report"
-layout: post
+layout: single
 ---
 
 # Vedic Report: Unlocking Your Astrological Potential with AI
