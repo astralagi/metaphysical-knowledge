@@ -1,6 +1,6 @@
 ---
 title: "virgo daily horoscope"
-layout: post
+layout: single
 ---
 
 # Virgo Daily Horoscope: Unlocking Your Potential with AI-Powered Astrology
