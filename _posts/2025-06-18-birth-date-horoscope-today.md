@@ -1,6 +1,6 @@
 ---
 title: "birth date horoscope today"
-layout: post
+layout: single
 ---
 
 # Birth Date Horoscope Today: Unveiling Daily Astrological Insights with AI
