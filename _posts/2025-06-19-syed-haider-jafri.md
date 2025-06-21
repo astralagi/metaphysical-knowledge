@@ -1,6 +1,6 @@
 ---
 title: "syed haider jafri"
-layout: post
+layout: single
 ---
 
 # Syed Haider Jafri: An Astrological Exploration Enhanced by AI
