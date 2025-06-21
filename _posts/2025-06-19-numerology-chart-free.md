@@ -1,6 +1,6 @@
 ---
 title: "numerology chart free"
-layout: post
+layout: single
 ---
 
 # Numerology Chart Free: Unlocking Your Life Path with AI-Powered Astrology
