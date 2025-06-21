@@ -1,6 +1,6 @@
 ---
 title: "abhigya astrology"
-layout: post
+layout: single
 ---
 
 # Abhigya Astrology: Unveiling Your Potential with AI-Powered Insights
