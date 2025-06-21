@@ -1001,3 +1001,4 @@ Welcome to my AI-powered astrology blog!
 - [free personalised horoscope based on date of birth]({% post_url 2025-06-21-free-personalised-horoscope-based-on-date-of-birth %})
 - [astro with m singh]({% post_url 2025-06-21-astro-with-m-singh %})
 - [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
+- [aries horoscopes]({% post_url 2025-06-21-aries-horoscopes %})
