@@ -1,6 +1,6 @@
 ---
 title: "astrology steve judd"
-layout: post
+layout: single
 ---
 
 # Astrology Steve Judd: Unveiling Astrological Insights with AI
