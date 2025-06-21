@@ -1,6 +1,6 @@
 ---
 title: "know my zodiac sign"
-layout: post
+layout: single
 ---
 
 Knowing your zodiac sign is the foundational step in understanding your astrological profile. This seemingly simple act of identifying your sun sign – determined by your birthdate – unlocks a wealth of information about your personality, strengths, weaknesses, and potential life paths.  This post explores the significance of knowing your zodiac sign, the role of AI in astrological interpretation, and how  `oracle.astralagi.com` offers a superior experience.
