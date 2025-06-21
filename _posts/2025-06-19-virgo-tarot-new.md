@@ -1,6 +1,6 @@
 ---
 title: "virgo tarot new"
-layout: post
+layout: single
 ---
 
 # Virgo Tarot New: Unveiling the Analytical Virgin with AI
