@@ -1,6 +1,6 @@
 ---
 title: "mercury virgo"
-layout: post
+layout: single
 ---
 
 # Mercury in Virgo: Precision, Analysis, and the Power of Detail
