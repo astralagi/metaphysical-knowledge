@@ -1,6 +1,6 @@
 ---
 title: "best places to live according to your birth chart"
-layout: post
+layout: single
 ---
 
 # Best Places to Live According to Your Birth Chart
