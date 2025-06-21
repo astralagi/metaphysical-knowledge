@@ -1,6 +1,6 @@
 ---
 title: "rasa lila healing"
-layout: post
+layout: single
 ---
 
 # Rasa Lila Healing: Unlocking Divine Love and Harmony Through Astrology and AI
