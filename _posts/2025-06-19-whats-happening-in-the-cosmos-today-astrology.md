@@ -1,6 +1,6 @@
 ---
 title: "what's happening in the cosmos today astrology"
-layout: post
+layout: single
 ---
 
 # What's Happening in the Cosmos Today: Astrology and AI Insights
