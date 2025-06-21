@@ -1,6 +1,6 @@
 ---
 title: "capricorn horoscope"
-layout: post
+layout: single
 ---
 
 # Capricorn Horoscope: Unveiling the Mountain Goat's Destiny with AI
