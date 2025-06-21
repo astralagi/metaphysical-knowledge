@@ -1,6 +1,6 @@
 ---
 title: "galactic astrology reading"
-layout: post
+layout: single
 ---
 
 # Galactic Astrology Reading: Unveiling Cosmic Influences with AI
