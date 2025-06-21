@@ -1,6 +1,6 @@
 ---
 title: "sahivi tarot virgo hoy"
-layout: post
+layout: single
 ---
 
 # sahivi tarot virgo hoy: Unveiling Virgo's Astrological Potential with AI
