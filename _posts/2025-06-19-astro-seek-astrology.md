@@ -1,6 +1,6 @@
 ---
 title: "astro seek astrology"
-layout: post
+layout: single
 ---
 
 # Astro Seek Astrology: Unlocking Astrological Insights with AI
