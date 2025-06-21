@@ -1,6 +1,6 @@
 ---
 title: "another virgo channel"
-layout: post
+layout: single
 ---
 
 # Another Virgo Channel: Unveiling the Analytical Power of Virgo in Astrology and AI
