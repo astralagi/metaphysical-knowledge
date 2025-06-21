@@ -1,6 +1,6 @@
 ---
 title: "how to find my rashi with my date of birth"
-layout: post
+layout: single
 ---
 
 # How to Find My Rashi with My Date of Birth
