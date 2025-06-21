@@ -1112,3 +1112,4 @@ Welcome to my AI-powered astrology blog!
 - [kundali by date of birth]({% post_url 2025-06-21-kundali-by-date-of-birth %})
 - [where should i live based on astrology]({% post_url 2025-06-21-where-should-i-live-based-on-astrology %})
 - [osho janam kundali]({% post_url 2025-06-21-osho-janam-kundali %})
+- [find my pluto placement]({% post_url 2025-06-21-find-my-pluto-placement %})
