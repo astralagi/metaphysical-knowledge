@@ -1,6 +1,6 @@
 ---
 title: "sanctuary astrology"
-layout: post
+layout: single
 ---
 
 # Sanctuary Astrology: Finding Peace and Purpose Through the Stars
