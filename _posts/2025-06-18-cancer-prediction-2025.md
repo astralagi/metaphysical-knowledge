@@ -1,6 +1,6 @@
 ---
 title: "cancer prediction 2025"
-layout: post
+layout: single
 ---
 
 # Cancer Prediction 2025: Unveiling the Year Ahead with Astrology and AI
