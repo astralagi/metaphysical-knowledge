@@ -1,6 +1,6 @@
 ---
 title: "aquarius career reading"
-layout: post
+layout: single
 ---
 
 # Aquarius Career Reading: Unlocking Your Astrological Potential with AI
