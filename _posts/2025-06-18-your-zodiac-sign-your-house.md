@@ -1,6 +1,6 @@
 ---
 title: "your zodiac sign your house"
-layout: post
+layout: single
 ---
 
 # Your Zodiac Sign Your House: Unveiling the Secrets of Astrological Placement
