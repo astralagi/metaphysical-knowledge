@@ -1,6 +1,6 @@
 ---
 title: "natural chart"
-layout: post
+layout: single
 ---
 
 # Natural Chart: Unveiling Your Astrological Blueprint with AI
