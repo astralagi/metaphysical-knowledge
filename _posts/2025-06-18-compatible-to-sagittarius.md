@@ -1,6 +1,6 @@
 ---
 title: "compatible to sagittarius"
-layout: post
+layout: single
 ---
 
 # Compatible to Sagittarius: Unlocking Astrological Harmony with AI
