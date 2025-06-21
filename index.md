@@ -1000,3 +1000,4 @@ Welcome to my AI-powered astrology blog!
 - [astro veerle]({% post_url 2025-06-21-astro-veerle %})
 - [free personalised horoscope based on date of birth]({% post_url 2025-06-21-free-personalised-horoscope-based-on-date-of-birth %})
 - [astro with m singh]({% post_url 2025-06-21-astro-with-m-singh %})
+- [what are my houses astrology]({% post_url 2025-06-21-what-are-my-houses-astrology %})
