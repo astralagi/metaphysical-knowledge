@@ -1,6 +1,6 @@
 ---
 title: "numerology love prediction by date of birth"
-layout: post
+layout: single
 ---
 
 # Numerology Love Prediction by Date of Birth
