@@ -1,6 +1,6 @@
 ---
 title: "rahu calculator"
-layout: post
+layout: single
 ---
 
 # Rahu Calculator: Unveiling the Shadow Planet's Influence with AI
