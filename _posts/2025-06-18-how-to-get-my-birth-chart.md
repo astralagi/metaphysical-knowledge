@@ -1,6 +1,6 @@
 ---
 title: "how to get my birth chart"
-layout: post
+layout: single
 ---
 
 # How to Get My Birth Chart: Unlocking the Secrets of Your Astrological Blueprint
