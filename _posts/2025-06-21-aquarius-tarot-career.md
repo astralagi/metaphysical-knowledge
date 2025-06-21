@@ -1,6 +1,6 @@
 ---
 title: "aquarius tarot career"
-layout: post
+layout: single
 ---
 
 # Aquarius Tarot Career: Unveiling Your Astrological Path to Professional Success
