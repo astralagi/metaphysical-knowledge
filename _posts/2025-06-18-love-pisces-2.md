@@ -1,6 +1,6 @@
 ---
 title: "love pisces 2"
-layout: post
+layout: single
 ---
 
 # Love Pisces 2: Unveiling the Depth of Piscean Romances with AI
