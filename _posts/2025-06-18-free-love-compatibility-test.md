@@ -1,6 +1,6 @@
 ---
 title: "free love compatibility test"
-layout: post
+layout: single
 ---
 
 # Free Love Compatibility Test: Unveiling Romantic Potential with Astrology and AI
