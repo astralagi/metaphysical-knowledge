@@ -1,6 +1,6 @@
 ---
 title: "astro love you"
-layout: post
+layout: single
 ---
 
 # astro love you: Unveiling the Cosmic Dance of Love with AI
