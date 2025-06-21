@@ -1099,3 +1099,4 @@ Welcome to my AI-powered astrology blog!
 - [astroclick travel]({% post_url 2025-06-21-astroclick-travel %})
 - [davison chart astrology]({% post_url 2025-06-21-davison-chart-astrology %})
 - [personalized astrology charts]({% post_url 2025-06-21-personalized-astrology-charts %})
+- [sun moon rising sign calculator without birth time]({% post_url 2025-06-21-sun-moon-rising-sign-calculator-without-birth-time %})
