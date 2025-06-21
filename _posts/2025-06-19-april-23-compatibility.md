@@ -1,6 +1,6 @@
 ---
 title: "april 23 compatibility"
-layout: post
+layout: single
 ---
 
 # April 23 Compatibility: Unveiling the Astrological Secrets with AI
