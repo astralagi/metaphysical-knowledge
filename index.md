@@ -1180,3 +1180,4 @@ Welcome to my AI-powered astrology blog!
 - [birthday book astrology online free]({% post_url 2025-06-21-birthday-book-astrology-online-free %})
 - [free horary]({% post_url 2025-06-21-free-horary %})
 - [lloyd strayhorn numerology]({% post_url 2025-06-21-lloyd-strayhorn-numerology %})
+- [astro kimi]({% post_url 2025-06-21-astro-kimi %})
