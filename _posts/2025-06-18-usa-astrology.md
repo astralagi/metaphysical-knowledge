@@ -1,6 +1,6 @@
 ---
 title: "usa astrology"
-layout: post
+layout: single
 ---
 
 # USA Astrology: Unlocking the Nation's Astrological Destiny with AI
