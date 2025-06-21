@@ -1,6 +1,6 @@
 ---
 title: "generate your birth chart"
-layout: post
+layout: single
 ---
 
 # Generate Your Birth Chart: Unlocking the Secrets of Your Astrological Blueprint
