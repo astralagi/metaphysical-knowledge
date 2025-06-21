@@ -1,6 +1,6 @@
 ---
 title: "kundali ai"
-layout: post
+layout: single
 ---
 
 # Kundali AI: Revolutionizing Vedic Astrology with Artificial Intelligence
