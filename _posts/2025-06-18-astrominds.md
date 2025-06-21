@@ -1,6 +1,6 @@
 ---
 title: "astrominds"
-layout: post
+layout: single
 ---
 
 # Astrominds: Unveiling the Cosmic Blueprint of Your Mind with AI
