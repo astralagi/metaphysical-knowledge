@@ -1,6 +1,6 @@
 ---
 title: "vedic birth chart calculator"
-layout: post
+layout: single
 ---
 
 # Vedic Birth Chart Calculator: Unlocking Your Astrological Potential with AI
