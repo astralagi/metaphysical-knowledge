@@ -1,6 +1,6 @@
 ---
 title: "cancer love"
-layout: post
+layout: single
 ---
 
 # Cancer Love: Unveiling the Mysteries of the Crab's Heart with AI
