@@ -1,6 +1,6 @@
 ---
 title: "taurus horoscope"
-layout: post
+layout: single
 ---
 
 # Taurus Horoscope: Unveiling Your Potential with AI-Powered Astrology
