@@ -1,6 +1,6 @@
 ---
 title: "best free astrology app"
-layout: post
+layout: single
 ---
 
 # The Best Free Astrology App: Navigating the Celestial Landscape with AI
