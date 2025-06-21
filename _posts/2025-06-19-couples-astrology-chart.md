@@ -1,6 +1,6 @@
 ---
 title: "couples astrology chart"
-layout: post
+layout: single
 ---
 
 # Couples Astrology Chart: Unveiling the Cosmic Connection
