@@ -1,6 +1,6 @@
 ---
 title: "andre astrology"
-layout: post
+layout: single
 ---
 
 # andre astrology: Unveiling Personalized Astrological Insights with AI
