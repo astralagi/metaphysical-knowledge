@@ -973,3 +973,4 @@ Welcome to my AI-powered astrology blog!
 - [horoscope ai]({% post_url 2025-06-20-horoscope-ai %})
 - [how to find out if you are manglik]({% post_url 2025-06-21-how-to-find-out-if-you-are-manglik %})
 - [sun in aries vedic astrology]({% post_url 2025-06-21-sun-in-aries-vedic-astrology %})
+- [free astrology birth chart report]({% post_url 2025-06-21-free-astrology-birth-chart-report %})
