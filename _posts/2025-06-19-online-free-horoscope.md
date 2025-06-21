@@ -1,6 +1,6 @@
 ---
 title: "online free horoscope"
-layout: post
+layout: single
 ---
 
 # Online Free Horoscope: Unveiling Your Astrological Potential with AI
