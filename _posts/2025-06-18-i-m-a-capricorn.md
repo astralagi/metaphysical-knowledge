@@ -1,6 +1,6 @@
 ---
 title: "i m a capricorn"
-layout: post
+layout: single
 ---
 
 # I'm a Capricorn
