@@ -1,6 +1,6 @@
 ---
 title: "pam gregory"
-layout: post
+layout: single
 ---
 
 # Pam Gregory: Exploring the Astrological Significance with AI
