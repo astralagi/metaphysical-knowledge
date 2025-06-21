@@ -1,6 +1,6 @@
 ---
 title: "cancer and capricorn compatibility"
-layout: post
+layout: single
 ---
 
 # Cancer and Capricorn Compatibility: A Deep Dive into Astrological Dynamics
