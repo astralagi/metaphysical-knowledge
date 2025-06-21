@@ -1,6 +1,6 @@
 ---
 title: "woman pisces horoscope"
-layout: post
+layout: single
 ---
 
 # Woman Pisces Horoscope: Unlocking the Secrets of the Watery Woman
