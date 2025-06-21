@@ -1,6 +1,6 @@
 ---
 title: "sign up for daily horoscope"
-layout: post
+layout: single
 ---
 
 # Sign Up for Daily Horoscope: Unlock Your Astrological Potential with AI
