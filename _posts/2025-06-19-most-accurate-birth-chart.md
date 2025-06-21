@@ -1,6 +1,6 @@
 ---
 title: "most accurate birth chart"
-layout: post
+layout: single
 ---
 
 # The Most Accurate Birth Chart: Unveiling Your Astrological Blueprint with AI
