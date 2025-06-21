@@ -1,6 +1,6 @@
 ---
 title: "neda the astrologer"
-layout: post
+layout: single
 ---
 
 # Neda the Astrologer: Unveiling Personalized Astrological Insights with AI
