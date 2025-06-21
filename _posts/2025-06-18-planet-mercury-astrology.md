@@ -1,6 +1,6 @@
 ---
 title: "planet mercury astrology"
-layout: post
+layout: single
 ---
 
 # Planet Mercury Astrology: Unveiling Communication and Intellect with AI
