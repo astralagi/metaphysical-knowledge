@@ -1,6 +1,6 @@
 ---
 title: "aquarius reading today"
-layout: post
+layout: single
 ---
 
 # Aquarius Reading Today: Unlocking Your Astrological Potential with AI
