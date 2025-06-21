@@ -1,6 +1,6 @@
 ---
 title: "birthday compatibility test free"
-layout: post
+layout: single
 ---
 
 # Birthday Compatibility Test Free: Unlocking Astrological Insights with AI
