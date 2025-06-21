@@ -993,3 +993,4 @@ Welcome to my AI-powered astrology blog!
 - [astrological chart generator]({% post_url 2025-06-21-astrological-chart-generator %})
 - [mesh rashi ko santan prapti kab hogi]({% post_url 2025-06-21-mesh-rashi-ko-santan-prapti-kab-hogi %})
 - [numerology horoscope 2025]({% post_url 2025-06-21-numerology-horoscope-2025 %})
+- [daily horoscope aquarius]({% post_url 2025-06-21-daily-horoscope-aquarius %})
