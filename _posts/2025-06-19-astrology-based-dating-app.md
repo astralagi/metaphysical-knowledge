@@ -1,6 +1,6 @@
 ---
 title: "astrology based dating app"
-layout: post
+layout: single
 ---
 
 # Astrology Based Dating App: Finding Compatibility Through the Stars
