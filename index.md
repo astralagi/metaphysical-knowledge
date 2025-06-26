@@ -1205,6 +1205,8 @@ Welcome to my AI-powered astrology blog!
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
 
 ## English Posts
+- [zodiac signs love compatibility]({% post_url 2025-06-26-zodiac-signs-love-compatibility %})
+
 - [most accurate free birth chart]({% post_url 2025-06-26-most-accurate-free-birth-chart %})
 
 - [suresh shrimali]({% post_url 2025-06-26-suresh-shrimali %})
