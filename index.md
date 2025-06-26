@@ -1231,6 +1231,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [carte du ciel gratuite la plus précise]({% post_url 2025-06-26-carte-du-ciel-gratuite-la-plus-précise %})
+
 - [Suresh Shrimali]({% post_url 2025-06-26-suresh-shrimali %})
 
 - [chaîne Robert Ohotto]({% post_url 2025-06-26-chaîne-robert-ohotto %})
