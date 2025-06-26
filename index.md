@@ -1205,6 +1205,8 @@ Welcome to my AI-powered astrology blog!
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
 
 ## English Posts
+- [free astrology chat app]({% post_url 2025-06-26-free-astrology-chat-app %})
+
 - [Search term]({% post_url 2025-06-26-search-term %})
 
 - [All time]({% post_url 2025-06-26-all-time %})
