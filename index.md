@@ -1203,3 +1203,7 @@ Welcome to my AI-powered astrology blog!
 - [pisces tarot april 2025]({% post_url 2025-06-21-pisces-tarot-april-2025 %})
 - [birth chart maker]({% post_url 2025-06-21-birth-chart-maker %})
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
+
+## English Posts
+- [Mars in Aries]({% post_url 2025-06-26-mars-in-aries %})
+
