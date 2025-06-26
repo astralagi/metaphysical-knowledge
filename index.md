@@ -1207,3 +1207,7 @@ Welcome to my AI-powered astrology blog!
 ## English Posts
 - [Mars in Aries]({% post_url 2025-06-26-mars-in-aries %})
 
+
+## French Posts
+- [Mars en Bélier]({% post_url 2025-06-26-mars-en-bélier %})
+
