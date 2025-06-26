@@ -1217,6 +1217,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [astrologue]({% post_url 2025-06-26-astrologue %})
+
 - [application de chat d'astrologie gratuite]({% post_url 2025-06-26-application-de-chat-dastrologie-gratuite %})
 
 - [Terme de recherche]({% post_url 2025-06-26-terme-de-recherche %})
