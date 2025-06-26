@@ -1229,6 +1229,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [Suresh Shrimali]({% post_url 2025-06-26-suresh-shrimali %})
+
 - [chaîne Robert Ohotto]({% post_url 2025-06-26-chaîne-robert-ohotto %})
 
 - [lecture professionnelle de thème astral]({% post_url 2025-06-26-lecture-professionnelle-de-thème-astral %})
