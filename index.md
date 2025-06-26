@@ -1237,6 +1237,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [Comment les horoscopes sont-ils déterminés]({% post_url 2025-06-26-comment-les-horoscopes-sont-ils-déterminés %})
+
 - [mon horoscope pour 2025]({% post_url 2025-06-26-mon-horoscope-pour-2025 %})
 
 - [compatibilité amoureuse des signes du zodiaque]({% post_url 2025-06-26-compatibilité-amoureuse-des-signes-du-zodiaque %})
