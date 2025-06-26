@@ -1213,6 +1213,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [Terme de recherche]({% post_url 2025-06-26-terme-de-recherche %})
+
 - [De tous les temps]({% post_url 2025-06-26-de-tous-les-temps %})
 
 - [Mars en Bélier]({% post_url 2025-06-26-mars-en-bélier %})
