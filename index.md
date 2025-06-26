@@ -1205,6 +1205,8 @@ Welcome to my AI-powered astrology blog!
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
 
 ## English Posts
+- [suresh shrimali]({% post_url 2025-06-26-suresh-shrimali %})
+
 - [robert ohotto channel]({% post_url 2025-06-26-robert-ohotto-channel %})
 
 - [professional birth chart reading]({% post_url 2025-06-26-professional-birth-chart-reading %})
