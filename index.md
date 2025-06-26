@@ -1211,5 +1211,7 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [De tous les temps]({% post_url 2025-06-26-de-tous-les-temps %})
+
 - [Mars en Bélier]({% post_url 2025-06-26-mars-en-bélier %})
 
