@@ -1221,6 +1221,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [carte d'astrologie védique avec interprétation gratuite]({% post_url 2025-06-26-carte-dastrologie-védique-avec-interprétation-gratuite %})
+
 - [astrologie]({% post_url 2025-06-26-astrologie %})
 
 - [astrologue]({% post_url 2025-06-26-astrologue %})
