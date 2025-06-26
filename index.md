@@ -1205,6 +1205,8 @@ Welcome to my AI-powered astrology blog!
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
 
 ## English Posts
+- [free love compatibility test]({% post_url 2025-06-26-free-love-compatibility-test %})
+
 - [how are horoscopes determined]({% post_url 2025-06-26-how-are-horoscopes-determined %})
 
 - [my horoscope for 2025]({% post_url 2025-06-26-my-horoscope-for-2025 %})
