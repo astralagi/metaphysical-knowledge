@@ -1235,6 +1235,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [mon horoscope pour 2025]({% post_url 2025-06-26-mon-horoscope-pour-2025 %})
+
 - [compatibilité amoureuse des signes du zodiaque]({% post_url 2025-06-26-compatibilité-amoureuse-des-signes-du-zodiaque %})
 
 - [carte du ciel gratuite la plus précise]({% post_url 2025-06-26-carte-du-ciel-gratuite-la-plus-précise %})
