@@ -1233,6 +1233,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [compatibilité amoureuse des signes du zodiaque]({% post_url 2025-06-26-compatibilité-amoureuse-des-signes-du-zodiaque %})
+
 - [carte du ciel gratuite la plus précise]({% post_url 2025-06-26-carte-du-ciel-gratuite-la-plus-précise %})
 
 - [Suresh Shrimali]({% post_url 2025-06-26-suresh-shrimali %})
