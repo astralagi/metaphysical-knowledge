@@ -1223,6 +1223,8 @@ Welcome to my AI-powered astrology blog!
 
 
 ## French Posts
+- [compatibilité amoureuse sagittaire et verseau]({% post_url 2025-06-26-compatibilité-amoureuse-sagittaire-et-verseau %})
+
 - [carte d'astrologie védique avec interprétation gratuite]({% post_url 2025-06-26-carte-dastrologie-védique-avec-interprétation-gratuite %})
 
 - [astrologie]({% post_url 2025-06-26-astrologie %})
