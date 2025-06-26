@@ -1205,6 +1205,8 @@ Welcome to my AI-powered astrology blog!
 - [how to know your sun moon and rising]({% post_url 2025-06-21-how-to-know-your-sun-moon-and-rising %})
 
 ## English Posts
+- [All time]({% post_url 2025-06-26-all-time %})
+
 - [Mars in Aries]({% post_url 2025-06-26-mars-in-aries %})
 
 
